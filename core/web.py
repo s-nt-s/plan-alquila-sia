@@ -47,11 +47,6 @@ default_headers = {
 }
 
 
-DRIVER_PATH = ChromeDriverManager(
-    chrome_type=ChromeType.CHROMIUM
-).install()
-
-
 def get_query(url):
     q = urlsplit(url)
     q = parse_qsl(q.query)

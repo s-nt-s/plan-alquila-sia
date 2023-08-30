@@ -1,0 +1,63 @@
+td.rgh {
+    font-family: monospace;
+    text-align: right;
+}
+table {
+	margin-top: 14px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+thead {
+	background-color: lightblue;
+}
+td, th {
+	border: 1px solid black;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+table tbody tr:nth-child(even) {
+	background-color: #ddd;
+}
+td > p, th > p {
+	margin-top:7px;
+	margin-bottom:7px;
+}
+td > p:first-child, th > p:first-child  {
+	margin-top:0;
+}
+td > p:last-child, td > p:last-child {
+	margin-bottom:0;
+}
+tr > td:first-child {
+	white-space: nowrap;
+}
+code {
+	font-size: 1.3em;
+}
+code.poptag {
+	display: inline-block;
+	width: 2em;
+	text-align: right;
+}
+th.isSortable {
+    cursor: pointer;
+}
+th.isSortable:after {
+  content: " ⇳"
+}
+th.isSortable.isSortedByMe:after {
+  content: " ⇓"
+}
+th.isSortable.isSortedByMe.isReversed:after {
+  content: " ⇑"
+}
+td code, th {
+  white-space: nowrap;
+}
+tbody tr td {
+  vertical-align: top !important;
+}
+img {
+	max-height: 500px;
+	max-width: 500px;
+}

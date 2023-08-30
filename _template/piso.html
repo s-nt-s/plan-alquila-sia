@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html LANG="es">
+  <head>
+    <meta charset="UTF-8">
+    <base target="_blank">
+    <title>{{p.id}} {{p.plan}}</title>
+    <link rel="stylesheet" href="../rec/main.css">
+  </head>
+  <body>
+  <ul>
+    <li><strong><a href="{{p.u_plan}}">{{p.plan}}</a></strong>: {{p.id}}</li>
+    <li><strong>Precio</strong>: {{p.precio | millar}} €</li>
+    <li><strong>Dormitorios</strong>: {{p.dormitorios}}</li>
+    <li><strong>Aseos</strong>: {{p.aseos}}</li>
+    <li><strong>Dirección</strong>:
+        <a href="https://www.google.com/maps/place/{{p.direccion.replace(' ', '+')}},+Madrid">{{p.direccion}}</a>
+        ({{p.distrito}}{%if p.barrio%}, {{p.barrio}}{%endif%})
+    </li>
+    <li><strong>Planta</strong>: {{p.planta}}</li>
+    <li><strong>CEE</strong>: {{p.cee}}</li>
+    <li><strong>Orientacion</strong>: {{p.orientacion}}</li>
+    <li><strong>M²</strong>: {{p.metros}}</li>
+    <li><strong>Fecha</strong>: {{p.fecha}}</li>
+    <li>
+    {% for k, v in p.items() %}
+    {% if v is true %}<span class="tag">#{{k}}</span>{% endif %}
+    {% endfor %}
+    {% for k, v in p.items() %}
+    {% if v is false %}<span class="tag">#<strike>{{k}}</strike></span>{% endif %}
+    {% endfor %}
+    </li>
+  </ul>
+    {% for i in p.imgs %}
+    <img src="{{i}}"/>
+    {%endfor%}
+  </body>
+</html>

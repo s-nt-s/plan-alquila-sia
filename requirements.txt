@@ -3,3 +3,4 @@ lxml==4.9.2
 requests==2.28.2
 selenium==3.141.0
 webdriver-manager==4.0.0
+Jinja2==3.1.2

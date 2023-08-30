@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html LANG="es">
+  <head>
+    <meta charset="UTF-8">
+    <base target="_blank">
+    <title>{{pisos | length | millar}} pisos</title>
+    <link rel="stylesheet" href="rec/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="rec/sort_table.js"></script>
+  </head>
+  <body>
+  <table>
+    <thead>
+      <tr class="sortme">
+        <th class="isSortable hideIfEQ">Plan</th>
+        <th class="isSortable">id</th>
+        <th class="isSortable isSortedByMe">€</th>
+        <th title="Dormitorios" class="isSortable hideIfEQ">D</th>
+        <th title="Aseos" class="isSortable hideIfEQ">A</th>
+        <th title="Planta" class="isSortable hideIfEQ">P</th>
+        <th title="Metros útiles" class="isSortable hideIfEQ">M²</th>
+        <th>Dirección</th>
+        <th class="isSortable str hideIfEQ">Distrito</th>
+        <th class="isSortable str hideIfEQ">Barrio</th>
+        <th title="Ascensor" class="isSortable hideIfEQ">Asc</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for p in pisos|sort(attribute='precio,plan,id') %}
+    <tr>
+      <td><a href="{{p.u_plan}}">{{p.plan}}</a></td>
+      <td class="rgh"><a href="{{p.plan.lower()}}/{{p.id}}.html">{{p.id}}</a></td>
+      <td class="rgh" data-sortkey="{{p.precio}}">{{p.precio | millar}}</td>
+      <td class="rgh">{{p.dormitorios}}</td>
+      <td class="rgh">{{p.aseos}}</td>
+      <td class="rgh">{{p.planta}}</td>
+      <td class="rgh">{{p.metros | round}}</td>
+      <td><a href="https://www.google.com/maps/place/{{p.direccion.replace(' ', '+')}},+Madrid">{{p.direccion}}</a></td>
+      <td>{{p.distrito}}</td>
+      <td>{{p.barrio}}</td>
+      <td class="rgh" data-sortkey="{{p.ascensor | int}}">{{"Si" if p.ascensor else ""}}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </body>
+</html>
