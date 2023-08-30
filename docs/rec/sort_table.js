@@ -1,101 +1,115 @@
-jQuery.fn.extend({
-  column: function() {
-    if (this.length!=1 && !this.is("th")) return null;
-    var index=this.closest("tr").find("th").index(this);
-    return this.closest("table").find("tbody tr").find("td:eq("+index+")");
+const $$ = {
+  q: (query, config = {}) => {
+    if (config.scope == null) config.scope = document;
+    if (Array.isArray(config.scope)) {
+      const cnfg = Object.assign({}, config);
+      return config.scope.flatMap(n=>{
+        cnfg.scope = n;
+        return $$.q(query, cnfg);
+      });
+    }
+    let nodes = Array.from(config.scope.querySelectorAll(query));
+    if (config.has!=null) nodes = nodes.filter(n=>n.querySelector(config.has) !=null);
+    return nodes;
   },
-  reverse: Array.prototype.reverse,
-});
-
-function mkTableSortable(scope) {
-  if (!scope) scope=$("body");
-  scope = scope.filter("table:has(.isSortable)").add(scope.find("table:has(.isSortable)"));
-  scope.find("thead th.isSortable").each(function(){
-    var t=$(this);
-    var tb=t.closest("table");
-    var cl = t.column().map(function(){ return this.textContent.trim() })
-    var dif = [...new Set(cl.get())]
-    if (dif.length<2) {
-      t.removeClass("isSortable");
-      if (t.is(".hideIfEQ")) {
-        t.add(t.column()).hide();
-        let cp = tb.find("caption");
-        if (cp.length==0) {
-            tb.prepend("<caption></caption");
-            cp = tb.find("caption");
-        }
-        if (t.column().eq(0).text().trim().length) {
-            if (cp.text().trim().length) cp.append(", ");
-            cp.append((t.attr("title") || t.text())+": ")
-            cp.append(t.column().eq(0).html())
-        }
-      }
-    } else {
-      var table = tb.find("tbody");
-      var trs = table.find("tr");
-      var index = t.closest("tr").find("th").index(t);
-      t.data("index", index);
-      var tdsel = "td:eq("+index+")";
-      var isStr = t.is(".str");
-      var i;
-      for (i=0; i<trs.length;i++) {
-        var td = trs.eq(i).find(tdsel);
-        if (td.data("sortkey") == null) {
-          var sortkey = td.text().trim();
-          if (isStr) {
-            sortkey = sortkey.toLowerCase();
-          } else {
-            if (typeof sortkey == "string") sortkey = Number(sortkey.replace("%", ""));
-          }
-          td.data("sortkey", sortkey)
-        }
-      }
-    }
-  })
-  scope.find("th.isSortable").closest("table").find("tbody tr").each(function(index){
-    this.setAttribute("data-rownum", index);
-  })
-  scope.find("th.isSortable").each(function() {
-    var t=$(this);
-    var index = t.data("index");
-    var tdsel = "td:eq("+index+")";
-    var order = t.closest("table").find("tbody tr").get().map(function(tr){
-      tr = $(tr);
-      return [tr.data("rownum"), tr.find(tdsel).data("sortkey")];
-    }).sort(function(a, b) {
-      if (typeof a[1] == "number") return a[1] - b[1];
-      return a[1].localeCompare(b[1])
-    }).map(function(i) {
-      return i[0];
+  column: (th) => {
+    if (th == null || th.tagName != 'TH') return null;
+    const ths = Array.from(th.closest("tr").querySelectorAll("th"));
+    const index=ths.indexOf(th);
+    const trs = th.closest("table").querySelectorAll("tbody tr");
+    return Array.from(trs).map(tr=>{
+      const tds = tr.querySelectorAll("td");
+      return tds[index];
     })
-    t.data("order", order);
-  });
-  scope.find("th.isSortable").each(function(){
-    if (this.title && this.title.trim().length) {
-        this.title = this.title + " (haz click para ordenar)"
-    } else {
-        this.title = "Haz click para ordenar"
-    }
-  }).click(function () {
-    var t = $(this);
-    var doReversed = (t.is(".isSortedByMe") && !t.is(".isReversed"));
-    t.closest("tr").find("th").removeClass("isSortedByMe isReversed");
-    t.addClass("isSortedByMe");
-    var table = t.closest("table").find("tbody");
-    var order = t.data("order");
-    if (doReversed) order = order.slice().reverse();
-    order.forEach((o, i) => {
-      var tr = table.find("tr[data-rownum="+o+"]");
-      table.append(tr);
-    });
-    if (doReversed) {
-      t.addClass("isReversed");
-    } else {
-      t.removeClass("isReversed");
-    }
-  });
+  }
 }
 
-$(document).ready(function(){
-  mkTableSortable();
-})
+function mkTableSortable(table) {
+  if (table == null || table.tagName != "TABLE") return;
+  table.querySelectorAll("thead th.isSortable").forEach(t=>{
+    const cls = $$.column(t);
+    const dif = [...new Set(cls.map(x=>x.textContent.trim()))];
+    if (dif.length<2) {
+      t.classList.remove("isSortable");
+      if (!t.classList.contains("hideIfEQ")) return;
+      cls.concat([t]).forEach(x=>x.style.display='none');
+      let cp = table.querySelector("caption");
+      if (cp == null) {
+          cp = document.createElement("caption");
+          table.prepend(cp);
+      }
+      if (cls[0].textContent.trim().length) {
+          if (cp.textContent.trim().length) cp.append(", ");
+          cp.append((t.getAttribute("title") || t.textContent)+": ");
+          cp.innerHTML += cls[0].innerHTML;
+      }
+      return;
+    }
+  })
+  const ths = table.querySelectorAll("thead th.isSortable");
+  const trs = table.querySelectorAll("tbody tr");
+  if (ths.length == 0 || trs.length==0) return;
+
+  const gKey = (isStr, td) => {
+    let sortkey = td.getAttribute("data-sortkey");
+    if (sortkey == null) {
+      sortkey = td.textContent.trim();
+      if (isStr) {
+        sortkey = sortkey.toLowerCase();
+      } else {
+        sortkey = Number(sortkey.replace("%", ""));
+      }
+      td.setAttribute("data-sortkey", sortkey);
+    }
+    if (!isStr) sortkey = parseFloat(sortkey);
+    return sortkey;
+  }
+
+  const tbody = table.querySelector("tbody");
+
+  ths.forEach(th=>{
+    if (th.title && th.title.trim().length) {
+      th.title = th.title + " (haz click para ordenar)";
+    } else {
+      th.title = "Haz click para ordenar";
+    }
+    const isStr = th.classList.contains("str");
+    const tds = $$.column(th);
+    const ord = tds.map((td, index)=>{
+      const t = td.textContent.trim().toLowerCase();
+      const k = gKey(isStr, td);
+      return [index, k, t];
+    }).sort((a, b) => {
+      let ka = a[1];
+      let kb = b[1];
+      if (isStr) return ka.localeCompare(kb);
+      if (isNaN(ka) && isNaN(kb)) return a[2].localeCompare(b[2]);
+      if (isNaN(ka)) ka = Infinity;
+      if (isNaN(kb)) kb = Infinity;
+      return ka - kb;
+    }).map(i => i[0]);
+    th.addEventListener("click", () => {
+      const doReversed = th.classList.contains("isSortedByMe") && !th.classList.contains("isReversed");
+      th.closest("tr").querySelectorAll("th").forEach(x=>{
+        x.classList.remove("isSortedByMe", "isReversed");
+      });
+      th.classList.add("isSortedByMe");
+      let order = ord;
+      if (doReversed) order = order.slice().reverse();
+      order.forEach(o => {
+        tbody.append(trs[o]);
+      });
+      if (doReversed) {
+        th.classList.add("isReversed");
+      } else {
+        th.classList.remove("isReversed");
+      }
+    })
+  })
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  $$.q("table", {
+    has: ".isSortable"
+  }).map(mkTableSortable);
+});
