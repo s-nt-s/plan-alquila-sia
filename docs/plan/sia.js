@@ -23,32 +23,6 @@ const SIA = [
     ]
   },
   {
-    "id": 31868,
-    "direccion": "Calle Doctor Lozano 7",
-    "distrito": "Puente De Vallecas",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "barrio": "Numancia",
-    "precio": 875,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31868&idDoc=1",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31868&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31868&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31868&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31868&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31868&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31868&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31868&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31868&idDoc=9"
-    ]
-  },
-  {
     "id": 31878,
     "direccion": "Calle Honrubia 4",
     "distrito": "Vallecas Villa",
@@ -218,30 +192,6 @@ const SIA = [
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31912&idDoc=28",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31912&idDoc=29",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31912&idDoc=30"
-    ]
-  },
-  {
-    "id": 31920,
-    "direccion": "Calle Vicenta Parra 8",
-    "distrito": "Carabanchel",
-    "planta": 0,
-    "orientacion": "Mixto",
-    "barrio": "San Isidro",
-    "precio": 800,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31920&idDoc=1",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31920&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31920&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31920&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31920&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31920&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31920&idDoc=7"
     ]
   },
   {
