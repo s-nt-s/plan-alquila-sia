@@ -30,12 +30,24 @@ class Piso:
     u_plan: str = None
 
     def __post_init__(self):
-        if self.cee in ('Pdte.', 'Pendiente'):
-            self.cee = None
-        if isinstance(self.planta, str) and self.planta.lower() in ('bj', "baja", "b", "bajo", "bjo"):
-            self.planta = 0
+        self.planta = self.__parse_planta(self.planta)
+        self.cee = self.__parse_cee(self.cee)
         if self.imgs is None:
             self.imgs = []
+
+    def __parse_planta(self, planta):
+        if isinstance(planta, str):
+            if planta.lower() in ('bj', "baja", "b", "bajo", "bjo"):
+                return 0
+            words = planta.split()
+            if len(words) > 1 and words[0].isdigit():
+                return int(words[0])
+        return planta
+
+    def __parse_cee(self, cee):
+        if cee in ('Pdte.', 'Pendiente'):
+            return None
+        return cee
 
     def asdict(self):
         o = asdict(self)
