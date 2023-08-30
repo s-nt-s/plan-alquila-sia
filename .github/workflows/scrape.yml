@@ -1,0 +1,33 @@
+name: scrape
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: '0 1 * * *'
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+      - name: Remove Chrome
+        run: sudo apt purge google-chrome-stable
+      - name: Remove default Chromium
+        run: sudo apt purge chromium-browser
+      - name: Install a new Chromium
+        run: sudo apt install -y chromium-browser
+      - name: Install pip packages
+        run: pip install -r requirements.txt
+      - name: Run the scraping script
+        run: python scraper.py
+      - name: Commit and push if content changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          DT=$(date -u +'%Y-%m-%d %H:%M UTC')
+          git commit -m "Automated: ${DT}" || exit 0
+          git push
