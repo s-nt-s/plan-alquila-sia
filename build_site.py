@@ -5,6 +5,7 @@ from core.web import get_text
 from core.piso import Piso
 from core.sia import Sia
 from core.alquila import Alquila
+from datetime import datetime
 import json
 
 
@@ -41,7 +42,8 @@ alq = read("docs/plan/alq.json", plan="Alq", u_plan=Alquila.URL)
 
 pisos = sia + alq
 
+now = datetime.now()
 j = Jnj2(origen="_template", destino="docs/", post=clean)
-j.save("index.html", "index.html", pisos=pisos)
+j.save("index.html", "index.html", pisos=pisos, now=now)
 for p in pisos:
-    j.save("piso.html", f"{p.plan.lower()}/{p.id}.html", p=p)
+    j.save("piso.html", f"{p.plan.lower()}/{p.id}.html", p=p, now=now)

@@ -6,6 +6,10 @@ import bs4
 from jinja2 import Environment, FileSystemLoader
 
 re_br = re.compile(r"<br/>(\s*</)")
+re_last_modified = re.compile(
+    r'^\s*<meta[^>]+http-equiv="Last-Modified"[^>]+>\s*$',
+    flags=re.MULTILINE
+)
 
 
 def millar(value):
@@ -72,9 +76,22 @@ class Jnj2():
         if not os.path.exists(directorio):
             os.makedirs(directorio)
 
-        with open(destino, "wb") as fh:
-            fh.write(bytes(html, 'UTF-8'))
+        if self.__is_changed(destino, html):
+            with open(destino, "wb") as fh:
+                fh.write(bytes(html, 'UTF-8'))
+
         return html
+
+    def __is_changed(self, destino, new_html):
+        if not os.path.isfile(destino):
+            return True
+        with open(destino, "r") as f:
+            old_html = f.read()
+        new_html = re_last_modified.sub("", new_html)
+        old_html = re_last_modified.sub("", old_html)
+        if old_html == new_html:
+            return False
+        return True
 
     def exists(self, destino):
         destino = self.destino + destino
