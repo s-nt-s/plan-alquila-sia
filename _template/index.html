@@ -20,10 +20,12 @@
         <th title="Planta" class="isSortable hideIfEQ">P</th>
         <th title="Metros útiles" class="isSortable hideIfEQ">M²</th>
         <th class="isSortable str hideIfEQ">Dirección</th>
-        <!--th>Dirección</th>
-        <th class="isSortable str hideIfEQ">Distrito</th-->
-        <!--th class="isSortable str hideIfEQ">Barrio</th-->
-        <!--th title="Ascensor" class="isSortable hideIfEQ">Asc</th-->
+        {#
+        <th>Dirección</th>
+        <th class="isSortable str hideIfEQ">Distrito</th>
+        <th class="isSortable str hideIfEQ">Barrio</th>
+        <th title="Ascensor" class="isSortable hideIfEQ">Asc</th>
+        #}
       </tr>
     </thead>
     <tbody>
@@ -40,9 +42,11 @@
       <td class="rgh">{{p.metros | round}}</td>
       <td data-sortkey="{{(p.distrito or 'z')+'\t'+p.direccion}}"
       ><a href="https://www.google.com/maps/place/{{p.direccion.replace(' ', '+')}},+Madrid">{{p.get_direccion()}}</a>, {{p.distrito}}</td>
-      <!--td>{{p.distrito}}</td-->
-      <!--td>{{p.barrio}}</td-->
-      <!--td class="rgh" data-sortkey="{{p.ascensor | int}}">{{"Si" if p.ascensor else ""}}</td-->
+      {#
+      <td>{{p.distrito}}</td>
+      <td>{{p.barrio}}</td>
+      <td class="rgh" data-sortkey="{{p.ascensor | int}}">{{"Si" if p.ascensor else ""}}</td>
+      #}
     </tr>
     {% endfor %}
     </tbody>

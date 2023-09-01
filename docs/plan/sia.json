@@ -23,37 +23,6 @@
     ]
   },
   {
-    "id": 31878,
-    "direccion": "Calle Honrubia 4",
-    "distrito": "Vallecas Villa",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "barrio": "Ensanche de Vallecas",
-    "precio": 600,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=1",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=9",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=10",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=11",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=12",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=13",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31878&idDoc=14"
-    ]
-  },
-  {
     "id": 31904,
     "direccion": "Calle Josefa Alonso 4",
     "distrito": "Latina",
@@ -160,7 +129,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31912&idDoc=1",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31912&idDoc=2",
