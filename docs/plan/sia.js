@@ -213,5 +213,31 @@ const SIA = [
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31924&idDoc=7",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31924&idDoc=8"
     ]
+  },
+  {
+    "id": 31931,
+    "direccion": "Calle Maria Del Carmen 23",
+    "distrito": "Latina",
+    "planta": 1,
+    "orientacion": "Exterior",
+    "barrio": "Puerta del \u00c1ngel",
+    "precio": 600,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31931&idDoc=2",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31931&idDoc=6",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31931&idDoc=9",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31931&idDoc=10",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31931&idDoc=11",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31931&idDoc=12",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31931&idDoc=13",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31931&idDoc=14",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=31931&idDoc=15"
+    ]
   }
 ];
