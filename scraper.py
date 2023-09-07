@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 
+import json
+from os.path import isfile
+from core.piso import Piso
 from core.alquila import Alquila
 from core.sia import Sia
 from core.util import to_file
 import logging
+import sys
 
 logging.basicConfig(
     level=logging.INFO,
@@ -12,12 +16,29 @@ logging.basicConfig(
 )
 
 
+def read(path: str, **kwargs) -> dict[int, Piso]:
+    obj = {}
+    if isfile(path):
+        with open(path, "r") as f:
+            for a in json.load(f):
+                a = Piso(**{**a, **kwargs})
+                obj[a.id] = a
+    return obj
+
+
 def dump(name: str, objs):
     key = name.split("/")[-1].upper()
     to_file(name+".json", objs)
     to_file(name+".js", **{key: objs})
 
 
-dump("docs/plan/sia", Sia().get_pisos())
+PLAN = ('sia', 'alq')
+PLAN = set(sys.argv[1:]).intersection(PLAN) or PLAN
 
-dump("docs/plan/alq", Alquila().get_pisos())
+if 'sia' in PLAN:
+    old_sia = read("docs/plan/sia.json")
+    dump("docs/plan/sia", Sia(old=old_sia).get_pisos())
+
+if 'alq' in PLAN:
+    old_alq = read("docs/plan/alq.json")
+    dump("docs/plan/alq", Alquila(old=old_alq).get_pisos())

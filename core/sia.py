@@ -1,10 +1,12 @@
 import urllib3
+from datetime import date
+import logging
 
 from .piso import Piso
 from .util import safe_int, tmap
-from .web import Driver, get_text
+from .web import Driver, get_text, get_query
 from .retry import retry, RetryException
-import logging
+from .imgur import ImgUr
 
 urllib3.disable_warnings()
 
@@ -32,6 +34,10 @@ def get_val(n):
 
 class Sia:
     URL = "https://www3.emvs.es/SMAWeb/"
+
+    def __init__(self, old: dict[int, Piso] = None):
+        self.old = old or {}
+        self.today = date.today().strftime("%Y-%m-%d")
 
     def get_pisos(self):
         r: list[Piso] = []
@@ -72,8 +78,10 @@ class Sia:
 
         soup, vals = get_soup_vals()
 
+        old = self.old.get(id) or Piso(id=-1, imgs=[], fecha=self.today)
         ps = Piso(
             id=id,
+            fecha=old.fecha or self.today,
             direccion=vals[1],
             precio=vals[2],
             distrito=vals[3],
@@ -92,10 +100,36 @@ class Sia:
             img = get_text(img)
             img = img.rsplit("&", 1)[0]
             ps.imgs.append(img)
+        ps.imgs = self.__parse_imgs(w, ps.imgs, old.imgs)
         w.click("//div/input[@type='submit']")
         if page > 1:
             w.click("//td/a[text()='%s']" % page)
         return ps
+
+    def __parse_imgs(self, w: Driver, imgs: list[str], old: list[str]):
+        if len(imgs) == 0 or ImgUr.get_client_id() is None:
+            return imgs
+        iup = ImgUr(
+            session=w.pass_cookies()
+        )
+
+        imgur = {}
+        for o in old:
+            if "i.imgur.com" in o:
+                imgur[o.split("?", 1)[-1]] = o
+
+        def get_url(img: str):
+            qry = get_query(img).get('idDoc')
+            if qry is None:
+                return img
+            if qry in imgur:
+                return imgur[qry]
+            lnk = iup.safe_upload(img)
+            if lnk is None:
+                return img
+            return lnk + '?' + qry
+
+        return list(map(get_url, imgs))
 
 
 if __name__ == "__main__":

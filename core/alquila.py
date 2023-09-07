@@ -50,6 +50,9 @@ def get_val(n: Tag):
 class Alquila:
     URL = "https://gestiona.comunidad.madrid/gpal_inter/secure/include/viviendapublicada/busqViviendasPublicadasContenedor.jsf"
 
+    def __init__(self, old: dict[int, Piso] = None):
+        self.old = old or {}
+
     def get_pisos(self):
         r: list[Piso] = []
         page = -1
@@ -96,7 +99,8 @@ class Alquila:
         @retry(times=3, sleep=3)
         def get_soup_vals():
             soup = w.get_soup()
-            div = soup.find("div", attrs={"id": "mainPanel:solapaDetalle:content"})
+            div = soup.find(
+                "div", attrs={"id": "mainPanel:solapaDetalle:content"})
             vals = tmap(get_val, div.findAll("input"))
             if len(vals) < 12:
                 raise BadAlqFicha()

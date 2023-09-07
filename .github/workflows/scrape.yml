@@ -22,6 +22,8 @@ jobs:
       - name: Install pip packages
         run: pip install -r requirements.txt
       - name: Run the scraping script
+        env:
+          IMGUR_CLIENT: ${{ secrets.IMGUR_CLIENT }}
         run: python scraper.py
       - name: Build site
         run: python build_site.py
