@@ -1,8 +1,8 @@
 td.rgh {
-    font-family: monospace;
     text-align: right;
 }
 table {
+    font-family: monospace;
 	margin-top: 14px;
 	border-spacing: 0px;
 	border-collapse: collapse;
@@ -43,13 +43,13 @@ th.isSortable {
     cursor: pointer;
 }
 th.isSortable:after {
-  content: " ⇳"
+  content: "⇳"
 }
 th.isSortable.isSortedByMe:after {
-  content: " ⇓"
+  content: "⇓"
 }
 th.isSortable.isSortedByMe.isReversed:after {
-  content: " ⇑"
+  content: "⇑"
 }
 td code, th {
   white-space: nowrap;
@@ -60,4 +60,13 @@ tbody tr td {
 img {
 	max-height: 500px;
 	max-width: 500px;
+}
+tr.alq td:first-of-type {
+	background-color: rgb(209, 0, 2);
+}
+tr.sia td:first-of-type {
+	background-color: rgb(0, 61, 246);
+}
+tr.alq td:first-of-type a, tr.sia td:first-of-type a {
+	color: white !important;
 }
