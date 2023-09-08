@@ -264,7 +264,7 @@ const SIA = [
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/UTni8gb.jpg?4",
       "https://i.imgur.com/JNqihiI.jpg?9",

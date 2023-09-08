@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../rec/main.css">
   </head>
   <body>
+    <main>
   <ul>
     <li><strong><a href="{{p.u_plan}}">{{p.plan}}</a></strong>: {{p.id}}</li>
     <li><strong>Precio</strong>: {{p.precio | millar}} €</li>
@@ -35,5 +36,12 @@
     {% for i in p.imgs %}
     <img src="{{i}}"/>
     {%endfor%}
+  </main>
+	<footer>
+		<p>
+		Código fuente en <a href="https://github.com/s-nt-s/plan-alquila-sia">GitHub</a>.
+    Si falla o tienes alguna sugerencia pon un <a href="https://github.com/s-nt-s/plan-alquila-sia/issues">issue</a>.
+		</p>
+	</footer>
   </body>
 </html>

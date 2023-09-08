@@ -10,15 +10,16 @@
     <script type="text/javascript" src="rec/sort_table.js"></script>
   </head>
   <body>
+  <main>
   <table>
     <thead>
       <tr class="sortme">
         <th class="isSortable">id</th>
+        <th title="Metros útiles" class="isSortable hideIfEQ">M²</th>
         <th class="isSortable isSortedByMe">€</th>
         <th title="Dormitorios" class="isSortable hideIfEQ">D</th>
         {#<th title="Aseos" class="isSortable hideIfEQ">A</th>#}
         <th title="Planta" class="isSortable hideIfEQ">P</th>
-        <th title="Metros útiles" class="isSortable hideIfEQ">M²</th>
         <th class="isSortable str hideIfEQ">Dirección</th>
         {#
         <th>Dirección</th>
@@ -33,13 +34,13 @@
     <tr class="{{p.plan.lower()}}">
       <td data-sortkey="{{p.get_plan_id()}}" 
           class="rgh" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan.lower()}}/{{p.id}}.html">{{p.id}}</a></td>
+      <td class="rgh">{{p.metros | round}}</td>
       <td data-sortkey="{{p.precio}}"
           class="rgh">{{p.precio | millar}}</td>
       <td class="rgh">{{p.dormitorios}}</td>
       {#<td class="rgh">{{p.aseos}}</td>#}
       <td data-sortkey="{{p.planta}}" title="{{p.get_planta_title()}}"
           class="rgh">{{p.planta}} {{"🛗" if p.ascensor else "🪜"}}</td>
-      <td class="rgh">{{p.metros | round}}</td>
       <td data-sortkey="{{(p.distrito or 'z')+'\t'+p.direccion}}"
       ><a href="https://www.google.com/maps/place/{{p.direccion.replace(' ', '+')}},+Madrid">{{p.get_direccion()}}</a>, {{p.distrito}}</td>
       {#
@@ -51,5 +52,12 @@
     {% endfor %}
     </tbody>
   </table>
+  </main>
+	<footer>
+		<p>
+		Código fuente en <a href="https://github.com/s-nt-s/plan-alquila-sia">GitHub</a>.
+    Si falla o tienes alguna sugerencia pon un <a href="https://github.com/s-nt-s/plan-alquila-sia/issues">issue</a>.
+		</p>
+	</footer>
   </body>
 </html>

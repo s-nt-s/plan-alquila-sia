@@ -1,43 +1,72 @@
+body {
+  font-family: arial,sans serif;
+  font-size: 11pt;
+  margin: 0;
+}
+main {
+  margin: 8px;
+}
+header, footer {
+  padding: 1em;
+  clear: both;
+  margin: 0px;
+  color: #fff !important;
+  background-color: #3a3a3a !important;
+}
+footer {
+  margin-top: 16px !important;
+}
+footer p:first-child {
+  margin-top: 0;
+}
+footer p:last-child {
+  margin-bottom: 0;
+}
+header a, footer a {
+  color: inherit;
+}
+
+table {
+  font-family: monospace;
+  font-size: initial;
+  margin-top: 14px;
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
 td.rgh {
     text-align: right;
 }
-table {
-    font-family: monospace;
-	margin-top: 14px;
-	border-spacing: 0px;
-	border-collapse: collapse;
-}
 thead {
-	background-color: lightblue;
+  background-color: lightblue;
 }
 td, th {
-	border: 1px solid black;
-	padding-left: 5px;
-	padding-right: 5px;
+  border: 1px solid black;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 table tbody tr:nth-child(even) {
-	background-color: #ddd;
+  background-color: #ddd;
 }
 td > p, th > p {
-	margin-top:7px;
-	margin-bottom:7px;
+  margin-top:7px;
+  margin-bottom:7px;
 }
 td > p:first-child, th > p:first-child  {
-	margin-top:0;
+  margin-top:0;
 }
 td > p:last-child, td > p:last-child {
-	margin-bottom:0;
+  margin-bottom:0;
 }
 tr > td:first-child {
-	white-space: nowrap;
+  white-space: nowrap;
 }
 code {
-	font-size: 1.3em;
+  font-size: 1.3em;
 }
 code.poptag {
-	display: inline-block;
-	width: 2em;
-	text-align: right;
+  display: inline-block;
+  width: 2em;
+  text-align: right;
 }
 th.isSortable {
     cursor: pointer;
@@ -58,15 +87,19 @@ tbody tr td {
   vertical-align: top !important;
 }
 img {
-	max-height: 500px;
-	max-width: 500px;
+  max-height: 500px;
+  max-width: 500px;
 }
 tr.alq td:first-of-type {
-	background-color: rgb(209, 0, 2);
+  background-color: rgb(209, 0, 2);
 }
 tr.sia td:first-of-type {
-	background-color: rgb(0, 61, 246);
+  background-color: rgb(0, 61, 246);
 }
 tr.alq td:first-of-type a, tr.sia td:first-of-type a {
-	color: white !important;
+  color: white !important;
+}
+main > ul {
+  padding-left: 1em;
+  margin-left: 0;
 }
