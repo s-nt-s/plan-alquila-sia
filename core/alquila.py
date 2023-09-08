@@ -68,8 +68,9 @@ class Alquila:
                 if len(dvs) <= page:
                     break
                 dpg: WebElement = dvs[page]
-                logger.info(f"Página {page+1}/{len(dvs)}: {dpg.text}")
-                dist: str = dpg.text.rsplit(None, 1)[0]
+                dist: str = dpg.text.strip()
+                logger.info(f"Página {page+1}/{len(dvs)}: {dist}")
+                dist = dist.rsplit(None, 1)[0]
                 dpg.click()
                 w.click("mainPanel:filtrar")
                 time.sleep(2)
