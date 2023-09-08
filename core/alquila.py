@@ -60,13 +60,13 @@ class Alquila:
             w.get(Alquila.URL)
             while True:
                 page += 1
-                logger.info(f"Página {page+1}")
                 w.click("mainPanel:pf_comboValoresDistritoPanel")
                 div = w.wait("mainPanel:pf_comboValoresDistritoItems")
                 dvs = div.find_elements_by_xpath("./div")
                 if len(dvs) <= page:
                     break
                 dpg: WebElement = dvs[page]
+                logger.info(f"Página {page+1}/{len(dvs)}: {dpg.text}")
                 dist: str = dpg.text.rsplit(None, 1)[0]
                 dpg.click()
                 w.click("mainPanel:filtrar")
