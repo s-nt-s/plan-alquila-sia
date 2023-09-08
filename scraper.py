@@ -27,9 +27,9 @@ def read(path: str, **kwargs) -> dict[int, Piso]:
 
 
 def dump(name: str, objs):
-    key = name.split("/")[-1].upper()
     to_file(name+".json", objs)
-    to_file(name+".js", **{key: objs})
+    #key = name.split("/")[-1].upper()
+    #to_file(name+".js", **{key: objs})
 
 
 PLAN = ('sia', 'alq')
