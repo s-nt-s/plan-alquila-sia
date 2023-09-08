@@ -78,10 +78,10 @@ class Sia:
 
         soup, vals = get_soup_vals()
 
-        old = self.old.get(id) or Piso(id=-1, imgs=[], fecha=self.today)
+        old = self.old.get(id) or Piso(id=-1, imgs=[], publicado=self.today)
         ps = Piso(
             id=id,
-            fecha=old.fecha or self.today,
+            publicado=old.publicado or self.today,
             direccion=vals[1],
             precio=vals[2],
             distrito=vals[3],
@@ -104,7 +104,17 @@ class Sia:
         w.click("//div/input[@type='submit']")
         if page > 1:
             w.click("//td/a[text()='%s']" % page)
+
+        ps.modificado = self.__get_update(ps)
         return ps
+
+    def __get_update(self, ps: Piso):
+        old = self.old.get(ps.id)
+        if old is None:
+            return None
+        if ps.askey() == old.askey():
+            return old.modificado
+        return self.today
 
     def __parse_imgs(self, w: Driver, imgs: list[str], old: list[str]):
         if len(imgs) == 0 or ImgUr.get_client_id() is None:

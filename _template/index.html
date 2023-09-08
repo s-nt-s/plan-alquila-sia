@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1" name="viewport"/>
 		<meta http-equiv="Last-Modified" content="{{now.strftime('%Y-%m-%d %H:%M:%S')}}">
+    <link rel="alternate" type="application/rss+xml" 
+      title="RSS Plan Alquila y Plan Sia" 
+      href="./pisos.rss"
+    />
     <base target="_blank">
     <title>{{pisos | length | millar}} pisos</title>
     <link rel="stylesheet" href="rec/main.css">
@@ -16,11 +20,12 @@
       <tr class="sortme">
         <th class="isSortable">id</th>
         <th title="Metros útiles" class="isSortable hideIfEQ">M²</th>
-        <th class="isSortable isSortedByMe">€</th>
+        <th class="isSortable">€</th>
         <th title="Dormitorios" class="isSortable hideIfEQ">D</th>
         {#<th title="Aseos" class="isSortable hideIfEQ">A</th>#}
         <th title="Planta" class="isSortable hideIfEQ">P</th>
         <th class="isSortable str hideIfEQ">Dirección</th>
+        <th class="isSortable str isSortedByMe isReversed hideIfEQ">Fecha</th>
         {#
         <th>Dirección</th>
         <th class="isSortable str hideIfEQ">Distrito</th>
@@ -30,7 +35,7 @@
       </tr>
     </thead>
     <tbody>
-    {% for p in pisos|sort(attribute='precio,plan,id') %}
+    {% for p in pisos|sort(reverse=true, attribute='fecha,precio,plan,id') %}
     <tr class="{{p.plan.lower()}}">
       <td data-sortkey="{{p.get_plan_id()}}" 
           class="rgh" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan.lower()}}/{{p.id}}.html">{{p.id}}</a></td>
@@ -48,6 +53,7 @@
       <td>{{p.barrio}}</td>
       <td class="rgh" data-sortkey="{{p.ascensor | int}}">{{"Si" if p.ascensor else ""}}</td>
       #}
+      <td>{{p.fecha}}</td>
     </tr>
     {% endfor %}
     </tbody>

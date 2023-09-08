@@ -6,6 +6,7 @@ from bs4 import Tag
 from selenium.common.exceptions import (NoSuchElementException,
                                         StaleElementReferenceException)
 from selenium.webdriver.remote.webelement import WebElement
+from datetime import date
 
 from .piso import Piso
 from .util import safe_int, tmap
@@ -52,6 +53,7 @@ class Alquila:
 
     def __init__(self, old: dict[int, Piso] = None):
         self.old = old or {}
+        self.today = date.today().strftime("%Y-%m-%d")
 
     def get_pisos(self):
         r: list[Piso] = []
@@ -83,7 +85,7 @@ class Alquila:
                     ps = self.get_piso(w, vals[1],
                                        direccion=vals[2],
                                        planta=vals[3],
-                                       fecha=vals[-1],
+                                       publicado=vals[-1],
                                        distrito=dist
                                        )
                     r.append(ps)
@@ -153,7 +155,17 @@ class Alquila:
                 w.execute_script("jQuery(arguments[0]).click()", cls)
                 time.sleep(3)
         w.click("mainPanel:solapaListado:header:inactive")
+
+        ps.modificado = self.__get_update(ps)
         return ps
+
+    def __get_update(self, ps: Piso):
+        old = self.old.get(ps.id)
+        if old is None:
+            return None
+        if ps.askey() == old.askey():
+            return old.modificado
+        return self.today
 
 
 if __name__ == "__main__":

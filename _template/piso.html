@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1" name="viewport"/>
-		<meta http-equiv="Last-Modified" content="{{now.strftime('%Y-%m-%d %H:%M:%S')}}">
+		<meta http-equiv="Last-Modified" content="{{p.fecha}}">
     <base target="_blank">
     <title>{{p.id}} {{p.plan}}</title>
     <link rel="stylesheet" href="../rec/main.css">
@@ -23,7 +23,10 @@
     <li><strong>CEE</strong>: {{p.cee}}</li>
     <li><strong>Orientacion</strong>: {{p.orientacion}}</li>
     <li><strong>M²</strong>: {{p.metros}}</li>
-    <li><strong>Fecha</strong>: {{p.fecha}}</li>
+    <li><strong>Públicado</strong>: {{p.publicado}}</li>
+    {%if p.modificado %}
+    <li><strong>Modificado</strong>: {{p.modificado}}</li>
+    {%endif%}
     <li>
     {% for k, v in p.items() %}
     {% if v is true %}<span class="tag">#{{k}}</span>{% endif %}

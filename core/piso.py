@@ -4,7 +4,8 @@ from dataclasses import dataclass, asdict
 @dataclass
 class Piso:
     id: int
-    fecha: str = None
+    publicado: str = None
+    modificado: str = None
     direccion: str = None
     distrito: str = None
     planta: float = None
@@ -78,7 +79,7 @@ class Piso:
             planta = planta+" sin "
         planta = planta + "ascensor"
         return planta
-    
+
     def get_direccion(self):
         spl = self.direccion.split(None, 1)
         if len(spl) != 2:
@@ -100,3 +101,16 @@ class Piso:
         #if tipo in ('camino', 'cmno'):
         #    return "Cam. "+dire
         return self.direccion
+
+    def askey(self):
+        obj = asdict(self)
+        del obj['modificado']
+        for k, v in list(obj.items()):
+            if isinstance(v, list):
+                obj[k] = tuple(v)
+        obj = sorted(obj.items())
+        return tuple(obj)
+
+    @property
+    def fecha(self):
+        return self.modificado or self.publicado

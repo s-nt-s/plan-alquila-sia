@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from bs4 import BeautifulSoup, Tag
 from core.j2 import Jnj2
+from core.rss import PisosRss
 from core.web import get_text
 from core.piso import Piso
 from core.sia import Sia
@@ -47,3 +48,9 @@ j = Jnj2(origen="_template", destino="docs/", post=clean)
 j.save("index.html", "index.html", pisos=pisos, now=now)
 for p in pisos:
     j.save("piso.html", f"{p.plan.lower()}/{p.id}.html", p=p, now=now)
+
+PisosRss(
+    destino="docs/", 
+    root="https://s-nt-s.github.io/plan-alquila-sia",
+    pisos=pisos
+).save("pisos.rss")

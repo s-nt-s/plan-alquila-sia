@@ -1,7 +1,7 @@
 [
   {
     "id": 201322,
-    "fecha": "2023-03-06",
+    "publicado": "2023-03-06",
     "direccion": "Trva Humanitarias, 1",
     "distrito": "Carabanchel",
     "planta": 1,
@@ -32,7 +32,7 @@
   },
   {
     "id": 203596,
-    "fecha": "2023-08-02",
+    "publicado": "2023-08-02",
     "direccion": "Calle O\u00f1a, 13",
     "distrito": "Hortaleza",
     "planta": 2,
@@ -64,7 +64,7 @@
   },
   {
     "id": 204635,
-    "fecha": "2023-02-06",
+    "publicado": "2023-02-06",
     "direccion": "Calle San Cipriano, 77",
     "distrito": "Vic\u00e1lvaro",
     "planta": 1,
@@ -94,7 +94,7 @@
   },
   {
     "id": 205804,
-    "fecha": "2022-11-11",
+    "publicado": "2022-11-11",
     "direccion": "Calle S\u00e1nchez Pacheco, 33",
     "distrito": "Chamart\u00edn",
     "planta": 5,
@@ -123,7 +123,7 @@
   },
   {
     "id": 206454,
-    "fecha": "2022-11-15",
+    "publicado": "2022-11-15",
     "direccion": "Avda Moratalaz, 93",
     "distrito": "Moratalaz",
     "planta": 5,
@@ -155,7 +155,7 @@
   },
   {
     "id": 209071,
-    "fecha": "2022-10-17",
+    "publicado": "2022-10-17",
     "direccion": "Calle Sim\u00f3n Vi\u00f1als, 12",
     "distrito": "Fuencarral-El Pardo",
     "planta": 1,
@@ -177,7 +177,7 @@
   },
   {
     "id": 211920,
-    "fecha": "2023-04-25",
+    "publicado": "2023-04-25",
     "direccion": "Calle Murcia, 18",
     "distrito": "Arganzuela",
     "planta": 3,
@@ -206,7 +206,7 @@
   },
   {
     "id": 212780,
-    "fecha": "2023-08-30",
+    "publicado": "2023-08-30",
     "direccion": "Calle Adolfo Bioy casares, 5",
     "distrito": "Villa de Vallecas",
     "planta": 6,
@@ -235,7 +235,7 @@
   },
   {
     "id": 213893,
-    "fecha": "2023-09-06",
+    "publicado": "2023-09-06",
     "direccion": "Calle Euterpe, 13",
     "distrito": "San Blas-Canillejas",
     "planta": 2,
@@ -257,7 +257,7 @@
   },
   {
     "id": 217120,
-    "fecha": "2023-07-31",
+    "publicado": "2023-07-31",
     "direccion": "Calle Panizo, 10",
     "distrito": "Tetu\u00e1n",
     "planta": 0,
@@ -288,7 +288,7 @@
   },
   {
     "id": 217331,
-    "fecha": "2023-01-24",
+    "publicado": "2023-01-24",
     "direccion": "Calle Cgdor. Alonso de Tobar, 18",
     "distrito": "Moratalaz",
     "planta": 1,
@@ -317,7 +317,7 @@
   },
   {
     "id": 218207,
-    "fecha": "2023-06-12",
+    "publicado": "2023-06-12",
     "direccion": "Calle Elfo, 100",
     "distrito": "Ciudad Lineal",
     "planta": 5,
@@ -347,7 +347,7 @@
   },
   {
     "id": 218257,
-    "fecha": "2023-05-31",
+    "publicado": "2023-05-31",
     "direccion": "Calle Pizarro, 13",
     "distrito": "Centro",
     "planta": 4,
@@ -369,7 +369,7 @@
   },
   {
     "id": 218990,
-    "fecha": "2023-09-07",
+    "publicado": "2023-09-07",
     "direccion": "Calle \u00c1ngel M\u00fagica, 11",
     "distrito": "Fuencarral-El Pardo",
     "planta": 3,
@@ -391,7 +391,7 @@
   },
   {
     "id": 219166,
-    "fecha": "2022-09-27",
+    "publicado": "2022-09-27",
     "direccion": "Calle Algaba, 19",
     "distrito": "Carabanchel",
     "planta": 4,
@@ -412,7 +412,7 @@
   },
   {
     "id": 221375,
-    "fecha": "2022-11-22",
+    "publicado": "2022-11-22",
     "direccion": "Calle Grazia Deledda, 9",
     "distrito": "Villaverde",
     "planta": 6,
@@ -443,7 +443,7 @@
   },
   {
     "id": 225352,
-    "fecha": "2023-03-07",
+    "publicado": "2023-03-07",
     "direccion": "Calle Venancio Mart\u00edn, 2",
     "distrito": "Puente de Vallecas",
     "planta": 2,
@@ -472,7 +472,7 @@
   },
   {
     "id": 228517,
-    "fecha": "2022-09-30",
+    "publicado": "2022-09-30",
     "direccion": "Calle Antonio Toledano, 7",
     "distrito": "Salamanca",
     "planta": 3,
@@ -502,7 +502,7 @@
   },
   {
     "id": 229387,
-    "fecha": "2023-04-26",
+    "publicado": "2023-04-26",
     "direccion": "Calle Encomienda de Palacios, 322",
     "distrito": "Moratalaz",
     "planta": 5,
@@ -532,7 +532,7 @@
   },
   {
     "id": 230337,
-    "fecha": "2023-06-28",
+    "publicado": "2023-06-28",
     "direccion": "Avda Men\u00e9ndez Pelayo, 119",
     "distrito": "Retiro",
     "planta": 2,
@@ -554,7 +554,7 @@
   },
   {
     "id": 230754,
-    "fecha": "2022-11-11",
+    "publicado": "2022-11-11",
     "direccion": "Calle Lozoya, 6",
     "distrito": "Chamber\u00ed",
     "planta": 0,
@@ -585,7 +585,7 @@
   },
   {
     "id": 231935,
-    "fecha": "2023-06-30",
+    "publicado": "2023-06-30",
     "direccion": "Calle Zuera, 2",
     "distrito": "San Blas-Canillejas",
     "planta": 4,
@@ -615,7 +615,7 @@
   },
   {
     "id": 239496,
-    "fecha": "2022-09-28",
+    "publicado": "2022-09-28",
     "direccion": "Calle Desenga\u00f1o, 6",
     "distrito": "Centro",
     "planta": 1,
@@ -646,7 +646,7 @@
   },
   {
     "id": 240343,
-    "fecha": "2023-08-21",
+    "publicado": "2023-08-21",
     "direccion": "Calle Cruz del Sur, 3",
     "distrito": "Retiro",
     "planta": 2,
@@ -678,7 +678,7 @@
   },
   {
     "id": 241638,
-    "fecha": "2023-03-24",
+    "publicado": "2023-03-24",
     "direccion": "Calle Caridad, 10",
     "distrito": "Retiro",
     "planta": 4,
@@ -699,7 +699,7 @@
   },
   {
     "id": 243508,
-    "fecha": "2022-11-07",
+    "publicado": "2022-11-07",
     "direccion": "Calle Virtudes, 6",
     "distrito": "Chamber\u00ed",
     "planta": 3,
@@ -729,7 +729,7 @@
   },
   {
     "id": 243871,
-    "fecha": "2023-06-28",
+    "publicado": "2023-06-28",
     "direccion": "Paseo Extremadura, 6",
     "distrito": "Latina",
     "planta": 3,
@@ -758,7 +758,7 @@
   },
   {
     "id": 244827,
-    "fecha": "2022-11-30",
+    "publicado": "2022-11-30",
     "direccion": "Calle Higueras, 7",
     "distrito": "Latina",
     "planta": 2,
@@ -780,7 +780,7 @@
   },
   {
     "id": 244843,
-    "fecha": "2022-10-31",
+    "publicado": "2022-10-31",
     "direccion": "Calle Tablada, 37",
     "distrito": "Tetu\u00e1n",
     "planta": 0,
@@ -809,7 +809,7 @@
   },
   {
     "id": 245947,
-    "fecha": "2023-07-28",
+    "publicado": "2023-07-28",
     "direccion": "Calle Santa Engracia, 37",
     "distrito": "Chamber\u00ed",
     "planta": 3,
@@ -830,7 +830,7 @@
   },
   {
     "id": 248616,
-    "fecha": "2023-03-06",
+    "publicado": "2023-03-06",
     "direccion": "Calle Ram\u00edrez de Arellano, 22",
     "distrito": "Ciudad Lineal",
     "planta": 3,
@@ -862,7 +862,7 @@
   },
   {
     "id": 249088,
-    "fecha": "2023-08-24",
+    "publicado": "2023-08-24",
     "direccion": "Ronda Atocha, 30",
     "distrito": "Arganzuela",
     "planta": 3,
@@ -884,7 +884,7 @@
   },
   {
     "id": 249339,
-    "fecha": "2023-08-23",
+    "publicado": "2023-08-23",
     "direccion": "Ronda Toledo, 20",
     "distrito": "Centro",
     "planta": 4,
@@ -915,7 +915,7 @@
   },
   {
     "id": 249735,
-    "fecha": "2023-09-04",
+    "publicado": "2023-09-04",
     "direccion": "Paseo Alabarderos, 38",
     "distrito": "Latina",
     "planta": 3,
@@ -937,7 +937,7 @@
   },
   {
     "id": 249972,
-    "fecha": "2023-06-26",
+    "publicado": "2023-06-26",
     "direccion": "Calle Castilla, 13",
     "distrito": "Tetu\u00e1n",
     "planta": 1,
@@ -967,7 +967,7 @@
   },
   {
     "id": 251835,
-    "fecha": "2023-07-05",
+    "publicado": "2023-07-05",
     "direccion": "Calle Melchor Fern\u00e1ndez Almagro, 86",
     "distrito": "Fuencarral-El Pardo",
     "planta": 8,
@@ -998,7 +998,7 @@
   },
   {
     "id": 254123,
-    "fecha": "2022-10-31",
+    "publicado": "2022-10-31",
     "direccion": "Calle Gra\u00f1\u00f3n, 6",
     "distrito": "Fuencarral-El Pardo",
     "planta": 2,
@@ -1020,7 +1020,7 @@
   },
   {
     "id": 254422,
-    "fecha": "2023-08-28",
+    "publicado": "2023-08-28",
     "direccion": "Calle Gardenias, 14",
     "distrito": "Tetu\u00e1n",
     "planta": 3,
@@ -1050,7 +1050,7 @@
   },
   {
     "id": 254991,
-    "fecha": "2023-02-20",
+    "publicado": "2023-02-20",
     "direccion": "Calle Bustillo del Oro, 8",
     "distrito": "Tetu\u00e1n",
     "planta": 1,
@@ -1072,7 +1072,7 @@
   },
   {
     "id": 259643,
-    "fecha": "2023-03-28",
+    "publicado": "2023-03-28",
     "direccion": "Avda Gran V\u00eda del Sureste, 42",
     "distrito": "Villa de Vallecas",
     "planta": 3,
@@ -1103,8 +1103,30 @@
     ]
   },
   {
+    "id": 259648,
+    "publicado": "2023-09-08",
+    "direccion": "Calle Blasco de Garay, 46",
+    "distrito": "Chamber\u00ed",
+    "planta": 2,
+    "precio": 995,
+    "metros": 31,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "G",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 260420,
-    "fecha": "2023-07-25",
+    "publicado": "2023-07-25",
     "direccion": "Calle Camino Viejo de Legan\u00e9s, 49",
     "distrito": "Carabanchel",
     "planta": 3,
@@ -1135,7 +1157,7 @@
   },
   {
     "id": 260902,
-    "fecha": "2023-03-16",
+    "publicado": "2023-03-16",
     "direccion": "Calle Caravaca, 17",
     "distrito": "Centro",
     "planta": 1,
@@ -1157,7 +1179,7 @@
   },
   {
     "id": 261769,
-    "fecha": "2023-07-06",
+    "publicado": "2023-07-06",
     "direccion": "Calle Capiscol, 10",
     "distrito": "Fuencarral-El Pardo",
     "planta": 4,
@@ -1185,7 +1207,7 @@
   },
   {
     "id": 262041,
-    "fecha": "2023-09-07",
+    "publicado": "2023-09-07",
     "direccion": "Calle Moren\u00e9s Arteaga, 4",
     "distrito": "Carabanchel",
     "planta": 2,
@@ -1206,8 +1228,30 @@
     "imgs": []
   },
   {
+    "id": 262106,
+    "publicado": "2023-09-08",
+    "direccion": "Calle Capiscol, 4",
+    "distrito": "Fuencarral-El Pardo",
+    "planta": 2,
+    "precio": 950,
+    "metros": 40.92,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": true,
+    "porteria": true,
+    "trastero": true,
+    "imgs": []
+  },
+  {
     "id": 262879,
-    "fecha": "2023-08-08",
+    "publicado": "2023-08-08",
     "direccion": "Calle Isabel Clara Eugenia, 10",
     "distrito": "Hortaleza",
     "planta": 6,
@@ -1229,7 +1273,7 @@
   },
   {
     "id": 263621,
-    "fecha": "2023-08-07",
+    "publicado": "2023-08-07",
     "direccion": "Calle Bravo Murillo, 95",
     "distrito": "Chamber\u00ed",
     "planta": 2,
@@ -1251,7 +1295,7 @@
   },
   {
     "id": 263728,
-    "fecha": "2023-05-08",
+    "publicado": "2023-05-08",
     "direccion": "Plaza Ver\u00edn, 9",
     "distrito": "Fuencarral-El Pardo",
     "planta": 2,
@@ -1280,8 +1324,30 @@
     ]
   },
   {
+    "id": 263996,
+    "publicado": "2023-09-08",
+    "direccion": "Calle Bruno Ayll\u00f3n, 3",
+    "distrito": "Tetu\u00e1n",
+    "planta": 2,
+    "precio": 850,
+    "metros": 50,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "C",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 264969,
-    "fecha": "2023-07-25",
+    "publicado": "2023-07-25",
     "direccion": "Calle S\u00e1nchez Preciado, 65",
     "distrito": "Moncloa-Aravaca",
     "planta": 0,
@@ -1303,7 +1369,7 @@
   },
   {
     "id": 265662,
-    "fecha": "2022-11-11",
+    "publicado": "2022-11-11",
     "direccion": "Calle Pr\u00edncipe de Vergara, 262",
     "distrito": "Chamart\u00edn",
     "planta": 2,
@@ -1334,7 +1400,7 @@
   },
   {
     "id": 265674,
-    "fecha": "2023-09-08",
+    "publicado": "2023-09-08",
     "direccion": "Calle Obanos, 6B",
     "distrito": "Fuencarral-El Pardo",
     "planta": 1,
@@ -1356,7 +1422,7 @@
   },
   {
     "id": 265982,
-    "fecha": "2023-09-01",
+    "publicado": "2023-09-01",
     "direccion": "Calle Higinio Rodr\u00edguez, 14",
     "distrito": "Puente de Vallecas",
     "planta": 1,
@@ -1384,7 +1450,7 @@
   },
   {
     "id": 266030,
-    "fecha": "2023-09-07",
+    "publicado": "2023-09-07",
     "direccion": "Plaza Puerto de la Cruz, 3",
     "distrito": "Fuencarral-El Pardo",
     "planta": 9,
@@ -1406,7 +1472,7 @@
   },
   {
     "id": 266070,
-    "fecha": "2023-07-31",
+    "publicado": "2023-07-31",
     "direccion": "Calle Timbales, 3",
     "distrito": "Latina",
     "planta": 3,
@@ -1437,7 +1503,7 @@
   },
   {
     "id": 266099,
-    "fecha": "2022-12-14",
+    "publicado": "2022-12-14",
     "direccion": "Calle Santa Susana, 40",
     "distrito": "Hortaleza",
     "planta": 5,
@@ -1459,7 +1525,7 @@
   },
   {
     "id": 266391,
-    "fecha": "2023-02-23",
+    "publicado": "2023-02-23",
     "direccion": "Calle Oudrid, 8",
     "distrito": "Tetu\u00e1n",
     "planta": 1,
@@ -1490,7 +1556,7 @@
   },
   {
     "id": 267333,
-    "fecha": "2023-04-06",
+    "publicado": "2023-04-06",
     "direccion": "Calle La Escuela de Vallecas, 20",
     "distrito": "Villa de Vallecas",
     "planta": 5,
@@ -1521,7 +1587,7 @@
   },
   {
     "id": 267566,
-    "fecha": "2023-08-14",
+    "publicado": "2023-08-14",
     "direccion": "Calle Cjal. Fco.J. J\u00edmenez Mart, 22",
     "distrito": "Latina",
     "planta": 1,
@@ -1543,7 +1609,7 @@
   },
   {
     "id": 267574,
-    "fecha": "2023-06-05",
+    "publicado": "2023-06-05",
     "direccion": "Calle Ntra. Sra. de la Antigua, 40",
     "distrito": "Carabanchel",
     "planta": 3,
@@ -1564,7 +1630,7 @@
   },
   {
     "id": 267587,
-    "fecha": "2023-06-16",
+    "publicado": "2023-06-16",
     "direccion": "Cmno Valderribas, 93D",
     "distrito": "Puente de Vallecas",
     "planta": 6,
@@ -1594,7 +1660,7 @@
   },
   {
     "id": 267757,
-    "fecha": "2023-01-09",
+    "publicado": "2023-01-09",
     "direccion": "Calle Alejandro S\u00e1nchez, 2",
     "distrito": "Carabanchel",
     "planta": 4,
@@ -1616,7 +1682,7 @@
   },
   {
     "id": 267768,
-    "fecha": "2023-08-30",
+    "publicado": "2023-08-30",
     "direccion": "Calle Cicer\u00f3n, 3",
     "distrito": "Tetu\u00e1n",
     "planta": 3,
@@ -1646,7 +1712,7 @@
   },
   {
     "id": 268125,
-    "fecha": "2023-07-31",
+    "publicado": "2023-07-31",
     "direccion": "Calle Rafael Bergam\u00edn, 16",
     "distrito": "Ciudad Lineal",
     "planta": 6,
@@ -1677,7 +1743,7 @@
   },
   {
     "id": 268150,
-    "fecha": "2023-05-03",
+    "publicado": "2023-05-03",
     "direccion": "Calle Guadaira, 2",
     "distrito": "Puente de Vallecas",
     "planta": 1,
@@ -1707,7 +1773,7 @@
   },
   {
     "id": 268484,
-    "fecha": "2023-08-24",
+    "publicado": "2023-08-24",
     "direccion": "Calle Illescas, 143",
     "distrito": "Latina",
     "planta": 10,
@@ -1738,7 +1804,7 @@
   },
   {
     "id": 268693,
-    "fecha": "2023-02-03",
+    "publicado": "2023-02-03",
     "direccion": "Calle San Basilio, 4",
     "distrito": "Usera",
     "planta": 1,
@@ -1760,7 +1826,7 @@
   },
   {
     "id": 268991,
-    "fecha": "2023-07-18",
+    "publicado": "2023-07-18",
     "direccion": "Calle Matilde Landa, 9",
     "distrito": "Tetu\u00e1n",
     "planta": 2,
@@ -1781,7 +1847,7 @@
   },
   {
     "id": 269203,
-    "fecha": "2023-08-07",
+    "publicado": "2023-08-07",
     "direccion": "Calle Topete, 5",
     "distrito": "Tetu\u00e1n",
     "planta": 3,
@@ -1803,7 +1869,7 @@
   },
   {
     "id": 269416,
-    "fecha": "2023-04-24",
+    "publicado": "2023-04-24",
     "direccion": "Calle Virgen de las Nieves, 4",
     "distrito": "Ciudad Lineal",
     "planta": 3,
@@ -1834,7 +1900,7 @@
   },
   {
     "id": 269585,
-    "fecha": "2023-07-20",
+    "publicado": "2023-07-20",
     "direccion": "Calle Molina, 22",
     "distrito": "Tetu\u00e1n",
     "planta": 1,
@@ -1865,7 +1931,7 @@
   },
   {
     "id": 269617,
-    "fecha": "2023-08-07",
+    "publicado": "2023-08-07",
     "direccion": "Calle Ferm\u00edn Donaire, 10",
     "distrito": "Usera",
     "planta": 4,
@@ -1896,7 +1962,7 @@
   },
   {
     "id": 269799,
-    "fecha": "2023-07-17",
+    "publicado": "2023-07-17",
     "direccion": "Calle Solana de Luche, 14",
     "distrito": "Latina",
     "planta": 0,
@@ -1918,7 +1984,7 @@
   },
   {
     "id": 269832,
-    "fecha": "2022-10-11",
+    "publicado": "2022-10-11",
     "direccion": "Calle Ap\u00f3stol Santiago, 52",
     "distrito": "Ciudad Lineal",
     "planta": 4,
@@ -1940,7 +2006,7 @@
   },
   {
     "id": 270134,
-    "fecha": "2023-07-10",
+    "publicado": "2023-07-10",
     "direccion": "Calle Villar del Pozo, 2",
     "distrito": "Villa de Vallecas",
     "planta": 1,
@@ -1962,7 +2028,7 @@
   },
   {
     "id": 270143,
-    "fecha": "2023-08-02",
+    "publicado": "2023-08-02",
     "direccion": "Calle La Hiruela, 3",
     "distrito": "Fuencarral-El Pardo",
     "planta": 7,
@@ -1991,7 +2057,7 @@
   },
   {
     "id": 270338,
-    "fecha": "2023-05-17",
+    "publicado": "2023-05-17",
     "direccion": "Avda Men\u00e9ndez Pelayo, 42",
     "distrito": "Retiro",
     "planta": 0,
@@ -2021,7 +2087,7 @@
   },
   {
     "id": 270856,
-    "fecha": "2022-10-06",
+    "publicado": "2022-10-06",
     "direccion": "Calle Amaniel, 31",
     "distrito": "Centro",
     "planta": 5,
@@ -2042,7 +2108,7 @@
   },
   {
     "id": 271036,
-    "fecha": "2023-05-05",
+    "publicado": "2023-05-05",
     "direccion": "Calle B\u00e9lgica, 7",
     "distrito": "San Blas-Canillejas",
     "planta": 5,
@@ -2072,7 +2138,7 @@
   },
   {
     "id": 271085,
-    "fecha": "2023-07-03",
+    "publicado": "2023-07-03",
     "direccion": "Calle Luis Mitjans, 3",
     "distrito": "Retiro",
     "planta": 1,
@@ -2094,7 +2160,7 @@
   },
   {
     "id": 271104,
-    "fecha": "2023-02-14",
+    "publicado": "2023-02-14",
     "direccion": "Calle Sambara, 73",
     "distrito": "Ciudad Lineal",
     "planta": 9,
@@ -2116,7 +2182,7 @@
   },
   {
     "id": 271232,
-    "fecha": "2023-07-17",
+    "publicado": "2023-07-17",
     "direccion": "Calle Castilla, 13",
     "distrito": "Tetu\u00e1n",
     "planta": 4,
@@ -2147,7 +2213,7 @@
   },
   {
     "id": 271248,
-    "fecha": "2022-11-18",
+    "publicado": "2022-11-18",
     "direccion": "Calle Pr\u00edncipe de Vergara, 122",
     "distrito": "Chamart\u00edn",
     "planta": 3,
@@ -2178,7 +2244,7 @@
   },
   {
     "id": 271535,
-    "fecha": "2022-11-21",
+    "publicado": "2022-11-21",
     "direccion": "Calle Beasain, 25",
     "distrito": "Usera",
     "planta": 1,
@@ -2200,7 +2266,7 @@
   },
   {
     "id": 271548,
-    "fecha": "2023-09-07",
+    "publicado": "2023-09-07",
     "direccion": "Calle Puerto de Almansa, 46",
     "distrito": "Puente de Vallecas",
     "planta": 3,
@@ -2222,7 +2288,7 @@
   },
   {
     "id": 271633,
-    "fecha": "2023-08-10",
+    "publicado": "2023-08-10",
     "direccion": "Calle Mar\u00eda de Guzm\u00e1n, 42",
     "distrito": "Chamber\u00ed",
     "planta": 1,
@@ -2250,7 +2316,7 @@
   },
   {
     "id": 272133,
-    "fecha": "2023-09-04",
+    "publicado": "2023-09-04",
     "direccion": "Avda Ensanche de Vallecas, 122",
     "distrito": "Villa de Vallecas",
     "planta": 3,
@@ -2272,7 +2338,7 @@
   },
   {
     "id": 272201,
-    "fecha": "2022-09-08",
+    "publicado": "2022-09-08",
     "direccion": "Calle Tiziano, 9",
     "distrito": "Tetu\u00e1n",
     "planta": 5,
@@ -2302,7 +2368,7 @@
   },
   {
     "id": 272355,
-    "fecha": "2023-04-10",
+    "publicado": "2023-04-10",
     "direccion": "Calle Roncesvalles, 3",
     "distrito": "Retiro",
     "planta": 1,
@@ -2332,7 +2398,7 @@
   },
   {
     "id": 272404,
-    "fecha": "2022-12-21",
+    "publicado": "2022-12-21",
     "direccion": "Calle Cabeza Mesada, 11",
     "distrito": "Villa de Vallecas",
     "planta": 4,
@@ -2354,7 +2420,7 @@
   },
   {
     "id": 272553,
-    "fecha": "2023-08-28",
+    "publicado": "2023-08-28",
     "direccion": "Avda El Ferrol, 23",
     "distrito": "Fuencarral-El Pardo",
     "planta": 2,
@@ -2376,7 +2442,7 @@
   },
   {
     "id": 272601,
-    "fecha": "2023-09-04",
+    "publicado": "2023-09-04",
     "direccion": "Calle Mend\u00edvil, 30",
     "distrito": "Puente de Vallecas",
     "planta": 1,
@@ -2397,7 +2463,7 @@
   },
   {
     "id": 272728,
-    "fecha": "2022-11-15",
+    "publicado": "2022-11-15",
     "direccion": "Calle Valdivieso, 23",
     "distrito": "Moncloa-Aravaca",
     "planta": 3,
@@ -2427,7 +2493,7 @@
   },
   {
     "id": 272854,
-    "fecha": "2023-06-05",
+    "publicado": "2023-06-05",
     "direccion": "Paseo Pontones, 14",
     "distrito": "Arganzuela",
     "planta": 6,
@@ -2457,7 +2523,7 @@
   },
   {
     "id": 272992,
-    "fecha": "2023-03-13",
+    "publicado": "2023-03-13",
     "direccion": "Calle Villaman\u00edn, 1",
     "distrito": "Latina",
     "planta": 2,
@@ -2479,7 +2545,7 @@
   },
   {
     "id": 273229,
-    "fecha": "2023-06-15",
+    "publicado": "2023-06-15",
     "direccion": "Calle Becerrea, 3",
     "distrito": "Fuencarral-El Pardo",
     "planta": 10,
@@ -2510,7 +2576,7 @@
   },
   {
     "id": 273300,
-    "fecha": "2023-08-25",
+    "publicado": "2023-08-25",
     "direccion": "Plaza Cgdor. Sancho de C\u00f3rdoba, 6",
     "distrito": "Moratalaz",
     "planta": 2,
@@ -2532,7 +2598,7 @@
   },
   {
     "id": 273381,
-    "fecha": "2022-09-01",
+    "publicado": "2022-09-01",
     "direccion": "Calle Le\u00f1eros, 8",
     "distrito": "Tetu\u00e1n",
     "planta": 4,
@@ -2554,7 +2620,7 @@
   },
   {
     "id": 273384,
-    "fecha": "2022-09-02",
+    "publicado": "2022-09-02",
     "direccion": "Calle General Aranaz, 57",
     "distrito": "Ciudad Lineal",
     "planta": 3,
@@ -2586,7 +2652,7 @@
   },
   {
     "id": 273395,
-    "fecha": "2023-08-28",
+    "publicado": "2023-08-28",
     "direccion": "Calle Tierruca, 6",
     "distrito": "Puente de Vallecas",
     "planta": 1,
@@ -2616,7 +2682,7 @@
   },
   {
     "id": 273397,
-    "fecha": "2022-09-06",
+    "publicado": "2022-09-06",
     "direccion": "Calle Amaniel, 6",
     "distrito": "Centro",
     "planta": 0,
@@ -2646,7 +2712,7 @@
   },
   {
     "id": 273402,
-    "fecha": "2022-09-07",
+    "publicado": "2022-09-07",
     "direccion": "Calle Palmera, 27",
     "distrito": "Tetu\u00e1n",
     "planta": 2,
@@ -2668,7 +2734,7 @@
   },
   {
     "id": 273406,
-    "fecha": "2022-09-09",
+    "publicado": "2022-09-09",
     "direccion": "Calle Amparo, 67",
     "distrito": "Centro",
     "planta": 1,
@@ -2690,7 +2756,7 @@
   },
   {
     "id": 273436,
-    "fecha": "2022-09-23",
+    "publicado": "2022-09-23",
     "direccion": "Calle Asura, 111",
     "distrito": "Ciudad Lineal",
     "planta": 2,
@@ -2711,7 +2777,7 @@
   },
   {
     "id": 273461,
-    "fecha": "2022-09-30",
+    "publicado": "2022-09-30",
     "direccion": "Avda Doctor Garc\u00eda Tapia, 72",
     "distrito": "Moratalaz",
     "planta": 2,
@@ -2743,7 +2809,7 @@
   },
   {
     "id": 273464,
-    "fecha": "2022-09-30",
+    "publicado": "2022-09-30",
     "direccion": "Calle Mayor, 33",
     "distrito": "Centro",
     "planta": 3,
@@ -2774,7 +2840,7 @@
   },
   {
     "id": 273466,
-    "fecha": "2022-10-04",
+    "publicado": "2022-10-04",
     "direccion": "Calle Gutierre de Cetina, 34",
     "distrito": "Ciudad Lineal",
     "planta": 1,
@@ -2796,7 +2862,7 @@
   },
   {
     "id": 273484,
-    "fecha": "2022-10-17",
+    "publicado": "2022-10-17",
     "direccion": "Calle Bret\u00f3n de los Herreros, 20",
     "distrito": "Chamber\u00ed",
     "planta": 0,
@@ -2818,7 +2884,7 @@
   },
   {
     "id": 273502,
-    "fecha": "2022-10-26",
+    "publicado": "2022-10-26",
     "direccion": "Calle Alcal\u00e1, 168",
     "distrito": "Salamanca",
     "planta": 2,
@@ -2840,7 +2906,7 @@
   },
   {
     "id": 273522,
-    "fecha": "2022-11-10",
+    "publicado": "2022-11-10",
     "direccion": "Calle Genciana, 12",
     "distrito": "Tetu\u00e1n",
     "planta": 1,
@@ -2862,7 +2928,7 @@
   },
   {
     "id": 273523,
-    "fecha": "2022-11-10",
+    "publicado": "2022-11-10",
     "direccion": "Calle Oriente, 6",
     "distrito": "Centro",
     "planta": 1,
@@ -2884,7 +2950,7 @@
   },
   {
     "id": 273536,
-    "fecha": "2022-11-15",
+    "publicado": "2022-11-15",
     "direccion": "Calle Fray Jos\u00e9 Cerdeiri\u00f1a, 47",
     "distrito": "Latina",
     "planta": 2,
@@ -2915,7 +2981,7 @@
   },
   {
     "id": 273539,
-    "fecha": "2022-11-16",
+    "publicado": "2022-11-16",
     "direccion": "Plaza La Almunia, 45",
     "distrito": "Latina",
     "planta": 3,
@@ -2937,7 +3003,7 @@
   },
   {
     "id": 273548,
-    "fecha": "2022-11-21",
+    "publicado": "2022-11-21",
     "direccion": "Calle Valle de Pinares Llanos, 34",
     "distrito": "Fuencarral-El Pardo",
     "planta": 1,
@@ -2959,7 +3025,7 @@
   },
   {
     "id": 273560,
-    "fecha": "2022-11-24",
+    "publicado": "2022-11-24",
     "direccion": "Calle Sangarc\u00eda, 6",
     "distrito": "Arganzuela",
     "planta": 3,
@@ -2980,7 +3046,7 @@
   },
   {
     "id": 273575,
-    "fecha": "2023-03-07",
+    "publicado": "2023-03-07",
     "direccion": "Calle Comuneros de Castilla, 10",
     "distrito": "Carabanchel",
     "planta": 2,
@@ -3002,7 +3068,7 @@
   },
   {
     "id": 273577,
-    "fecha": "2022-11-28",
+    "publicado": "2022-11-28",
     "direccion": "Calle Espronceda, 32",
     "distrito": "Chamber\u00ed",
     "planta": 4,
@@ -3035,7 +3101,7 @@
   },
   {
     "id": 273585,
-    "fecha": "2022-12-02",
+    "publicado": "2022-12-02",
     "direccion": "Calle Convenio, 41",
     "distrito": "Puente de Vallecas",
     "planta": 0,
@@ -3065,7 +3131,7 @@
   },
   {
     "id": 273597,
-    "fecha": "2023-09-01",
+    "publicado": "2023-09-01",
     "direccion": "Calle Nuestra Se\u00f1ora de Bego\u00f1a, 7",
     "distrito": "Villaverde",
     "planta": 0,
@@ -3087,7 +3153,7 @@
   },
   {
     "id": 273625,
-    "fecha": "2022-12-22",
+    "publicado": "2022-12-22",
     "direccion": "Calle Torregrosa, 25",
     "distrito": "Hortaleza",
     "planta": 1,
@@ -3108,7 +3174,7 @@
   },
   {
     "id": 273636,
-    "fecha": "2022-12-30",
+    "publicado": "2022-12-30",
     "direccion": "Paseo Direcci\u00f3n, 161",
     "distrito": "Tetu\u00e1n",
     "planta": 13,
@@ -3139,7 +3205,7 @@
   },
   {
     "id": 273637,
-    "fecha": "2022-12-30",
+    "publicado": "2022-12-30",
     "direccion": "Calle Antonio L\u00f3pez, 49",
     "distrito": "Carabanchel",
     "planta": 5,
@@ -3170,7 +3236,7 @@
   },
   {
     "id": 273673,
-    "fecha": "2023-01-20",
+    "publicado": "2023-01-20",
     "direccion": "Calle M\u00e9jico, 9",
     "distrito": "Salamanca",
     "planta": 2,
@@ -3192,7 +3258,7 @@
   },
   {
     "id": 273692,
-    "fecha": "2023-02-01",
+    "publicado": "2023-02-01",
     "direccion": "Calle Gaztambide, 80",
     "distrito": "Chamber\u00ed",
     "planta": 1,
@@ -3214,7 +3280,7 @@
   },
   {
     "id": 273710,
-    "fecha": "2023-02-09",
+    "publicado": "2023-02-09",
     "direccion": "Calle Aramayona, 16",
     "distrito": "San Blas-Canillejas",
     "planta": 0,
@@ -3236,7 +3302,7 @@
   },
   {
     "id": 273729,
-    "fecha": "2023-02-16",
+    "publicado": "2023-02-16",
     "direccion": "Avda La Gavia, 39",
     "distrito": "Villa de Vallecas",
     "planta": 5,
@@ -3265,11 +3331,11 @@
   },
   {
     "id": 273745,
-    "fecha": "2023-02-22",
+    "publicado": "2023-02-22",
     "direccion": "Calle Torrelaguna, 61",
     "distrito": "Ciudad Lineal",
     "planta": 14,
-    "precio": 1800,
+    "precio": 1450,
     "metros": 102,
     "dormitorios": 4,
     "aseos": 3,
@@ -3295,11 +3361,12 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!mo3600toIolAseBJh9lqoF9OKLEQrVkKNp8nsuJkwOzOZmU1WikUFLehB8eOkoKAXpf4D!gEeBD0UBC-CehERP!AieHJ2kzSxuKdh533eeX7P-65!g2KsoXSu0sRtjDgWIVqsNymxc7feLD-cNId4DiBRAFA0GnYPqspScorF6xl96e2DP99zMFKDYhvzmLpqCztZhEPqNRUNnW5!qDBHTFiqUWwZN8hPr8WClc-uvPr6rrz2NAeFChQwt9JCKXPjpW4834lCqucqUMSCNGQLVmG0AqXALFBDNFOESdHtZmFqSLhkNROh021nQfc-kybqX45e!6lPj578vrw26zj8PoeGyQHvyTiqU31t!d702N0PN3qh5JZN2nQHQH5GdY!5F!dfuhfmpQ4RVpg0KIounMeEGtRmtIPSI6fWIMrRvHRwiT3awZqeweEJahsyOJYoTY1xVC709BsZdxPQsC!1kqSyrXWtyt6x2s2PP1NTbpabdYNOj69eX!pV2ziS2XbuDhAZIROL!3XzI8Xfn16dHT9750f6cgo40fHg8MGVemwIDqSuMociAnwqrnPm!uCy2wSksBtwlRmpLwJsXareNJ5vVD9!mV453l-qnIU9WcZMosXYqti6QoojOxx9dyGVSpzzXgpDgVYkwXYorRzkfRglkseR8KHAmaBusRS2jZRkW7bLdRfrbQu-ZyiJNfWYIDwOqNfugak-mOeQW31cs8lrsskJ6rJAScNGvDMBu4gzbmn3xibqLy3JJWA_",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!mo3600toIolAseBJh9lqoF9OKLEQrVkKNp8nsuJkwOzOZmU1WikUFLehB8eOkoKAXpf4D!gOCoIeC4EVQLyLiB14ET85ukiYW9zTsvM87z-953!VvUIw1lM5VmriNEcciRIv1JiV27tab5YeT5hDPASQKAIpGw-5BVVlKTrF4PaMvvX3w53sORmpQbGMeU1dtYSeLcEi9pqKh0-0PFeaICUs1ii3jBvnptViw8tmVV1!fldee5qBQgQLmVlooZW681I3nO1FI9VwFiliQhmzBKoxWoBSYBWqIZoowKbrdLEwNCZesZiJ0uu0s6N5n0kT9y9HrP!Xp0ZPfl9dmHYff59AwOeA9GUd1qq-t35seu!vhRi-U3LJJm-4AyM-o7jH!4v5L98K81CHCCpMGRdGF85hQg9qMdlB65NQaRDmalw4usUc7WNMzODxBbUMGxxKlqTGOyoWefiPjbgIa9qVeklS2ta5V2TtWu!nxZ2rKzXKzbtDp8dXrS79qG0cy287dASIjZGLxv25-pPj706uz42fv!EhfTgEnOh4cPrhSjw3BgdRV5lBEgE!Fdc7cH1x2m4AUdgOuMiP1RYCtS9WbxvON6ucv0yvH-0uVs7Any5hJtBhbFVtXSHFkh6PvLqRSiXPeS2Eo0Iok2A6llYO8D6NE8jgSPhQ4E9QtlsK2kZJsy3a57mK9bcH3DCWxph4ThMcB9do9MNUH8xxyq49rNnlNNjlBXRYoadiIdyZgF3HGLe3e2ET9BS!PJWE_",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!mo3600toIolAseBJh9lqoF9OKLEQrVkKNp8nsuJkwOzOZmU1WikUFLehB8eOkoKAXpf4D!gUi6KEgeBHUi4j4gRfBk7ObpInFPQ077!PO83ved!0bFGMNpXOVJm5jxLEI0WK9SYmdu!Vm-eGkOcRzAIkCgKLRsHtQVZaSUyxez-hLbx!8-Z6DkRoU25jH1FVb2MkiHFKvqWjodPtDhTliwlKNYsu4QX56LRasfHbl1dd35bWnOShUoIC5lRZKmRsvdeP5ThRSPVeBIhakIVuwCqMVKAVmgRqimSJMim43C1NDwiWrmQidbjsLuveZNFH!cvT6T3169OT35bVZx-H3OTRMDnhPxlGd6mvr96bH7n640Qslt2zSpjsA8jOqe8y!uP!SvTAvdYiwwqRBUXThPCbUoDajHZQeObUGUY7mpYNL7NEO1vQMDk9Q25DBsURpaoyjcqGn38i4m4CGfamXJJVtrWtV9o7Vbn78mZpys9ysG3R6fPX60q!axpHMtnN3gMgImVj8r5sfKf7-9Ors-Nk7P9KXU8CJjgeHD67UY0NwIHWVORQR4FNxnTP3B5fdJiCF3YCrzEh9EWDrUvWm8Xyj-vnL9Mrx!lLlLOzJMmYSLcZWxdYVUhzZ4ei7C6lU4pz3UhgKtCIJtkNp5SDvwyiRPI6EDwXOBHWLpbBtpCTbsl2uu1hvW!A9Q0msqccE4XFAvXYPTPXBPIfc6uOaTV6TTU5QlwVKGjbinQnYRZxxS7s3NlF!ATHVJWI_"
-    ]
+    ],
+    "modificado": "2023-09-08"
   },
   {
     "id": 273795,
-    "fecha": "2023-03-10",
+    "publicado": "2023-03-10",
     "direccion": "Calle Matilde Landa, 28",
     "distrito": "Tetu\u00e1n",
     "planta": 1,
@@ -3331,7 +3398,7 @@
   },
   {
     "id": 273818,
-    "fecha": "2023-03-24",
+    "publicado": "2023-03-24",
     "direccion": "Calle Ignacio Ellacur\u00eda, 6",
     "distrito": "Ciudad Lineal",
     "planta": 3,
@@ -3353,7 +3420,7 @@
   },
   {
     "id": 273826,
-    "fecha": "2023-03-27",
+    "publicado": "2023-03-27",
     "direccion": "Calle Cristo de la Victoria, 124",
     "distrito": "Usera",
     "planta": 3,
@@ -3384,7 +3451,7 @@
   },
   {
     "id": 273847,
-    "fecha": "2023-04-11",
+    "publicado": "2023-04-11",
     "direccion": "Calle San Lamberto, 11",
     "distrito": "Ciudad Lineal",
     "planta": 1,
@@ -3406,7 +3473,7 @@
   },
   {
     "id": 273866,
-    "fecha": "2023-04-19",
+    "publicado": "2023-04-19",
     "direccion": "Calle Palencia, 31",
     "distrito": "Tetu\u00e1n",
     "planta": 4,
@@ -3428,7 +3495,7 @@
   },
   {
     "id": 273870,
-    "fecha": "2023-04-19",
+    "publicado": "2023-04-19",
     "direccion": "Avda Manzanares, 98",
     "distrito": "Carabanchel",
     "planta": 3,
@@ -3458,7 +3525,7 @@
   },
   {
     "id": 273874,
-    "fecha": "2023-04-20",
+    "publicado": "2023-04-20",
     "direccion": "Calle Maquinilla, 13",
     "distrito": "Puente de Vallecas",
     "planta": 6,
@@ -3490,7 +3557,7 @@
   },
   {
     "id": 273875,
-    "fecha": "2023-04-21",
+    "publicado": "2023-04-21",
     "direccion": "Calle Rodr\u00edguez Mar\u00edn, 84",
     "distrito": "Chamart\u00edn",
     "planta": 1,
@@ -3510,7 +3577,7 @@
   },
   {
     "id": 273877,
-    "fecha": "2023-04-21",
+    "publicado": "2023-04-21",
     "direccion": "Calle Puerto de Arlab\u00e1n, 71",
     "distrito": "Puente de Vallecas",
     "planta": 1,
@@ -3532,7 +3599,7 @@
   },
   {
     "id": 273900,
-    "fecha": "2023-04-27",
+    "publicado": "2023-04-27",
     "direccion": "Calle La del Manojo de Rosas, 85",
     "distrito": "Villaverde",
     "planta": 5,
@@ -3562,7 +3629,7 @@
   },
   {
     "id": 273936,
-    "fecha": "2023-05-19",
+    "publicado": "2023-05-19",
     "direccion": "Calle Llanos de Escudero, 24",
     "distrito": "Ciudad Lineal",
     "planta": 2,
@@ -3584,7 +3651,7 @@
   },
   {
     "id": 273940,
-    "fecha": "2023-05-22",
+    "publicado": "2023-05-22",
     "direccion": "Calle Jos\u00e9 Ram\u00f3n Vizca\u00edno, 7",
     "distrito": "San Blas-Canillejas",
     "planta": 3,
@@ -3606,7 +3673,7 @@
   },
   {
     "id": 273955,
-    "fecha": "2023-05-24",
+    "publicado": "2023-05-24",
     "direccion": "Calle Huerta de Villaverde, 42",
     "distrito": "Villaverde",
     "planta": 0,
@@ -3627,7 +3694,7 @@
   },
   {
     "id": 273967,
-    "fecha": "2023-05-30",
+    "publicado": "2023-05-30",
     "direccion": "Calle Hermanos Garc\u00eda Noblejas, 26",
     "distrito": "Ciudad Lineal",
     "planta": 4,
@@ -3660,7 +3727,7 @@
   },
   {
     "id": 273983,
-    "fecha": "2023-06-07",
+    "publicado": "2023-06-07",
     "direccion": "Calle La Caba\u00f1a, 3",
     "distrito": "Villa de Vallecas",
     "planta": 0,
@@ -3691,7 +3758,7 @@
   },
   {
     "id": 273986,
-    "fecha": "2023-06-07",
+    "publicado": "2023-06-07",
     "direccion": "Calle Aguilar del R\u00edo, 7",
     "distrito": "Carabanchel",
     "planta": 6,
@@ -3721,7 +3788,7 @@
   },
   {
     "id": 273987,
-    "fecha": "2023-06-07",
+    "publicado": "2023-06-07",
     "direccion": "Calle Sierra del Valle, 36",
     "distrito": "Puente de Vallecas",
     "planta": 4,
@@ -3750,7 +3817,7 @@
   },
   {
     "id": 273992,
-    "fecha": "2023-06-08",
+    "publicado": "2023-06-08",
     "direccion": "Calle Ricardo Ortiz, 98",
     "distrito": "Ciudad Lineal",
     "planta": 7,
@@ -3781,7 +3848,7 @@
   },
   {
     "id": 273998,
-    "fecha": "2023-06-12",
+    "publicado": "2023-06-12",
     "direccion": "Calle Escosura, 4",
     "distrito": "Chamber\u00ed",
     "planta": 4,
@@ -3810,7 +3877,7 @@
   },
   {
     "id": 274000,
-    "fecha": "2023-06-12",
+    "publicado": "2023-06-12",
     "direccion": "Calle Lago Nicaragua, 5",
     "distrito": "Puente de Vallecas",
     "planta": 2,
@@ -3832,7 +3899,7 @@
   },
   {
     "id": 274002,
-    "fecha": "2023-06-14",
+    "publicado": "2023-06-14",
     "direccion": "Calle Almuradiel, 300",
     "distrito": "Puente de Vallecas",
     "planta": 3,
@@ -3861,7 +3928,7 @@
   },
   {
     "id": 274005,
-    "fecha": "2023-06-14",
+    "publicado": "2023-06-14",
     "direccion": "Calle Aramayona, 24",
     "distrito": "San Blas-Canillejas",
     "planta": 1,
@@ -3892,7 +3959,7 @@
   },
   {
     "id": 274016,
-    "fecha": "2023-06-19",
+    "publicado": "2023-06-19",
     "direccion": "Calle Javier del Quinto, 6",
     "distrito": "Hortaleza",
     "planta": 4,
@@ -3924,7 +3991,7 @@
   },
   {
     "id": 274033,
-    "fecha": "2023-06-22",
+    "publicado": "2023-06-22",
     "direccion": "Calle Pinos Baja, 71",
     "distrito": "Tetu\u00e1n",
     "planta": "Atico",
@@ -3945,7 +4012,7 @@
   },
   {
     "id": 274035,
-    "fecha": "2023-06-22",
+    "publicado": "2023-06-22",
     "direccion": "Calle Castilla, 5",
     "distrito": "Tetu\u00e1n",
     "planta": 3,
@@ -3966,7 +4033,7 @@
   },
   {
     "id": 274038,
-    "fecha": "2023-06-23",
+    "publicado": "2023-06-23",
     "direccion": "Calle Pizarra, 5",
     "distrito": "Arganzuela",
     "planta": 7,
@@ -3988,7 +4055,7 @@
   },
   {
     "id": 274047,
-    "fecha": "2023-06-27",
+    "publicado": "2023-06-27",
     "direccion": "Calle Misterios, 32",
     "distrito": "Ciudad Lineal",
     "planta": 3,
@@ -4017,7 +4084,7 @@
   },
   {
     "id": 274054,
-    "fecha": "2023-06-28",
+    "publicado": "2023-06-28",
     "direccion": "Paseo Prado, 14",
     "distrito": "Centro",
     "planta": 2,
@@ -4047,7 +4114,7 @@
   },
   {
     "id": 274064,
-    "fecha": "2023-07-05",
+    "publicado": "2023-07-05",
     "direccion": "Calle Hacienda de Pavones, 98",
     "distrito": "Moratalaz",
     "planta": 2,
@@ -4069,7 +4136,7 @@
   },
   {
     "id": 274066,
-    "fecha": "2023-07-07",
+    "publicado": "2023-07-07",
     "direccion": "Calle La Reina de \u00c1frica, 2",
     "distrito": "Puente de Vallecas",
     "planta": 3,
@@ -4090,7 +4157,7 @@
   },
   {
     "id": 274067,
-    "fecha": "2023-07-07",
+    "publicado": "2023-07-07",
     "direccion": "Calle Puentedey, 27",
     "distrito": "Villa de Vallecas",
     "planta": 3,
@@ -4112,7 +4179,7 @@
   },
   {
     "id": 274068,
-    "fecha": "2023-07-12",
+    "publicado": "2023-07-12",
     "direccion": "Calle Alcalde Henche de la Plat, 16",
     "distrito": "Hortaleza",
     "planta": 3,
@@ -4134,7 +4201,7 @@
   },
   {
     "id": 274070,
-    "fecha": "2023-07-07",
+    "publicado": "2023-07-07",
     "direccion": "Calle Antonio Cumella, 12",
     "distrito": "Moratalaz",
     "planta": 7,
@@ -4166,7 +4233,7 @@
   },
   {
     "id": 274071,
-    "fecha": "2023-07-10",
+    "publicado": "2023-07-10",
     "direccion": "Calle Marqu\u00e9s de Viana, 54",
     "distrito": "Tetu\u00e1n",
     "planta": 4,
@@ -4197,7 +4264,7 @@
   },
   {
     "id": 274076,
-    "fecha": "2023-07-11",
+    "publicado": "2023-07-11",
     "direccion": "Calle Santa Adela, 9",
     "distrito": "Hortaleza",
     "planta": 4,
@@ -4228,7 +4295,7 @@
   },
   {
     "id": 274081,
-    "fecha": "2023-07-17",
+    "publicado": "2023-07-17",
     "direccion": "Calle Arte Conceptual, 11",
     "distrito": "Villa de Vallecas",
     "planta": 4,
@@ -4259,7 +4326,7 @@
   },
   {
     "id": 274082,
-    "fecha": "2023-07-14",
+    "publicado": "2023-07-14",
     "direccion": "Calle Augustobriga, 9",
     "distrito": "Villaverde",
     "planta": 2,
@@ -4290,7 +4357,7 @@
   },
   {
     "id": 274083,
-    "fecha": "2023-07-14",
+    "publicado": "2023-07-14",
     "direccion": "Paseo Delicias, 28",
     "distrito": "Arganzuela",
     "planta": 0,
@@ -4321,7 +4388,7 @@
   },
   {
     "id": 274102,
-    "fecha": "2023-07-17",
+    "publicado": "2023-07-17",
     "direccion": "Calle Marqu\u00e9s de Jura Real, 24",
     "distrito": "Carabanchel",
     "planta": 0,
@@ -4343,7 +4410,7 @@
   },
   {
     "id": 274104,
-    "fecha": "2023-07-17",
+    "publicado": "2023-07-17",
     "direccion": "Calle Carlos Fuentes, 61",
     "distrito": "Latina",
     "planta": 3,
@@ -4374,7 +4441,7 @@
   },
   {
     "id": 274105,
-    "fecha": "2023-07-17",
+    "publicado": "2023-07-17",
     "direccion": "Calle Ur\u00eda, 23",
     "distrito": "Hortaleza",
     "planta": 1,
@@ -4404,7 +4471,7 @@
   },
   {
     "id": 274110,
-    "fecha": "2023-07-18",
+    "publicado": "2023-07-18",
     "direccion": "Calle Pe\u00f1a de la Miel, 8",
     "distrito": "Puente de Vallecas",
     "planta": 3,
@@ -4433,7 +4500,7 @@
   },
   {
     "id": 274114,
-    "fecha": "2023-07-20",
+    "publicado": "2023-07-20",
     "direccion": "Calle Neguilla, 6",
     "distrito": "Latina",
     "planta": 3,
@@ -4455,7 +4522,7 @@
   },
   {
     "id": 274121,
-    "fecha": "2023-07-25",
+    "publicado": "2023-07-25",
     "direccion": "Cmno Montoro, 43",
     "distrito": "Hortaleza",
     "planta": 1,
@@ -4477,7 +4544,7 @@
   },
   {
     "id": 274122,
-    "fecha": "2023-07-25",
+    "publicado": "2023-07-25",
     "direccion": "Calle Divino Redentor, 61",
     "distrito": "Tetu\u00e1n",
     "planta": 2,
@@ -4499,7 +4566,7 @@
   },
   {
     "id": 274126,
-    "fecha": "2023-07-27",
+    "publicado": "2023-07-27",
     "direccion": "Paseo Chopera, 15",
     "distrito": "Arganzuela",
     "planta": 0,
@@ -4529,7 +4596,7 @@
   },
   {
     "id": 274131,
-    "fecha": "2023-07-31",
+    "publicado": "2023-07-31",
     "direccion": "Calle Los Y\u00e9benes, 153",
     "distrito": "Latina",
     "planta": 3,
@@ -4560,7 +4627,7 @@
   },
   {
     "id": 274132,
-    "fecha": "2023-07-31",
+    "publicado": "2023-07-31",
     "direccion": "Calle Fuencarral, 98",
     "distrito": "Centro",
     "planta": 3,
@@ -4582,7 +4649,7 @@
   },
   {
     "id": 274138,
-    "fecha": "2023-08-02",
+    "publicado": "2023-08-02",
     "direccion": "Calle Cullera, 4",
     "distrito": "Latina",
     "planta": 7,
@@ -4615,7 +4682,7 @@
   },
   {
     "id": 274142,
-    "fecha": "2023-08-03",
+    "publicado": "2023-08-03",
     "direccion": "Calle Rueza, 36",
     "distrito": "Latina",
     "planta": 7,
@@ -4637,7 +4704,7 @@
   },
   {
     "id": 274148,
-    "fecha": "2023-08-04",
+    "publicado": "2023-08-04",
     "direccion": "Calle Mes\u00f3n de Paredes, 58",
     "distrito": "Centro",
     "planta": 2,
@@ -4667,7 +4734,7 @@
   },
   {
     "id": 274150,
-    "fecha": "2023-08-04",
+    "publicado": "2023-08-04",
     "direccion": "Calle Ba\u00f1os de Valdearados, 5",
     "distrito": "Villa de Vallecas",
     "planta": 6,
@@ -4698,7 +4765,7 @@
   },
   {
     "id": 274151,
-    "fecha": "2023-08-07",
+    "publicado": "2023-08-07",
     "direccion": "Avda General Per\u00f3n, 2",
     "distrito": "Tetu\u00e1n",
     "planta": 6,
@@ -4728,7 +4795,7 @@
   },
   {
     "id": 274158,
-    "fecha": "2023-08-08",
+    "publicado": "2023-08-08",
     "direccion": "Calle Narv\u00e1ez, 45",
     "distrito": "Retiro",
     "planta": 1,
@@ -4758,7 +4825,7 @@
   },
   {
     "id": 274160,
-    "fecha": "2023-08-08",
+    "publicado": "2023-08-08",
     "direccion": "Calle Doctor Blanco Soler, 7",
     "distrito": "Latina",
     "planta": 6,
@@ -4789,7 +4856,7 @@
   },
   {
     "id": 274161,
-    "fecha": "2023-08-08",
+    "publicado": "2023-08-08",
     "direccion": "Calle Tribulete, 9",
     "distrito": "Centro",
     "planta": 1,
@@ -4811,7 +4878,7 @@
   },
   {
     "id": 274165,
-    "fecha": "2023-08-10",
+    "publicado": "2023-08-10",
     "direccion": "Calle Ram\u00f3n Power, 64",
     "distrito": "Hortaleza",
     "planta": 4,
@@ -4843,7 +4910,7 @@
   },
   {
     "id": 274167,
-    "fecha": "2023-08-11",
+    "publicado": "2023-08-11",
     "direccion": "Calle Ca\u00f1ada, 27",
     "distrito": "Moratalaz",
     "planta": 2,
@@ -4873,7 +4940,7 @@
   },
   {
     "id": 274169,
-    "fecha": "2023-08-14",
+    "publicado": "2023-08-14",
     "direccion": "Calle Juan Pantoja, 7",
     "distrito": "Tetu\u00e1n",
     "planta": 3,
@@ -4894,7 +4961,7 @@
   },
   {
     "id": 274171,
-    "fecha": "2023-08-16",
+    "publicado": "2023-08-16",
     "direccion": "Calle Encomienda de Palacios, 100",
     "distrito": "Moratalaz",
     "planta": 5,
@@ -4925,7 +4992,7 @@
   },
   {
     "id": 274173,
-    "fecha": "2023-08-16",
+    "publicado": "2023-08-16",
     "direccion": "Calle Bol\u00edvar, 6",
     "distrito": "Arganzuela",
     "planta": 2,
@@ -4947,7 +5014,7 @@
   },
   {
     "id": 274177,
-    "fecha": "2023-08-16",
+    "publicado": "2023-08-16",
     "direccion": "Calle Olid, 14",
     "distrito": "Chamber\u00ed",
     "planta": 1,
@@ -4978,7 +5045,7 @@
   },
   {
     "id": 274179,
-    "fecha": "2023-08-17",
+    "publicado": "2023-08-17",
     "direccion": "Calle Santa Engracia, 83",
     "distrito": "Chamber\u00ed",
     "planta": 3,
@@ -5007,7 +5074,7 @@
   },
   {
     "id": 274181,
-    "fecha": "2023-08-17",
+    "publicado": "2023-08-17",
     "direccion": "Calle C\u00e9sar Cort Bot\u00ed, 73",
     "distrito": "Hortaleza",
     "planta": 1,
@@ -5029,7 +5096,7 @@
   },
   {
     "id": 274184,
-    "fecha": "2023-08-18",
+    "publicado": "2023-08-18",
     "direccion": "Calle Algemesi, 39",
     "distrito": "Barajas",
     "planta": 0,
@@ -5062,7 +5129,7 @@
   },
   {
     "id": 274187,
-    "fecha": "2023-08-21",
+    "publicado": "2023-08-21",
     "direccion": "Calle Eros, 10",
     "distrito": "Arganzuela",
     "planta": 4,
@@ -5084,7 +5151,7 @@
   },
   {
     "id": 274189,
-    "fecha": "2023-08-22",
+    "publicado": "2023-08-22",
     "direccion": "Calle Dos Hermanas, 20",
     "distrito": "Centro",
     "planta": 3,
@@ -5106,7 +5173,7 @@
   },
   {
     "id": 274190,
-    "fecha": "2023-08-22",
+    "publicado": "2023-08-22",
     "direccion": "Calle Beasain, 31",
     "distrito": "Usera",
     "planta": 7,
@@ -5128,7 +5195,7 @@
   },
   {
     "id": 274191,
-    "fecha": "2023-08-22",
+    "publicado": "2023-08-22",
     "direccion": "Plaza Puerto Rubio, 16",
     "distrito": "Puente de Vallecas",
     "planta": 3,
@@ -5156,7 +5223,7 @@
   },
   {
     "id": 274192,
-    "fecha": "2023-08-22",
+    "publicado": "2023-08-22",
     "direccion": "Calle Lorenza Correa, 13",
     "distrito": "Tetu\u00e1n",
     "planta": 1,
@@ -5178,7 +5245,7 @@
   },
   {
     "id": 274193,
-    "fecha": "2023-08-22",
+    "publicado": "2023-08-22",
     "direccion": "Calle Marcudos, 4",
     "distrito": "Usera",
     "planta": 2,
@@ -5200,7 +5267,7 @@
   },
   {
     "id": 274194,
-    "fecha": "2023-08-22",
+    "publicado": "2023-08-22",
     "direccion": "Calle Orio, 5",
     "distrito": "Villaverde",
     "planta": 2,
@@ -5229,7 +5296,7 @@
   },
   {
     "id": 274201,
-    "fecha": "2023-08-28",
+    "publicado": "2023-08-28",
     "direccion": "Calle Ba\u00f1os de Valdearados, 5",
     "distrito": "Villa de Vallecas",
     "planta": 6,
@@ -5261,7 +5328,7 @@
   },
   {
     "id": 274203,
-    "fecha": "2023-08-25",
+    "publicado": "2023-08-25",
     "direccion": "Calle Albarrac\u00edn, 20",
     "distrito": "San Blas-Canillejas",
     "planta": 2,
@@ -5290,7 +5357,7 @@
   },
   {
     "id": 274206,
-    "fecha": "2023-08-28",
+    "publicado": "2023-08-28",
     "direccion": "Calle Hermanos G\u00f3mez, 37",
     "distrito": "Ciudad Lineal",
     "planta": 3,
@@ -5311,7 +5378,7 @@
   },
   {
     "id": 274207,
-    "fecha": "2023-09-08",
+    "publicado": "2023-09-08",
     "direccion": "Calle Mario Moreno \"Cantinflas\", 39",
     "distrito": "Vic\u00e1lvaro",
     "planta": 2,
@@ -5333,7 +5400,7 @@
   },
   {
     "id": 274216,
-    "fecha": "2023-08-31",
+    "publicado": "2023-08-31",
     "direccion": "Calle Villaamil, 74",
     "distrito": "Tetu\u00e1n",
     "planta": 2,
@@ -5363,7 +5430,7 @@
   },
   {
     "id": 274217,
-    "fecha": "2023-08-31",
+    "publicado": "2023-08-31",
     "direccion": "Calle Sierra Carbonera, 75",
     "distrito": "Puente de Vallecas",
     "planta": 2,
@@ -5385,7 +5452,7 @@
   },
   {
     "id": 274218,
-    "fecha": "2023-08-31",
+    "publicado": "2023-08-31",
     "direccion": "Calle Tom\u00e1s Borr\u00e1s, 10",
     "distrito": "Arganzuela",
     "planta": 4,
@@ -5406,7 +5473,7 @@
   },
   {
     "id": 274221,
-    "fecha": "2023-09-01",
+    "publicado": "2023-09-01",
     "direccion": "Avda Monasterio de Silos, 80",
     "distrito": "Fuencarral-El Pardo",
     "planta": 2,
@@ -5428,7 +5495,7 @@
   },
   {
     "id": 274222,
-    "fecha": "2023-09-04",
+    "publicado": "2023-09-04",
     "direccion": "Calle Villajoyosa, 79",
     "distrito": "Villaverde",
     "planta": 3,
@@ -5450,7 +5517,7 @@
   },
   {
     "id": 274223,
-    "fecha": "2023-09-04",
+    "publicado": "2023-09-04",
     "direccion": "Calle Arquitectura, 18",
     "distrito": "Arganzuela",
     "planta": 5,
@@ -5472,7 +5539,7 @@
   },
   {
     "id": 274225,
-    "fecha": "2023-09-05",
+    "publicado": "2023-09-05",
     "direccion": "Calle Princesa de \u00c9boli, 34",
     "distrito": "Hortaleza",
     "planta": 3,
@@ -5494,7 +5561,7 @@
   },
   {
     "id": 274226,
-    "fecha": "2023-09-05",
+    "publicado": "2023-09-05",
     "direccion": "Plaza Corcubi\u00f3n, 1",
     "distrito": "Fuencarral-El Pardo",
     "planta": 3,
@@ -5516,7 +5583,7 @@
   },
   {
     "id": 274229,
-    "fecha": "2023-09-05",
+    "publicado": "2023-09-05",
     "direccion": "Calle V\u00eda Lusitana, 6",
     "distrito": "Carabanchel",
     "planta": 1,
@@ -5528,6 +5595,50 @@
     "mascotas": false,
     "amueblada": true,
     "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 274230,
+    "publicado": "2023-09-06",
+    "direccion": "Calle Nebulosas, 2",
+    "distrito": "Arganzuela",
+    "planta": 0,
+    "precio": 1100,
+    "metros": 50.1,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 274232,
+    "publicado": "2023-09-08",
+    "direccion": "Calle Sierra del Valle, 50",
+    "distrito": "Puente de Vallecas",
+    "planta": 1,
+    "precio": 700,
+    "metros": 45.3,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
     "calefacion": true,
     "garaje": false,
     "adaptada": false,
