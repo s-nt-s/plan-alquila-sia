@@ -35,7 +35,7 @@
       </tr>
     </thead>
     <tbody>
-    {% for p in pisos|sort(reverse=true, attribute='fecha,precio,plan,id') %}
+    {% for p in pisos|sort(reverse=true, attribute='fecha,plan,id,precio') %}
     <tr class="{{p.plan.lower()}}">
       <td data-sortkey="{{p.get_plan_id()}}" 
           class="rgh" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan.lower()}}/{{p.id}}.html">{{p.id}}</a></td>
@@ -53,7 +53,7 @@
       <td>{{p.barrio}}</td>
       <td class="rgh" data-sortkey="{{p.ascensor | int}}">{{"Si" if p.ascensor else ""}}</td>
       #}
-      <td>{{p.fecha}}</td>
+      <td data-sortkey="{{p.fecha}}.{{p.get_plan_id()}}">{{p.fecha}}</td>
     </tr>
     {% endfor %}
     </tbody>
