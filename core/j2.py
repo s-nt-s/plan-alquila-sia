@@ -87,8 +87,8 @@ class Jnj2():
             return True
         with open(destino, "r") as f:
             old_html = f.read()
-        new_html = re_last_modified.sub("", new_html)
-        old_html = re_last_modified.sub("", old_html)
+        new_html = re_last_modified.sub("", new_html).strip()
+        old_html = re_last_modified.sub("", old_html).strip()
         if old_html == new_html:
             return False
         return True
