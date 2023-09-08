@@ -40,7 +40,7 @@
       <td class="rgh">{{p.dormitorios}}</td>
       {#<td class="rgh">{{p.aseos}}</td>#}
       <td data-sortkey="{{p.planta}}" title="{{p.get_planta_title()}}"
-          class="rgh">{{p.planta}} {{"🛗" if p.ascensor else "🪜"}}</td>
+          class="rgh ascensor{{p.ascensor}}">{{p.planta}}</td>
       <td data-sortkey="{{(p.distrito or 'z')+'\t'+p.direccion}}"
       ><a href="https://www.google.com/maps/place/{{p.direccion.replace(' ', '+')}},+Madrid">{{p.get_direccion()}}</a>, {{p.distrito}}</td>
       {#
