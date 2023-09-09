@@ -2,7 +2,7 @@ import re
 import time
 
 import urllib3
-from bs4 import Tag
+from bs4 import Tag, BeautifulSoup
 from selenium.common.exceptions import (NoSuchElementException,
                                         StaleElementReferenceException)
 from selenium.webdriver.remote.webelement import WebElement
@@ -12,6 +12,7 @@ from .piso import Piso
 from .util import safe_int, tmap
 from .web import Driver, get_text
 from .retry import retry, RetryException
+from typing import NamedTuple
 import logging
 
 urllib3.disable_warnings()
@@ -21,6 +22,31 @@ logger = logging.getLogger(__name__)
 
 class BadAlqFicha(RetryException):
     pass
+
+
+class ComboOption(NamedTuple):
+    txt: str
+    dom: WebElement
+    items: int
+    index: int
+    total: int
+
+    @staticmethod
+    def parse(options: list[WebElement], index: int):
+        if len(options) <= index:
+            return None
+        dpg = options[index]
+        txt: str = dpg.text.strip()
+        txt, num = txt.strip().rsplit(None, 1)
+        txt = txt.strip()
+        num = int(num[1:-1])
+        return ComboOption(
+            txt=txt,
+            dom=dpg,
+            items=num,
+            index=index,
+            total=len(options)
+        )
 
 
 def get_val(n: Tag):
@@ -56,42 +82,80 @@ class Alquila:
         self.today = date.today().strftime("%Y-%m-%d")
 
     def get_pisos(self):
+        def iter_panel(soup: BeautifulSoup):
+            tbody = soup.find(
+                "tbody", attrs={"id": "mainPanel:viviendasTable:table:tb"})
+            for tr in tbody.select("tr"):
+                vals = tmap(get_val, tr.findAll("td"))
+                if len(vals) == 10:
+                    yield vals
+
         r: list[Piso] = []
-        page = -1
         with Driver(wait=10) as w:
             w.get(Alquila.URL)
-            while True:
-                page += 1
-                w.click("mainPanel:pf_comboValoresDistritoPanel")
-                div = w.wait("mainPanel:pf_comboValoresDistritoItems")
-                dvs = div.find_elements_by_xpath("./div")
-                if len(dvs) <= page:
-                    break
-                dpg: WebElement = dvs[page]
-                dist: str = dpg.text.strip()
-                logger.info(f"Página {page+1}/{len(dvs)}: {dist}")
-                dist = dist.rsplit(None, 1)[0]
-                dpg.click()
-                w.click("mainPanel:filtrar")
-                time.sleep(2)
-                w.safe_click("mainPanel:solapaListado:header:inactive")
-                time.sleep(2)
-                soup = w.get_soup()
-                tbody = soup.find(
-                    "tbody", attrs={"id": "mainPanel:viviendasTable:table:tb"})
-                for tr in tbody.select("tr"):
-                    vals = tmap(get_val, tr.findAll("td"))
-                    if len(vals) != 10:
-                        continue
-                    ps = self.get_piso(w, vals[1],
-                                       direccion=vals[2],
-                                       planta=vals[3],
-                                       publicado=vals[-1],
-                                       distrito=dist
-                                       )
+            #for info in self.iter_municipios(w):
+            for info in self.iter_distritos(w):
+                self.click_search(w)
+                for vals in iter_panel(w.get_soup()):
+                    ps = self.get_piso(
+                        w,
+                        vals[1],
+                        direccion=vals[2],
+                        planta=vals[3],
+                        publicado=vals[-1],
+                        distrito=info.txt
+                    )
                     r.append(ps)
         r = sorted(r, key=lambda x: x.id)
         return r
+
+    def iter_combo(self, driver: Driver, input: str, items: str):
+        dvs = None
+        index = -1
+        while True:
+            index += 1
+            if dvs is None:
+                driver.click(input)
+                div = driver.wait(items)
+                dvs = div.find_elements_by_xpath("./div")
+            info = ComboOption.parse(dvs, index)
+            if info is None:
+                break
+            if info.items == 0:
+                continue
+            info.dom.click()
+            dvs = None
+            yield info
+
+    def iter_municipios(self, w: Driver):
+        info: ComboOption
+        for info in self.iter_combo(
+            driver=w,
+            input="mainPanel:pf_comboValoresMunicipioInput",
+            items="mainPanel:pf_comboValoresMunicipioItems",
+        ):
+            logger.info(f"Municipio {info.index+1}/{info.total}: {info.txt} ({info.items})")
+            div = w.safe_wait("mainPanel:pf_comboValoresDistritoPanel", seconds=2)
+            if div is not None and div.is_displayed():
+                yield from self.iter_municipios(w)
+                continue
+            yield info
+
+    def iter_distritos(self, w: Driver):
+        info: ComboOption
+        for info in self.iter_combo(
+            driver=w,
+            input="mainPanel:pf_comboValoresDistritoPanel",
+            items="mainPanel:pf_comboValoresDistritoItems",
+        ):
+            logger.info(f"Distrito {info.index+1}/{info.total}: {info.txt} ({info.items})")
+            yield info
+
+    def click_search(self, w: Driver):
+        w.click("mainPanel:filtrar")
+        time.sleep(2)
+        w.safe_click("mainPanel:solapaListado:header:inactive")
+        time.sleep(2)
 
     def get_piso(self, w: Driver, id: int, **kvargs):
         logger.info(f"Piso {id}")
