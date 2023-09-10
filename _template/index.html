@@ -16,18 +16,7 @@
   </head>
   <body>
   <main>
-    {#
-    <fieldset id="zonas">
-      <legend>Filtrar por:</legend>
-      {% set zonas = pisos|map(attribute='zona')|unique|sort %}
-      {% for z in zonas %}
-      <p>
-        <input type="checkbox" value="{{z | simplify}}" name="zona" id="z{{loop.index}}"/>
-        <label for="z{{loop.index}}">{{z}}</label>
-      </p>
-      {%endfor%}
-    </fieldset>
-    #}
+  {% set zonas = pisos|map(attribute='zona')|unique|sort %}
   <table>
     <thead>
       <tr class="sortme">
@@ -37,7 +26,12 @@
         <th title="Dormitorios" class="isSortable hideIfEQ">D</th>
         {#<th title="Aseos" class="isSortable hideIfEQ">A</th>#}
         <th title="Planta" class="isSortable hideIfEQ">P</th>
-        <th class="isSortable str hideIfEQ">Dirección</th>
+        <th><select id="zona">
+          <option value="">Dirección</option>
+          {% for z in zonas %}
+          <option value="{{z | simplify}}">{{z}}</option>
+          {%endfor%}
+        </select></th>
         <th class="isSortable str isSortedByMe isReversed hideIfEQ">Fecha</th>
       </tr>
     </thead>
