@@ -17,6 +17,8 @@
   <body>
   <main>
   {% set zonas = pisos|map(attribute='zona')|unique|sort %}
+  <p>Puedes suscribirte a este <a href="pisos.rss">RSS</a>
+    para recibir actualizaciones.</p>
   <table>
     <thead>
       <tr class="sortme">

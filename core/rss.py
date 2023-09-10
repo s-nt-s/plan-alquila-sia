@@ -76,4 +76,5 @@ class PisosRss:
                 ''').strip().replace("Nonem², ", "").replace("\n", "<br/>"),
                 guid=rfeed.Guid(link+'?'+p.fecha),
                 pubDate=datetime(*map(int, p.fecha.split("-"))),
+                categories=rfeed.Category(p.zona)
             )
