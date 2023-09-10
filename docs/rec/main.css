@@ -107,3 +107,10 @@ main > ul {
 td.ascensorFalse {
   color: red;
 }
+
+fieldset#zonas > p {
+  display: inline-block;
+  min-width: 160px;
+  margin: 5px;
+  padding: 0;
+}

@@ -1,10 +1,12 @@
 import os
 import re
 from urllib.parse import parse_qsl, urlsplit
+from unidecode import unidecode
 
 import bs4
 from jinja2 import Environment, FileSystemLoader
 
+re_sp = re.compile(r"\s+")
 re_br = re.compile(r"<br/>(\s*</)")
 re_last_modified = re.compile(
     r'^\s*<meta[^>]+http-equiv="Last-Modified"[^>]+>\s*$',
@@ -36,6 +38,16 @@ def decimal(value):
     return str(value).replace(".", ",")
 
 
+def simplify(s: str):
+    s = re_sp.sub(" ", s).strip().lower()
+    s = unidecode(s)
+    spl = s.rsplit(",", 1)
+    if len(spl)==2 and spl[1].strip() in ('el', 'la', 'los', 'las'):
+        s = spl[0].strip()
+    s = re_sp.sub("-", s)
+    return s
+
+
 def toTag(html: str, *args):
     if len(args) > 0:
         html = html.format(*args)
@@ -50,6 +62,7 @@ class Jnj2():
             loader=FileSystemLoader(origen), trim_blocks=True)
         self.j2_env.filters['millar'] = millar
         self.j2_env.filters['decimal'] = decimal
+        self.j2_env.filters['simplify'] = simplify
         self.j2_env.filters['round'] = lambda x: round(
             x) if x is not None else None
         self.destino = destino

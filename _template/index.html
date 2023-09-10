@@ -12,9 +12,20 @@
     <title>{{pisos | length | millar}} pisos</title>
     <link rel="stylesheet" href="rec/main.css">
     <script type="text/javascript" src="rec/sort_table.js"></script>
+    <script type="text/javascript" src="rec/main.js"></script>
   </head>
   <body>
   <main>
+    <fieldset id="zonas">
+      <legend>Filtrar por:</legend>
+      {% set zonas = pisos|map(attribute='distrito')|unique|sort %}
+      {% for z in zonas %}
+      <p>
+        <input type="checkbox" value="{{z | simplify}}" name="zona" id="z{{loop.index}}"/>
+        <label for="z{{loop.index}}">{{z}}</label>
+      </p>
+      {%endfor%}
+    </fieldset>
   <table>
     <thead>
       <tr class="sortme">
@@ -36,7 +47,7 @@
     </thead>
     <tbody>
     {% for p in pisos|sort(reverse=true, attribute='fecha,plan,id,precio') %}
-    <tr class="{{p.plan.lower()}}">
+    <tr class="{{p.plan.lower()}}" data-zona="{{p.distrito | simplify}}">
       <td data-sortkey="{{p.get_plan_id()}}" 
           class="rgh" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan.lower()}}/{{p.id}}.html">{{p.id}}</a></td>
       <td class="rgh">{{p.metros | round}}</td>
