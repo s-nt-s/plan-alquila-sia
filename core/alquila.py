@@ -24,6 +24,11 @@ class BadAlqFicha(RetryException):
     pass
 
 
+class Zona(NamedTuple):
+    municipio: str
+    distrito: str
+
+
 class ComboOption(NamedTuple):
     txt: str
     dom: WebElement
@@ -111,16 +116,19 @@ class AlqDriver(Driver):
             if div is not None and div.is_displayed():
                 yield from self.iter_distritos()
                 continue
-            yield info
+            yield Zona(municipio=info.txt, distrito=None)
 
     def iter_distritos(self):
+        municipio = self.execute_script('''
+            return $("*[id='mainPanel:pf_comboValoresMunicipioInput']").val().trim().replace(/\s+\S+$/, "");
+        '''.strip())
         info: ComboOption
         for info in self.iter_combo(
             input="mainPanel:pf_comboValoresDistritoPanel",
             items="mainPanel:pf_comboValoresDistritoItems",
         ):
             logger.info(f"Distrito {info.index+1}/{info.total}: {info.txt} ({info.items})")
-            yield info
+            yield Zona(municipio=municipio, distrito=info.txt)
 
     def click_search(self):
         self.execute_script('''
@@ -158,8 +166,8 @@ class Alquila:
         r: list[Piso] = []
         with AlqDriver(wait=10) as w:
             w.get(Alquila.URL)
-            #for info in w.iter_municipios():
-            for info in w.iter_distritos():
+            for zona in w.iter_municipios():
+            #for info in w.iter_distritos():
                 w.click_search()
                 for vals in iter_panel(w.get_soup()):
                     ps = self.get_piso(
@@ -168,7 +176,8 @@ class Alquila:
                         direccion=vals[2],
                         planta=vals[3],
                         publicado=vals[-1],
-                        distrito=info.txt
+                        distrito=zona.distrito,
+                        municipio=zona.municipio
                     )
                     r.append(ps)
         r = sorted(r, key=lambda x: x.id)

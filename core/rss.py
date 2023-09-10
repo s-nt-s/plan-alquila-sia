@@ -51,7 +51,7 @@ class PisosRss:
         if old_rss == new_rss:
             return False
         return True
-    
+
     def __get_rss(self, feed: rfeed.Feed):
         def bkline(s, i):
             return s.split("\n", 1)[i]
@@ -66,7 +66,7 @@ class PisosRss:
             link = f'{self.root}/{p.plan.lower()}/{p.id}'
             metros = round(p.metros) if p.metros else None
             yield rfeed.Item(
-                title=f'{p.precio}€ {p.distrito}',
+                title=f'{p.precio}€ {p.zona}',
                 link=link,
                 description=dedent(f'''
                     {p.get_direccion()},

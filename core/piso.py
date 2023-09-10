@@ -7,10 +7,11 @@ class Piso:
     publicado: str = None
     modificado: str = None
     direccion: str = None
+    municipio: str = None
     distrito: str = None
+    barrio: str = None
     planta: float = None
     orientacion: str = None
-    barrio: str = None
     precio: float = None
     metros: float = None
     dormitorios: int = None
@@ -68,16 +69,19 @@ class Piso:
         return ((ord.index(pla)+1)*10000000)+self.id
 
     def get_planta_title(self):
+        ascensor = "ascensor"
+        if self.ascensor:
+            ascensor = "con "+ascensor
+        else:
+            ascensor = "sin "+ascensor
+        if self.planta is None:
+            return ascensor
         planta = self.planta
         if planta == 0:
             planta = "Bajo"
         if isinstance(planta, int):
             planta = str(planta)+'º'
-        if self.ascensor:
-            planta = planta+" con "
-        else:
-            planta = planta+" sin "
-        planta = planta + "ascensor"
+        planta = planta + " "+ascensor
         return planta
 
     def get_direccion(self):
@@ -104,7 +108,9 @@ class Piso:
 
     def askey(self):
         obj = asdict(self)
-        del obj['modificado']
+        for k in ('modificado', 'municipio', 'distrito', 'barrio'):
+            if k in obj:
+                del obj[k]
         for k, v in list(obj.items()):
             if isinstance(v, list):
                 obj[k] = tuple(v)
@@ -114,3 +120,7 @@ class Piso:
     @property
     def fecha(self):
         return self.modificado or self.publicado
+
+    @property
+    def zona(self):
+        return self.distrito or self.municipio

@@ -14,6 +14,8 @@ function filtrar() {
 }
 
 document.addEventListener("DOMContentLoaded", function() {
+    const npt = document.querySelectorAll("#zonas input");
+    if (npt.length==0) return;
     document.querySelectorAll("#zonas input").forEach(i=> {
         i.addEventListener("click", filtrar)
     })

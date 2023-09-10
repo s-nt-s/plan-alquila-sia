@@ -84,6 +84,7 @@ class Sia:
             publicado=old.publicado or self.today,
             direccion=vals[1],
             precio=vals[2],
+            municipio="Madrid",
             distrito=vals[3],
             barrio=vals[4],
             dormitorios=vals[5],

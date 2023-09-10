@@ -16,9 +16,10 @@
   </head>
   <body>
   <main>
+    {#
     <fieldset id="zonas">
       <legend>Filtrar por:</legend>
-      {% set zonas = pisos|map(attribute='distrito')|unique|sort %}
+      {% set zonas = pisos|map(attribute='zona')|unique|sort %}
       {% for z in zonas %}
       <p>
         <input type="checkbox" value="{{z | simplify}}" name="zona" id="z{{loop.index}}"/>
@@ -26,6 +27,7 @@
       </p>
       {%endfor%}
     </fieldset>
+    #}
   <table>
     <thead>
       <tr class="sortme">
@@ -37,17 +39,11 @@
         <th title="Planta" class="isSortable hideIfEQ">P</th>
         <th class="isSortable str hideIfEQ">Dirección</th>
         <th class="isSortable str isSortedByMe isReversed hideIfEQ">Fecha</th>
-        {#
-        <th>Dirección</th>
-        <th class="isSortable str hideIfEQ">Distrito</th>
-        <th class="isSortable str hideIfEQ">Barrio</th>
-        <th title="Ascensor" class="isSortable hideIfEQ">Asc</th>
-        #}
       </tr>
     </thead>
     <tbody>
     {% for p in pisos|sort(reverse=true, attribute='fecha,plan,id,precio') %}
-    <tr class="{{p.plan.lower()}}" data-zona="{{p.distrito | simplify}}">
+    <tr class="{{p.plan.lower()}}" data-zona="{{p.zona | simplify}}">
       <td data-sortkey="{{p.get_plan_id()}}" 
           class="rgh" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan.lower()}}/{{p.id}}.html">{{p.id}}</a></td>
       <td class="rgh">{{p.metros | round}}</td>
@@ -56,14 +52,9 @@
       <td class="rgh">{{p.dormitorios}}</td>
       {#<td class="rgh">{{p.aseos}}</td>#}
       <td data-sortkey="{{p.planta}}" title="{{p.get_planta_title()}}"
-          class="rgh ascensor{{p.ascensor}}">{{p.planta}}</td>
-      <td data-sortkey="{{(p.distrito or 'z')+'\t'+p.direccion}}"
-      ><a href="https://www.google.com/maps/place/{{p.direccion.replace(' ', '+')}},+Madrid">{{p.get_direccion()}}</a>, {{p.distrito}}</td>
-      {#
-      <td>{{p.distrito}}</td>
-      <td>{{p.barrio}}</td>
-      <td class="rgh" data-sortkey="{{p.ascensor | int}}">{{"Si" if p.ascensor else ""}}</td>
-      #}
+          class="rgh ascensor{{p.ascensor}}">{{p.planta if p.planta is not none else '¿?'}}</td>
+      <td data-sortkey="{{(p.zona or 'z')+'\t'+p.direccion}}"
+      ><a href="https://www.google.com/maps/place/{{p.direccion.replace(' ', '+')}},+Madrid">{{p.get_direccion()}}</a>, {{p.zona}}</td>
       <td data-sortkey="{{p.fecha}}.{{p.get_plan_id()}}">{{p.fecha}}</td>
     </tr>
     {% endfor %}

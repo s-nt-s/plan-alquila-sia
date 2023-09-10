@@ -17,7 +17,7 @@
     <li><strong>Aseos</strong>: {{p.aseos}}</li>
     <li><strong>Dirección</strong>:
         <a href="https://www.google.com/maps/place/{{p.direccion.replace(' ', '+')}},+Madrid">{{p.direccion}}</a>
-        ({{p.distrito}}{%if p.barrio%}, {{p.barrio}}{%endif%})
+        ({{(p.zona)}}{%if p.barrio%}, {{p.barrio}}{%endif%})
     </li>
     <li><strong>Planta</strong>: {{p.planta}}</li>
     <li><strong>CEE</strong>: {{p.cee}}</li>
