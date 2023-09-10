@@ -74,6 +74,71 @@ def get_val(n: Tag):
     return txt
 
 
+class AlqDriver(Driver):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+
+    def waitLoaded(self):
+        self.waitjs('!$("#img_cab_sup_izq").attr("src").endsWith("mapa_cargando.gif")')
+
+    def iter_combo(self, input: str, items: str):
+        dvs = None
+        index = -1
+        while True:
+            index += 1
+            if dvs is None:
+                self.click(input)
+                div = self.wait(items)
+                dvs = div.find_elements_by_xpath("./div")
+            info = ComboOption.parse(dvs, index)
+            if info is None:
+                break
+            if info.items == 0:
+                continue
+            info.dom.click()
+            dvs = None
+            yield info
+
+    def iter_municipios(self):
+        info: ComboOption
+        for info in self.iter_combo(
+            input="mainPanel:pf_comboValoresMunicipioInput",
+            items="mainPanel:pf_comboValoresMunicipioItems",
+        ):
+            self.waitLoaded()
+            logger.info(f"Municipio {info.index+1}/{info.total}: {info.txt} ({info.items})")
+            div = self.safe_wait("mainPanel:pf_comboValoresDistritoPanel", seconds=2)
+            if div is not None and div.is_displayed():
+                yield from self.iter_distritos()
+                continue
+            yield info
+
+    def iter_distritos(self):
+        info: ComboOption
+        for info in self.iter_combo(
+            input="mainPanel:pf_comboValoresDistritoPanel",
+            items="mainPanel:pf_comboValoresDistritoItems",
+        ):
+            logger.info(f"Distrito {info.index+1}/{info.total}: {info.txt} ({info.items})")
+            yield info
+
+    def click_search(self):
+        self.execute_script('''
+            jQuery("*[id='mainPanel:filtrar']").click();
+        ''')
+        self.waitLoaded()
+
+    def get_detail(self, id) -> WebElement:
+        self.execute_script(f'''
+            $("*[id='mainPanel:viviendasTable:table'] tr").find("td:eq(1) > a").filter((i, e)=>e.textContent.trim()=="{id}").click();                 
+        '''.strip())
+        self.waitLoaded()
+        return self._driver.find_element_by_id("mainPanel:solapaDetalle:content")
+
+    def jClick(self, node):
+        self.execute_script("jQuery(arguments[0]).click()", node)
+
+
 class Alquila:
     URL = "https://gestiona.comunidad.madrid/gpal_inter/secure/include/viviendapublicada/busqViviendasPublicadasContenedor.jsf"
 
@@ -91,11 +156,11 @@ class Alquila:
                     yield vals
 
         r: list[Piso] = []
-        with Driver(wait=10) as w:
+        with AlqDriver(wait=10) as w:
             w.get(Alquila.URL)
-            #for info in self.iter_municipios(w):
-            for info in self.iter_distritos(w):
-                self.click_search(w)
+            #for info in w.iter_municipios():
+            for info in w.iter_distritos():
+                w.click_search()
                 for vals in iter_panel(w.get_soup()):
                     ps = self.get_piso(
                         w,
@@ -109,59 +174,9 @@ class Alquila:
         r = sorted(r, key=lambda x: x.id)
         return r
 
-    def iter_combo(self, driver: Driver, input: str, items: str):
-        dvs = None
-        index = -1
-        while True:
-            index += 1
-            if dvs is None:
-                driver.click(input)
-                div = driver.wait(items)
-                dvs = div.find_elements_by_xpath("./div")
-            info = ComboOption.parse(dvs, index)
-            if info is None:
-                break
-            if info.items == 0:
-                continue
-            info.dom.click()
-            dvs = None
-            yield info
-
-    def iter_municipios(self, w: Driver):
-        info: ComboOption
-        for info in self.iter_combo(
-            driver=w,
-            input="mainPanel:pf_comboValoresMunicipioInput",
-            items="mainPanel:pf_comboValoresMunicipioItems",
-        ):
-            logger.info(f"Municipio {info.index+1}/{info.total}: {info.txt} ({info.items})")
-            div = w.safe_wait("mainPanel:pf_comboValoresDistritoPanel", seconds=2)
-            if div is not None and div.is_displayed():
-                yield from self.iter_municipios(w)
-                continue
-            yield info
-
-    def iter_distritos(self, w: Driver):
-        info: ComboOption
-        for info in self.iter_combo(
-            driver=w,
-            input="mainPanel:pf_comboValoresDistritoPanel",
-            items="mainPanel:pf_comboValoresDistritoItems",
-        ):
-            logger.info(f"Distrito {info.index+1}/{info.total}: {info.txt} ({info.items})")
-            yield info
-
-    def click_search(self, w: Driver):
-        w.click("mainPanel:filtrar")
-        time.sleep(2)
-        w.safe_click("mainPanel:solapaListado:header:inactive")
-        time.sleep(2)
-
-    def get_piso(self, w: Driver, id: int, **kvargs):
+    def get_piso(self, w: AlqDriver, id: int, **kvargs):
         logger.info(f"Piso {id}")
-        w.click(f"//td/a[text()='{id}']")
-        time.sleep(2)
-        cont = w.wait("mainPanel:solapaDetalle:content")
+        detail = w.get_detail(id)
 
         @retry(times=3, sleep=3)
         def get_soup_vals():
@@ -195,31 +210,22 @@ class Alquila:
             **kvargs
         )
 
-        @retry(times=3, exceptions=StaleElementReferenceException, sleep=2)
-        def find_element_by_css_selector(node: WebElement, css: str):
-            try:
-                return node.find_element_by_css_selector(css)
-            except NoSuchElementException:
-                return None
-
-        img = find_element_by_css_selector(cont, "img")
+        img = w.execute_script("return jQuery(arguments[0]).find('img')[0]", detail)
         while img:
-            w.execute_script("jQuery(arguments[0]).click()", img)
-            time.sleep(2)
+            w.jClick(img)
             img = None
-            pop = w.wait("mainPanel:popupGaleria_container")
+            w.waitLoaded()
+            pop: WebElement = w.driver.find_element_by_id("mainPanel:popupGaleria_container")
             src = w.get_soup().find(
                 "img", attrs={"id": "mainPanel:imagenPopup"})
             src = src.attrs["src"]
             if src not in ps.imgs:
                 ps.imgs.append(src)
-                img = pop.find_element_by_css_selector(
-                    "a[title='Ver foto siguiente']")
+                img = pop.find_element_by_css_selector("a[title='Ver foto siguiente']")
             if img is None:
                 cls = pop.find_element_by_css_selector("img[alt='Cancelar']")
-                w.execute_script("jQuery(arguments[0]).click()", cls)
-                time.sleep(3)
-        w.click("mainPanel:solapaListado:header:inactive")
+                w.jClick(cls)
+                w.waitLoaded()
 
         ps.modificado = self.__get_update(ps)
         return ps

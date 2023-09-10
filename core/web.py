@@ -324,6 +324,23 @@ class Driver:
             return self._driver.find_element_by_xpath(id)
         return self._driver.find_element_by_id(id)
 
+    def waitjs(self, js: str, val=True, seconds=None):
+        if seconds is None:
+            seconds = self._wait
+        js = js.strip()
+
+        if not js.startswith("return "):
+            js = 'return '+js
+
+        def do_js(w: WebDriver):
+            rt = w.execute_script(js)
+            if callable(val):
+                return val(rt)
+            return rt == val
+
+        wait = WebDriverWait(self._driver, seconds)
+        wait.until(do_js)
+
     def safe_wait(self, *ids, **kvarg):
         for id in ids:
             if isinstance(id, WebElement):
@@ -380,7 +397,7 @@ class Driver:
         return 1
 
     def execute_script(self, *args, **kwargs):
-        self.driver.execute_script(*args, **kwargs)
+        return self.driver.execute_script(*args, **kwargs)
 
     def pass_cookies(self, session=None):
         if self._driver is None:
