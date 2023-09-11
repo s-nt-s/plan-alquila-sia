@@ -8,6 +8,8 @@ from core.sia import Sia
 from core.alquila import Alquila
 from datetime import datetime
 import json
+from glob import glob
+import re
 
 
 def clean(html, **kwargs):
@@ -29,7 +31,7 @@ def clean(html, **kwargs):
     return str(soup)
 
 
-def read(path: str, **kwargs) -> list[Piso]:
+def readjs(path: str, **kwargs) -> list[Piso]:
     arr = []
     with open(path, "r") as f:
         for a in json.load(f):
@@ -38,8 +40,13 @@ def read(path: str, **kwargs) -> list[Piso]:
     return arr
 
 
-sia = read("docs/plan/sia.json", plan="Sia", u_plan=Sia.URL)
-alq = read("docs/plan/alq.json", plan="Alq", u_plan=Alquila.URL)
+def readhtml(path: str):
+    with open(path, "r") as f:
+        return f.read()
+
+
+sia = readjs("docs/plan/sia.json", plan="Sia", u_plan=Sia.URL)
+alq = readjs("docs/plan/alq.json", plan="Alq", u_plan=Alquila.URL)
 
 pisos = sia + alq
 
@@ -55,6 +62,23 @@ j.save(
 )
 for p in pisos:
     j.save("piso.html", f"{p.plan.lower()}/{p.id}.html", p=p, now=now)
+
+ids = {
+    'sia': set(p.id for p in sia),
+    'alq': set(p.id for p in alq)
+}
+for file in (glob("docs/sia/*.html")+glob("docs/alq/*.html")):
+    plan, id = file.split("/")[-2:]
+    id = id.split(".")[0]
+    if id.isdigit() and int(id) not in ids[plan]:
+        html = readhtml(file)
+        html = re.sub("<header>.*?</header>", "", html)
+        html = html.replace(
+            "<main>",
+            '<header>Este piso ya no esta disponible. Mejor vuelve a consultar <a href="../" target="_self">el listado</a>.</header><main>'
+        )
+        with open(file, "w") as f:
+            f.write(html)
 
 PisosRss(
     destino="docs/",
