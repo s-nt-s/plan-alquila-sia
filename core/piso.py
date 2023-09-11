@@ -90,6 +90,19 @@ class Piso:
         planta = planta + " "+ascensor
         return planta
 
+    def get_dormitorio_title(self):
+        if len(self.imgs) == 0 and not isinstance(self.dormitorios, int):
+            return ""
+        dormitorios = str(self.dormitorios)+" dormitorios"
+        if self.dormitorios == 1:
+            dormitorios = dormitorios[:-1]
+        if len(self.imgs) == 0:
+            return dormitorios
+        fotos = str(len(self.imgs))+" fotos"
+        if len(self.imgs) == 1:
+            fotos = fotos[:-1]
+        return dormitorios+f" ({fotos})"
+
     def get_direccion(self):
         spl = self.direccion.split(None, 1)
         if len(spl) != 2:

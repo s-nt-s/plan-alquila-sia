@@ -47,11 +47,13 @@
     {% for p in pisos|sort(reverse=true, attribute='fecha,plan,id,precio') %}
     <tr class="{{p.plan.lower()}}" data-zona="{{p.zona | simplify}}">
       <td data-sortkey="{{p.get_plan_id()}}" 
-          class="rgh" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan.lower()}}/{{p.id}}.html">{{p.id}}</a></td>
+          class="rgh id" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan.lower()}}/{{p.id}}.html">{{p.id}}</a></td>
       <td class="rgh">{{p.metros | round}}</td>
       <td data-sortkey="{{p.precio}}"
           class="rgh">{{p.precio | millar}}</td>
-      <td class="rgh">{{p.dormitorios}}</td>
+      <td data-sortkey="{{p.dormitorios}}"
+          class="rgh nw" 
+          title="{{p.get_dormitorio_title()}}">{%if p.imgs%}📷 {%endif%}{{p.dormitorios}}</td>
       {#<td class="rgh">{{p.aseos}}</td>#}
       <td data-sortkey="{{p.planta}}" title="{{p.get_planta_title()}}"
           class="rgh ascensor{{p.ascensor}}">{{p.planta if p.planta is not none else '¿?'}}</td>
