@@ -71,8 +71,9 @@ class PisosRss:
                 description=dedent(f'''
                     {p.get_direccion()},
                     {p.get_planta_title()},
-                    {metros}m², {p.dormitorios} hab, {p.aseos} aseos,
-                    {len(p.imgs)} fotos
+                    {metros}m², {p.dormitorios} 🛏,
+                    {p.aseos} 🛀, {len(p.imgs)} 📷.
+                    {p.plan}/{p.id}
                 ''').strip().replace("Nonem², ", "").replace("\n", "<br/>"),
                 guid=rfeed.Guid(link+'?'+p.fecha),
                 pubDate=datetime(*map(int, p.fecha.split("-"))),

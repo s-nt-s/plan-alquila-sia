@@ -59,5 +59,5 @@ for p in pisos:
 PisosRss(
     destino="docs/",
     root="https://s-nt-s.github.io/plan-alquila-sia",
-    pisos=pisos
+    pisos=[p for p in pisos if p.reservada is not True]
 ).save("pisos.rss")
