@@ -207,6 +207,7 @@
   {
     "id": 31931,
     "publicado": "2023-09-07",
+    "modificado": "2023-09-11",
     "direccion": "Calle Maria Del Carmen 23",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -219,7 +220,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/2Rj5kew.jpg?2",
       "https://i.imgur.com/ULwG45k.jpg?6",
