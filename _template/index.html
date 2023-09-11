@@ -56,7 +56,7 @@
       <td data-sortkey="{{p.planta}}" title="{{p.get_planta_title()}}"
           class="rgh ascensor{{p.ascensor}}">{{p.planta if p.planta is not none else '¿?'}}</td>
       <td data-sortkey="{{(p.zona or 'z')+'\t'+p.direccion}}"
-      ><a href="https://www.google.com/maps/place/{{p.direccion.replace(' ', '+')}},+Madrid">{{p.get_direccion()}}</a>, {{p.zona}}</td>
+      ><a href="{{p.mapa}}">{{p.get_direccion()}}</a>, {{p.zona}}</td>
       <td data-sortkey="{{p.fecha}}.{{p.get_plan_id()}}">{{p.fecha}}</td>
     </tr>
     {% endfor %}

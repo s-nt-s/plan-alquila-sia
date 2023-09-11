@@ -1,4 +1,7 @@
 from dataclasses import dataclass, asdict
+import re
+
+re_sp = re.compile(r"\s+")
 
 
 @dataclass
@@ -102,7 +105,7 @@ class Piso:
             return "Pl. "+dire
         if tipo == 'ronda':
             return "Rda. "+dire
-        #if tipo in ('camino', 'cmno'):
+        # if tipo in ('camino', 'cmno'):
         #    return "Cam. "+dire
         return self.direccion
 
@@ -124,3 +127,20 @@ class Piso:
     @property
     def zona(self):
         return self.distrito or self.municipio
+
+    @property
+    def mapa(self):
+        def clean(s: str):
+            s = re_sp.sub(" ", s).strip()
+            s = s.replace('"', "")
+            s = s.replace(' ', "+")
+            return s
+
+        arr = [
+            self.direccion,
+            self.zona,
+            "Madrid"
+        ]
+        arr = map(clean, arr)
+        url = "https://www.google.com/maps/place/" + ",+".join(arr)
+        return url
