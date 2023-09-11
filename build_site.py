@@ -45,12 +45,19 @@ pisos = sia + alq
 
 now = datetime.now()
 j = Jnj2(origen="_template", destino="docs/", post=clean)
-j.save("index.html", "index.html", pisos=pisos, now=now)
+j.save(
+    "index.html",
+    "index.html",
+    pisos=pisos,
+    now=now,
+    usia=Sia.URL,
+    ualq=Alquila.URL
+)
 for p in pisos:
     j.save("piso.html", f"{p.plan.lower()}/{p.id}.html", p=p, now=now)
 
 PisosRss(
-    destino="docs/", 
+    destino="docs/",
     root="https://s-nt-s.github.io/plan-alquila-sia",
     pisos=pisos
 ).save("pisos.rss")

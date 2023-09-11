@@ -17,8 +17,19 @@
   <body>
   <main>
   {% set zonas = pisos|map(attribute='zona')|unique|sort %}
-  <p>Puedes suscribirte a este <a href="pisos.rss">RSS</a>
+  <p>Puedes suscribirte a este <a href="pisos.rss" class="rss">RSS</a>
     para recibir actualizaciones.</p>
+  <p>
+    <a class="alq" href="{{ualq}}">Plan Alquila</a>
+    <a class="sia" href="{{usia}}">Plan Sia</a>
+    <b>｜</b>
+    <label for="zona">Zona:</label> <select id="zona">
+      <option value="">TODAS</option>
+      {% for z in zonas %}
+      <option value="{{z | simplify}}">{{z}}</option>
+      {%endfor%}
+    </select>
+  </p>
   <table>
     <thead>
       <tr class="sortme">
@@ -28,12 +39,7 @@
         <th title="Dormitorios" class="isSortable hideIfEQ">D</th>
         {#<th title="Aseos" class="isSortable hideIfEQ">A</th>#}
         <th title="Planta" class="isSortable hideIfEQ">P</th>
-        <th><select id="zona">
-          <option value="">Dirección</option>
-          {% for z in zonas %}
-          <option value="{{z | simplify}}">{{z}}</option>
-          {%endfor%}
-        </select></th>
+        <th class="isSortable str hideIfEQ">Dirección</th>
         <th class="isSortable str isSortedByMe isReversed hideIfEQ">Fecha</th>
       </tr>
     </thead>

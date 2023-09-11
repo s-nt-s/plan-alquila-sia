@@ -104,6 +104,14 @@ function mkTableSortable(table) {
       } else {
         th.classList.remove("isReversed");
       }
+      let count = 0;
+      table.querySelectorAll("tbody tr").forEach(tr=>{
+        if (tr.style.display=='') {
+          count++;
+          tr.classList.remove(count%2==0?"odd":"even");
+          tr.classList.add(count%2==0?"even":"odd");
+        }
+      })
     })
   })
 }

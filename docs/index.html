@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<meta content="2023-09-10 22:43:58" http-equiv="Last-Modified"/>
+<meta content="2023-09-11 09:14:25" http-equiv="Last-Modified"/>
 <link href="./pisos.rss" rel="alternate" title="RSS Plan Alquila y Plan Sia" type="application/rss+xml"/>
 <base target="_blank"/>
 <title>308 pisos</title>
@@ -13,18 +13,14 @@
 </head>
 <body>
 <main>
-<p>Puedes suscribirte a este <a href="pisos.rss">RSS</a>
+<p>Puedes suscribirte a este <a class="rss" href="pisos.rss">RSS</a>
     para recibir actualizaciones.</p>
-<table>
-<thead>
-<tr class="sortme">
-<th class="isSortable">id</th>
-<th class="isSortable hideIfEQ" title="Metros útiles">M²</th>
-<th class="isSortable">€</th>
-<th class="isSortable hideIfEQ" title="Dormitorios">D</th>
-<th class="isSortable hideIfEQ" title="Planta">P</th>
-<th><select id="zona">
-<option value="">Dirección</option>
+<p>
+<a class="alq" href="https://gestiona.comunidad.madrid/gpal_inter/secure/include/viviendapublicada/busqViviendasPublicadasContenedor.jsf">Plan Alquila</a>
+<a class="sia" href="https://www3.emvs.es/SMAWeb/">Plan Sia</a>
+<b>｜</b>
+<label for="zona">Zona:</label> <select id="zona">
+<option value="">TODAS</option>
 <option value="alcala-de-henares">Alcalá de Henares</option>
 <option value="alcobendas">Alcobendas</option>
 <option value="alcorcon">Alcorcón</option>
@@ -78,7 +74,17 @@
 <option value="villa-de-vallecas">Villa de Vallecas</option>
 <option value="villanueva-de-perales">Villanueva de Perales</option>
 <option value="villaverde">Villaverde</option>
-</select></th>
+</select>
+</p>
+<table>
+<thead>
+<tr class="sortme">
+<th class="isSortable">id</th>
+<th class="isSortable hideIfEQ" title="Metros útiles">M²</th>
+<th class="isSortable">€</th>
+<th class="isSortable hideIfEQ" title="Dormitorios">D</th>
+<th class="isSortable hideIfEQ" title="Planta">P</th>
+<th class="isSortable str hideIfEQ">Dirección</th>
 <th class="isSortable str isSortedByMe isReversed hideIfEQ">Fecha</th>
 </tr>
 </thead>

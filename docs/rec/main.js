@@ -10,10 +10,29 @@ function filtrar() {
             tr.classList.add(count%2==0?"even":"odd");
         }
         else tr.style.display = 'none';
-    })
+    });
+    if (zona.length==0 && document.location.search.length<2) return;
+    if (zona.length>0 && document.location.search=='?'+zona) return;
+    const url = document.location.href.replace(/\?.*$/,"");
+    if (zona.length==0) {
+        console.log(document.location.href, "->", url);
+        history.pushState({}, "", url);
+        return;
+    }
+    console.log(document.location.href, "->", url+'?'+zona);
+    history.pushState(zona, "", url+'?'+zona);
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-    document.getElementById("zona").addEventListener("change", filtrar)
+    const value = document.location.search.substring(1);
+    const zona = document.getElementById("zona");
+    if (zona.querySelector("option[value='"+value+"']")==null) {
+        const url = document.location.href.replace(/\?.*$/,"");
+        console.log(document.location.href, "=>", url);
+        history.replaceState({}, "", url);
+        zona.value = "";
+    }
+    else zona.value = value;
+    zona.addEventListener("change", filtrar)
     filtrar();
 });
