@@ -104,7 +104,7 @@ a.alq, a.sia {
   font-family: monospace;
   font-size: 80%;
 }
-main > ul {
+main > ul, article > ul {
   padding-left: 1em;
   margin-left: 0;
 }

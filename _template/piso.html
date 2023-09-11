@@ -10,6 +10,7 @@
   </head>
   <body>
     <main>
+      <article>
   <ul>
     <li><strong><a href="{{p.u_plan}}">{{p.plan}}</a></strong>: {{p.id}}</li>
     <li><strong>Precio</strong>: {{p.precio | millar}} €</li>
@@ -39,6 +40,7 @@
     {% for i in p.imgs %}
     <img src="{{i}}"/>
     {%endfor%}
+  </article>
   </main>
 	<footer>
 		<p>
