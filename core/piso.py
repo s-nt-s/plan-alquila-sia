@@ -47,6 +47,9 @@ class Piso:
             words = planta.split()
             if len(words) > 1 and words[0].isdigit():
                 return int(words[0])
+            m = re.search(r"^(\d+)\D+", planta)
+            if m:
+                return int(m.group(1))
         return planta
 
     def __parse_cee(self, cee):

@@ -58,6 +58,7 @@
   {
     "id": 31908,
     "publicado": "2023-09-07",
+    "modificado": "2023-09-11",
     "direccion": "Avenida Orovilla 69",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -70,7 +71,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
       "https://i.imgur.com/gomqOpb.jpg?26",
       "https://i.imgur.com/Jqy4rlp.jpg?27",
@@ -261,6 +262,7 @@
   {
     "id": 31939,
     "publicado": "2023-09-08",
+    "modificado": "2023-09-11",
     "direccion": "Calle Cuesta San Vicente 38",
     "municipio": "Madrid",
     "distrito": "Moncloa",
@@ -273,7 +275,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/2c6QXkw.jpg?1",
       "https://i.imgur.com/1mMGZMc.jpg?2",
@@ -287,6 +289,33 @@
       "https://i.imgur.com/d2CuciZ.jpg?11",
       "https://i.imgur.com/yBRAADD.jpg?12",
       "https://i.imgur.com/MchQoNo.jpg?13"
+    ]
+  },
+  {
+    "id": 31942,
+    "publicado": "2023-09-11",
+    "direccion": "Paseo Santa Maria De La Cabeza 7",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Delicias",
+    "planta": 2,
+    "orientacion": "Interior",
+    "precio": 700,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/LXYvLQe.jpg?1",
+      "https://i.imgur.com/71pms2H.jpg?2",
+      "https://i.imgur.com/sbzyddV.jpg?3",
+      "https://i.imgur.com/MbmncuM.jpg?4",
+      "https://i.imgur.com/vlna4nl.jpg?5",
+      "https://i.imgur.com/EbepXua.jpg?6",
+      "https://i.imgur.com/o1z3D11.jpg?7",
+      "https://i.imgur.com/XHhyLyQ.jpg?8"
     ]
   }
 ]
