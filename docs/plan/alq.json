@@ -1593,6 +1593,27 @@
     "imgs": []
   },
   {
+    "id": 253970,
+    "publicado": "2023-09-13",
+    "direccion": "Calle Planeta J\u00fapiter, 40",
+    "municipio": "Parla",
+    "planta": 2,
+    "precio": 950,
+    "metros": 105.44,
+    "dormitorios": 3,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": true,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 254123,
     "publicado": "2022-10-31",
     "direccion": "Calle Gra\u00f1\u00f3n, 6",
