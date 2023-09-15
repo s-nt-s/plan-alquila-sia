@@ -405,6 +405,7 @@
   {
     "id": 31947,
     "publicado": "2023-09-14",
+    "modificado": "2023-09-15",
     "direccion": "Calle Pizarro 7",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -416,7 +417,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/7ICqLxh.jpg?2",
       "https://i.imgur.com/QQYgWGq.jpg?12",
