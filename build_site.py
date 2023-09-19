@@ -45,9 +45,19 @@ def readhtml(path: str):
     with open(path, "r") as f:
         return f.read()
 
+URL=dict(
+    sia=dict(
+        home="https://www.emvs.es/Alquiler/SIA",
+        search=Sia.URL
+    ),
+    alq=dict(
+        home="https://www.comunidad.madrid/servicios/vivienda/plan-alquila",
+        search=Alquila.URL
+    )
+)
 
-sia = readjs("docs/plan/sia.json", plan="Sia", u_plan=Sia.URL)
-alq = readjs("docs/plan/alq.json", plan="Alq", u_plan=Alquila.URL)
+sia = readjs("docs/plan/sia.json", plan="Sia")
+alq = readjs("docs/plan/alq.json", plan="Alq")
 
 pisos = sia + alq
 
@@ -58,11 +68,17 @@ j.save(
     "index.html",
     pisos=pisos,
     now=now,
-    usia=Sia.URL,
-    ualq=Alquila.URL
+    URL=URL
 )
 for p in pisos:
-    j.save("piso.html", f"{p.plan.lower()}/{p.id}.html", p=p, now=now)
+    plan = p.plan.lower()
+    j.save(
+        "piso.html",
+        f"{plan}/{p.id}.html",
+        p=p,
+        URL=URL[plan],
+        now=now
+    )
 
 ids = {
     'sia': set(p.id for p in sia),
