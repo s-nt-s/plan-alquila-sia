@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="rec/main.css">
     <script type="text/javascript" src="rec/sort_table.js"></script>
     <script type="text/javascript" src="rec/main.js"></script>
+    <script type="text/javascript" src="rec/dev.js"></script>
   </head>
   <body>
   <main>
@@ -43,7 +44,7 @@
     {% for p in pisos|sort(reverse=true, attribute='fecha,plan,id,precio') %}
     <tr class="{{p.plan}}" data-zona="{{p.zona | simplify}}">
       <td data-sortkey="{{p.get_plan_id()}}" 
-          class="rgh id" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan}}/{{p.id}}.html">{{p.id}}</a></td>
+          class="rgh id" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan}}/{{p.id}}">{{p.id}}</a></td>
       <td class="rgh">{{p.metros | round}}</td>
       <td data-sortkey="{{p.precio}}"
           class="rgh">{{p.precio | millar}}</td>
@@ -78,7 +79,7 @@
     </dl>
     {#
     <p>
-      Más información en <a href="../faq.html">Preguntas frecuentes</a>.
+      Más información en <a href="../faq">Preguntas frecuentes</a>.
     </p>
     #}
   </fieldset>

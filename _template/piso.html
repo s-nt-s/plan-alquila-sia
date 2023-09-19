@@ -6,6 +6,7 @@
 		<meta http-equiv="Last-Modified" content="{{p.fecha}}">
     <title>{{p.id}} {{p.plan}}</title>
     <link rel="stylesheet" href="../rec/main.css">
+    <script type="text/javascript" src="../rec/dev.js"></script>
   </head>
   <body>
     <header>
@@ -17,7 +18,7 @@
         </ul>
       </nav>
       <p>
-        Pide una visita u obtén más información preguntando en <a href="{{mail.to_url()}}">{{mail.to}}</a>
+        Pide una visita u obtén más información preguntando en <a href="{{mail.to_url()}}" title="Pregunta por el piso nº {{p.id}}">{{mail.to}}</a>
       </p>
     </header>
     <main>
