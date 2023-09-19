@@ -20,9 +20,6 @@
   <p>Puedes suscribirte a este <a href="pisos.rss" class="rss">RSS</a>
     para recibir actualizaciones.</p>
   <p>
-    <a class="alq" href="{{ualq}}">Plan Alquila</a>
-    <a class="sia" href="{{usia}}">Plan Sia</a>
-    <b>｜</b>
     <label for="zona">Zona:</label> <select id="zona">
       <option value="">TODAS</option>
       {% for z in zonas %}
@@ -64,6 +61,22 @@
     {% endfor %}
     </tbody>
   </table>
+  <fieldset id="leyenda">
+    <legend>Leyenda</legend>
+    <dl>
+      <dt>id</dt>
+      <dd>Identificador del piso en el <a class="alq" href="{{ualq}}">Plan Alquila</a> o <a class="sia" href="{{usia}}">Plan Sia</a></dd>
+      <dt>M²</dt>
+      <dd>Metros cuadrados del piso</dd>
+      <dt>€</dt>
+      <dd>Precio mensual del alquiler</dd>
+      <dt>D</dt>
+      <dd>Número de dormitorios (📷 si hay fotos)</dd>
+      <dt>P</dt>
+      <dd>Planta del piso (en <span class="ascensorFalse">rojo</span> si no hay ascensor)</dd>
+      <dt>Fecha</dt>
+      <dd>Última fecha de modificación del anuncio, o fecha de creación en su defecto</dd>
+  </fieldset>
   </main>
 	<footer>
 		<p>
