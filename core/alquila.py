@@ -218,6 +218,8 @@ class Alquila:
             trastero=next(vals),
             **kvargs
         )
+        if ps.planta is None:
+            ps.planta = "Casa"
 
         img = w.execute_script("return jQuery(arguments[0]).find('img')[0]", detail)
         while img:
