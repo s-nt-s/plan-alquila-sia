@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1" name="viewport"/>
 		<meta http-equiv="Last-Modified" content="{{p.fecha}}">
-    <base target="_blank">
     <title>{{p.id}} {{p.plan}}</title>
     <link rel="stylesheet" href="../rec/main.css">
   </head>
@@ -24,7 +23,7 @@
     <main>
       <article>
   <ul>
-    <li><strong><a href="{{URL.home}}">{{p.plan.title()}}</a></strong>: {{p.id}}</li>
+    <li><strong><a href="{{URL.home}}" target="_blank">{{p.plan.title()}}</a></strong>: {{p.id}}</li>
     <li><strong>Precio</strong>: {{p.precio | millar}} €</li>
     <li><strong>Dormitorios</strong>: {{p.dormitorios}}</li>
     <li><strong>Aseos</strong>: {{p.aseos}}</li>
