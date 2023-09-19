@@ -10,6 +10,13 @@
   </head>
   <body>
     <header>
+      <nav>
+        <ul>
+          <li><a href="../">Madrid</a></li>
+          <li><a href="../?{{p.zona | simplify}}">{{p.zona}}</a></li>
+          <li><code>{{p.plan}}/{{p.id}}</code></li>
+        </ul>
+      </nav>
       <p>
         Pide una visita u obtén más información preguntando en <a href="{{mail.to_url()}}">{{mail.to}}</a>
       </p>
@@ -17,7 +24,7 @@
     <main>
       <article>
   <ul>
-    <li><strong><a href="{{URL.home}}">{{p.plan}}</a></strong>: {{p.id}}</li>
+    <li><strong><a href="{{URL.home}}">{{p.plan.title()}}</a></strong>: {{p.id}}</li>
     <li><strong>Precio</strong>: {{p.precio | millar}} €</li>
     <li><strong>Dormitorios</strong>: {{p.dormitorios}}</li>
     <li><strong>Aseos</strong>: {{p.aseos}}</li>

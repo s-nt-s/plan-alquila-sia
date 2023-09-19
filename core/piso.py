@@ -69,10 +69,9 @@ class Piso:
 
     def get_plan_id(self):
         ord = tuple(sorted('alq sia'.split()))
-        pla = self.plan.lower()
-        if pla not in ord:
+        if self.plan not in ord:
             return self.id
-        return ((ord.index(pla)+1)*10000000)+self.id
+        return ((ord.index(self.plan)+1)*10000000)+self.id
 
     def get_planta_title(self):
         ascensor = "ascensor"

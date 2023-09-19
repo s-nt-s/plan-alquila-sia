@@ -26,7 +26,7 @@ class Mail(NamedTuple):
         to = dict(
             sia='SIA@emvs.es',
             alq='info@planalquila.org'
-        )[p.plan.lower()]
+        )[p.plan]
         return Mail(
             to=to,
             subject=f'Piso {p.id}',

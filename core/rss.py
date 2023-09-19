@@ -63,7 +63,7 @@ class PisosRss:
 
     def iter_items(self):
         for p in self.pisos:
-            link = f'{self.root}/{p.plan.lower()}/{p.id}'
+            link = f'{self.root}/{p.plan}/{p.id}'
             metros = round(p.metros) if p.metros else None
             yield rfeed.Item(
                 title=f'{p.precio}€ {p.zona}',

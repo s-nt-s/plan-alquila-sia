@@ -58,8 +58,8 @@ URL = dict(
     )
 )
 
-sia = readjs("docs/plan/sia.json", plan="Sia")
-alq = readjs("docs/plan/alq.json", plan="Alq")
+sia = readjs("docs/plan/sia.json", plan="sia")
+alq = readjs("docs/plan/alq.json", plan="alq")
 
 pisos = sia + alq
 
@@ -73,12 +73,11 @@ j.save(
     URL=URL
 )
 for p in pisos:
-    plan = p.plan.lower()
     j.save(
         "piso.html",
-        f"{plan}/{p.id}.html",
+        f"{p.plan}/{p.id}.html",
         p=p,
-        URL=URL[plan],
+        URL=URL[p.plan],
         now=now,
         mail=Mail.askInfo(p)
     )

@@ -167,14 +167,25 @@ fieldset#leyenda dd {
 fieldset#leyenda p:last-child {
   margin-bottom: 0px;
 }
-/*
+
 nav ul {
   list-style-type: none;
   padding-left: 0;
   margin: 0;
+  background-color: white !important;
+  color: black;
+  display: inline-block;
+  padding: 5px;
+  border-radius: 5px;
 }
-
 nav li {
   display: inline-block;
 }
-*/
+nav ul li+li:before {
+  padding: 8px;
+  color: black;
+  content: "»";
+}
+nav ul li code {
+  font-size: inherit;
+}
