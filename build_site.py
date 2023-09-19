@@ -6,6 +6,7 @@ from core.web import get_text
 from core.piso import Piso
 from core.sia import Sia
 from core.alquila import Alquila
+from core.mail import Mail
 from datetime import datetime
 from textwrap import dedent
 import json
@@ -45,14 +46,15 @@ def readhtml(path: str):
     with open(path, "r") as f:
         return f.read()
 
-URL=dict(
+
+URL = dict(
     sia=dict(
         home="https://www.emvs.es/Alquiler/SIA",
-        search=Sia.URL
+        search=Sia.URL,
     ),
     alq=dict(
         home="https://www.comunidad.madrid/servicios/vivienda/plan-alquila",
-        search=Alquila.URL
+        search=Alquila.URL,
     )
 )
 
@@ -77,7 +79,8 @@ for p in pisos:
         f"{plan}/{p.id}.html",
         p=p,
         URL=URL[plan],
-        now=now
+        now=now,
+        mail=Mail.askInfo(p)
     )
 
 ids = {
