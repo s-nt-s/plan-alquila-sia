@@ -89,7 +89,7 @@ for file in (glob("docs/sia/*.html")+glob("docs/alq/*.html")):
     id = id.split(".")[0]
     if id.isdigit() and int(id) not in ids[plan]:
         html = readhtml(file)
-        html = re.sub("<header[^><]*>.*?</header>", "", html)
+        html = re.sub("\s*<header[^><]*>.*?</header>", "", html, flags=re.DOTALL)
         html = html.replace(
             "<main>",
             dedent('''
