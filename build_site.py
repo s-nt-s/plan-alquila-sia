@@ -7,6 +7,7 @@ from core.piso import Piso
 from core.sia import Sia
 from core.alquila import Alquila
 from datetime import datetime
+from textwrap import dedent
 import json
 from glob import glob
 import re
@@ -72,10 +73,15 @@ for file in (glob("docs/sia/*.html")+glob("docs/alq/*.html")):
     id = id.split(".")[0]
     if id.isdigit() and int(id) not in ids[plan]:
         html = readhtml(file)
-        html = re.sub("<header>.*?</header>", "", html)
+        html = re.sub("<header[^><]*>.*?</header>", "", html)
         html = html.replace(
             "<main>",
-            '<header>Este piso ya no esta disponible. Mejor vuelve a consultar <a href="../" target="_self">el listado</a>.</header><main>'
+            dedent('''
+                <header class="warn">
+                    <p>Este piso ya no esta disponible. Mejor vuelve a consultar <a href="../" target="_self">el listado</a>.</p>
+                </header>
+                <main>
+            ''').strip()
         )
         with open(file, "w") as f:
             f.write(html)
