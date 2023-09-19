@@ -402,35 +402,9 @@
     ]
   },
   {
-    "id": 31941,
-    "publicado": "2023-09-14",
-    "direccion": "Calle Puerto De Maspalomas 26",
-    "municipio": "Madrid",
-    "distrito": "Fuencarral-El Pardo",
-    "barrio": "Pilar",
-    "planta": 13,
-    "orientacion": "Exterior",
-    "precio": 860,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/hzRoAAj.jpg?1",
-      "https://i.imgur.com/7yOLlNT.jpg?4",
-      "https://i.imgur.com/Q8QbWrO.jpg?9",
-      "https://i.imgur.com/LIvNGNL.jpg?10",
-      "https://i.imgur.com/hFMkiFD.jpg?11",
-      "https://i.imgur.com/EB3nzPm.jpg?12",
-      "https://i.imgur.com/avYd8x4.jpg?13",
-      "https://i.imgur.com/DtrWWS0.jpg?14"
-    ]
-  },
-  {
     "id": 31942,
     "publicado": "2023-09-11",
+    "modificado": "2023-09-19",
     "direccion": "Paseo Santa Maria De La Cabeza 7",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -443,7 +417,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/LXYvLQe.jpg?1",
       "https://i.imgur.com/71pms2H.jpg?2",
