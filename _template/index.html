@@ -16,15 +16,16 @@
   </head>
   <body>
   <main>
-  {% set zonas = pisos|map(attribute='zona')|unique|sort %}
   <p>Puedes suscribirte a este <a href="pisos.rss" class="rss">RSS</a>
     para recibir actualizaciones.</p>
   <p>
     <label for="zona">Zona:</label> <select id="zona">
       <option value="">TODAS ({{pisos | length | millar}})</option>
+      {% set zonas = pisos|map(attribute='zona')|unique|sort %}
       {% for z in zonas %}
-      {% set count = pisos | selectattr("zona", "equalto", z) | list | length %}
-      <option value="{{z | simplify}}" data-label="{{z}}" data-count="{{count}}">{{z}} ({{count | millar}})</option>
+      {% set zsimplify = z | simplify %}
+      {% set count = pisos|map(attribute='zona')|map('simplify')|select("equalto", zsimplify)|list|length %}
+      <option value="{{zsimplify}}" data-label="{{z}}" data-count="{{count}}">{{z}} ({{count | millar}})</option>
       {%endfor%}
     </select>
   </p>
