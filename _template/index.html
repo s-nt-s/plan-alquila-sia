@@ -8,7 +8,7 @@
       title="RSS Plan Alquila y Plan Sia" 
       href="./pisos.rss"
     />
-    <title>{{pisos | length | millar}} pisos</title>
+    <title>Pisos en Madrid</title>
     <link rel="stylesheet" href="rec/main.css">
     <script type="text/javascript" src="rec/sort_table.js"></script>
     <script type="text/javascript" src="rec/main.js"></script>
@@ -21,9 +21,10 @@
     para recibir actualizaciones.</p>
   <p>
     <label for="zona">Zona:</label> <select id="zona">
-      <option value="">TODAS</option>
+      <option value="">TODAS ({{pisos | length | millar}})</option>
       {% for z in zonas %}
-      <option value="{{z | simplify}}">{{z}}</option>
+      {% set count = pisos | selectattr("zona", "equalto", z) | list | length %}
+      <option value="{{z | simplify}}" data-label="{{z}}" data-count="{{count}}">{{z}} ({{count | millar}})</option>
       {%endfor%}
     </select>
   </p>

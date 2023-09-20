@@ -97,7 +97,7 @@ tbody tr td {
 }
 img {
   max-height: 500px;
-  max-width: 500px;
+  max-width: min(500px, 100%);
 }
 tr.alq td.id, a.alq {
   background-color: rgb(209, 0, 2);
@@ -188,4 +188,7 @@ nav ul li+li:before {
 }
 nav ul li code {
   font-size: inherit;
+}
+.tagFalse {
+  font-style: italic;
 }

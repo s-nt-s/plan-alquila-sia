@@ -23,7 +23,8 @@
       <article>
   <ul>
     <li><strong><a href="{{URL.home}}" target="_blank">{{p.plan.title()}}</a></strong>: {{p.id}}</li>
-    <li><strong>Precio</strong>: {{p.precio | millar}} €</li>
+    <li><strong>Precio</strong>: {{p.precio | millar}} €/mes</li>
+    <li><strong>M²</strong>: {{p.metros}}</li>
     <li><strong>Dormitorios</strong>: {{p.dormitorios}}</li>
     <li><strong>Aseos</strong>: {{p.aseos}}</li>
     <li><strong>Dirección</strong>:
@@ -33,17 +34,16 @@
     <li><strong>Planta</strong>: {{p.planta}}</li>
     <li><strong>CEE</strong>: {{p.cee}}</li>
     <li><strong>Orientacion</strong>: {{p.orientacion}}</li>
-    <li><strong>M²</strong>: {{p.metros}}</li>
     <li><strong>Públicado</strong>: {{p.publicado}}</li>
     {%if p.modificado %}
     <li><strong>Modificado</strong>: {{p.modificado}}</li>
     {%endif%}
     <li>
     {% for k, v in p.items() %}
-    {% if v is true %}<span class="tag">#{{k}}</span>{% endif %}
+    {% if v is true %}<span class="tag tagTrue">#{{k}}</span>{% endif %}
     {% endfor %}
     {% for k, v in p.items() %}
-    {% if v is false %}<span class="tag">#<strike>{{k}}</strike></span>{% endif %}
+    {% if v is false %}<span class="tag tagFalse">#<del>{{k}}</del></span>{% endif %}
     {% endfor %}
     </li>
   </ul>

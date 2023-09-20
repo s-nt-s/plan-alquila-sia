@@ -61,6 +61,12 @@ URL = dict(
 sia = readjs("docs/plan/sia.json", plan="sia")
 alq = readjs("docs/plan/alq.json", plan="alq")
 
+for i, p in reversed(tuple(enumerate(sia))):
+    if p.reservada is True:
+        del sia[i]
+        continue
+    p.reservada = None
+
 pisos = sia + alq
 
 now = datetime.now()
@@ -107,5 +113,5 @@ for file in (glob("docs/sia/*.html")+glob("docs/alq/*.html")):
 PisosRss(
     destino="docs/",
     root="https://s-nt-s.github.io/plan-alquila-sia",
-    pisos=[p for p in pisos if p.reservada is not True]
+    pisos=pisos
 ).save("pisos.rss")

@@ -1,5 +1,6 @@
 function filtrar() {
-    const zona = document.getElementById("zona").value.trim();
+    const zdom = document.getElementById("zona");
+    const zona = zdom.value.trim();
     const trs = document.querySelectorAll("tr[data-zona]");
     let count = 0;
     trs.forEach(tr=>{
@@ -11,6 +12,11 @@ function filtrar() {
         }
         else tr.style.display = 'none';
     });
+    if (trs.length == count) {
+        document.title = "Pisos en Madrid";
+    } else {
+        document.title = "Pisos en "+zdom.selectedOptions[0].getAttribute("data-label");
+    }
     if (zona.length==0 && document.location.search.length<2) return;
     if (zona.length>0 && document.location.search=='?'+zona) return;
     const url = document.location.href.replace(/\?.*$/,"");
