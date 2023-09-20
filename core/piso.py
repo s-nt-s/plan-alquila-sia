@@ -37,8 +37,14 @@ class Piso:
     def __post_init__(self):
         self.planta = self.__parse_planta(self.planta)
         self.cee = self.__parse_cee(self.cee)
+        self.distrito = self.__parse_distrito(self.distrito)
         if self.imgs is None:
             self.imgs = []
+
+    def __parse_distrito(self, distrito):
+        if distrito == "Moncloa":
+            return "Moncloa-Aravaca"
+        return distrito
 
     def __parse_planta(self, planta):
         if isinstance(planta, str):
