@@ -30,6 +30,13 @@ def clean(html, **kwargs):
             n.extract()
         else:
             n.string = ""
+    for a in soup.select("body a"):
+        if a.attrs.get("target"):
+            continue
+        href = (a.attrs.get("href") or "")
+        prtc = href.split("://")[0].lower()
+        if prtc in ('http', 'https'):
+            a.attrs["target"] = '_blank'
     return str(soup)
 
 
@@ -102,7 +109,7 @@ for file in (glob("docs/sia/*.html")+glob("docs/alq/*.html")):
             "<main>",
             dedent('''
                 <header class="warn">
-                    <p>Este piso ya no esta disponible. Mejor vuelve a consultar <a href="../" target="_self">el listado</a>.</p>
+                    <p>Este piso ya no esta disponible. Mejor vuelve a consultar <a href="../">el listado</a>.</p>
                 </header>
                 <main>
             ''').strip()
