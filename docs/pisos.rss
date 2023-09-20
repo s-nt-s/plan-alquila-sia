@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 20 Sep 2023 09:53:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 20 Sep 2023 08:32:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -729,6 +729,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266099?2022-12-14</guid>
 		</item>
 		<item>
+			<title>700€ Villaverde</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266148</link>
+			<description>C/ Oxígeno, 37,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;42m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/266148</description>
+			<pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+			<category>Villaverde</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266148?2023-08-03</guid>
+		</item>
+		<item>
 			<title>1250€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266391</link>
 			<description>C/ Oudrid, 8,&lt;br/&gt;1º con ascensor,&lt;br/&gt;74m², 3 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/266391</description>
@@ -1063,14 +1071,6 @@
 			<pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272404?2022-12-21</guid>
-		</item>
-		<item>
-			<title>900€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272553</link>
-			<description>Av. El Ferrol, 23,&lt;br/&gt;2º con ascensor,&lt;br/&gt;58m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/272553</description>
-			<pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272553?2023-09-11</guid>
 		</item>
 		<item>
 			<title>600€ Puente de Vallecas</title>
@@ -1849,14 +1849,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274114?2023-07-20</guid>
 		</item>
 		<item>
-			<title>1175€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274121</link>
-			<description>Cmno Montoro, 43,&lt;br/&gt;1º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274121</description>
-			<pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274121?2023-07-25</guid>
-		</item>
-		<item>
 			<title>1000€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274122</link>
 			<description>C/ Divino Redentor, 61,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;46m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274122</description>
@@ -2153,14 +2145,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274200?2023-09-14</guid>
 		</item>
 		<item>
-			<title>1125€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274201</link>
-			<description>C/ Baños de Valdearados, 5,&lt;br/&gt;6º con ascensor,&lt;br/&gt;81m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/274201</description>
-			<pubDate>Mon, 28 Aug 2023 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274201?2023-08-28</guid>
-		</item>
-		<item>
 			<title>870€ Coslada</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274202</link>
 			<description>Av. Constitución, 85,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;53m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274202</description>
@@ -2252,9 +2236,9 @@
 			<title>1000€ Alpedrete</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274224</link>
 			<description>C/ San José, 2,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;83m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/274224</description>
-			<pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Alpedrete</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274224?2023-09-19</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274224?2023-09-20</guid>
 		</item>
 		<item>
 			<title>950€ Fuencarral-El Pardo</title>
