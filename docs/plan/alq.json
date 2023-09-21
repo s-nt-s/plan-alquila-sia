@@ -8210,6 +8210,7 @@
   {
     "id": 274264,
     "publicado": "2023-09-19",
+    "modificado": "2023-09-21",
     "direccion": "Calle D\u00e1maso Alonso, 20",
     "municipio": "Alcal\u00e1 de Henares",
     "planta": 1,
@@ -8224,9 +8225,9 @@
     "calefacion": true,
     "garaje": true,
     "adaptada": false,
-    "piscina": false,
+    "piscina": true,
     "porteria": false,
-    "trastero": false,
+    "trastero": true,
     "imgs": []
   },
   {
