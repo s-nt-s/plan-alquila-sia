@@ -340,38 +340,6 @@
     ]
   },
   {
-    "id": 31939,
-    "publicado": "2023-09-08",
-    "modificado": "2023-09-11",
-    "direccion": "Calle Cuesta San Vicente 38",
-    "municipio": "Madrid",
-    "distrito": "Moncloa-Aravaca",
-    "barrio": "Arg\u00fcelles",
-    "planta": 5,
-    "orientacion": "Mixto",
-    "precio": 1150,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/2c6QXkw.jpg?1",
-      "https://i.imgur.com/1mMGZMc.jpg?2",
-      "https://i.imgur.com/97AsE7h.jpg?3",
-      "https://i.imgur.com/RZ874Rk.jpg?4",
-      "https://i.imgur.com/w2nJahh.jpg?5",
-      "https://i.imgur.com/9CT8sLY.jpg?6",
-      "https://i.imgur.com/GcKTcYE.jpg?7",
-      "https://i.imgur.com/OapOPVX.jpg?8",
-      "https://i.imgur.com/0wSMcVx.jpg?9",
-      "https://i.imgur.com/d2CuciZ.jpg?11",
-      "https://i.imgur.com/yBRAADD.jpg?12",
-      "https://i.imgur.com/MchQoNo.jpg?13"
-    ]
-  },
-  {
     "id": 31940,
     "publicado": "2023-09-15",
     "direccion": "Avenida Del Manzanares 46",
@@ -514,6 +482,38 @@
       "https://i.imgur.com/YtyIbZz.jpg?4",
       "https://i.imgur.com/LgJHpr2.jpg?5",
       "https://i.imgur.com/M3zmJYI.jpg?6"
+    ]
+  },
+  {
+    "id": 31950,
+    "publicado": "2023-09-22",
+    "direccion": "Calle Escocia 7",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "San Isidro",
+    "planta": 1,
+    "orientacion": "Exterior",
+    "precio": 600,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/L82J88I.jpg?1",
+      "https://i.imgur.com/YqiKfN2.jpg?2",
+      "https://i.imgur.com/54ySzLH.jpg?3",
+      "https://i.imgur.com/xVmhxVw.jpg?4",
+      "https://i.imgur.com/3qcjUVG.jpg?5",
+      "https://i.imgur.com/gGYPgT5.jpg?6",
+      "https://i.imgur.com/xXQLeKX.jpg?7",
+      "https://i.imgur.com/crabN56.jpg?8",
+      "https://i.imgur.com/ZucDuRR.jpg?9",
+      "https://i.imgur.com/tjrmCjw.jpg?10",
+      "https://i.imgur.com/w87IQZq.jpg?11",
+      "https://i.imgur.com/MI17xRB.jpg?12",
+      "https://i.imgur.com/nKV6M2q.jpg?13"
     ]
   }
 ]
