@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 22 Sep 2023 12:52:03 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 22 Sep 2023 15:13:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1009,6 +1009,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271633?2023-08-10</guid>
 		</item>
 		<item>
+			<title>1050€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271736</link>
+			<description>C/ Pedroñeras, 30,&lt;br/&gt;4º con ascensor,&lt;br/&gt;54m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271736</description>
+			<pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271736?2023-09-22</guid>
+		</item>
+		<item>
 			<title>590€ Getafe</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271999</link>
 			<description>C/ José María Pérez Peridis, 4,&lt;br/&gt;3º con ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/271999</description>
@@ -1921,14 +1929,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274155?2023-08-07</guid>
 		</item>
 		<item>
-			<title>790€ Móstoles</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274157</link>
-			<description>Av. Cerro Prieto, 29,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;58m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274157</description>
-			<pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
-			<category>Móstoles</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274157?2023-08-08</guid>
-		</item>
-		<item>
 			<title>1250€ Retiro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274158</link>
 			<description>C/ Narváez, 45,&lt;br/&gt;1º con ascensor,&lt;br/&gt;43m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274158</description>
@@ -2487,14 +2487,6 @@
 			<pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Getafe</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274277?2023-09-21</guid>
-		</item>
-		<item>
-			<title>1300€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274280</link>
-			<description>C/ Ricardo Gutiérrez, 5,&lt;br/&gt;1º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274280</description>
-			<pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274280?2023-09-22</guid>
 		</item>
 	</channel>
 </rss>
