@@ -342,6 +342,7 @@
   {
     "id": 31940,
     "publicado": "2023-09-15",
+    "modificado": "2023-09-22",
     "direccion": "Avenida Del Manzanares 46",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -354,7 +355,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/OsY1SdB.jpg?1",
       "https://i.imgur.com/DcSBE5h.jpg?2",
@@ -487,6 +488,7 @@
   {
     "id": 31950,
     "publicado": "2023-09-22",
+    "modificado": "2023-09-22",
     "direccion": "Calle Escocia 7",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -499,7 +501,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/L82J88I.jpg?1",
       "https://i.imgur.com/YqiKfN2.jpg?2",
