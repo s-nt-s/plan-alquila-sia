@@ -65,6 +65,7 @@ URL = dict(
     )
 )
 
+FAVICON = "🏠"
 sia = readjs("docs/plan/sia.json", plan="sia")
 alq = readjs("docs/plan/alq.json", plan="alq")
 
@@ -83,7 +84,8 @@ j.save(
     "index.html",
     pisos=pisos,
     now=now,
-    URL=URL
+    URL=URL,
+    favicon=FAVICON
 )
 for p in pisos:
     j.save(
@@ -92,7 +94,8 @@ for p in pisos:
         p=p,
         URL=URL[p.plan],
         now=now,
-        mail=Mail.askInfo(p)
+        mail=Mail.askInfo(p),
+        favicon=FAVICON
     )
 
 ids = {
@@ -104,7 +107,8 @@ for file in (glob("docs/sia/*.html")+glob("docs/alq/*.html")):
     id = id.split(".")[0]
     if id.isdigit() and int(id) not in ids[plan]:
         html = readhtml(file)
-        html = re.sub("\s*<header[^><]*>.*?</header>", "", html, flags=re.DOTALL)
+        html = re.sub("\s*<header[^><]*>.*?</header>",
+                      "", html, flags=re.DOTALL)
         html = html.replace(
             "<main>",
             dedent('''

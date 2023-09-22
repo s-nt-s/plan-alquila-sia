@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1" name="viewport"/>
 		<meta http-equiv="Last-Modified" content="{{p.fecha}}">
-    <title>{{p.id}} {{p.plan}}</title>
+    <title>{{p.plan}}/{{p.id}}</title>
+    {%if favicon is defined%}
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{favicon}}</text></svg>">
+    {%endif%}
     <link rel="stylesheet" href="../rec/main.css">
     <script type="text/javascript" src="../rec/dev.js"></script>
   </head>
