@@ -149,6 +149,7 @@
   {
     "id": 31913,
     "publicado": "2023-09-15",
+    "modificado": "2023-09-26",
     "direccion": "Calle Cebreros 64",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -161,7 +162,7 @@
     "cee": "D",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/z5hYjO0.jpg?1",
       "https://i.imgur.com/yHLksAF.jpg?2",
@@ -434,35 +435,6 @@
     ]
   },
   {
-    "id": 31947,
-    "publicado": "2023-09-14",
-    "modificado": "2023-09-15",
-    "direccion": "Calle Pizarro 7",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Universidad",
-    "planta": 3,
-    "precio": 1100,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/7ICqLxh.jpg?2",
-      "https://i.imgur.com/QQYgWGq.jpg?12",
-      "https://i.imgur.com/Nx9ekD8.jpg?13",
-      "https://i.imgur.com/O9Ut004.jpg?14",
-      "https://i.imgur.com/ABSC0H9.jpg?15",
-      "https://i.imgur.com/0fjClcs.jpg?16",
-      "https://i.imgur.com/bwpUwMC.jpg?17",
-      "https://i.imgur.com/VhbLDE9.jpg?18",
-      "https://i.imgur.com/dxhW047.jpg?19",
-      "https://i.imgur.com/PutJni7.jpg?20"
-    ]
-  },
-  {
     "id": 31948,
     "publicado": "2023-09-20",
     "direccion": "Calle Manuel Lamela 3",
@@ -523,6 +495,7 @@
   {
     "id": 31951,
     "publicado": "2023-09-25",
+    "modificado": "2023-09-26",
     "direccion": "Calle General Diaz Porlier 31",
     "municipio": "Madrid",
     "distrito": "Salamanca",
@@ -535,7 +508,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/o7kmcss.jpg?1",
       "https://i.imgur.com/zXUVVcf.jpg?2",
