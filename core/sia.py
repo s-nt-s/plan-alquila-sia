@@ -32,6 +32,14 @@ def get_val(n):
     return txt
 
 
+class SiaDriver(Driver):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+
+    def waitLoaded(self):
+        self.waitjs('!jQuery("#ctl00_UpdateProg1").is(":visible")')
+
+
 class Sia:
     URL = "https://www3.emvs.es/SMAWeb/"
 
@@ -42,10 +50,11 @@ class Sia:
     def get_pisos(self):
         r: list[Piso] = []
         page = 0
-        with Driver(wait=10) as w:
+        with SiaDriver(wait=10) as w:
             w.get(Sia.URL)
             w.click("//p/input[@type='submit']")
             while True:
+                w.waitLoaded()
                 page += 1
                 logger.info(f"Página {page}")
                 w.wait("//div//table//th")
