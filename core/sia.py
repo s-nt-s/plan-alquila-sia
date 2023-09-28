@@ -39,6 +39,41 @@ class SiaDriver(Driver):
     def waitLoaded(self):
         self.waitjs('!jQuery("#ctl00_UpdateProg1").is(":visible")')
 
+    def iter_pages(self):
+        page = 1
+        logger.info(f"Página {page}")
+        self.click("//p/input[@type='submit']")
+        while True:
+            self.waitLoaded()
+            yield page
+            page += 1
+            nxt = self.safe_wait("//td/a[text()='%s']" % (page))
+            if nxt is None:
+                break
+            logger.info(f"Página {page}")
+            nxt.click()
+
+    def iter_pisos(self):
+        page = self.execute_script(
+            'return Number(jQuery("tr.paginador span.general").text())'
+        )
+        ids = []
+        for tr in self.get_soup().select("tr"):
+            tds = tr.findAll("td")
+            txt = tmap(get_val, tds)
+            if len(tds) != 7:
+                continue
+            ids.append(txt[0])
+        for id in ids:
+            logger.info(f"Piso {id}")
+            self.click(f"//td[text()='{id}']")
+            self.waitLoaded()
+            yield id
+            self.click("//div/input[@type='submit']")
+            if page > 1:
+                self.click("//td/a[text()='%s']" % page)
+                self.waitLoaded()
+
 
 class Sia:
     URL = "https://www3.emvs.es/SMAWeb/"
@@ -49,34 +84,16 @@ class Sia:
 
     def get_pisos(self):
         r: list[Piso] = []
-        page = 0
         with SiaDriver(wait=10) as w:
             w.get(Sia.URL)
-            w.click("//p/input[@type='submit']")
-            while True:
-                w.waitLoaded()
-                page += 1
-                logger.info(f"Página {page}")
-                w.wait("//div//table//th")
-                for tr in w.get_soup().select("tr"):
-                    tds = tr.findAll("td")
-                    txt = tmap(get_val, tds)
-                    if len(tds) != 7:
-                        continue
-                    ps = self.get_piso(w, txt[0], page)
+            for page in w.iter_pages():
+                for piso in w.iter_pisos():
+                    ps = self.get_piso(w, piso)
                     r.append(ps)
-                nxt = w.safe_wait("//td/a[text()='%s']" % (page + 1))
-                if nxt is None:
-                    break
-                nxt.click()
         r = sorted(r, key=lambda x: x.id)
         return r
 
-    def get_piso(self, w: Driver, id: int, page: int) -> Piso:
-        logger.info(f"Piso {id}")
-        w.click(f"//td[text()='{id}']")
-        w.wait(".form-group input")
-
+    def get_piso(self, w: Driver, id: int) -> Piso:
         @retry(times=3, sleep=3)
         def get_soup_vals():
             soup = w.get_soup()
@@ -111,9 +128,6 @@ class Sia:
             img = img.rsplit("&", 1)[0]
             ps.imgs.append(img)
         ps.imgs = self.__parse_imgs(w, ps.imgs, old.imgs)
-        w.click("//div/input[@type='submit']")
-        if page > 1:
-            w.click("//td/a[text()='%s']" % page)
 
         ps.modificado = self.__get_update(ps)
         return ps
