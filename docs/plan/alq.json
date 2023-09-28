@@ -3297,12 +3297,12 @@
   {
     "id": 271736,
     "publicado": "2023-09-22",
-    "modificado": "2023-09-27",
+    "modificado": "2023-09-28",
     "direccion": "Calle Pedro\u00f1eras, 30",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
     "planta": 4,
-    "precio": 1050,
+    "precio": 1100,
     "metros": 53.82,
     "dormitorios": 3,
     "aseos": 1,
@@ -8292,6 +8292,28 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 274300,
+    "publicado": "2023-09-07",
+    "direccion": "Calle Pico de San Pedro, 4",
+    "municipio": "Tres Cantos",
+    "planta": 5,
+    "precio": 1250,
+    "metros": 93,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "C",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
     "imgs": []
   }
 ]

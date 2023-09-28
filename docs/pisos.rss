@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 28 Sep 2023 06:43:02 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 Sep 2023 11:59:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,14 +31,6 @@
 			<pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31934?2023-09-14</guid>
-		</item>
-		<item>
-			<title>600€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/31948</link>
-			<description>C/ Manuel Lamela 3,&lt;br/&gt;2º con ascensor,&lt;br/&gt;0 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;sia/31948</description>
-			<pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31948?2023-09-20</guid>
 		</item>
 		<item>
 			<title>1550€ Chamberi</title>
@@ -1001,12 +993,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271633?2023-08-10</guid>
 		</item>
 		<item>
-			<title>1050€ Hortaleza</title>
+			<title>1100€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271736</link>
 			<description>C/ Pedroñeras, 30,&lt;br/&gt;4º con ascensor,&lt;br/&gt;54m², 3 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/271736</description>
-			<pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 28 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271736?2023-09-27</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271736?2023-09-28</guid>
 		</item>
 		<item>
 			<title>590€ Getafe</title>
@@ -2479,6 +2471,14 @@
 			<pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274299?2023-09-27</guid>
+		</item>
+		<item>
+			<title>1250€ Tres Cantos</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274300</link>
+			<description>C/ Pico de San Pedro, 4,&lt;br/&gt;5º con ascensor,&lt;br/&gt;93m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274300</description>
+			<pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+			<category>Tres Cantos</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274300?2023-09-07</guid>
 		</item>
 	</channel>
 </rss>

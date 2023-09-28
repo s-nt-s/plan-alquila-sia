@@ -492,6 +492,7 @@
   {
     "id": 31948,
     "publicado": "2023-09-20",
+    "modificado": "2023-09-28",
     "direccion": "Calle Manuel Lamela 3",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -504,7 +505,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/pcDBm3w.jpg?1",
       "https://i.imgur.com/iCaxyRC.jpg?2",
