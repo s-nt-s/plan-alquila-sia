@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 28 Sep 2023 13:22:21 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 Sep 2023 14:53:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -25,11 +25,11 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31914?2023-09-14</guid>
 		</item>
 		<item>
-			<title>1100€ Chamartin</title>
+			<title>1100€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/31929</link>
 			<description>C/ Lopez De Hoyos 168,&lt;br/&gt;1º con ascensor,&lt;br/&gt;1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;sia/31929</description>
 			<pubDate>Thu, 28 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Chamartin</category>
+			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31929?2023-09-28</guid>
 		</item>
 		<item>
@@ -41,11 +41,19 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31934?2023-09-14</guid>
 		</item>
 		<item>
-			<title>1550€ Chamberi</title>
+			<title>750€ Villaverde</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/31949</link>
+			<description>C/ Julia Sola 2,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 11 📷.&lt;br/&gt;sia/31949</description>
+			<pubDate>Thu, 28 Sep 2023 00:00:00 GMT</pubDate>
+			<category>Villaverde</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31949?2023-09-28</guid>
+		</item>
+		<item>
+			<title>1550€ Chamberí</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/31953</link>
 			<description>C/ Cardenal Cisneros 34,&lt;br/&gt;1º con ascensor,&lt;br/&gt;1 🛏,&lt;br/&gt;1 🛀, 4 📷.&lt;br/&gt;sia/31953</description>
 			<pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Chamberi</category>
+			<category>Chamberí</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31953?2023-09-27</guid>
 		</item>
 		<item>
@@ -487,14 +495,6 @@
 			<pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
 			<category>Leganés</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/253147?2022-11-03</guid>
-		</item>
-		<item>
-			<title>950€ Parla</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/253970</link>
-			<description>C/ Planeta Júpiter, 40,&lt;br/&gt;2º con ascensor,&lt;br/&gt;105m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/253970</description>
-			<pubDate>Tue, 26 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Parla</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/253970?2023-09-26</guid>
 		</item>
 		<item>
 			<title>925€ Fuencarral-El Pardo</title>
@@ -1769,14 +1769,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274122?2023-09-19</guid>
 		</item>
 		<item>
-			<title>813€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274125</link>
-			<description>Pº Diego Martínez Barrio, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;86m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/274125</description>
-			<pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274125?2023-07-27</guid>
-		</item>
-		<item>
 			<title>850€ Arganzuela</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274126</link>
 			<description>Pº Chopera, 15,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/274126</description>
@@ -2487,6 +2479,22 @@
 			<pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Tres Cantos</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274300?2023-09-07</guid>
+		</item>
+		<item>
+			<title>800€ Belmonte de Tajo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274301</link>
+			<description>C/ Emilio Salcedo, 20,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;107m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274301</description>
+			<pubDate>Thu, 28 Sep 2023 00:00:00 GMT</pubDate>
+			<category>Belmonte de Tajo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274301?2023-09-28</guid>
+		</item>
+		<item>
+			<title>1150€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274304</link>
+			<description>Pº Extremadura, 113,&lt;br/&gt;3º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274304</description>
+			<pubDate>Thu, 28 Sep 2023 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274304?2023-09-28</guid>
 		</item>
 	</channel>
 </rss>

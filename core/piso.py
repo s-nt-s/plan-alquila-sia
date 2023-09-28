@@ -42,6 +42,10 @@ class Piso:
             self.imgs = []
 
     def __parse_distrito(self, distrito):
+        if distrito == "Chamartin":
+            return "Chamartín"
+        if distrito == "Chamberi":
+            return "Chamberí"
         if distrito == "Moncloa":
             return "Moncloa-Aravaca"
         if distrito == "Puente De Vallecas":

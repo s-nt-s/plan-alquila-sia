@@ -251,7 +251,7 @@
     "publicado": "2023-09-28",
     "direccion": "Calle Lopez De Hoyos 168",
     "municipio": "Madrid",
-    "distrito": "Chamartin",
+    "distrito": "Chamart\u00edn",
     "barrio": "Prosperidad",
     "planta": 1,
     "orientacion": "Exterior",
@@ -269,32 +269,6 @@
       "https://i.imgur.com/wA3gzVq.jpg?4",
       "https://i.imgur.com/N6pH9nM.jpg?5",
       "https://i.imgur.com/SUe4s24.jpg?6"
-    ]
-  },
-  {
-    "id": 31930,
-    "publicado": "2023-09-18",
-    "modificado": "2023-09-25",
-    "direccion": "Avenida Orovilla 55",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "Moscard\u00f3",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 495,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/JzzWpUg.jpg?1",
-      "https://i.imgur.com/6ijBbbu.jpg?2",
-      "https://i.imgur.com/fXb2DLF.jpg?3",
-      "https://i.imgur.com/2ReYC3x.jpg?4",
-      "https://i.imgur.com/2ehZKAG.jpg?5",
-      "https://i.imgur.com/yRKzs6f.jpg?6"
     ]
   },
   {
@@ -541,6 +515,36 @@
     ]
   },
   {
+    "id": 31949,
+    "publicado": "2023-09-28",
+    "direccion": "Calle Julia Sola 2",
+    "municipio": "Madrid",
+    "distrito": "Villaverde",
+    "barrio": "Butarque",
+    "planta": 1,
+    "orientacion": "Mixto",
+    "precio": 750,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/o7WvU4D.jpg?1",
+      "https://i.imgur.com/zYPOyt9.jpg?2",
+      "https://i.imgur.com/OIG7SXr.jpg?3",
+      "https://i.imgur.com/xkEpGm1.jpg?4",
+      "https://i.imgur.com/b9aA11Q.jpg?5",
+      "https://i.imgur.com/eHGID35.jpg?7",
+      "https://i.imgur.com/MFw6187.jpg?9",
+      "https://i.imgur.com/Hccvs0h.jpg?10",
+      "https://i.imgur.com/OBTYYOk.jpg?11",
+      "https://i.imgur.com/dnHPiJJ.jpg?12",
+      "https://i.imgur.com/v6AqsFv.jpg?13"
+    ]
+  },
+  {
     "id": 31950,
     "publicado": "2023-09-22",
     "modificado": "2023-09-22",
@@ -606,7 +610,7 @@
     "modificado": "2023-09-27",
     "direccion": "Calle Cardenal Cisneros 34",
     "municipio": "Madrid",
-    "distrito": "Chamberi",
+    "distrito": "Chamber\u00ed",
     "barrio": "Trafalgar",
     "planta": 1,
     "orientacion": "Exterior",
