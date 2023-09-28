@@ -8284,6 +8284,27 @@
     "imgs": []
   },
   {
+    "id": 274302,
+    "publicado": "2023-09-28",
+    "direccion": "Avda Buenos Aires, 5",
+    "municipio": "Collado Mediano",
+    "planta": 2,
+    "precio": 800,
+    "metros": 93,
+    "dormitorios": 3,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 274304,
     "publicado": "2023-09-28",
     "direccion": "Paseo Extremadura, 113",
