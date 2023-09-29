@@ -77,43 +77,6 @@
     ]
   },
   {
-    "id": 31910,
-    "publicado": "2023-09-07",
-    "modificado": "2023-09-14",
-    "direccion": "Calle Tembleque 83",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Aluche",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 775,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/PNFQ2gd.jpg?1",
-      "https://i.imgur.com/c0SbH2I.jpg?2",
-      "https://i.imgur.com/TtD7C8H.jpg?3",
-      "https://i.imgur.com/50U0ArF.jpg?4",
-      "https://i.imgur.com/Sg98Ok9.jpg?5",
-      "https://i.imgur.com/TXlW552.jpg?6",
-      "https://i.imgur.com/Szz1h9r.jpg?7",
-      "https://i.imgur.com/w0rsVOT.jpg?8",
-      "https://i.imgur.com/09J8hdG.jpg?9",
-      "https://i.imgur.com/lvS0qEC.jpg?10",
-      "https://i.imgur.com/W4eT9Co.jpg?11",
-      "https://i.imgur.com/rBvzrWM.jpg?12",
-      "https://i.imgur.com/xezDjap.jpg?13",
-      "https://i.imgur.com/8ECNJsV.jpg?14",
-      "https://i.imgur.com/akSaiy9.jpg?15",
-      "https://i.imgur.com/wdaqcNk.jpg?16",
-      "https://i.imgur.com/fOAlO1R.jpg?17"
-    ]
-  },
-  {
     "id": 31912,
     "publicado": "2023-09-07",
     "direccion": "Calle Princesa De Eboli 2",
@@ -160,32 +123,6 @@
       "https://i.imgur.com/1aZcLNo.jpg?28",
       "https://i.imgur.com/bhpuq4D.jpg?29",
       "https://i.imgur.com/8WMvufb.jpg?30"
-    ]
-  },
-  {
-    "id": 31913,
-    "publicado": "2023-09-15",
-    "modificado": "2023-09-26",
-    "direccion": "Calle Cebreros 64",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Lucero",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 530,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/z5hYjO0.jpg?1",
-      "https://i.imgur.com/yHLksAF.jpg?2",
-      "https://i.imgur.com/ZTozblu.jpg?3",
-      "https://i.imgur.com/nYXLL3Q.jpg?4",
-      "https://i.imgur.com/8neLc9L.jpg?5",
-      "https://i.imgur.com/LVIdG36.jpg?6"
     ]
   },
   {
@@ -269,35 +206,6 @@
       "https://i.imgur.com/wA3gzVq.jpg?4",
       "https://i.imgur.com/N6pH9nM.jpg?5",
       "https://i.imgur.com/SUe4s24.jpg?6"
-    ]
-  },
-  {
-    "id": 31931,
-    "publicado": "2023-09-07",
-    "modificado": "2023-09-11",
-    "direccion": "Calle Maria Del Carmen 23",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Puerta del \u00c1ngel",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 600,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/2Rj5kew.jpg?2",
-      "https://i.imgur.com/ULwG45k.jpg?6",
-      "https://i.imgur.com/H71UBNz.jpg?9",
-      "https://i.imgur.com/XoNBSQU.jpg?10",
-      "https://i.imgur.com/OMqyiZy.jpg?11",
-      "https://i.imgur.com/Iyi656w.jpg?12",
-      "https://i.imgur.com/9OcJUMH.jpg?13",
-      "https://i.imgur.com/xeKJSZB.jpg?14",
-      "https://i.imgur.com/ucdxWvA.jpg?15"
     ]
   },
   {
@@ -386,34 +294,6 @@
       "https://i.imgur.com/PxPYEPF.jpg?9",
       "https://i.imgur.com/ZMkWHwM.jpg?10",
       "https://i.imgur.com/cA1I8im.jpg?11"
-    ]
-  },
-  {
-    "id": 31942,
-    "publicado": "2023-09-11",
-    "modificado": "2023-09-19",
-    "direccion": "Paseo Santa Maria De La Cabeza 7",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Delicias",
-    "planta": 2,
-    "orientacion": "Interior",
-    "precio": 700,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/LXYvLQe.jpg?1",
-      "https://i.imgur.com/71pms2H.jpg?2",
-      "https://i.imgur.com/sbzyddV.jpg?3",
-      "https://i.imgur.com/MbmncuM.jpg?4",
-      "https://i.imgur.com/vlna4nl.jpg?5",
-      "https://i.imgur.com/EbepXua.jpg?6",
-      "https://i.imgur.com/o1z3D11.jpg?7",
-      "https://i.imgur.com/XHhyLyQ.jpg?8"
     ]
   },
   {
@@ -517,6 +397,7 @@
   {
     "id": 31949,
     "publicado": "2023-09-28",
+    "modificado": "2023-09-29",
     "direccion": "Calle Julia Sola 2",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -529,7 +410,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/o7WvU4D.jpg?1",
       "https://i.imgur.com/zYPOyt9.jpg?2",
@@ -631,7 +512,7 @@
   {
     "id": 31956,
     "publicado": "2023-09-27",
-    "modificado": "2023-09-28",
+    "modificado": "2023-09-29",
     "direccion": "Calle Cancion Del Olvido 40",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -644,7 +525,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/kAHxEk3.jpg?1",
       "https://i.imgur.com/5QPCmka.jpg?2",
@@ -662,6 +543,31 @@
       "https://i.imgur.com/va35v0n.jpg?21",
       "https://i.imgur.com/8dSHF0r.jpg?22",
       "https://i.imgur.com/isGOXuy.jpg?23"
+    ]
+  },
+  {
+    "id": 31959,
+    "publicado": "2023-09-29",
+    "direccion": "Calle Principe De Vergara 278",
+    "municipio": "Madrid",
+    "distrito": "Chamart\u00edn",
+    "barrio": "Nueva Espa\u00f1a",
+    "planta": 1,
+    "orientacion": "Interior",
+    "precio": 1170,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/XWt2wHp.jpg?1",
+      "https://i.imgur.com/fWyxXCO.jpg?2",
+      "https://i.imgur.com/lPzFsdj.jpg?3",
+      "https://i.imgur.com/PRdNOdi.jpg?4",
+      "https://i.imgur.com/4AnSJ8d.jpg?5",
+      "https://i.imgur.com/zU8mG8j.jpg?6"
     ]
   },
   {
