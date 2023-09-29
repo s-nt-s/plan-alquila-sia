@@ -21,10 +21,24 @@ jobs:
         run: sudo apt install -y chromium-browser
       - name: Install pip packages
         run: pip install -r requirements.txt
-      - name: Run the scraping script
+      - name: Scraping SIA
+        uses: nick-fields/retry@v2
         env:
           IMGUR_CLIENT: ${{ secrets.IMGUR_CLIENT }}
-        run: python scraper.py
+        with:
+          timeout_minutes: 60
+          retry_wait_seconds: 15
+          max_attempts: 3
+          retry_on: error
+          command: python scraper.py sia
+      - name: Scraping ALQ
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 60
+          retry_wait_seconds: 15
+          max_attempts: 3
+          retry_on: error
+          command: python scraper.py alq
       - name: Build site
         run: python build_site.py
       - name: Commit and push if content changed
