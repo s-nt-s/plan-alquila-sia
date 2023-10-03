@@ -66,34 +66,6 @@
     ]
   },
   {
-    "id": 31921,
-    "publicado": "2023-09-07",
-    "direccion": "Calle Castillo De Coca 9",
-    "municipio": "Madrid",
-    "distrito": "San Blas",
-    "barrio": "Simancas",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 700,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/jwKiBfe.jpg?1",
-      "https://i.imgur.com/spQiOco.jpg?2",
-      "https://i.imgur.com/qs6qmgY.jpg?3",
-      "https://i.imgur.com/BanAgbQ.jpg?4",
-      "https://i.imgur.com/IYZSvaT.jpg?5",
-      "https://i.imgur.com/nPWEboh.jpg?6",
-      "https://i.imgur.com/nWKDBB2.jpg?7",
-      "https://i.imgur.com/fRZVah8.jpg?8",
-      "https://i.imgur.com/P1rbnsf.jpg?9"
-    ]
-  },
-  {
     "id": 31929,
     "publicado": "2023-09-28",
     "direccion": "Calle Lopez De Hoyos 168",
@@ -305,37 +277,6 @@
     ]
   },
   {
-    "id": 31949,
-    "publicado": "2023-09-28",
-    "modificado": "2023-09-29",
-    "direccion": "Calle Julia Sola 2",
-    "municipio": "Madrid",
-    "distrito": "Villaverde",
-    "barrio": "Butarque",
-    "planta": 1,
-    "orientacion": "Mixto",
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/o7WvU4D.jpg?1",
-      "https://i.imgur.com/zYPOyt9.jpg?2",
-      "https://i.imgur.com/OIG7SXr.jpg?3",
-      "https://i.imgur.com/xkEpGm1.jpg?4",
-      "https://i.imgur.com/b9aA11Q.jpg?5",
-      "https://i.imgur.com/eHGID35.jpg?7",
-      "https://i.imgur.com/MFw6187.jpg?9",
-      "https://i.imgur.com/Hccvs0h.jpg?10",
-      "https://i.imgur.com/OBTYYOk.jpg?11",
-      "https://i.imgur.com/dnHPiJJ.jpg?12",
-      "https://i.imgur.com/v6AqsFv.jpg?13"
-    ]
-  },
-  {
     "id": 31950,
     "publicado": "2023-09-22",
     "modificado": "2023-09-22",
@@ -417,6 +358,34 @@
       "https://i.imgur.com/oW3W45n.jpg?2",
       "https://i.imgur.com/gM6CbmE.jpg?3",
       "https://i.imgur.com/ofcJHzv.jpg?4"
+    ]
+  },
+  {
+    "id": 31955,
+    "publicado": "2023-10-03",
+    "direccion": "Calle Costa Rica 18",
+    "municipio": "Madrid",
+    "distrito": "Chamart\u00edn",
+    "barrio": "Hispanoam\u00e9rica",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 1200,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": true,
+    "imgs": [
+      "https://i.imgur.com/SY2HkQ0.jpg?1",
+      "https://i.imgur.com/xYpbOjh.jpg?2",
+      "https://i.imgur.com/DJN6Oh0.jpg?3",
+      "https://i.imgur.com/EAnbIw6.jpg?4",
+      "https://i.imgur.com/A7LvuAL.jpg?5",
+      "https://i.imgur.com/ebm8clr.jpg?6",
+      "https://i.imgur.com/nPd4SwC.jpg?7",
+      "https://i.imgur.com/OkkYOoz.jpg?8",
+      "https://i.imgur.com/avhYfCk.jpg?9"
     ]
   },
   {
