@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 03 Oct 2023 12:51:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Oct 2023 04:47:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -203,10 +203,10 @@
 		<item>
 			<title>1000€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/218029</link>
-			<description>Av. Parque de Palomeras Bajas, 19,&lt;br/&gt;1º con ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/218029</description>
-			<pubDate>Tue, 03 Oct 2023 00:00:00 GMT</pubDate>
+			<description>Av. Parque de Palomeras Bajas, 19,&lt;br/&gt;1º con ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/218029</description>
+			<pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/218029?2023-10-03</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/218029?2023-10-04</guid>
 		</item>
 		<item>
 			<title>900€ Moncloa-Aravaca</title>
@@ -839,6 +839,14 @@
 			<pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269832?2022-10-11</guid>
+		</item>
+		<item>
+			<title>1100€ Moncloa-Aravaca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269941</link>
+			<description>C/ Martín de los Heros, 82,&lt;br/&gt;6º con ascensor,&lt;br/&gt;40m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269941</description>
+			<pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+			<category>Moncloa-Aravaca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269941?2023-10-02</guid>
 		</item>
 		<item>
 			<title>750€ Retiro</title>
@@ -1695,14 +1703,6 @@
 			<pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274126?2023-07-27</guid>
-		</item>
-		<item>
-			<title>850€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274131</link>
-			<description>C/ Los Yébenes, 153,&lt;br/&gt;3º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/274131</description>
-			<pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274131?2023-07-31</guid>
 		</item>
 		<item>
 			<title>1400€ Centro</title>
