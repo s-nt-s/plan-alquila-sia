@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 05 Oct 2023 12:57:23 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Oct 2023 04:49:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -687,6 +687,14 @@
 			<pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267574?2023-06-05</guid>
+		</item>
+		<item>
+			<title>1150€ Chamberí</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267722</link>
+			<description>C/ Alonso Cano, 37,&lt;br/&gt;5º con ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/267722</description>
+			<pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+			<category>Chamberí</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267722?2023-10-04</guid>
 		</item>
 		<item>
 			<title>750€ Carabanchel</title>
@@ -2047,14 +2055,6 @@
 			<pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274267?2023-09-19</guid>
-		</item>
-		<item>
-			<title>500€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274269</link>
-			<description>Pl. Arteijo, 13,&lt;br/&gt;3º con ascensor,&lt;br/&gt;31m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274269</description>
-			<pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274269?2023-09-20</guid>
 		</item>
 		<item>
 			<title>630€ Escorial, El</title>
