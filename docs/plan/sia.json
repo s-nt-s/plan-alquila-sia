@@ -151,32 +151,6 @@
     ]
   },
   {
-    "id": 31935,
-    "publicado": "2023-09-14",
-    "modificado": "2023-09-25",
-    "direccion": "Calle Sierra De Monchique 10",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "San Diego",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 800,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/U8uMfBR.jpg?1",
-      "https://i.imgur.com/4Gz0U3j.jpg?2",
-      "https://i.imgur.com/w0YCiNA.jpg?3",
-      "https://i.imgur.com/XUcqJrG.jpg?4",
-      "https://i.imgur.com/kXANrbg.jpg?5",
-      "https://i.imgur.com/8kP8jPi.jpg?6"
-    ]
-  },
-  {
     "id": 31946,
     "publicado": "2023-09-15",
     "modificado": "2023-09-20",
@@ -207,32 +181,6 @@
       "https://i.imgur.com/xmTinx7.jpg?14",
       "https://i.imgur.com/IAWJ9RD.jpg?15",
       "https://i.imgur.com/kKCkfod.jpg?16"
-    ]
-  },
-  {
-    "id": 31948,
-    "publicado": "2023-09-20",
-    "modificado": "2023-09-28",
-    "direccion": "Calle Manuel Lamela 3",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Puerta Bonita",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 600,
-    "dormitorios": 0,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/pcDBm3w.jpg?1",
-      "https://i.imgur.com/iCaxyRC.jpg?2",
-      "https://i.imgur.com/MLDOgKB.jpg?3",
-      "https://i.imgur.com/YtyIbZz.jpg?4",
-      "https://i.imgur.com/LgJHpr2.jpg?5",
-      "https://i.imgur.com/M3zmJYI.jpg?6"
     ]
   },
   {
@@ -386,6 +334,7 @@
   {
     "id": 31959,
     "publicado": "2023-09-29",
+    "modificado": "2023-10-06",
     "direccion": "Calle Principe De Vergara 278",
     "municipio": "Madrid",
     "distrito": "Chamart\u00edn",
@@ -398,7 +347,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/XWt2wHp.jpg?1",
       "https://i.imgur.com/fWyxXCO.jpg?2",
