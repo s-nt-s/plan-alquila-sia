@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 06 Oct 2023 12:47:33 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 07 Oct 2023 04:41:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -159,14 +159,6 @@
 			<pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/213893?2023-09-13</guid>
-		</item>
-		<item>
-			<title>1060€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/215139</link>
-			<description>C/ Alicun, 10,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;81m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/215139</description>
-			<pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/215139?2023-09-22</guid>
 		</item>
 		<item>
 			<title>900€ Alcorcón</title>
@@ -849,14 +841,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270612?2023-09-27</guid>
 		</item>
 		<item>
-			<title>1200€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270856</link>
-			<description>C/ Amaniel, 31,&lt;br/&gt;5º con ascensor,&lt;br/&gt;55m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270856</description>
-			<pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270856?2022-10-06</guid>
-		</item>
-		<item>
 			<title>1300€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271036</link>
 			<description>C/ Bélgica, 7,&lt;br/&gt;5º con ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/271036</description>
@@ -1079,22 +1063,6 @@
 			<pubDate>Mon, 28 Aug 2023 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273395?2023-08-28</guid>
-		</item>
-		<item>
-			<title>1600€ Navalcarnero</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273465</link>
-			<description>C/ Alcázar de Segovia, 13,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;200m², 4 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/273465</description>
-			<pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Navalcarnero</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273465?2023-09-19</guid>
-		</item>
-		<item>
-			<title>1300€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273466</link>
-			<description>C/ Gutierre de Cetina, 34,&lt;br/&gt;1º con ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/273466</description>
-			<pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273466?2022-10-04</guid>
 		</item>
 		<item>
 			<title>1200€ Chamberí</title>
@@ -2335,6 +2303,14 @@
 			<pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274313?2023-10-04</guid>
+		</item>
+		<item>
+			<title>1100€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274319</link>
+			<description>C/ Infanta María, 7,&lt;br/&gt;4º con ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274319</description>
+			<pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274319?2023-10-06</guid>
 		</item>
 	</channel>
 </rss>
