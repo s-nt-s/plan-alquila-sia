@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 09 Oct 2023 11:19:36 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Oct 2023 12:51:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -343,14 +343,6 @@
 			<pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Guadarrama</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/235141?2023-09-19</guid>
-		</item>
-		<item>
-			<title>950€ Torrejón de Ardoz</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/237928</link>
-			<description>C/ Estaño, 4,&lt;br/&gt;5º con ascensor,&lt;br/&gt;69m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/237928</description>
-			<pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Torrejón de Ardoz</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/237928?2023-09-27</guid>
 		</item>
 		<item>
 			<title>875€ Retiro</title>
@@ -1127,14 +1119,6 @@
 			<pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Guadalix de la Sierra</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273542?2023-09-15</guid>
-		</item>
-		<item>
-			<title>1100€ Alcobendas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273543</link>
-			<description>C/ Jarama, 6,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;92m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/273543</description>
-			<pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273543?2023-09-27</guid>
 		</item>
 		<item>
 			<title>1100€ Arganzuela</title>
@@ -2279,6 +2263,14 @@
 			<pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274319?2023-10-06</guid>
+		</item>
+		<item>
+			<title>1200€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274320</link>
+			<description>C/ Luis García Berlanga, 2,&lt;br/&gt;4º con ascensor,&lt;br/&gt;88m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274320</description>
+			<pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274320?2023-10-09</guid>
 		</item>
 	</channel>
 </rss>
