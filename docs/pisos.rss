@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 09 Oct 2023 12:51:27 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 09 Oct 2023 21:03:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -879,6 +879,14 @@
 			<pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Alpedrete</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271258?2023-09-19</guid>
+		</item>
+		<item>
+			<title>1100€ Chamartín</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271419</link>
+			<description>C/ Vinaroz, 27,&lt;br/&gt;1º con ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271419</description>
+			<pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
+			<category>Chamartín</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271419?2023-10-09</guid>
 		</item>
 		<item>
 			<title>785€ Usera</title>
@@ -2193,12 +2201,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274303?2023-09-29</guid>
 		</item>
 		<item>
-			<title>1150€ Latina</title>
+			<title>950€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274304</link>
 			<description>Pº Extremadura, 113,&lt;br/&gt;3º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/274304</description>
-			<pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274304?2023-10-02</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274304?2023-10-09</guid>
 		</item>
 		<item>
 			<title>1250€ Villa de Vallecas</title>
