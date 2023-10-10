@@ -36,34 +36,6 @@
     ]
   },
   {
-    "id": 31909,
-    "publicado": "2023-10-05",
-    "direccion": "Avenida De Las Suertes 60",
-    "municipio": "Madrid",
-    "distrito": "Vallecas Villa",
-    "barrio": "Ensanche de Vallecas",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 650,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/QmCrh8A.jpg?1",
-      "https://i.imgur.com/6aGoyUD.jpg?2",
-      "https://i.imgur.com/q3CK9xG.jpg?3",
-      "https://i.imgur.com/M5vcDej.jpg?4",
-      "https://i.imgur.com/FZS7Ohe.jpg?5",
-      "https://i.imgur.com/GXTbYNI.jpg?6",
-      "https://i.imgur.com/viPd26M.jpg?7",
-      "https://i.imgur.com/P45XLex.jpg?8",
-      "https://i.imgur.com/5jpNMxK.jpg?9"
-    ]
-  },
-  {
     "id": 31914,
     "publicado": "2023-09-14",
     "direccion": "Calle Doctor Esquerdo 150",
@@ -352,6 +324,7 @@
   {
     "id": 31964,
     "publicado": "2023-10-09",
+    "modificado": "2023-10-10",
     "direccion": "Calle Cracovia 1",
     "municipio": "Madrid",
     "distrito": "San Blas",
@@ -364,7 +337,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/nVkxUhr.jpg?1",
       "https://i.imgur.com/gozoUuM.jpg?2",
