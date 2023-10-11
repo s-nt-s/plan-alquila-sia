@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 11 Oct 2023 13:50:49 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Oct 2023 18:46:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -103,6 +103,14 @@
 			<pubDate>Sat, 30 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Humanes de Madrid</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/201694?2023-09-30</guid>
+		</item>
+		<item>
+			<title>1000€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/202685</link>
+			<description>C/ Puentelarra, 6,&lt;br/&gt;4º con ascensor,&lt;br/&gt;93m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/202685</description>
+			<pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/202685?2023-10-11</guid>
 		</item>
 		<item>
 			<title>950€ Vicálvaro</title>
@@ -2207,6 +2215,14 @@
 			<pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274323?2023-10-10</guid>
+		</item>
+		<item>
+			<title>825€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274324</link>
+			<description>C/ Carolina Coronado, 37,&lt;br/&gt;2º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274324</description>
+			<pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274324?2023-10-09</guid>
 		</item>
 		<item>
 			<title>1350€ Tetuán</title>
