@@ -386,5 +386,61 @@
       "https://i.imgur.com/RnHDWb4.jpg?13",
       "https://i.imgur.com/jVhSewa.jpg?14"
     ]
+  },
+  {
+    "id": 31968,
+    "publicado": "2023-10-11",
+    "direccion": "Calle San Pascual 10",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Lucero",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 750,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/fXoirM1.jpg?1",
+      "https://i.imgur.com/rdMTggM.jpg?2",
+      "https://i.imgur.com/dKY2EK4.jpg?3",
+      "https://i.imgur.com/gzv1arX.jpg?4",
+      "https://i.imgur.com/AZ5gGXq.jpg?5",
+      "https://i.imgur.com/NoFgVDp.jpg?6",
+      "https://i.imgur.com/wpYb8DE.jpg?7",
+      "https://i.imgur.com/76BiOCh.jpg?8",
+      "https://i.imgur.com/SXp67XX.jpg?9"
+    ]
+  },
+  {
+    "id": 31970,
+    "publicado": "2023-10-11",
+    "direccion": "Calle Pinos Baja 79",
+    "municipio": "Madrid",
+    "distrito": "Tetuan",
+    "barrio": "Almenara",
+    "planta": 3,
+    "precio": 740,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/xl9Duvv.jpg?1",
+      "https://i.imgur.com/bzU2dlI.jpg?2",
+      "https://i.imgur.com/qfe5QFh.jpg?3",
+      "https://i.imgur.com/D0bSPbQ.jpg?4",
+      "https://i.imgur.com/yHIiaSw.jpg?5",
+      "https://i.imgur.com/YXfMpko.jpg?6",
+      "https://i.imgur.com/EzmOD01.jpg?7",
+      "https://i.imgur.com/52EPuYW.jpg?8",
+      "https://i.imgur.com/mK5VTV4.jpg?9",
+      "https://i.imgur.com/Idz0Mrd.jpg?10"
+    ]
   }
 ]
