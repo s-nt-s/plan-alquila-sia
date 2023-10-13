@@ -7,6 +7,8 @@ import requests
 from bs4 import BeautifulSoup, Tag
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.chrome import ChromeType
+from webdriver_manager.core.utils import read_version_from_cmd 
+from webdriver_manager.core.os_manager import PATTERN
 from selenium import webdriver
 from selenium.common.exceptions import (ElementNotInteractableException,
                                         ElementNotVisibleException,
@@ -176,7 +178,14 @@ class Driver:
     @staticmethod
     def find_driver_path():
         if Driver.DRIVER_PATH is None:
+            def get_version(path):
+                if os.path.isfile(path):
+                    return read_version_from_cmd(
+                        path+" --version",
+                        PATTERN[ChromeType.CHROMIUM]
+                    )
             Driver.DRIVER_PATH = ChromeDriverManager(
+                driver_version=get_version("/usr/bin/chromium"),
                 chrome_type=ChromeType.CHROMIUM
             ).install()
         return Driver.DRIVER_PATH
@@ -222,7 +231,7 @@ class Driver:
             )
         else:
             driver = webdriver.Chrome(
-                Driver.find_driver_path(), 
+                Driver.find_driver_path(),
                 options=options
             )
         driver.maximize_window()

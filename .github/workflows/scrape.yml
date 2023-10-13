@@ -17,6 +17,8 @@ jobs:
         run: sudo apt purge google-chrome-stable
       - name: Remove default Chromium
         run: sudo apt purge chromium-browser
+      - name: Autoclean
+        run: sudo apt clean -y && sudo apt autoclean -y && sudo apt autoremove -y
       - name: Install a new Chromium
         run: sudo apt install -y chromium-browser
       - name: Install pip packages
