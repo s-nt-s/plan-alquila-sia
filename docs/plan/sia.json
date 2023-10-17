@@ -231,6 +231,35 @@
     ]
   },
   {
+    "id": 31963,
+    "publicado": "2023-10-17",
+    "direccion": "Calle Jose Del Prado Y Palacios 1",
+    "municipio": "Madrid",
+    "distrito": "Moratalaz",
+    "barrio": "Media Legua",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 800,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/9fyl1Vq.jpg?1",
+      "https://i.imgur.com/Xh33yyP.jpg?2",
+      "https://i.imgur.com/kWVm1AY.jpg?4",
+      "https://i.imgur.com/mcRcVYR.jpg?5",
+      "https://i.imgur.com/R15MJ1i.jpg?6",
+      "https://i.imgur.com/auUCRjT.jpg?7",
+      "https://i.imgur.com/VjpGPqU.jpg?8",
+      "https://i.imgur.com/KNgROAH.jpg?9",
+      "https://i.imgur.com/sLCk4e2.jpg?10",
+      "https://i.imgur.com/bgX3eEo.jpg?11"
+    ]
+  },
+  {
     "id": 31964,
     "publicado": "2023-10-09",
     "modificado": "2023-10-10",
