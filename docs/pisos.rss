@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 17 Oct 2023 13:45:35 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2023 18:45:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -2135,6 +2135,14 @@
 			<pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274334?2023-10-17</guid>
+		</item>
+		<item>
+			<title>1100€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274340</link>
+			<description>C/ Ramón Luján, 118,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;58m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274340</description>
+			<pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274340?2023-10-17</guid>
 		</item>
 	</channel>
 </rss>
