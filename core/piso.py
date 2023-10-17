@@ -50,6 +50,8 @@ class Piso:
             return "Moncloa-Aravaca"
         if distrito == "Puente De Vallecas":
             return "Puente de Vallecas"
+        if distrito == "Vallecas Villa":
+            return "Villa de Vallecas"
         return distrito
 
     def __parse_planta(self, planta):
