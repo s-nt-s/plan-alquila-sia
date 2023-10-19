@@ -93,6 +93,7 @@
   {
     "id": 31943,
     "publicado": "2023-10-09",
+    "modificado": "2023-10-19",
     "direccion": "Calle Juan De Dios 8",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -105,7 +106,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Mum0OON.jpg?2",
       "https://i.imgur.com/10nfOp7.jpg?4",
@@ -402,35 +403,6 @@
       "https://i.imgur.com/gb9XNdO.jpg?11",
       "https://i.imgur.com/nLyObpF.jpg?12",
       "https://i.imgur.com/aAZHbg3.jpg?13"
-    ]
-  },
-  {
-    "id": 31970,
-    "publicado": "2023-10-11",
-    "modificado": "2023-10-17",
-    "direccion": "Calle Pinos Baja 79",
-    "municipio": "Madrid",
-    "distrito": "Tetuan",
-    "barrio": "Almenara",
-    "planta": 3,
-    "precio": 750,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/xl9Duvv.jpg?1",
-      "https://i.imgur.com/bzU2dlI.jpg?2",
-      "https://i.imgur.com/qfe5QFh.jpg?3",
-      "https://i.imgur.com/D0bSPbQ.jpg?4",
-      "https://i.imgur.com/yHIiaSw.jpg?5",
-      "https://i.imgur.com/YXfMpko.jpg?6",
-      "https://i.imgur.com/EzmOD01.jpg?7",
-      "https://i.imgur.com/52EPuYW.jpg?8",
-      "https://i.imgur.com/mK5VTV4.jpg?9",
-      "https://i.imgur.com/Idz0Mrd.jpg?10"
     ]
   }
 ]
