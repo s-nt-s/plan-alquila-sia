@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 24 Oct 2023 13:40:30 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 24 Oct 2023 18:41:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -745,14 +745,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272012?2022-11-23</guid>
 		</item>
 		<item>
-			<title>900€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272186</link>
-			<description>Av. Campo de Calatrava, 17,&lt;br/&gt;2º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/272186</description>
-			<pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272186?2023-09-25</guid>
-		</item>
-		<item>
 			<title>1400€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272201</link>
 			<description>C/ Tiziano, 9,&lt;br/&gt;5º con ascensor,&lt;br/&gt;74m², 3 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/272201</description>
@@ -831,6 +823,14 @@
 			<pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272728?2022-11-15</guid>
+		</item>
+		<item>
+			<title>580€ Valdemoro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272822</link>
+			<description>C/ Cristo de la Salud, 2,&lt;br/&gt;2º con ascensor,&lt;br/&gt;30m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/272822</description>
+			<pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+			<category>Valdemoro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272822?2023-09-04</guid>
 		</item>
 		<item>
 			<title>700€ Chamberí</title>
