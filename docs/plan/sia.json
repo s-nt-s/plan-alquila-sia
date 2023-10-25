@@ -405,6 +405,7 @@
   {
     "id": 31977,
     "publicado": "2023-10-20",
+    "modificado": "2023-10-25",
     "direccion": "Calle Tembleque 83",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -416,7 +417,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/AVzgXI5.jpg?1",
       "https://i.imgur.com/2FgZiJe.jpg?2",
@@ -441,6 +442,7 @@
   {
     "id": 31978,
     "publicado": "2023-10-24",
+    "modificado": "2023-10-25",
     "direccion": "Calle Carlos Martin Alvarez 30",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -453,7 +455,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/AGirFrW.jpg?1",
       "https://i.imgur.com/yuZpYYW.jpg?2",
