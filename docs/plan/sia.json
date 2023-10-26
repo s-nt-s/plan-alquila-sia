@@ -174,6 +174,7 @@
   {
     "id": 31963,
     "publicado": "2023-10-17",
+    "modificado": "2023-10-26",
     "direccion": "Calle Jose Del Prado Y Palacios 1",
     "municipio": "Madrid",
     "distrito": "Moratalaz",
@@ -186,7 +187,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/9fyl1Vq.jpg?1",
       "https://i.imgur.com/Xh33yyP.jpg?2",
@@ -349,6 +350,7 @@
   {
     "id": 31969,
     "publicado": "2023-10-17",
+    "modificado": "2023-10-26",
     "direccion": "Calle De Honrubia 23",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -361,7 +363,7 @@
     "cee": "C",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/EMLz8cl.jpg?1",
       "https://i.imgur.com/9a2yx3F.jpg?2",
@@ -400,6 +402,39 @@
       "https://i.imgur.com/KxuNpsG.jpg?3",
       "https://i.imgur.com/12I8uEv.jpg?4",
       "https://i.imgur.com/rogapmB.jpg?5"
+    ]
+  },
+  {
+    "id": 31976,
+    "publicado": "2023-10-26",
+    "direccion": "Calle Aldea Del Fresno 5",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Chopera",
+    "planta": 4,
+    "orientacion": "Mixto",
+    "precio": 900,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/tr9c3Dh.jpg?1",
+      "https://i.imgur.com/Ss3HUl0.jpg?2",
+      "https://i.imgur.com/i1vuju4.jpg?4",
+      "https://i.imgur.com/5kG89iJ.jpg?6",
+      "https://i.imgur.com/YsHfUxZ.jpg?8",
+      "https://i.imgur.com/VsOArep.jpg?10",
+      "https://i.imgur.com/NJZoTkv.jpg?11",
+      "https://i.imgur.com/IxSmYHP.jpg?12",
+      "https://i.imgur.com/7QvYW4y.jpg?13",
+      "https://i.imgur.com/lRylYvc.jpg?14",
+      "https://i.imgur.com/xMZ2svn.jpg?15",
+      "https://i.imgur.com/X7Tx4Ay.jpg?16",
+      "https://i.imgur.com/o90Rhsc.jpg?17",
+      "https://i.imgur.com/SQknP7b.jpg?18"
     ]
   },
   {
