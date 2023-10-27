@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 26 Oct 2023 18:40:30 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Oct 2023 13:40:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -39,14 +39,6 @@
 			<pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31953?2023-09-27</guid>
-		</item>
-		<item>
-			<title>800€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/31965</link>
-			<description>C/ Jose De Cadalso 82,&lt;br/&gt;5º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 14 📷.&lt;br/&gt;sia/31965</description>
-			<pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31965?2023-10-09</guid>
 		</item>
 		<item>
 			<title>1200€ Retiro</title>
@@ -1505,14 +1497,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274248?2023-10-23</guid>
 		</item>
 		<item>
-			<title>950€ Retiro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274249</link>
-			<description>C/ Doctor Esquerdo, 155,&lt;br/&gt;6º con ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274249</description>
-			<pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274249?2023-09-19</guid>
-		</item>
-		<item>
 			<title>1100€ Pozuelo de Alarcón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274250</link>
 			<description>C/ Benigno Granizo, 41,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;68m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274250</description>
@@ -1567,14 +1551,6 @@
 			<pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274273?2023-09-21</guid>
-		</item>
-		<item>
-			<title>775€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274278</link>
-			<description>Pl. Monte Ciruelo, 2,&lt;br/&gt;4º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274278</description>
-			<pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274278?2023-09-25</guid>
 		</item>
 		<item>
 			<title>800€ Coslada</title>
@@ -1847,6 +1823,14 @@
 			<pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Alcorcón</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274349?2023-10-25</guid>
+		</item>
+		<item>
+			<title>850€ Leganés</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274350</link>
+			<description>C/ Río Manzanares, 25,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274350</description>
+			<pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+			<category>Leganés</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274350?2023-10-26</guid>
 		</item>
 	</channel>
 </rss>
