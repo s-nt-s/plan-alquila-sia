@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 30 Oct 2023 13:42:42 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 30 Oct 2023 18:43:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -577,12 +577,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267768?2023-08-30</guid>
 		</item>
 		<item>
-			<title>1200€ Tetuán</title>
+			<title>1260€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268132</link>
 			<description>C/ Veza, 33,&lt;br/&gt;3º con ascensor,&lt;br/&gt;74m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/268132</description>
-			<pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268132?2023-10-01</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268132?2023-10-30</guid>
 		</item>
 		<item>
 			<title>750€ Usera</title>
@@ -1545,14 +1545,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274281?2023-09-22</guid>
 		</item>
 		<item>
-			<title>1000€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274286</link>
-			<description>C/ José del Hierro, 10,&lt;br/&gt;1º con ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274286</description>
-			<pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274286?2023-09-25</guid>
-		</item>
-		<item>
 			<title>1300€ Colmenar Viejo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274287</link>
 			<description>C/ Ave, 1,&lt;br/&gt;2º con ascensor,&lt;br/&gt;120m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274287</description>
@@ -1615,14 +1607,6 @@
 			<pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274305?2023-10-17</guid>
-		</item>
-		<item>
-			<title>2400€ Salamanca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274307</link>
-			<description>C/ Pilar de Zaragoza, 98,&lt;br/&gt;6º con ascensor,&lt;br/&gt;100m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274307</description>
-			<pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Salamanca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274307?2023-09-29</guid>
 		</item>
 		<item>
 			<title>850€ Latina</title>
@@ -1823,6 +1807,14 @@
 			<pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274358?2023-10-30</guid>
+		</item>
+		<item>
+			<title>1050€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274359</link>
+			<description>C/ Omega, 26,&lt;br/&gt;2º con ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274359</description>
+			<pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274359?2023-10-30</guid>
 		</item>
 	</channel>
 </rss>
