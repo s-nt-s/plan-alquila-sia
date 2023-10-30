@@ -91,35 +91,6 @@
     ]
   },
   {
-    "id": 31943,
-    "publicado": "2023-10-09",
-    "modificado": "2023-10-19",
-    "direccion": "Calle Juan De Dios 8",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Universidad",
-    "planta": 4,
-    "orientacion": "Mixto",
-    "precio": 1200,
-    "dormitorios": 4,
-    "aseos": 2,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/Mum0OON.jpg?2",
-      "https://i.imgur.com/10nfOp7.jpg?4",
-      "https://i.imgur.com/rNwhi93.jpg?5",
-      "https://i.imgur.com/W2KzgvV.jpg?6",
-      "https://i.imgur.com/6g4T4tv.jpg?7",
-      "https://i.imgur.com/rHMw9ZV.jpg?8",
-      "https://i.imgur.com/CYBEI5J.jpg?9",
-      "https://i.imgur.com/54c4B39.jpg?10",
-      "https://i.imgur.com/9H6q6Sc.jpg?11"
-    ]
-  },
-  {
     "id": 31953,
     "publicado": "2023-09-27",
     "modificado": "2023-09-27",
@@ -233,39 +204,6 @@
       "https://i.imgur.com/KNgROAH.jpg?9",
       "https://i.imgur.com/sLCk4e2.jpg?10",
       "https://i.imgur.com/bgX3eEo.jpg?11"
-    ]
-  },
-  {
-    "id": 31964,
-    "publicado": "2023-10-09",
-    "modificado": "2023-10-10",
-    "direccion": "Calle Cracovia 1",
-    "municipio": "Madrid",
-    "distrito": "San Blas",
-    "barrio": "Rosas",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 1240,
-    "dormitorios": 4,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/nVkxUhr.jpg?1",
-      "https://i.imgur.com/gozoUuM.jpg?2",
-      "https://i.imgur.com/7Y1WV1c.jpg?3",
-      "https://i.imgur.com/MdZdVwL.jpg?4",
-      "https://i.imgur.com/w6Q0Mc7.jpg?5",
-      "https://i.imgur.com/YebtRPY.jpg?6",
-      "https://i.imgur.com/Frjo3qK.jpg?7",
-      "https://i.imgur.com/K9g2nrV.jpg?8",
-      "https://i.imgur.com/ySkDA2M.jpg?9",
-      "https://i.imgur.com/4oHs5op.jpg?10",
-      "https://i.imgur.com/gH3D0e8.jpg?11",
-      "https://i.imgur.com/lq6EDe4.jpg?12",
-      "https://i.imgur.com/x0jRSte.jpg?13"
     ]
   },
   {
@@ -396,8 +334,38 @@
     ]
   },
   {
+    "id": 31971,
+    "publicado": "2023-10-30",
+    "direccion": "Calle Puentelarra 6",
+    "municipio": "Madrid",
+    "distrito": "Villa de Vallecas",
+    "barrio": "Santa Eugenia",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 1000,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/4gE8jD6.jpg?1",
+      "https://i.imgur.com/hLuUvGg.jpg?2",
+      "https://i.imgur.com/IL77ZQa.jpg?3",
+      "https://i.imgur.com/qkMmbJI.jpg?4",
+      "https://i.imgur.com/V1QUzQ9.jpg?5",
+      "https://i.imgur.com/29jEEhu.jpg?6",
+      "https://i.imgur.com/7ufsRmE.jpg?7",
+      "https://i.imgur.com/SCuoGKn.jpg?8",
+      "https://i.imgur.com/EUIm1zF.jpg?9",
+      "https://i.imgur.com/iwFqkOE.jpg?10"
+    ]
+  },
+  {
     "id": 31975,
     "publicado": "2023-10-24",
+    "modificado": "2023-10-30",
     "direccion": "Calle Caceres 24",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -410,7 +378,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/JPHeyjQ.jpg?1",
       "https://i.imgur.com/B64acff.jpg?2",
@@ -487,31 +455,6 @@
       "https://i.imgur.com/JSEil4n.jpg?16",
       "https://i.imgur.com/vPOQXSp.jpg?17",
       "https://i.imgur.com/HRHhcr0.jpg?18"
-    ]
-  },
-  {
-    "id": 31978,
-    "publicado": "2023-10-24",
-    "modificado": "2023-10-25",
-    "direccion": "Calle Carlos Martin Alvarez 30",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "Portazgo",
-    "planta": 4,
-    "orientacion": "Mixto",
-    "precio": 650,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/AGirFrW.jpg?1",
-      "https://i.imgur.com/yuZpYYW.jpg?2",
-      "https://i.imgur.com/4y6oz0h.jpg?3",
-      "https://i.imgur.com/QzH1xE6.jpg?4",
-      "https://i.imgur.com/Bxi66po.jpg?5"
     ]
   }
 ]
