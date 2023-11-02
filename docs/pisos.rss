@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 02 Nov 2023 13:39:41 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2023 18:43:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -87,6 +87,14 @@
 			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/201322?2023-03-06</guid>
+		</item>
+		<item>
+			<title>750€ Humanes de Madrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/201694</link>
+			<description>C/ Islas Medas, 1,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;49m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/201694</description>
+			<pubDate>Sat, 30 Sep 2023 00:00:00 GMT</pubDate>
+			<category>Humanes de Madrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/201694?2023-09-30</guid>
 		</item>
 		<item>
 			<title>1000€ Villa de Vallecas</title>
@@ -1535,14 +1543,6 @@
 			<pubDate>Tue, 26 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274294?2023-09-26</guid>
-		</item>
-		<item>
-			<title>1100€ Moncloa-Aravaca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274296</link>
-			<description>C/ Valderromán, 6,&lt;br/&gt;1º con ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274296</description>
-			<pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Moncloa-Aravaca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274296?2023-09-29</guid>
 		</item>
 		<item>
 			<title>800€ Belmonte de Tajo</title>
