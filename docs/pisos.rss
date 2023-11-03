@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 03 Nov 2023 13:39:25 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 03 Nov 2023 18:42:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,6 +31,14 @@
 			<pubDate>Thu, 28 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31929?2023-09-28</guid>
+		</item>
+		<item>
+			<title>1200€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/31952</link>
+			<description>C/ Calatayud 6,&lt;br/&gt;1º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;2 🛀, 6 📷.&lt;br/&gt;sia/31952</description>
+			<pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31952?2023-11-03</guid>
 		</item>
 		<item>
 			<title>1550€ Chamberí</title>
@@ -569,14 +577,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268132?2023-10-30</guid>
 		</item>
 		<item>
-			<title>870€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268661</link>
-			<description>C/ Camarena, 199,&lt;br/&gt;2º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/268661</description>
-			<pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268661?2023-10-31</guid>
-		</item>
-		<item>
 			<title>750€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268693</link>
 			<description>C/ San Basilio, 4,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;44m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/268693</description>
@@ -700,9 +700,9 @@
 			<title>750€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271421</link>
 			<description>C/ Alegría, 24,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/271421</description>
-			<pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271421?2023-10-23</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271421?2023-11-03</guid>
 		</item>
 		<item>
 			<title>785€ Usera</title>
@@ -863,6 +863,14 @@
 			<pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273466?2023-10-20</guid>
+		</item>
+		<item>
+			<title>1000€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273496</link>
+			<description>C/ Acentejo, 3,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/273496</description>
+			<pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273496?2023-11-03</guid>
 		</item>
 		<item>
 			<title>800€ Tetuán</title>
