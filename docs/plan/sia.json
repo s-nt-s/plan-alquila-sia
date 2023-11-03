@@ -332,6 +332,7 @@
   {
     "id": 31976,
     "publicado": "2023-10-26",
+    "modificado": "2023-11-03",
     "direccion": "Calle Aldea Del Fresno 5",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -344,7 +345,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/tr9c3Dh.jpg?1",
       "https://i.imgur.com/Ss3HUl0.jpg?2",
