@@ -333,6 +333,7 @@
   {
     "id": 31973,
     "publicado": "2023-11-06",
+    "modificado": "2023-11-08",
     "direccion": "Avenida Rafael Alberti 18",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -340,7 +341,7 @@
     "planta": 9,
     "orientacion": "Exterior",
     "precio": 850,
-    "dormitorios": 2,
+    "dormitorios": 3,
     "aseos": 2,
     "cee": "E",
     "ascensor": true,
