@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 10 Nov 2023 13:45:23 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 10 Nov 2023 18:44:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -215,6 +215,14 @@
 			<pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/224491?2023-10-25</guid>
+		</item>
+		<item>
+			<title>750€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/225091</link>
+			<description>C/ San Pantaleón, 5,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;42m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/225091</description>
+			<pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/225091?2023-11-10</guid>
 		</item>
 		<item>
 			<title>690€ Villaverde</title>
@@ -671,14 +679,6 @@
 			<pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
 			<category>Torrejón de Ardoz</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269830?2023-06-01</guid>
-		</item>
-		<item>
-			<title>1100€ Moncloa-Aravaca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269941</link>
-			<description>C/ Martín de los Heros, 82,&lt;br/&gt;6º con ascensor,&lt;br/&gt;40m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269941</description>
-			<pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Moncloa-Aravaca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269941?2023-10-02</guid>
 		</item>
 		<item>
 			<title>850€ Villa de Vallecas</title>
