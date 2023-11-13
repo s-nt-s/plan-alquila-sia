@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 10 Nov 2023 18:44:58 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Nov 2023 13:49:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -47,6 +47,14 @@
 			<pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31967?2023-10-16</guid>
+		</item>
+		<item>
+			<title>900€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/31989</link>
+			<description>C/ Villalobos 20,&lt;br/&gt;6º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 14 📷.&lt;br/&gt;sia/31989</description>
+			<pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31989?2023-11-13</guid>
 		</item>
 		<item>
 			<title>1190€ Alcalá de Henares</title>
@@ -103,22 +111,6 @@
 			<pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
 			<category>Vicálvaro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/204635?2023-02-06</guid>
-		</item>
-		<item>
-			<title>675€ Chamartín</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/205804</link>
-			<description>C/ Sánchez Pacheco, 33,&lt;br/&gt;5º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/205804</description>
-			<pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
-			<category>Chamartín</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/205804?2022-11-11</guid>
-		</item>
-		<item>
-			<title>850€ San Fernando de Henares</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/205973</link>
-			<description>C/ Lisboa, 12,&lt;br/&gt;2º con ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/205973</description>
-			<pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
-			<category>San Fernando de Henares</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/205973?2023-10-26</guid>
 		</item>
 		<item>
 			<title>1050€ Moratalaz</title>
@@ -219,10 +211,10 @@
 		<item>
 			<title>750€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/225091</link>
-			<description>C/ San Pantaleón, 5,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;42m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/225091</description>
-			<pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
+			<description>C/ San Pantaleón, 5,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;42m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/225091</description>
+			<pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/225091?2023-11-10</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/225091?2023-11-13</guid>
 		</item>
 		<item>
 			<title>690€ Villaverde</title>
@@ -385,6 +377,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/245947?2023-10-17</guid>
 		</item>
 		<item>
+			<title>800€ Leganés</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/247496</link>
+			<description>C/ Monegros, 39,&lt;br/&gt;8º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/247496</description>
+			<pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Leganés</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/247496?2023-11-13</guid>
+		</item>
+		<item>
 			<title>1200€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/248054</link>
 			<description>Av. Brasil, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/248054</description>
@@ -503,14 +503,6 @@
 			<pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
 			<category>Pozuelo de Alarcón</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263057?2022-11-28</guid>
-		</item>
-		<item>
-			<title>897€ Alcobendas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/264121</link>
-			<description>C/ Fayón, 10,&lt;br/&gt;1º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/264121</description>
-			<pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264121?2023-10-31</guid>
 		</item>
 		<item>
 			<title>900€ Moncloa-Aravaca</title>
@@ -639,14 +631,6 @@
 			<pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268710?2023-10-20</guid>
-		</item>
-		<item>
-			<title>780€ Fuenlabrada</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268999</link>
-			<description>Av. Miguel de Cervantes, 1,&lt;br/&gt;4º con ascensor,&lt;br/&gt;69m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/268999</description>
-			<pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Fuenlabrada</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268999?2023-09-13</guid>
 		</item>
 		<item>
 			<title>799€ Fuenlabrada</title>
@@ -807,6 +791,14 @@
 			<pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272339?2023-10-25</guid>
+		</item>
+		<item>
+			<title>1600€ Chamberí</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272348</link>
+			<description>C/ Bretón de los Herreros, 21,&lt;br/&gt;1º con ascensor,&lt;br/&gt;61m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/272348</description>
+			<pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Chamberí</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272348?2023-11-13</guid>
 		</item>
 		<item>
 			<title>975€ Retiro</title>
@@ -975,14 +967,6 @@
 			<pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273636?2022-12-30</guid>
-		</item>
-		<item>
-			<title>1000€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273637</link>
-			<description>C/ Antonio López, 49,&lt;br/&gt;5º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/273637</description>
-			<pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273637?2022-12-30</guid>
 		</item>
 		<item>
 			<title>1100€ Torrejón de Ardoz</title>
@@ -1649,44 +1633,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274326?2023-10-17</guid>
 		</item>
 		<item>
-			<title>1177€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274333</link>
-			<description>Av. Gran Vía del Sureste, 18,&lt;br/&gt;3º con ascensor,&lt;br/&gt;71m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/274333</description>
-			<pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274333?2023-10-20</guid>
-		</item>
-		<item>
-			<title>770€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274336</link>
-			<description>C/ Real Madrid, 41,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274336</description>
-			<pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274336?2023-10-10</guid>
-		</item>
-		<item>
-			<title>1200€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274337</link>
-			<description>C/ Sangenjo, 22,&lt;br/&gt;4º con ascensor,&lt;br/&gt;77m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274337</description>
-			<pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274337?2023-10-19</guid>
-		</item>
-		<item>
 			<title>980€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274338</link>
 			<description>Av. Poblados, 139,&lt;br/&gt;4º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274338</description>
 			<pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274338?2023-10-11</guid>
-		</item>
-		<item>
-			<title>950€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274339</link>
-			<description>C/ Las Marismas, 37,&lt;br/&gt;2º con ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/274339</description>
-			<pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274339?2023-10-16</guid>
 		</item>
 		<item>
 			<title>1100€ Usera</title>
@@ -1703,22 +1655,6 @@
 			<pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274341?2023-10-25</guid>
-		</item>
-		<item>
-			<title>900€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274343</link>
-			<description>C/ Sarriá, 39,&lt;br/&gt;4º con ascensor,&lt;br/&gt;37m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274343</description>
-			<pubDate>Tue, 24 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274343?2023-10-24</guid>
-		</item>
-		<item>
-			<title>1100€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274344</link>
-			<description>C/ Alfredo Marquerie, 7,&lt;br/&gt;9º con ascensor,&lt;br/&gt;44m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274344</description>
-			<pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274344?2023-10-23</guid>
 		</item>
 		<item>
 			<title>1500€ Moncloa-Aravaca</title>
@@ -1831,6 +1767,14 @@
 			<pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274367?2023-11-08</guid>
+		</item>
+		<item>
+			<title>1150€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274370</link>
+			<description>C/ Carranque, 14,&lt;br/&gt;6º con ascensor,&lt;br/&gt;64m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/274370</description>
+			<pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274370?2023-11-13</guid>
 		</item>
 		<item>
 			<title>800€ Moratalaz</title>
