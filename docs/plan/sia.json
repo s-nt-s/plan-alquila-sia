@@ -360,6 +360,7 @@
   {
     "id": 31981,
     "publicado": "2023-11-07",
+    "modificado": "2023-11-14",
     "direccion": "Paseo De Perales 1",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -369,6 +370,7 @@
     "precio": 600,
     "dormitorios": 2,
     "aseos": 1,
+    "cee": "G",
     "ascensor": true,
     "adaptada": false,
     "reservada": true,
