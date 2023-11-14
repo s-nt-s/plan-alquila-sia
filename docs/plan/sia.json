@@ -140,6 +140,7 @@
   {
     "id": 31967,
     "publicado": "2023-10-16",
+    "modificado": "2023-11-14",
     "direccion": "Avenida Ciudad De Barcelona 192",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -152,7 +153,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/ra9X7Hr.jpg?1",
       "https://i.imgur.com/ZvFt3GI.jpg?2",
@@ -358,6 +359,66 @@
     ]
   },
   {
+    "id": 31979,
+    "publicado": "2023-11-14",
+    "direccion": "Calle Divino Valles 30",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Delicias",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 1200,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/Akcqp9v.jpg?1",
+      "https://i.imgur.com/5Xl5xyj.jpg?2",
+      "https://i.imgur.com/DtM6N1M.jpg?3",
+      "https://i.imgur.com/Adz45FE.jpg?4",
+      "https://i.imgur.com/W4ssoBz.jpg?5",
+      "https://i.imgur.com/7fShytE.jpg?6",
+      "https://i.imgur.com/D6sfnBn.jpg?7",
+      "https://i.imgur.com/fH4dyJx.jpg?8",
+      "https://i.imgur.com/eKmkRfV.jpg?9",
+      "https://i.imgur.com/kedqlvV.jpg?10",
+      "https://i.imgur.com/wk2UdpV.jpg?11",
+      "https://i.imgur.com/GhIcw93.jpg?12",
+      "https://i.imgur.com/jgNXkLD.jpg?13"
+    ]
+  },
+  {
+    "id": 31980,
+    "publicado": "2023-11-14",
+    "direccion": "Avenida Padre Piquer 57",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Aluche",
+    "planta": 8,
+    "orientacion": "Exterior",
+    "precio": 900,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/KxdES8h.jpg?1",
+      "https://i.imgur.com/tWb2izG.jpg?2",
+      "https://i.imgur.com/8xrpauE.jpg?3",
+      "https://i.imgur.com/qPRTkl7.jpg?4",
+      "https://i.imgur.com/ZYcPMrD.jpg?5",
+      "https://i.imgur.com/YSwx23q.jpg?6",
+      "https://i.imgur.com/m2vpZWi.jpg?7",
+      "https://i.imgur.com/UtpkHJO.jpg?8",
+      "https://i.imgur.com/6WQj3lr.jpg?9"
+    ]
+  },
+  {
     "id": 31981,
     "publicado": "2023-11-07",
     "modificado": "2023-11-14",
@@ -410,6 +471,32 @@
       "https://i.imgur.com/n2On2aE.jpg?8",
       "https://i.imgur.com/DTLrAJH.jpg?9",
       "https://i.imgur.com/WF42Kuk.jpg?10"
+    ]
+  },
+  {
+    "id": 31986,
+    "publicado": "2023-11-14",
+    "direccion": "Calle Emperatriz Isabel 6",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "San Isidro",
+    "planta": 1,
+    "orientacion": "Mixto",
+    "precio": 850,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/AqMRmYZ.jpg?1",
+      "https://i.imgur.com/JEZ0fIu.jpg?2",
+      "https://i.imgur.com/FKIj4Gd.jpg?3",
+      "https://i.imgur.com/oGtuv8K.jpg?4",
+      "https://i.imgur.com/9bmQAfI.jpg?5",
+      "https://i.imgur.com/CeC5Fvx.jpg?6",
+      "https://i.imgur.com/xYcjLB1.jpg?7"
     ]
   },
   {
