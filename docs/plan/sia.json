@@ -263,31 +263,6 @@
     ]
   },
   {
-    "id": 31975,
-    "publicado": "2023-10-24",
-    "modificado": "2023-10-30",
-    "direccion": "Calle Caceres 24",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Delicias",
-    "planta": 4,
-    "orientacion": "Interior",
-    "precio": 560,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/JPHeyjQ.jpg?1",
-      "https://i.imgur.com/B64acff.jpg?2",
-      "https://i.imgur.com/KxuNpsG.jpg?3",
-      "https://i.imgur.com/12I8uEv.jpg?4",
-      "https://i.imgur.com/rogapmB.jpg?5"
-    ]
-  },
-  {
     "id": 31976,
     "publicado": "2023-10-26",
     "modificado": "2023-11-03",
@@ -393,6 +368,7 @@
   {
     "id": 31980,
     "publicado": "2023-11-14",
+    "modificado": "2023-11-15",
     "direccion": "Avenida Padre Piquer 57",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -405,7 +381,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/KxdES8h.jpg?1",
       "https://i.imgur.com/tWb2izG.jpg?2",
@@ -416,32 +392,6 @@
       "https://i.imgur.com/m2vpZWi.jpg?7",
       "https://i.imgur.com/UtpkHJO.jpg?8",
       "https://i.imgur.com/6WQj3lr.jpg?9"
-    ]
-  },
-  {
-    "id": 31981,
-    "publicado": "2023-11-07",
-    "modificado": "2023-11-14",
-    "direccion": "Paseo De Perales 1",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Lucero",
-    "planta": 1,
-    "orientacion": "Mixto",
-    "precio": 600,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/UX1BMPD.jpg?1",
-      "https://i.imgur.com/gXWD5DM.jpg?2",
-      "https://i.imgur.com/tNIg1OG.jpg?3",
-      "https://i.imgur.com/aNy3i7K.jpg?4",
-      "https://i.imgur.com/Nk3hm5v.jpg?5",
-      "https://i.imgur.com/OUIvPOV.jpg?6"
     ]
   },
   {
