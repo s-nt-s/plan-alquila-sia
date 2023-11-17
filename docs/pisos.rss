@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 17 Nov 2023 13:40:55 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Nov 2023 18:42:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -103,6 +103,14 @@
 			<pubDate>Sat, 30 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Humanes de Madrid</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/201694?2023-09-30</guid>
+		</item>
+		<item>
+			<title>850€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/202245</link>
+			<description>C/ Helena de Troya, 35,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;48m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/202245</description>
+			<pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/202245?2023-11-08</guid>
 		</item>
 		<item>
 			<title>1000€ Villa de Vallecas</title>
@@ -415,14 +423,6 @@
 			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/248616?2023-03-06</guid>
-		</item>
-		<item>
-			<title>1050€ Tres Cantos</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/249851</link>
-			<description>C/ Fuego, 1,&lt;br/&gt;6º con ascensor,&lt;br/&gt;95m², 2 🛏,&lt;br/&gt;2 🛀, 7 📷.&lt;br/&gt;alq/249851</description>
-			<pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
-			<category>Tres Cantos</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/249851?2023-07-06</guid>
 		</item>
 		<item>
 			<title>1100€ Tetuán</title>
