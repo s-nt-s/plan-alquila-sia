@@ -450,6 +450,30 @@
     ]
   },
   {
+    "id": 31988,
+    "publicado": "2023-11-17",
+    "direccion": "Calle San Mario 61",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "barrio": "San Ferm\u00edn",
+    "planta": 1,
+    "orientacion": "Exterior",
+    "precio": 600,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/pzAtFtn.jpg?1",
+      "https://i.imgur.com/AM8LPwN.jpg?2",
+      "https://i.imgur.com/AUmreNa.jpg?3",
+      "https://i.imgur.com/VkiLfbE.jpg?4",
+      "https://i.imgur.com/uTUnSU4.jpg?5"
+    ]
+  },
+  {
     "id": 31989,
     "publicado": "2023-11-13",
     "direccion": "Calle Villalobos 20",
@@ -480,6 +504,37 @@
       "https://i.imgur.com/gnVTXJ5.jpg?13",
       "https://i.imgur.com/Umt9TU8.jpg?15",
       "https://i.imgur.com/rzNqhVB.jpg?16"
+    ]
+  },
+  {
+    "id": 31990,
+    "publicado": "2023-11-17",
+    "direccion": "Calle Ruiz 8",
+    "municipio": "Madrid",
+    "distrito": "Centro",
+    "barrio": "Universidad",
+    "planta": 3,
+    "orientacion": "Mixto",
+    "precio": 1650,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/3cs3vqZ.jpg?4",
+      "https://i.imgur.com/XLfneg8.jpg?9",
+      "https://i.imgur.com/tYOwM38.jpg?13",
+      "https://i.imgur.com/8zPB7oC.jpg?14",
+      "https://i.imgur.com/PwJsqrU.jpg?15",
+      "https://i.imgur.com/W1pY2H7.jpg?16",
+      "https://i.imgur.com/20sF0kk.jpg?17",
+      "https://i.imgur.com/M8RX4t4.jpg?18",
+      "https://i.imgur.com/yeuC8DQ.jpg?19",
+      "https://i.imgur.com/ld3IqKL.jpg?20",
+      "https://i.imgur.com/M7mkig1.jpg?21",
+      "https://i.imgur.com/doWdCeJ.jpg?22"
     ]
   }
 ]
