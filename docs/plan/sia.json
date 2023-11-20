@@ -199,36 +199,6 @@
     ]
   },
   {
-    "id": 31971,
-    "publicado": "2023-10-30",
-    "modificado": "2023-11-06",
-    "direccion": "Calle Puentelarra 6",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Santa Eugenia",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 1000,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/4gE8jD6.jpg?1",
-      "https://i.imgur.com/hLuUvGg.jpg?2",
-      "https://i.imgur.com/IL77ZQa.jpg?3",
-      "https://i.imgur.com/qkMmbJI.jpg?4",
-      "https://i.imgur.com/V1QUzQ9.jpg?5",
-      "https://i.imgur.com/29jEEhu.jpg?6",
-      "https://i.imgur.com/7ufsRmE.jpg?7",
-      "https://i.imgur.com/SCuoGKn.jpg?8",
-      "https://i.imgur.com/EUIm1zF.jpg?9",
-      "https://i.imgur.com/iwFqkOE.jpg?10"
-    ]
-  },
-  {
     "id": 31973,
     "publicado": "2023-11-06",
     "modificado": "2023-11-13",
@@ -426,6 +396,7 @@
   {
     "id": 31986,
     "publicado": "2023-11-14",
+    "modificado": "2023-11-20",
     "direccion": "Calle Emperatriz Isabel 6",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -438,7 +409,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/AqMRmYZ.jpg?1",
       "https://i.imgur.com/JEZ0fIu.jpg?2",
@@ -452,6 +423,7 @@
   {
     "id": 31988,
     "publicado": "2023-11-17",
+    "modificado": "2023-11-20",
     "direccion": "Calle San Mario 61",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -464,7 +436,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/pzAtFtn.jpg?1",
       "https://i.imgur.com/AM8LPwN.jpg?2",
@@ -476,6 +448,7 @@
   {
     "id": 31989,
     "publicado": "2023-11-13",
+    "modificado": "2023-11-20",
     "direccion": "Calle Villalobos 20",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -488,7 +461,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Ydmr2YO.jpg?2",
       "https://i.imgur.com/4OsBoNX.jpg?3",
