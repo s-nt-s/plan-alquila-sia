@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 21 Nov 2023 13:47:35 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Nov 2023 18:39:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -545,14 +545,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267574?2023-06-05</guid>
 		</item>
 		<item>
-			<title>1220€ Rozas de Madrid, Las</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267755</link>
-			<description>C/ Comunidad Castilla-León, 78,&lt;br/&gt;3º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/267755</description>
-			<pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
-			<category>Rozas de Madrid, Las</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267755?2023-11-06</guid>
-		</item>
-		<item>
 			<title>750€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267757</link>
 			<description>C/ Alejandro Sánchez, 2,&lt;br/&gt;4º con ascensor,&lt;br/&gt;43m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/267757</description>
@@ -607,14 +599,6 @@
 			<pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
 			<category>Torrejón de Ardoz</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269830?2023-06-01</guid>
-		</item>
-		<item>
-			<title>850€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270189</link>
-			<description>C/ Rozas de Puerto Real, 8,&lt;br/&gt;6º con ascensor,&lt;br/&gt;45m², 1 🛏,&lt;br/&gt;1 🛀, 5 📷.&lt;br/&gt;alq/270189</description>
-			<pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270189?2023-11-06</guid>
 		</item>
 		<item>
 			<title>750€ Retiro</title>
@@ -703,14 +687,6 @@
 			<pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271897?2023-11-07</guid>
-		</item>
-		<item>
-			<title>590€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271999</link>
-			<description>C/ José María Pérez Peridis, 4,&lt;br/&gt;3º con ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/271999</description>
-			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271999?2023-01-19</guid>
 		</item>
 		<item>
 			<title>960€ Retiro</title>
@@ -1521,14 +1497,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274317?2023-10-06</guid>
 		</item>
 		<item>
-			<title>1200€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274320</link>
-			<description>C/ Luis García Berlanga, 2,&lt;br/&gt;4º con ascensor,&lt;br/&gt;88m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274320</description>
-			<pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274320?2023-10-09</guid>
-		</item>
-		<item>
 			<title>900€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274321</link>
 			<description>C/ Vizconde de Matamala, 29,&lt;br/&gt;3º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274321</description>
@@ -1775,6 +1743,14 @@
 			<pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274393?2023-11-20</guid>
+		</item>
+		<item>
+			<title>1200€ Pozuelo de Alarcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274395</link>
+			<description>C/ Rumanía, 3,&lt;br/&gt;2º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274395</description>
+			<pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Pozuelo de Alarcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274395?2023-11-21</guid>
 		</item>
 		<item>
 			<title>990€ Collado Villalba</title>
