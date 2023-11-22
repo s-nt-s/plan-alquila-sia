@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 22 Nov 2023 13:47:03 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Nov 2023 18:44:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -167,6 +167,14 @@
 			<pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/212017?2023-11-06</guid>
+		</item>
+		<item>
+			<title>650€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/213006</link>
+			<description>C/ Navalmoral de la Mata, 7,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;46m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/213006</description>
+			<pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/213006?2023-11-22</guid>
 		</item>
 		<item>
 			<title>875€ Moratalaz</title>
@@ -1433,14 +1441,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274301?2023-09-29</guid>
 		</item>
 		<item>
-			<title>800€ Collado Mediano</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274302</link>
-			<description>Av. Buenos Aires, 5,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;93m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274302</description>
-			<pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
-			<category>Collado Mediano</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274302?2023-11-21</guid>
-		</item>
-		<item>
 			<title>850€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274308</link>
 			<description>C/ Castroserna, 7,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;44m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274308</description>
@@ -1751,6 +1751,14 @@
 			<pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274398?2023-11-22</guid>
+		</item>
+		<item>
+			<title>1200€ San Sebastián de los Reyes</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274399</link>
+			<description>Av. Orense, 23,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274399</description>
+			<pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
+			<category>San Sebastián de los Reyes</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274399?2023-11-22</guid>
 		</item>
 	</channel>
 </rss>
