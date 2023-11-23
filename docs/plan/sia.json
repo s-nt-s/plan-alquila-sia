@@ -409,6 +409,34 @@
     ]
   },
   {
+    "id": 31991,
+    "publicado": "2023-11-23",
+    "direccion": "Calle Arandano 5",
+    "municipio": "Madrid",
+    "distrito": "Tetuan",
+    "barrio": "Valdeacederas",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 850,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/X7POiko.jpg?1",
+      "https://i.imgur.com/XqYVgrV.jpg?2",
+      "https://i.imgur.com/tmlzHCd.jpg?3",
+      "https://i.imgur.com/weGWLGJ.jpg?4",
+      "https://i.imgur.com/nmWYAvh.jpg?5",
+      "https://i.imgur.com/jBwSTUe.jpg?6",
+      "https://i.imgur.com/SMNheGN.jpg?7",
+      "https://i.imgur.com/g2y4aH8.jpg?8",
+      "https://i.imgur.com/z1StaWK.jpg?9"
+    ]
+  },
+  {
     "id": 31993,
     "publicado": "2023-11-22",
     "direccion": "Calle Enrique Moyano 7",
