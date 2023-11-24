@@ -319,31 +319,6 @@
     ]
   },
   {
-    "id": 31988,
-    "publicado": "2023-11-17",
-    "modificado": "2023-11-23",
-    "direccion": "Calle San Mario 61",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "San Ferm\u00edn",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 600,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/pzAtFtn.jpg?1",
-      "https://i.imgur.com/AM8LPwN.jpg?2",
-      "https://i.imgur.com/AUmreNa.jpg?3",
-      "https://i.imgur.com/VkiLfbE.jpg?4",
-      "https://i.imgur.com/uTUnSU4.jpg?5"
-    ]
-  },
-  {
     "id": 31989,
     "publicado": "2023-11-13",
     "modificado": "2023-11-20",
@@ -411,6 +386,7 @@
   {
     "id": 31991,
     "publicado": "2023-11-23",
+    "modificado": "2023-11-24",
     "direccion": "Calle Arandano 5",
     "municipio": "Madrid",
     "distrito": "Tetuan",
@@ -423,7 +399,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/X7POiko.jpg?1",
       "https://i.imgur.com/XqYVgrV.jpg?2",
