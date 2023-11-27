@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 27 Nov 2023 13:39:41 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Nov 2023 18:37:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -167,6 +167,14 @@
 			<pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/210848?2023-07-19</guid>
+		</item>
+		<item>
+			<title>700€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/211084</link>
+			<description>Av. Ensanche de Vallecas, 112,&lt;br/&gt;2º con ascensor,&lt;br/&gt;30m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/211084</description>
+			<pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/211084?2023-11-27</guid>
 		</item>
 		<item>
 			<title>950€ Arganzuela</title>
@@ -831,14 +839,6 @@
 			<pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273536?2022-11-15</guid>
-		</item>
-		<item>
-			<title>1100€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273560</link>
-			<description>C/ Sangarcía, 6,&lt;br/&gt;3º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/273560</description>
-			<pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273560?2022-11-24</guid>
 		</item>
 		<item>
 			<title>3000€ Chamberí</title>
