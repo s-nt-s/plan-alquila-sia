@@ -104,38 +104,6 @@
     ]
   },
   {
-    "id": 31967,
-    "publicado": "2023-10-16",
-    "modificado": "2023-11-15",
-    "direccion": "Avenida Ciudad De Barcelona 192",
-    "municipio": "Madrid",
-    "distrito": "Retiro",
-    "barrio": "Adelfas",
-    "planta": 5,
-    "orientacion": "Mixto",
-    "precio": 1100,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/ra9X7Hr.jpg?1",
-      "https://i.imgur.com/ZvFt3GI.jpg?2",
-      "https://i.imgur.com/i2nkbXa.jpg?3",
-      "https://i.imgur.com/3JITbtT.jpg?4",
-      "https://i.imgur.com/utEPwZq.jpg?5",
-      "https://i.imgur.com/reT7ZUW.jpg?6",
-      "https://i.imgur.com/NALwa1a.jpg?7",
-      "https://i.imgur.com/FWZFGJD.jpg?8",
-      "https://i.imgur.com/2FdWDkw.jpg?9",
-      "https://i.imgur.com/ajfB3kg.jpg?10",
-      "https://i.imgur.com/C5FNcnV.jpg?11",
-      "https://i.imgur.com/vJidXww.jpg?12"
-    ]
-  },
-  {
     "id": 31977,
     "publicado": "2023-10-20",
     "modificado": "2023-10-25",
@@ -455,6 +423,7 @@
   {
     "id": 31998,
     "publicado": "2023-11-27",
+    "modificado": "2023-11-28",
     "direccion": "Calle Ladera De Los Almendros 40",
     "municipio": "Madrid",
     "distrito": "Vicalvaro",
@@ -467,7 +436,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/mI3k0k8.jpg?3",
       "https://i.imgur.com/Xf6l0v4.jpg?5",
