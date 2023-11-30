@@ -5676,5 +5676,28 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 274419,
+    "publicado": "2023-11-30",
+    "direccion": "Plaza Rendici\u00f3n de Breda, 1",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "planta": 5,
+    "precio": 750,
+    "metros": 57.97,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]
