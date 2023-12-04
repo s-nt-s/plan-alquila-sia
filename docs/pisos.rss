@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 04 Dec 2023 13:39:13 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 04 Dec 2023 18:37:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -265,6 +265,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/234062?2023-09-12</guid>
 		</item>
 		<item>
+			<title>708€ Alcobendas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/237623</link>
+			<description>C/ Sonrisa, 4,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;45m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/237623</description>
+			<pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Alcobendas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/237623?2023-12-04</guid>
+		</item>
+		<item>
 			<title>1300€ Tres Cantos</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/239507</link>
 			<description>C/ Yelmo, 19,&lt;br/&gt;2º con ascensor,&lt;br/&gt;87m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/239507</description>
@@ -391,14 +399,6 @@
 			<pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Algete</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261436?2023-09-19</guid>
-		</item>
-		<item>
-			<title>1100€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/261769</link>
-			<description>C/ Capiscol, 10,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 5 📷.&lt;br/&gt;alq/261769</description>
-			<pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261769?2023-07-06</guid>
 		</item>
 		<item>
 			<title>2000€ Pozuelo de Alarcón</title>
@@ -1719,6 +1719,14 @@
 			<pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274419?2023-11-30</guid>
+		</item>
+		<item>
+			<title>980€ Moratalaz</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274420</link>
+			<description>C/ Encomienda de Palacios, 101,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;69m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274420</description>
+			<pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Moratalaz</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274420?2023-12-04</guid>
 		</item>
 	</channel>
 </rss>
