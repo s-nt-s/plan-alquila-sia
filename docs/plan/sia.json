@@ -106,6 +106,7 @@
   {
     "id": 31979,
     "publicado": "2023-11-14",
+    "modificado": "2023-12-04",
     "direccion": "Calle Divino Valles 30",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -118,7 +119,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Akcqp9v.jpg?1",
       "https://i.imgur.com/5Xl5xyj.jpg?2",
@@ -227,35 +228,6 @@
     ]
   },
   {
-    "id": 31991,
-    "publicado": "2023-11-23",
-    "modificado": "2023-11-24",
-    "direccion": "Calle Arandano 5",
-    "municipio": "Madrid",
-    "distrito": "Tetuan",
-    "barrio": "Valdeacederas",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 850,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/X7POiko.jpg?1",
-      "https://i.imgur.com/XqYVgrV.jpg?2",
-      "https://i.imgur.com/tmlzHCd.jpg?3",
-      "https://i.imgur.com/weGWLGJ.jpg?4",
-      "https://i.imgur.com/nmWYAvh.jpg?5",
-      "https://i.imgur.com/jBwSTUe.jpg?6",
-      "https://i.imgur.com/SMNheGN.jpg?7",
-      "https://i.imgur.com/g2y4aH8.jpg?8",
-      "https://i.imgur.com/z1StaWK.jpg?9"
-    ]
-  },
-  {
     "id": 31993,
     "publicado": "2023-11-22",
     "modificado": "2023-11-29",
@@ -351,6 +323,7 @@
   {
     "id": 32001,
     "publicado": "2023-11-29",
+    "modificado": "2023-12-04",
     "direccion": "Calle Lagartera 4",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -363,7 +336,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/jQdpaMq.jpg?1",
       "https://i.imgur.com/ZTW85sV.jpg?2",
