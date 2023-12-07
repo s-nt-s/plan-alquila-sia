@@ -167,37 +167,6 @@
     ]
   },
   {
-    "id": 31985,
-    "publicado": "2023-11-27",
-    "modificado": "2023-12-01",
-    "direccion": "Calle Amor De Dios 10",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Cortes",
-    "planta": 3,
-    "orientacion": "Mixto",
-    "precio": 750,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/fqaY36B.jpg?1",
-      "https://i.imgur.com/xTCti5z.jpg?2",
-      "https://i.imgur.com/KjTgde8.jpg?3",
-      "https://i.imgur.com/qNrlsDA.jpg?4",
-      "https://i.imgur.com/H3BR2LC.jpg?5",
-      "https://i.imgur.com/EAdieV8.jpg?6",
-      "https://i.imgur.com/PHSOENb.jpg?7",
-      "https://i.imgur.com/YuXF3PR.jpg?8",
-      "https://i.imgur.com/RgvgEQ7.jpg?9",
-      "https://i.imgur.com/zzyskoB.jpg?10",
-      "https://i.imgur.com/bzWnb8q.jpg?11"
-    ]
-  },
-  {
     "id": 31990,
     "publicado": "2023-11-17",
     "direccion": "Calle Ruiz 8",
@@ -226,34 +195,6 @@
       "https://i.imgur.com/ld3IqKL.jpg?20",
       "https://i.imgur.com/M7mkig1.jpg?21",
       "https://i.imgur.com/doWdCeJ.jpg?22"
-    ]
-  },
-  {
-    "id": 31993,
-    "publicado": "2023-11-22",
-    "modificado": "2023-11-29",
-    "direccion": "Calle Enrique Moyano 7",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Comillas",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/YZqwtHT.jpg?4",
-      "https://i.imgur.com/rcc0kQ9.jpg?6",
-      "https://i.imgur.com/cOMmetg.jpg?9",
-      "https://i.imgur.com/duXCqNK.jpg?10",
-      "https://i.imgur.com/1WfoYmM.jpg?11",
-      "https://i.imgur.com/86AvYqF.jpg?12",
-      "https://i.imgur.com/7Vwooat.jpg?13",
-      "https://i.imgur.com/Vt2WAES.jpg?14"
     ]
   },
   {
@@ -293,32 +234,6 @@
       "https://i.imgur.com/VmdguJf.jpg?29",
       "https://i.imgur.com/xfjEwef.jpg?30",
       "https://i.imgur.com/twUq4bj.jpg?31"
-    ]
-  },
-  {
-    "id": 31998,
-    "publicado": "2023-11-27",
-    "modificado": "2023-11-28",
-    "direccion": "Calle Ladera De Los Almendros 40",
-    "municipio": "Madrid",
-    "distrito": "Vicalvaro",
-    "barrio": "Ambroz",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 900,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/mI3k0k8.jpg?3",
-      "https://i.imgur.com/Xf6l0v4.jpg?5",
-      "https://i.imgur.com/efDFWUn.jpg?7",
-      "https://i.imgur.com/qL8w6mS.jpg?8",
-      "https://i.imgur.com/nfHWC1g.jpg?9",
-      "https://i.imgur.com/ieuJ61r.jpg?10"
     ]
   },
   {

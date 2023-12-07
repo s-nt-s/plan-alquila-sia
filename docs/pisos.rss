@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 05 Dec 2023 18:37:15 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Dec 2023 13:43:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -593,14 +593,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270338?2023-05-17</guid>
 		</item>
 		<item>
-			<title>1050€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270403</link>
-			<description>C/ El Toboso, 136,&lt;br/&gt;5º con ascensor,&lt;br/&gt;58m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/270403</description>
-			<pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270403?2023-12-05</guid>
-		</item>
-		<item>
 			<title>1075€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270725</link>
 			<description>Av. Gran Vía del Sureste, 18,&lt;br/&gt;4º con ascensor,&lt;br/&gt;88m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/270725</description>
@@ -647,6 +639,14 @@
 			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271104?2023-02-14</guid>
+		</item>
+		<item>
+			<title>800€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271308</link>
+			<description>C/ Alcalá, 264,&lt;br/&gt;5º con ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271308</description>
+			<pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271308?2023-12-05</guid>
 		</item>
 		<item>
 			<title>800€ Tetuán</title>
@@ -743,6 +743,14 @@
 			<pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Puebla de la Sierra</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272720?2023-11-22</guid>
+		</item>
+		<item>
+			<title>650€ San Blas-Canillejas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272721</link>
+			<description>Av. Guadalajara, 61,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;64m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/272721</description>
+			<pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
+			<category>San Blas-Canillejas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272721?2023-12-05</guid>
 		</item>
 		<item>
 			<title>580€ Valdemoro</title>
@@ -871,22 +879,6 @@
 			<pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273795?2023-03-10</guid>
-		</item>
-		<item>
-			<title>1750€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273797</link>
-			<description>C/ Doctor Ramón Castroviejo, 61,&lt;br/&gt;9º con ascensor,&lt;br/&gt;128m², 4 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/273797</description>
-			<pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273797?2023-12-05</guid>
-		</item>
-		<item>
-			<title>1080€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273818</link>
-			<description>C/ Ignacio Ellacuría, 6,&lt;br/&gt;3º con ascensor,&lt;br/&gt;71m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273818</description>
-			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273818?2023-03-24</guid>
 		</item>
 		<item>
 			<title>850€ Usera</title>
@@ -1551,14 +1543,6 @@
 			<pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274383?2023-11-28</guid>
-		</item>
-		<item>
-			<title>572€ Leganés</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274384</link>
-			<description>Av. Vicente Ferrer, 11,&lt;br/&gt;2º con ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274384</description>
-			<pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
-			<category>Leganés</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274384?2023-11-21</guid>
 		</item>
 		<item>
 			<title>930€ Centro</title>
