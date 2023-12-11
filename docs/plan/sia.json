@@ -237,6 +237,33 @@
     ]
   },
   {
+    "id": 31999,
+    "publicado": "2023-12-11",
+    "direccion": "Avenida Del Mediterraneo 43",
+    "municipio": "Madrid",
+    "distrito": "Retiro",
+    "barrio": "Estrella",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 1150,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/Xvs7mGR.jpg?1",
+      "https://i.imgur.com/BrcK8dU.jpg?2",
+      "https://i.imgur.com/kr54L24.jpg?3",
+      "https://i.imgur.com/aEzuH5d.jpg?4",
+      "https://i.imgur.com/i9oduWM.jpg?5",
+      "https://i.imgur.com/RNgrchA.jpg?6",
+      "https://i.imgur.com/TwZYboB.jpg?7",
+      "https://i.imgur.com/ObCuo96.jpg?8"
+    ]
+  },
+  {
     "id": 32005,
     "publicado": "2023-12-05",
     "modificado": "2023-12-11",
