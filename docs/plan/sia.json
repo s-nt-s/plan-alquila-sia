@@ -239,6 +239,7 @@
   {
     "id": 32005,
     "publicado": "2023-12-05",
+    "modificado": "2023-12-11",
     "direccion": "Calle Carnicer 15",
     "municipio": "Madrid",
     "distrito": "Tetuan",
@@ -251,7 +252,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/GByjlAN.jpg?1",
       "https://i.imgur.com/gPu7qfj.jpg?2",
@@ -266,6 +267,7 @@
   {
     "id": 32006,
     "publicado": "2023-12-05",
+    "modificado": "2023-12-11",
     "direccion": "Calle Pe\u00f1a Rivera 22",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -278,7 +280,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/ytQbpho.jpg?1",
       "https://i.imgur.com/U74KeeV.jpg?2",
