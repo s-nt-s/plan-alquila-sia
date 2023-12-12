@@ -264,6 +264,33 @@
     ]
   },
   {
+    "id": 32004,
+    "publicado": "2023-12-12",
+    "direccion": "Calle De La Caliza 8",
+    "municipio": "Madrid",
+    "distrito": "Vicalvaro",
+    "barrio": "Ambroz",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 977,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "D",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/PU6qIsb.jpg?1",
+      "https://i.imgur.com/v8tIKPA.jpg?2",
+      "https://i.imgur.com/avw90tV.jpg?3",
+      "https://i.imgur.com/rK86pis.jpg?4",
+      "https://i.imgur.com/BHLhW7o.jpg?5",
+      "https://i.imgur.com/SewOZRi.jpg?6",
+      "https://i.imgur.com/AfCfOAt.jpg?7",
+      "https://i.imgur.com/3TIDZuk.jpg?8"
+    ]
+  },
+  {
     "id": 32005,
     "publicado": "2023-12-05",
     "modificado": "2023-12-11",
