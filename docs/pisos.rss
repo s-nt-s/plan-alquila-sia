@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 13 Dec 2023 13:41:19 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2023 18:38:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1305,14 +1305,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274323?2023-11-24</guid>
 		</item>
 		<item>
-			<title>790€ Moratalaz</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274325</link>
-			<description>C/ Camino de los Vinateros, 128,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274325</description>
-			<pubDate>Wed, 18 Oct 2023 00:00:00 GMT</pubDate>
-			<category>Moratalaz</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274325?2023-10-18</guid>
-		</item>
-		<item>
 			<title>1350€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274326</link>
 			<description>C/ Heliotropo, 6,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;41m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274326</description>
@@ -1415,14 +1407,6 @@
 			<pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Moratalaz</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274371?2023-12-12</guid>
-		</item>
-		<item>
-			<title>1250€ Tres Cantos</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274374</link>
-			<description>C/ Pico de San Pedro, 4,&lt;br/&gt;5º con ascensor,&lt;br/&gt;95m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274374</description>
-			<pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
-			<category>Tres Cantos</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274374?2023-11-20</guid>
 		</item>
 		<item>
 			<title>980€ Móstoles</title>
@@ -1695,6 +1679,14 @@
 			<pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274431?2023-12-13</guid>
+		</item>
+		<item>
+			<title>900€ Moratalaz</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274432</link>
+			<description>C/ Cgdor. Sr. de la Elipa, 18,&lt;br/&gt;2º con ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274432</description>
+			<pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Moratalaz</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274432?2023-12-13</guid>
 		</item>
 	</channel>
 </rss>
