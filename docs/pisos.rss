@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 18 Dec 2023 13:38:10 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 18 Dec 2023 18:39:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1671,6 +1671,14 @@
 			<pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274442?2023-12-18</guid>
+		</item>
+		<item>
+			<title>1050€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274445</link>
+			<description>Av. Poblados, 141,&lt;br/&gt;4º con ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274445</description>
+			<pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274445?2023-12-18</guid>
 		</item>
 	</channel>
 </rss>

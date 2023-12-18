@@ -5539,5 +5539,28 @@
     "porteria": true,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 274445,
+    "publicado": "2023-12-18",
+    "direccion": "Avda Poblados, 141",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "planta": 4,
+    "precio": 1050,
+    "metros": 62,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
   }
 ]
