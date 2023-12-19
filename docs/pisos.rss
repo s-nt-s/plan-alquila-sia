@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 19 Dec 2023 13:35:36 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 19 Dec 2023 18:33:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -263,6 +263,14 @@
 			<pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Tres Cantos</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/239507?2023-11-28</guid>
+		</item>
+		<item>
+			<title>1138€ Getafe</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/239919</link>
+			<description>C/ Maestro Pablo Guzmán, 4,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;89m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/239919</description>
+			<pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Getafe</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/239919?2023-12-19</guid>
 		</item>
 		<item>
 			<title>1200€ Vicálvaro</title>
@@ -1655,6 +1663,14 @@
 			<pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274446?2023-12-19</guid>
+		</item>
+		<item>
+			<title>1500€ Retiro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274448</link>
+			<description>C/ Játiva, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274448</description>
+			<pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Retiro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274448?2023-12-19</guid>
 		</item>
 	</channel>
 </rss>
