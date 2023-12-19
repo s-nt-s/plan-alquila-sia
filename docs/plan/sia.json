@@ -57,32 +57,6 @@
     ]
   },
   {
-    "id": 31952,
-    "publicado": "2023-11-03",
-    "modificado": "2023-12-13",
-    "direccion": "Calle Calatayud 6",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Puerta del \u00c1ngel",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 1100,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/YvXYPnW.jpg?1",
-      "https://i.imgur.com/mqIvWth.jpg?2",
-      "https://i.imgur.com/2ZYibT7.jpg?3",
-      "https://i.imgur.com/4KzDyE9.jpg?4",
-      "https://i.imgur.com/7oIOrdt.jpg?5",
-      "https://i.imgur.com/gr2VFuS.jpg?6"
-    ]
-  },
-  {
     "id": 31953,
     "publicado": "2023-09-27",
     "modificado": "2023-09-27",
@@ -287,34 +261,6 @@
       "https://i.imgur.com/RNgrchA.jpg?6",
       "https://i.imgur.com/TwZYboB.jpg?7",
       "https://i.imgur.com/ObCuo96.jpg?8"
-    ]
-  },
-  {
-    "id": 32004,
-    "publicado": "2023-12-12",
-    "modificado": "2023-12-13",
-    "direccion": "Calle De La Caliza 8",
-    "municipio": "Madrid",
-    "distrito": "Vicalvaro",
-    "barrio": "Ambroz",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 977,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/PU6qIsb.jpg?1",
-      "https://i.imgur.com/v8tIKPA.jpg?2",
-      "https://i.imgur.com/avw90tV.jpg?3",
-      "https://i.imgur.com/rK86pis.jpg?4",
-      "https://i.imgur.com/BHLhW7o.jpg?5",
-      "https://i.imgur.com/SewOZRi.jpg?6",
-      "https://i.imgur.com/AfCfOAt.jpg?7",
-      "https://i.imgur.com/3TIDZuk.jpg?8"
     ]
   },
   {
