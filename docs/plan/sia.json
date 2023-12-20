@@ -174,30 +174,6 @@
     ]
   },
   {
-    "id": 31994,
-    "publicado": "2023-12-13",
-    "direccion": "Calle Fuente De Lima 40",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Las \u00c1guilas",
-    "planta": 4,
-    "orientacion": "Mixto",
-    "precio": 675,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/UXTaNKO.jpg?1",
-      "https://i.imgur.com/OnNFUJd.jpg?2",
-      "https://i.imgur.com/O2oYDq7.jpg?5",
-      "https://i.imgur.com/PH4EgFF.jpg?6",
-      "https://i.imgur.com/oUM7qvI.jpg?7"
-    ]
-  },
-  {
     "id": 31995,
     "publicado": "2023-11-21",
     "direccion": "Avenida El Ferrol 19",
