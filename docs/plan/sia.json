@@ -81,39 +81,6 @@
     ]
   },
   {
-    "id": 31979,
-    "publicado": "2023-11-14",
-    "modificado": "2023-12-04",
-    "direccion": "Calle Divino Valles 30",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Delicias",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 1200,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/Akcqp9v.jpg?1",
-      "https://i.imgur.com/5Xl5xyj.jpg?2",
-      "https://i.imgur.com/DtM6N1M.jpg?3",
-      "https://i.imgur.com/Adz45FE.jpg?4",
-      "https://i.imgur.com/W4ssoBz.jpg?5",
-      "https://i.imgur.com/7fShytE.jpg?6",
-      "https://i.imgur.com/D6sfnBn.jpg?7",
-      "https://i.imgur.com/fH4dyJx.jpg?8",
-      "https://i.imgur.com/eKmkRfV.jpg?9",
-      "https://i.imgur.com/kedqlvV.jpg?10",
-      "https://i.imgur.com/wk2UdpV.jpg?11",
-      "https://i.imgur.com/GhIcw93.jpg?12",
-      "https://i.imgur.com/jgNXkLD.jpg?13"
-    ]
-  },
-  {
     "id": 31980,
     "publicado": "2023-11-14",
     "modificado": "2023-11-15",
@@ -210,6 +177,31 @@
       "https://i.imgur.com/VmdguJf.jpg?29",
       "https://i.imgur.com/xfjEwef.jpg?30",
       "https://i.imgur.com/twUq4bj.jpg?31"
+    ]
+  },
+  {
+    "id": 31997,
+    "publicado": "2023-12-21",
+    "direccion": "Calle Arquitectura 2",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Acacias",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 525,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/sAP9PZc.jpg?2",
+      "https://i.imgur.com/WNyGo49.jpg?3",
+      "https://i.imgur.com/qjUuOkb.jpg?4",
+      "https://i.imgur.com/QfUjxlk.jpg?5",
+      "https://i.imgur.com/olCNEyX.jpg?6",
+      "https://i.imgur.com/yfd1bpf.jpg?7"
     ]
   },
   {
