@@ -182,6 +182,7 @@
   {
     "id": 31997,
     "publicado": "2023-12-21",
+    "modificado": "2023-12-22",
     "direccion": "Calle Arquitectura 2",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -194,7 +195,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/sAP9PZc.jpg?2",
       "https://i.imgur.com/WNyGo49.jpg?3",
