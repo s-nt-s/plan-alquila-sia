@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 22 Dec 2023 18:39:29 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 26 Dec 2023 13:36:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,6 +31,14 @@
 			<pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31953?2023-09-27</guid>
+		</item>
+		<item>
+			<title>900€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/31987</link>
+			<description>C/ Cooperacion 6,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 11 📷.&lt;br/&gt;sia/31987</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31987?2023-12-26</guid>
 		</item>
 		<item>
 			<title>1650€ Centro</title>
@@ -65,12 +73,28 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32008?2023-12-18</guid>
 		</item>
 		<item>
+			<title>1080€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32010</link>
+			<description>C/ Jaime Vera 13,&lt;br/&gt;2º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 15 📷.&lt;br/&gt;sia/32010</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32010?2023-12-26</guid>
+		</item>
+		<item>
 			<title>675€ San Martín de la Vega</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/200691</link>
 			<description>C/ Cuba, 60,&lt;br/&gt;1º con ascensor,&lt;br/&gt;84m², 3 🛏,&lt;br/&gt;3 🛀, 9 📷.&lt;br/&gt;alq/200691</description>
 			<pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
 			<category>San Martín de la Vega</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/200691?2023-01-30</guid>
+		</item>
+		<item>
+			<title>950€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/201139</link>
+			<description>C/ Cardenal Vicente Enrique, 12,&lt;br/&gt;1º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/201139</description>
+			<pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/201139?2023-12-22</guid>
 		</item>
 		<item>
 			<title>695€ Vicálvaro</title>
@@ -609,6 +633,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270785?2023-11-24</guid>
 		</item>
 		<item>
+			<title>1450€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270858</link>
+			<description>C/ Monasterios Suso y Yuso, 23,&lt;br/&gt;2º con ascensor,&lt;br/&gt;83m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/270858</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270858?2023-12-26</guid>
+		</item>
+		<item>
 			<title>1300€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271036</link>
 			<description>C/ Bélgica, 7,&lt;br/&gt;5º con ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/271036</description>
@@ -767,14 +799,6 @@
 			<pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273585?2022-12-02</guid>
-		</item>
-		<item>
-			<title>950€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273625</link>
-			<description>C/ Torregrosa, 25,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;61m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273625</description>
-			<pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273625?2023-09-15</guid>
 		</item>
 		<item>
 			<title>1800€ Tetuán</title>
@@ -1337,14 +1361,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274340?2023-11-02</guid>
 		</item>
 		<item>
-			<title>900€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274364</link>
-			<description>Av. Celio Villalba, 16,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;41m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274364</description>
-			<pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274364?2023-11-06</guid>
-		</item>
-		<item>
 			<title>1400€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274368</link>
 			<description>C/ Canillas, 91,&lt;br/&gt;3º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/274368</description>
@@ -1529,14 +1545,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274420?2023-12-04</guid>
 		</item>
 		<item>
-			<title>1300€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274421</link>
-			<description>C/ Rafael Ceballos, 3,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/274421</description>
-			<pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274421?2023-12-04</guid>
-		</item>
-		<item>
 			<title>650€ Colmenar Viejo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274423</link>
 			<description>C/ Iglesia, 5,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274423</description>
@@ -1675,10 +1683,10 @@
 		<item>
 			<title>850€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274452</link>
-			<description>C/ Escalona, 8,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;28m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274452</description>
-			<pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
+			<description>C/ Escalona, 8,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;28m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/274452</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274452?2023-12-20</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274452?2023-12-26</guid>
 		</item>
 		<item>
 			<title>1200€ Fuencarral-El Pardo</title>
@@ -1703,6 +1711,62 @@
 			<pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Villaverde</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274456?2023-12-22</guid>
+		</item>
+		<item>
+			<title>2050€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274457</link>
+			<description>Pl. Luca de Tena, 3,&lt;br/&gt;3º con ascensor,&lt;br/&gt;126m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274457</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274457?2023-12-26</guid>
+		</item>
+		<item>
+			<title>1200€ Alcobendas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274458</link>
+			<description>C/ Málaga, 20,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274458</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Alcobendas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274458?2023-12-26</guid>
+		</item>
+		<item>
+			<title>650€ Coslada</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274459</link>
+			<description>C/ Isleta, 28,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;45m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274459</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Coslada</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274459?2023-12-26</guid>
+		</item>
+		<item>
+			<title>1000€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274460</link>
+			<description>Cstan San Vicente, 6,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;27m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274460</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274460?2023-12-26</guid>
+		</item>
+		<item>
+			<title>850€ Leganés</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274461</link>
+			<description>C/ Alcarria, 23,&lt;br/&gt;2º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274461</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Leganés</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274461?2023-12-26</guid>
+		</item>
+		<item>
+			<title>1150€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274462</link>
+			<description>C/ Afueras a San Roque, 13,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274462</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274462?2023-12-26</guid>
+		</item>
+		<item>
+			<title>900€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274463</link>
+			<description>C/ Manuel Lamela, 23,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;56m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274463</description>
+			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274463?2023-12-26</guid>
 		</item>
 	</channel>
 </rss>
