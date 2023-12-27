@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 26 Dec 2023 18:36:30 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 27 Dec 2023 13:40:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -71,14 +71,6 @@
 			<pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32008?2023-12-18</guid>
-		</item>
-		<item>
-			<title>1080€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32010</link>
-			<description>C/ Jaime Vera 13,&lt;br/&gt;2º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 15 📷.&lt;br/&gt;sia/32010</description>
-			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32010?2023-12-26</guid>
 		</item>
 		<item>
 			<title>675€ San Martín de la Vega</title>
@@ -889,14 +881,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273795?2023-03-10</guid>
 		</item>
 		<item>
-			<title>750€ San Blas-Canillejas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273796</link>
-			<description>C/ Raza, 4,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;49m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273796</description>
-			<pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
-			<category>San Blas-Canillejas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273796?2023-12-11</guid>
-		</item>
-		<item>
 			<title>850€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273826</link>
 			<description>C/ Cristo de la Victoria, 124,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;59m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/273826</description>
@@ -1545,14 +1529,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274418?2023-12-11</guid>
 		</item>
 		<item>
-			<title>980€ Moratalaz</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274420</link>
-			<description>C/ Encomienda de Palacios, 101,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;69m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274420</description>
-			<pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
-			<category>Moratalaz</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274420?2023-12-04</guid>
-		</item>
-		<item>
 			<title>650€ Colmenar Viejo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274423</link>
 			<description>C/ Iglesia, 5,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274423</description>
@@ -1763,10 +1739,10 @@
 		<item>
 			<title>1150€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274462</link>
-			<description>C/ Afueras a San Roque, 13,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274462</description>
-			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
+			<description>C/ Afueras a San Roque, 13,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/274462</description>
+			<pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274462?2023-12-26</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274462?2023-12-27</guid>
 		</item>
 		<item>
 			<title>900€ Carabanchel</title>
@@ -1775,6 +1751,22 @@
 			<pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274463?2023-12-26</guid>
+		</item>
+		<item>
+			<title>1500€ Moncloa-Aravaca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274465</link>
+			<description>Pº Comandante Fortea, 15,&lt;br/&gt;4º con ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274465</description>
+			<pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Moncloa-Aravaca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274465?2023-12-27</guid>
+		</item>
+		<item>
+			<title>900€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274466</link>
+			<description>C/ La Bañeza, 24,&lt;br/&gt;8º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274466</description>
+			<pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274466?2023-12-27</guid>
 		</item>
 	</channel>
 </rss>

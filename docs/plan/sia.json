@@ -264,6 +264,7 @@
   {
     "id": 32010,
     "publicado": "2023-12-26",
+    "modificado": "2023-12-27",
     "direccion": "Calle Jaime Vera 13",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -276,7 +277,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/S6B4Hcn.jpg?1",
       "https://i.imgur.com/soUMylF.jpg?2",
