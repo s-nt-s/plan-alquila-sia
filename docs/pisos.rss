@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 27 Dec 2023 13:40:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 27 Dec 2023 18:40:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -609,6 +609,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270110?2023-12-20</guid>
 		</item>
 		<item>
+			<title>1150€ Moncloa-Aravaca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270192</link>
+			<description>Av. Dr. Federico Rubio y Galí, 110,&lt;br/&gt;7º con ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270192</description>
+			<pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Moncloa-Aravaca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270192?2023-12-20</guid>
+		</item>
+		<item>
 			<title>750€ Retiro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270338</link>
 			<description>Av. Menéndez Pelayo, 42,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;35m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/270338</description>
@@ -695,14 +703,6 @@
 			<pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271419?2023-10-09</guid>
-		</item>
-		<item>
-			<title>2000€ Chamberí</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271720</link>
-			<description>C/ Hilarión Eslava, 29,&lt;br/&gt;12º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/271720</description>
-			<pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
-			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271720?2023-11-28</guid>
 		</item>
 		<item>
 			<title>1400€ Tetuán</title>
@@ -1487,14 +1487,6 @@
 			<pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274410?2023-12-04</guid>
-		</item>
-		<item>
-			<title>1150€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274411</link>
-			<description>C/ Puentelarra, 18,&lt;br/&gt;6º con ascensor,&lt;br/&gt;80m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274411</description>
-			<pubDate>Mon, 27 Nov 2023 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274411?2023-11-27</guid>
 		</item>
 		<item>
 			<title>1000€ Escorial, El</title>
