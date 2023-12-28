@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 28 Dec 2023 13:37:59 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 Dec 2023 18:42:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -137,6 +137,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/204765?2023-12-18</guid>
 		</item>
 		<item>
+			<title>950€ Valdemoro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/206280</link>
+			<description>C/ Agustina de Aragón, 157,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;145m², 5 🛏,&lt;br/&gt;4 🛀, 0 📷.&lt;br/&gt;alq/206280</description>
+			<pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Valdemoro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/206280?2023-12-28</guid>
+		</item>
+		<item>
 			<title>875€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/208705</link>
 			<description>C/ Diana, 13-C,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/208705</description>
@@ -156,9 +164,9 @@
 			<title>750€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/211084</link>
 			<description>Av. Ensanche de Vallecas, 112,&lt;br/&gt;2º con ascensor,&lt;br/&gt;30m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/211084</description>
-			<pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/211084?2023-11-30</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/211084?2023-12-28</guid>
 		</item>
 		<item>
 			<title>950€ Arganzuela</title>
@@ -487,14 +495,6 @@
 			<pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264973?2023-12-20</guid>
-		</item>
-		<item>
-			<title>1050€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/265903</link>
-			<description>C/ Bernardino de Pantorba, 4,&lt;br/&gt;Atico con ascensor,&lt;br/&gt;77m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/265903</description>
-			<pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265903?2023-12-05</guid>
 		</item>
 		<item>
 			<title>970€ Hortaleza</title>
@@ -1153,6 +1153,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274133?2023-07-31</guid>
 		</item>
 		<item>
+			<title>1030€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274137</link>
+			<description>Av. Blas de Lezo, 20,&lt;br/&gt;2º con ascensor,&lt;br/&gt;68m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274137</description>
+			<pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274137?2023-12-28</guid>
+		</item>
+		<item>
 			<title>1022€ Arganda del Rey</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274147</link>
 			<description>Av. Tolerancia, 14,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/274147</description>
@@ -1627,10 +1635,10 @@
 		<item>
 			<title>1050€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274445</link>
-			<description>Av. Poblados, 141,&lt;br/&gt;4º con ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274445</description>
-			<pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+			<description>Av. Poblados, 141,&lt;br/&gt;4º con ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/274445</description>
+			<pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274445?2023-12-18</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274445?2023-12-28</guid>
 		</item>
 		<item>
 			<title>1100€ Tetuán</title>
@@ -1643,10 +1651,10 @@
 		<item>
 			<title>1500€ Retiro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274448</link>
-			<description>C/ Játiva, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274448</description>
-			<pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
+			<description>C/ Játiva, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/274448</description>
+			<pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274448?2023-12-20</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274448?2023-12-28</guid>
 		</item>
 		<item>
 			<title>700€ Getafe</title>
