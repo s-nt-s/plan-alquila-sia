@@ -295,5 +295,37 @@
       "https://i.imgur.com/ltOIwM2.jpg?14",
       "https://i.imgur.com/gFFrELX.jpg?15"
     ]
+  },
+  {
+    "id": 32017,
+    "publicado": "2023-12-28",
+    "direccion": "Calle Zaldivar 7",
+    "municipio": "Madrid",
+    "distrito": "San Blas",
+    "barrio": "Simancas",
+    "planta": 3,
+    "orientacion": "Mixto",
+    "precio": 650,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/zcDeXQX.jpg?1",
+      "https://i.imgur.com/HZTIssp.jpg?2",
+      "https://i.imgur.com/HHfRViF.jpg?3",
+      "https://i.imgur.com/QKkqeAc.jpg?4",
+      "https://i.imgur.com/A3eLWRN.jpg?5",
+      "https://i.imgur.com/0LPEERC.jpg?6",
+      "https://i.imgur.com/QM7K5H8.jpg?7",
+      "https://i.imgur.com/BGymI8M.jpg?8",
+      "https://i.imgur.com/33zdaZ9.jpg?9",
+      "https://i.imgur.com/1klYBU2.jpg?10",
+      "https://i.imgur.com/1qrmkWg.jpg?11",
+      "https://i.imgur.com/eSer1Di.jpg?12",
+      "https://i.imgur.com/oKZ7nPD.jpg?14"
+    ]
   }
 ]
