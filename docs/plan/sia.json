@@ -297,6 +297,37 @@
     ]
   },
   {
+    "id": 32015,
+    "publicado": "2023-12-29",
+    "direccion": "Calle Padre Piquer 47",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Aluche",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 900,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/WeJqUV1.jpg?2",
+      "https://i.imgur.com/i7UNclk.jpg?4",
+      "https://i.imgur.com/hQ4j8j1.jpg?6",
+      "https://i.imgur.com/rwaayUt.jpg?7",
+      "https://i.imgur.com/3KSiKH0.jpg?8",
+      "https://i.imgur.com/pYEbNPl.jpg?9",
+      "https://i.imgur.com/KFFQqYw.jpg?10",
+      "https://i.imgur.com/Jh8v844.jpg?11",
+      "https://i.imgur.com/yFSffB4.jpg?12",
+      "https://i.imgur.com/wiyHEvm.jpg?13",
+      "https://i.imgur.com/VNfRMuj.jpg?14",
+      "https://i.imgur.com/ncQ5Jo4.jpg?15"
+    ]
+  },
+  {
     "id": 32017,
     "publicado": "2023-12-28",
     "direccion": "Calle Zaldivar 7",
