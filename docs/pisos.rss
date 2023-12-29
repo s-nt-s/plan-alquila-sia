@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 29 Dec 2023 13:36:44 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 29 Dec 2023 18:42:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -151,14 +151,6 @@
 			<pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Valdemoro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/206280?2023-12-29</guid>
-		</item>
-		<item>
-			<title>875€ San Blas-Canillejas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/208705</link>
-			<description>C/ Diana, 13-C,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/208705</description>
-			<pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
-			<category>San Blas-Canillejas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/208705?2023-11-13</guid>
 		</item>
 		<item>
 			<title>1075€ Rivas-Vaciamadrid</title>
@@ -499,7 +491,7 @@
 		<item>
 			<title>840€ Chamartín</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266043</link>
-			<description>C/ Daganzo, 5,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;32m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/266043</description>
+			<description>C/ Daganzo, 5,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;32m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/266043</description>
 			<pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266043?2023-12-29</guid>
@@ -839,14 +831,6 @@
 			<pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273466?2023-10-20</guid>
-		</item>
-		<item>
-			<title>600€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273585</link>
-			<description>C/ Convenio, 41,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;25m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/273585</description>
-			<pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273585?2022-12-02</guid>
 		</item>
 		<item>
 			<title>1800€ Tetuán</title>
@@ -1791,6 +1775,38 @@
 			<pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274466?2023-12-27</guid>
+		</item>
+		<item>
+			<title>895€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274471</link>
+			<description>C/ San Deogracias, 11,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274471</description>
+			<pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274471?2023-12-29</guid>
+		</item>
+		<item>
+			<title>850€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274472</link>
+			<description>C/ Escalona, 8,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;28m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274472</description>
+			<pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274472?2023-12-29</guid>
+		</item>
+		<item>
+			<title>1200€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274473</link>
+			<description>Pº Delicias, 90,&lt;br/&gt;5º con ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274473</description>
+			<pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274473?2023-12-29</guid>
+		</item>
+		<item>
+			<title>1100€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274474</link>
+			<description>C/ Felisa Méndez, 12,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;50m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274474</description>
+			<pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274474?2023-12-29</guid>
 		</item>
 	</channel>
 </rss>
