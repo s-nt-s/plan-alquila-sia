@@ -297,6 +297,36 @@
     ]
   },
   {
+    "id": 32011,
+    "publicado": "2024-01-02",
+    "direccion": "Calle Nicolas Usera 87",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "barrio": "Moscard\u00f3",
+    "planta": 0,
+    "precio": 800,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/zaiYeB4.jpg?1",
+      "https://i.imgur.com/7Srgvme.jpg?2",
+      "https://i.imgur.com/UO0LvmY.jpg?3",
+      "https://i.imgur.com/5mLiBQg.jpg?4",
+      "https://i.imgur.com/kVlfeRv.jpg?5",
+      "https://i.imgur.com/hFc5Ry9.jpg?6",
+      "https://i.imgur.com/6ZeTFLk.jpg?7",
+      "https://i.imgur.com/wM9t7sf.jpg?8",
+      "https://i.imgur.com/diUc88o.jpg?9",
+      "https://i.imgur.com/HeovY6C.jpg?10",
+      "https://i.imgur.com/qWpVsr8.jpg?11",
+      "https://i.imgur.com/7SuqSI8.jpg?12"
+    ]
+  },
+  {
     "id": 32015,
     "publicado": "2023-12-29",
     "direccion": "Calle Padre Piquer 47",
