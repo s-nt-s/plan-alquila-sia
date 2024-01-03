@@ -966,7 +966,7 @@
   {
     "id": 251263,
     "publicado": "2023-12-05",
-    "modificado": "2023-12-28",
+    "modificado": "2024-01-03",
     "direccion": "Col Ciudad Jard\u00edn del Rosario, 5",
     "municipio": "Torrej\u00f3n de Ardoz",
     "planta": 5,
@@ -974,6 +974,7 @@
     "metros": 66.5,
     "dormitorios": 3,
     "aseos": 1,
+    "cee": "E",
     "mascotas": true,
     "amueblada": false,
     "ascensor": false,
