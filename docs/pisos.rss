@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 04 Jan 2024 13:36:38 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2024 18:42:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1417,14 +1417,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274368?2023-11-16</guid>
 		</item>
 		<item>
-			<title>1200€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274369</link>
-			<description>C/ Doctor Fourquet, 29,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;77m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274369</description>
-			<pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274369?2023-11-17</guid>
-		</item>
-		<item>
 			<title>1150€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274370</link>
 			<description>C/ Carranque, 14,&lt;br/&gt;6º con ascensor,&lt;br/&gt;64m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/274370</description>
@@ -1433,12 +1425,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274370?2023-11-15</guid>
 		</item>
 		<item>
-			<title>900€ Móstoles</title>
+			<title>980€ Móstoles</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274376</link>
 			<description>C/ Pintor Murillo, 20,&lt;br/&gt;4º con ascensor,&lt;br/&gt;87m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/274376</description>
-			<pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+			<pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
 			<category>Móstoles</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274376?2023-12-14</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274376?2024-01-04</guid>
 		</item>
 		<item>
 			<title>900€ Villa de Vallecas</title>
@@ -1815,6 +1807,14 @@
 			<pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274478?2024-01-03</guid>
+		</item>
+		<item>
+			<title>950€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274482</link>
+			<description>C/ Moquetas, 24,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;65m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274482</description>
+			<pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274482?2024-01-04</guid>
 		</item>
 	</channel>
 </rss>
