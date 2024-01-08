@@ -210,7 +210,7 @@
   {
     "id": 32008,
     "publicado": "2023-12-18",
-    "modificado": "2024-01-03",
+    "modificado": "2024-01-08",
     "direccion": "Calle Comandante Benitez 5",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -223,7 +223,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/AnSVLmO.jpg?1",
       "https://i.imgur.com/6S42Hxo.jpg?2",
