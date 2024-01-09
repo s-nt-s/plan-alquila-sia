@@ -5960,5 +5960,27 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 274485,
+    "publicado": "2024-01-09",
+    "direccion": "Avda Espa\u00f1a, 72",
+    "municipio": "San Sebasti\u00e1n de los Reyes",
+    "planta": 1,
+    "precio": 960,
+    "metros": 75,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]
