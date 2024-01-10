@@ -271,6 +271,7 @@
   {
     "id": 32009,
     "publicado": "2024-01-09",
+    "modificado": "2024-01-10",
     "direccion": "Calle Ferrocarril 11",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -283,7 +284,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32009&idDoc=2",
       "https://i.imgur.com/GTVMRfr.jpg?3",
@@ -401,6 +402,7 @@
   {
     "id": 32014,
     "publicado": "2024-01-09",
+    "modificado": "2024-01-10",
     "direccion": "Calle Valmojado 229",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -413,7 +415,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/DoSKUy3.jpg?1",
       "https://i.imgur.com/cKf3JG3.jpg?2",
@@ -489,6 +491,37 @@
       "https://i.imgur.com/1qrmkWg.jpg?11",
       "https://i.imgur.com/eSer1Di.jpg?12",
       "https://i.imgur.com/oKZ7nPD.jpg?14"
+    ]
+  },
+  {
+    "id": 32018,
+    "publicado": "2024-01-10",
+    "direccion": "Calle Valmojado 145",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Aluche",
+    "planta": 5,
+    "orientacion": "Exterior",
+    "precio": 800,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/0RHo63w.jpg?1",
+      "https://i.imgur.com/jzvwauB.jpg?2",
+      "https://i.imgur.com/VPpZz9t.jpg?3",
+      "https://i.imgur.com/HwZ1BpU.jpg?4",
+      "https://i.imgur.com/nVOiA8s.jpg?5",
+      "https://i.imgur.com/zXvJfQ1.jpg?6",
+      "https://i.imgur.com/bTQkKms.jpg?7",
+      "https://i.imgur.com/UfGcRtG.jpg?8",
+      "https://i.imgur.com/223TaeZ.jpg?9",
+      "https://i.imgur.com/8JF2apL.jpg?10",
+      "https://i.imgur.com/CbeoAB3.jpg?11",
+      "https://i.imgur.com/OJHSTZD.jpg?12"
     ]
   }
 ]
