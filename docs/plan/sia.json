@@ -471,6 +471,7 @@
   {
     "id": 32018,
     "publicado": "2024-01-10",
+    "modificado": "2024-01-11",
     "direccion": "Calle Valmojado 145",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -483,7 +484,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/0RHo63w.jpg?1",
       "https://i.imgur.com/jzvwauB.jpg?2",
@@ -497,6 +498,32 @@
       "https://i.imgur.com/8JF2apL.jpg?10",
       "https://i.imgur.com/CbeoAB3.jpg?11",
       "https://i.imgur.com/OJHSTZD.jpg?12"
+    ]
+  },
+  {
+    "id": 32025,
+    "publicado": "2024-01-11",
+    "direccion": "Calle Enrique Moyano 7",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Comillas",
+    "planta": 1,
+    "precio": 750,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/UWqorIj.jpg?1",
+      "https://i.imgur.com/CQlONkr.jpg?4",
+      "https://i.imgur.com/EzXhQnC.jpg?6",
+      "https://i.imgur.com/1as4vtS.jpg?7",
+      "https://i.imgur.com/KfBKF9N.jpg?9",
+      "https://i.imgur.com/xpTO3MW.jpg?10",
+      "https://i.imgur.com/IDXA7Wg.jpg?11",
+      "https://i.imgur.com/2X3EKUg.jpg?12"
     ]
   }
 ]
