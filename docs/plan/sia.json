@@ -244,38 +244,6 @@
     ]
   },
   {
-    "id": 32009,
-    "publicado": "2024-01-09",
-    "modificado": "2024-01-10",
-    "direccion": "Calle Ferrocarril 11",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Delicias",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 1080,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32009&idDoc=2",
-      "https://i.imgur.com/GTVMRfr.jpg?3",
-      "https://i.imgur.com/G1qaOAC.jpg?4",
-      "https://i.imgur.com/QgKi7KD.jpg?5",
-      "https://i.imgur.com/YbQvnO9.jpg?6",
-      "https://i.imgur.com/gE0qMBS.jpg?7",
-      "https://i.imgur.com/W6x9zKi.jpg?8",
-      "https://i.imgur.com/yJ5Ujt4.jpg?9",
-      "https://i.imgur.com/vfsoMRG.jpg?10",
-      "https://i.imgur.com/DyLykwO.jpg?11",
-      "https://i.imgur.com/A3Kib8r.jpg?12",
-      "https://i.imgur.com/1SJthP6.jpg?13"
-    ]
-  },
-  {
     "id": 32010,
     "publicado": "2023-12-26",
     "modificado": "2023-12-27",
@@ -313,6 +281,7 @@
   {
     "id": 32011,
     "publicado": "2024-01-02",
+    "modificado": "2024-01-15",
     "direccion": "Calle Nicolas Usera 87",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -324,7 +293,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/zaiYeB4.jpg?1",
       "https://i.imgur.com/7Srgvme.jpg?2",
@@ -537,6 +506,7 @@
   {
     "id": 32021,
     "publicado": "2024-01-12",
+    "modificado": "2024-01-15",
     "direccion": "Calle Comandante Fontanes 40",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -549,7 +519,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Fv3grwv.jpg?2",
       "https://i.imgur.com/NGUqlbN.jpg?3",
@@ -608,6 +578,64 @@
       "https://i.imgur.com/xpTO3MW.jpg?10",
       "https://i.imgur.com/IDXA7Wg.jpg?11",
       "https://i.imgur.com/2X3EKUg.jpg?12"
+    ]
+  },
+  {
+    "id": 32027,
+    "publicado": "2024-01-15",
+    "direccion": "Calle Pan Y Toros 24",
+    "municipio": "Madrid",
+    "distrito": "Villaverde",
+    "barrio": "Los Rosales",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 850,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/ywUvwbG.jpg?1",
+      "https://i.imgur.com/v4fOm7F.jpg?2",
+      "https://i.imgur.com/9krzqk5.jpg?3",
+      "https://i.imgur.com/ahxqczB.jpg?4",
+      "https://i.imgur.com/xg4Sm22.jpg?5",
+      "https://i.imgur.com/MuCNkmk.jpg?6",
+      "https://i.imgur.com/lWJUVLT.jpg?7",
+      "https://i.imgur.com/vddzYc6.jpg?8"
+    ]
+  },
+  {
+    "id": 32029,
+    "publicado": "2024-01-15",
+    "direccion": "Calle Durazno 5",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Puerta Bonita",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 820,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/UxW2mV1.jpg?1",
+      "https://i.imgur.com/g5dbGvB.jpg?2",
+      "https://i.imgur.com/WFMGk6T.jpg?3",
+      "https://i.imgur.com/8e7hMyS.jpg?4",
+      "https://i.imgur.com/natWASx.jpg?5",
+      "https://i.imgur.com/eaUf4xV.jpg?6",
+      "https://i.imgur.com/qQjYv9A.jpg?7",
+      "https://i.imgur.com/6Rrg0rM.jpg?8",
+      "https://i.imgur.com/f7lTD7E.jpg?9",
+      "https://i.imgur.com/khGyOho.jpg?10",
+      "https://i.imgur.com/xRec9wJ.jpg?11",
+      "https://i.imgur.com/LA4birI.jpg?12"
     ]
   }
 ]
