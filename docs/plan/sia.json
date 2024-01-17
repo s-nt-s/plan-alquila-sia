@@ -32,30 +32,6 @@
     ]
   },
   {
-    "id": 31953,
-    "publicado": "2023-09-27",
-    "modificado": "2023-09-27",
-    "direccion": "Calle Cardenal Cisneros 34",
-    "municipio": "Madrid",
-    "distrito": "Chamber\u00ed",
-    "barrio": "Trafalgar",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 1550,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/eMnpp4N.jpg?1",
-      "https://i.imgur.com/oW3W45n.jpg?2",
-      "https://i.imgur.com/gM6CbmE.jpg?3",
-      "https://i.imgur.com/ofcJHzv.jpg?4"
-    ]
-  },
-  {
     "id": 31987,
     "publicado": "2023-12-26",
     "direccion": "Calle Cooperacion 6",
@@ -212,70 +188,6 @@
       "https://i.imgur.com/qpXhEwU.jpg?11",
       "https://i.imgur.com/jDuQ0NH.jpg?12",
       "https://i.imgur.com/GEA0iQN.jpg?13"
-    ]
-  },
-  {
-    "id": 32008,
-    "publicado": "2023-12-18",
-    "modificado": "2024-01-08",
-    "direccion": "Calle Comandante Benitez 5",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Chopera",
-    "planta": 7,
-    "orientacion": "Exterior",
-    "precio": 1300,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/AnSVLmO.jpg?1",
-      "https://i.imgur.com/6S42Hxo.jpg?2",
-      "https://i.imgur.com/O7Yiqz1.jpg?3",
-      "https://i.imgur.com/CZK3LJn.jpg?4",
-      "https://i.imgur.com/gKA1h6g.jpg?5",
-      "https://i.imgur.com/c9o2AXD.jpg?6",
-      "https://i.imgur.com/OoGkzV3.jpg?7",
-      "https://i.imgur.com/rM3vpL4.jpg?8",
-      "https://i.imgur.com/vWRM4ZY.jpg?9"
-    ]
-  },
-  {
-    "id": 32010,
-    "publicado": "2023-12-26",
-    "modificado": "2023-12-27",
-    "direccion": "Calle Jaime Vera 13",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Puerta del \u00c1ngel",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 1080,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/S6B4Hcn.jpg?1",
-      "https://i.imgur.com/soUMylF.jpg?2",
-      "https://i.imgur.com/kkEiiYD.jpg?3",
-      "https://i.imgur.com/t3BXbpr.jpg?4",
-      "https://i.imgur.com/5mOa7o0.jpg?5",
-      "https://i.imgur.com/MqDrkjL.jpg?6",
-      "https://i.imgur.com/S0dEyDh.jpg?7",
-      "https://i.imgur.com/zWrnMiu.jpg?8",
-      "https://i.imgur.com/kSS20IP.jpg?9",
-      "https://i.imgur.com/DEmwQsR.jpg?10",
-      "https://i.imgur.com/e1pBfUX.jpg?11",
-      "https://i.imgur.com/9exKzcQ.jpg?12",
-      "https://i.imgur.com/cWEahnd.jpg?13",
-      "https://i.imgur.com/ltOIwM2.jpg?14",
-      "https://i.imgur.com/gFFrELX.jpg?15"
     ]
   },
   {
@@ -587,6 +499,7 @@
   {
     "id": 32025,
     "publicado": "2024-01-11",
+    "modificado": "2024-01-17",
     "direccion": "Calle Enrique Moyano 7",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -603,11 +516,11 @@
       "https://i.imgur.com/UWqorIj.jpg?1",
       "https://i.imgur.com/CQlONkr.jpg?4",
       "https://i.imgur.com/EzXhQnC.jpg?6",
-      "https://i.imgur.com/1as4vtS.jpg?7",
       "https://i.imgur.com/KfBKF9N.jpg?9",
       "https://i.imgur.com/xpTO3MW.jpg?10",
       "https://i.imgur.com/IDXA7Wg.jpg?11",
-      "https://i.imgur.com/2X3EKUg.jpg?12"
+      "https://i.imgur.com/2X3EKUg.jpg?12",
+      "https://i.imgur.com/wt8M0Uf.jpg?13"
     ]
   },
   {
@@ -641,6 +554,7 @@
   {
     "id": 32027,
     "publicado": "2024-01-15",
+    "modificado": "2024-01-17",
     "direccion": "Calle Pan Y Toros 24",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -653,7 +567,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/ywUvwbG.jpg?1",
       "https://i.imgur.com/v4fOm7F.jpg?2",
@@ -668,6 +582,7 @@
   {
     "id": 32029,
     "publicado": "2024-01-15",
+    "modificado": "2024-01-17",
     "direccion": "Calle Durazno 5",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -680,7 +595,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/UxW2mV1.jpg?1",
       "https://i.imgur.com/g5dbGvB.jpg?2",
