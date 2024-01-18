@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 18 Jan 2024 13:44:31 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 18:43:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -183,14 +183,6 @@
 			<pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Paracuellos de Jarama</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/222369?2023-09-19</guid>
-		</item>
-		<item>
-			<title>700.87€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/225411</link>
-			<description>C/ Islas Cíes, 1,&lt;br/&gt;6º con ascensor,&lt;br/&gt;63m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/225411</description>
-			<pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/225411?2024-01-05</guid>
 		</item>
 		<item>
 			<title>550€ Valverde de Alcalá</title>
@@ -543,6 +535,14 @@
 			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
 			<category>Villaverde</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270118?2024-01-10</guid>
+		</item>
+		<item>
+			<title>950€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270162</link>
+			<description>C/ José Luis Sampedro, 8,&lt;br/&gt;2º con ascensor,&lt;br/&gt;88m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/270162</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270162?2024-01-18</guid>
 		</item>
 		<item>
 			<title>750€ Retiro</title>
