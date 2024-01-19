@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 19 Jan 2024 13:37:41 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 18:38:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1161,14 +1161,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274287?2023-09-25</guid>
 		</item>
 		<item>
-			<title>800€ Belmonte de Tajo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274301</link>
-			<description>C/ Emilio Salcedo, 20,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;107m², 4 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/274301</description>
-			<pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Belmonte de Tajo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274301?2023-09-29</guid>
-		</item>
-		<item>
 			<title>550€ Pelayos de la Presa</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274309</link>
 			<description>C/ Cumbres Sur, 5,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;47m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/274309</description>
@@ -1351,14 +1343,6 @@
 			<pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274427?2023-12-11</guid>
-		</item>
-		<item>
-			<title>950€ San Blas-Canillejas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274428</link>
-			<description>C/ Valdecanillas, 59,&lt;br/&gt;5º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274428</description>
-			<pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-			<category>San Blas-Canillejas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274428?2023-12-18</guid>
 		</item>
 		<item>
 			<title>1800€ Chamberí</title>
@@ -1639,6 +1623,14 @@
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274512?2024-01-19</guid>
+		</item>
+		<item>
+			<title>1100€ Villaverde</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274513</link>
+			<description>C/ Virgen de los Desamparado, 10,&lt;br/&gt;3º con ascensor,&lt;br/&gt;73m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274513</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>Villaverde</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274513?2024-01-19</guid>
 		</item>
 	</channel>
 </rss>
