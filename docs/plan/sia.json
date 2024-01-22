@@ -191,37 +191,6 @@
     ]
   },
   {
-    "id": 32011,
-    "publicado": "2024-01-02",
-    "modificado": "2024-01-15",
-    "direccion": "Calle Nicolas Usera 87",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "Moscard\u00f3",
-    "planta": 0,
-    "precio": 800,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/zaiYeB4.jpg?1",
-      "https://i.imgur.com/7Srgvme.jpg?2",
-      "https://i.imgur.com/UO0LvmY.jpg?3",
-      "https://i.imgur.com/5mLiBQg.jpg?4",
-      "https://i.imgur.com/kVlfeRv.jpg?5",
-      "https://i.imgur.com/hFc5Ry9.jpg?6",
-      "https://i.imgur.com/6ZeTFLk.jpg?7",
-      "https://i.imgur.com/wM9t7sf.jpg?8",
-      "https://i.imgur.com/diUc88o.jpg?9",
-      "https://i.imgur.com/HeovY6C.jpg?10",
-      "https://i.imgur.com/qWpVsr8.jpg?11",
-      "https://i.imgur.com/7SuqSI8.jpg?12"
-    ]
-  },
-  {
     "id": 32012,
     "publicado": "2024-01-09",
     "direccion": "Calle Cabestreros 17",
@@ -407,6 +376,31 @@
     ]
   },
   {
+    "id": 32022,
+    "publicado": "2024-01-22",
+    "direccion": "Calle Camarena 316",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Aluche",
+    "planta": 5,
+    "orientacion": "Exterior",
+    "precio": 870,
+    "dormitorios": 2,
+    "aseos": 1,
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/YyjxvdA.jpg?1",
+      "https://i.imgur.com/xluPVVY.jpg?2",
+      "https://i.imgur.com/RipQ4iP.jpg?3",
+      "https://i.imgur.com/xALLxGH.jpg?4",
+      "https://i.imgur.com/4rrChKM.jpg?5",
+      "https://i.imgur.com/lWbj7Vj.jpg?6",
+      "https://i.imgur.com/Txokdjj.jpg?7"
+    ]
+  },
+  {
     "id": 32023,
     "publicado": "2024-01-12",
     "modificado": "2024-01-16",
@@ -515,6 +509,39 @@
     ]
   },
   {
+    "id": 32028,
+    "publicado": "2024-01-22",
+    "direccion": "Calle Toledo 122",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Imperial",
+    "planta": 3,
+    "orientacion": "Interior",
+    "precio": 980,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/WaMZOVd.jpg?1",
+      "https://i.imgur.com/u7AC3DY.jpg?3",
+      "https://i.imgur.com/q6DZxpk.jpg?4",
+      "https://i.imgur.com/CcevYVn.jpg?5",
+      "https://i.imgur.com/VV8Xqm8.jpg?6",
+      "https://i.imgur.com/4d29cyY.jpg?7",
+      "https://i.imgur.com/ZZORRmW.jpg?8",
+      "https://i.imgur.com/V3nbh8e.jpg?9",
+      "https://i.imgur.com/2qfdlsb.jpg?10",
+      "https://i.imgur.com/07aPmts.jpg?11",
+      "https://i.imgur.com/MMM2H6y.jpg?12",
+      "https://i.imgur.com/OfimAmL.jpg?13",
+      "https://i.imgur.com/g8nvBgg.jpg?14",
+      "https://i.imgur.com/Gi552wY.jpg?15"
+    ]
+  },
+  {
     "id": 32029,
     "publicado": "2024-01-15",
     "modificado": "2024-01-17",
@@ -583,6 +610,7 @@
   {
     "id": 32034,
     "publicado": "2024-01-19",
+    "modificado": "2024-01-22",
     "direccion": "Calle Santa Rita 8",
     "municipio": "Madrid",
     "distrito": "Chamart\u00edn",
@@ -595,7 +623,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/9dwI6jE.jpg?2",
       "https://i.imgur.com/bTOv11W.jpg?3",
