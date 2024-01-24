@@ -2,7 +2,7 @@
   {
     "id": 31914,
     "publicado": "2023-09-14",
-    "modificado": "2023-12-13",
+    "modificado": "2024-01-24",
     "direccion": "Calle Doctor Esquerdo 150",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -15,7 +15,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": true,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/XkB3lXZ.jpg?1",
       "https://i.imgur.com/dTD8uwz.jpg?2",
@@ -162,6 +162,7 @@
   {
     "id": 32007,
     "publicado": "2024-01-09",
+    "modificado": "2024-01-24",
     "direccion": "Calle Llanos De Escudero 31",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -173,7 +174,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/nQeYIia.jpg?1",
       "https://i.imgur.com/QNo0eok.jpg?2",
@@ -404,8 +405,8 @@
   {
     "id": 32023,
     "publicado": "2024-01-12",
-    "modificado": "2024-01-16",
-    "direccion": "Acceso Oporto 91",
+    "modificado": "2024-01-24",
+    "direccion": "Avenida Oporto 91",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
     "barrio": "Opa\u00f1el",
@@ -578,12 +579,15 @@
       "https://i.imgur.com/wa8rF6c.jpg?12",
       "https://i.imgur.com/ELsYExu.jpg?13",
       "https://i.imgur.com/k9l6hMy.jpg?14",
-      "https://i.imgur.com/fCeLgYA.jpg?15"
+      "https://i.imgur.com/fCeLgYA.jpg?15",
+      "https://i.imgur.com/FYT8oyQ.jpg?16",
+      "https://i.imgur.com/RrdSIgq.jpg?17"
     ]
   },
   {
     "id": 32032,
     "publicado": "2024-01-18",
+    "modificado": "2024-01-24",
     "direccion": "Calle Lumbreras 3",
     "municipio": "Madrid",
     "distrito": "Vicalvaro",
@@ -596,7 +600,7 @@
     "cee": "D",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/UrlP6rL.jpg?2",
       "https://i.imgur.com/dfWpXsi.jpg?3",
