@@ -549,6 +549,7 @@
   {
     "id": 32030,
     "publicado": "2024-01-23",
+    "modificado": "2024-01-24",
     "direccion": "Avenida Aurora Boreal 24",
     "municipio": "Madrid",
     "distrito": "Vicalvaro",
@@ -559,7 +560,7 @@
     "dormitorios": 2,
     "aseos": 1,
     "cee": "D",
-    "ascensor": false,
+    "ascensor": true,
     "adaptada": false,
     "reservada": false,
     "imgs": [
