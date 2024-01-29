@@ -322,33 +322,6 @@
     ]
   },
   {
-    "id": 32021,
-    "publicado": "2024-01-12",
-    "modificado": "2024-01-15",
-    "direccion": "Calle Comandante Fontanes 40",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "San Isidro",
-    "planta": 0,
-    "orientacion": "Mixto",
-    "precio": 690,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/Fv3grwv.jpg?2",
-      "https://i.imgur.com/NGUqlbN.jpg?3",
-      "https://i.imgur.com/r8TGLT0.jpg?4",
-      "https://i.imgur.com/soxgplM.jpg?5",
-      "https://i.imgur.com/0vnyqfI.jpg?6",
-      "https://i.imgur.com/caEGMKf.jpg?7",
-      "https://i.imgur.com/VZSASy2.jpg?8"
-    ]
-  },
-  {
     "id": 32022,
     "publicado": "2024-01-22",
     "direccion": "Calle Camarena 316",
@@ -456,6 +429,7 @@
   {
     "id": 32028,
     "publicado": "2024-01-22",
+    "modificado": "2024-01-29",
     "direccion": "Calle Toledo 122",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -468,7 +442,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/WaMZOVd.jpg?1",
       "https://i.imgur.com/u7AC3DY.jpg?3",
