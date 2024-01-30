@@ -290,40 +290,9 @@
     ]
   },
   {
-    "id": 32018,
-    "publicado": "2024-01-10",
-    "modificado": "2024-01-11",
-    "direccion": "Calle Valmojado 145",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Aluche",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 800,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/0RHo63w.jpg?1",
-      "https://i.imgur.com/jzvwauB.jpg?2",
-      "https://i.imgur.com/VPpZz9t.jpg?3",
-      "https://i.imgur.com/HwZ1BpU.jpg?4",
-      "https://i.imgur.com/nVOiA8s.jpg?5",
-      "https://i.imgur.com/zXvJfQ1.jpg?6",
-      "https://i.imgur.com/bTQkKms.jpg?7",
-      "https://i.imgur.com/UfGcRtG.jpg?8",
-      "https://i.imgur.com/223TaeZ.jpg?9",
-      "https://i.imgur.com/8JF2apL.jpg?10",
-      "https://i.imgur.com/CbeoAB3.jpg?11",
-      "https://i.imgur.com/OJHSTZD.jpg?12"
-    ]
-  },
-  {
     "id": 32022,
     "publicado": "2024-01-22",
+    "modificado": "2024-01-30",
     "direccion": "Calle Camarena 316",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -335,7 +304,7 @@
     "aseos": 1,
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/YyjxvdA.jpg?1",
       "https://i.imgur.com/xluPVVY.jpg?2",
@@ -598,6 +567,7 @@
   {
     "id": 32038,
     "publicado": "2024-01-25",
+    "modificado": "2024-01-30",
     "direccion": "Calle Mariblanca 5",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -610,7 +580,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/DmmxRmr.jpg?2",
       "https://i.imgur.com/eG9eH9h.jpg?4",
