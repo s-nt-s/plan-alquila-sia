@@ -5520,5 +5520,28 @@
     "porteria": true,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 274540,
+    "publicado": "2024-01-30",
+    "direccion": "Calle Oca, 110",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "planta": 2,
+    "precio": 800,
+    "metros": 56.17,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]
