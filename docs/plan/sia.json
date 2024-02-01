@@ -378,33 +378,6 @@
     ]
   },
   {
-    "id": 32025,
-    "publicado": "2024-01-11",
-    "modificado": "2024-01-18",
-    "direccion": "Calle Enrique Moyano 7",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Comillas",
-    "planta": 1,
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/UWqorIj.jpg?1",
-      "https://i.imgur.com/CQlONkr.jpg?4",
-      "https://i.imgur.com/EzXhQnC.jpg?6",
-      "https://i.imgur.com/KfBKF9N.jpg?9",
-      "https://i.imgur.com/xpTO3MW.jpg?10",
-      "https://i.imgur.com/IDXA7Wg.jpg?11",
-      "https://i.imgur.com/2X3EKUg.jpg?12",
-      "https://i.imgur.com/wt8M0Uf.jpg?13"
-    ]
-  },
-  {
     "id": 32026,
     "publicado": "2024-01-16",
     "direccion": "Ronda Atocha 12",
@@ -496,43 +469,6 @@
       "https://i.imgur.com/khGyOho.jpg?10",
       "https://i.imgur.com/xRec9wJ.jpg?11",
       "https://i.imgur.com/LA4birI.jpg?12"
-    ]
-  },
-  {
-    "id": 32030,
-    "publicado": "2024-01-23",
-    "modificado": "2024-01-24",
-    "direccion": "Avenida Aurora Boreal 24",
-    "municipio": "Madrid",
-    "distrito": "Vicalvaro",
-    "barrio": "Casco Hist\u00f3rico de Vic\u00e1lvaro",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 890,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/y6wDp8K.jpg?1",
-      "https://i.imgur.com/GNKjAsQ.jpg?2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32030&idDoc=3",
-      "https://i.imgur.com/ZmhUzST.jpg?4",
-      "https://i.imgur.com/6nBdfJO.jpg?5",
-      "https://i.imgur.com/Zn9hEkL.jpg?6",
-      "https://i.imgur.com/DNIzHY6.jpg?7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32030&idDoc=8",
-      "https://i.imgur.com/vSSAUq1.jpg?9",
-      "https://i.imgur.com/q3QglCz.jpg?10",
-      "https://i.imgur.com/s8y0YmM.jpg?11",
-      "https://i.imgur.com/wa8rF6c.jpg?12",
-      "https://i.imgur.com/ELsYExu.jpg?13",
-      "https://i.imgur.com/k9l6hMy.jpg?14",
-      "https://i.imgur.com/fCeLgYA.jpg?15",
-      "https://i.imgur.com/FYT8oyQ.jpg?16",
-      "https://i.imgur.com/RrdSIgq.jpg?17"
     ]
   },
   {
