@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 01 Feb 2024 13:41:48 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 18:36:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -71,14 +71,6 @@
 			<pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
 			<category>Vicálvaro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/201156?2023-12-11</guid>
-		</item>
-		<item>
-			<title>900€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/201322</link>
-			<description>Trª Humanitarias, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/201322</description>
-			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/201322?2024-01-22</guid>
 		</item>
 		<item>
 			<title>590€ Belmonte de Tajo</title>
@@ -1647,6 +1639,14 @@
 			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Barajas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274544?2024-02-01</guid>
+		</item>
+		<item>
+			<title>904€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274545</link>
+			<description>C/ Tejo, 10,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;77m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274545</description>
+			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274545?2024-02-01</guid>
 		</item>
 	</channel>
 </rss>
