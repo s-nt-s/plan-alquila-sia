@@ -2,7 +2,7 @@
   {
     "id": 31914,
     "publicado": "2023-09-14",
-    "modificado": "2024-01-24",
+    "modificado": "2024-02-05",
     "direccion": "Calle Doctor Esquerdo 150",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -15,7 +15,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": true,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
       "https://i.imgur.com/XkB3lXZ.jpg?1",
       "https://i.imgur.com/dTD8uwz.jpg?2",
