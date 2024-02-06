@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 06 Feb 2024 13:38:18 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 06 Feb 2024 18:36:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -95,14 +95,6 @@
 			<pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
 			<category>San Sebastián de los Reyes</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/200173?2024-01-12</guid>
-		</item>
-		<item>
-			<title>590€ Belmonte de Tajo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/202126</link>
-			<description>C/ Escarchada, 18,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/202126</description>
-			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-			<category>Belmonte de Tajo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/202126?2024-01-29</guid>
 		</item>
 		<item>
 			<title>1000€ Villa de Vallecas</title>
@@ -489,14 +481,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270118?2024-01-10</guid>
 		</item>
 		<item>
-			<title>956€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270162</link>
-			<description>C/ José Luis Sampedro, 8,&lt;br/&gt;2º con ascensor,&lt;br/&gt;88m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/270162</description>
-			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270162?2024-01-18</guid>
-		</item>
-		<item>
 			<title>650€ Pinto</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270217</link>
 			<description>C/ Henares, 14,&lt;br/&gt;2º con ascensor,&lt;br/&gt;48m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/270217</description>
@@ -559,6 +543,14 @@
 			<pubDate>Fri, 05 May 2023 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271036?2023-05-05</guid>
+		</item>
+		<item>
+			<title>1350€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271047</link>
+			<description>C/ Olivar, 23,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;45m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/271047</description>
+			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271047?2024-02-06</guid>
 		</item>
 		<item>
 			<title>1600€ Fuencarral-El Pardo</title>
@@ -1555,7 +1547,7 @@
 		<item>
 			<title>1200€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274542</link>
-			<description>C/ Bocángel, 25,&lt;br/&gt;6º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274542</description>
+			<description>C/ Bocángel, 25,&lt;br/&gt;6º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274542</description>
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274542?2024-02-06</guid>
@@ -1639,6 +1631,14 @@
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274553?2024-02-06</guid>
+		</item>
+		<item>
+			<title>1400€ Chamberí</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274558</link>
+			<description>C/ María Panes, 12,&lt;br/&gt;4º con ascensor,&lt;br/&gt;43m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274558</description>
+			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+			<category>Chamberí</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274558?2024-02-06</guid>
 		</item>
 	</channel>
 </rss>
