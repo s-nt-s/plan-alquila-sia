@@ -487,6 +487,7 @@
   {
     "id": 32050,
     "publicado": "2024-02-08",
+    "modificado": "2024-02-12",
     "direccion": "Calle Gerardo Cordon 42",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -499,7 +500,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/hWKQ0zv.jpg?1",
       "https://i.imgur.com/iiKwOqF.jpg?2",
@@ -539,6 +540,7 @@
   {
     "id": 32053,
     "publicado": "2024-02-08",
+    "modificado": "2024-02-12",
     "direccion": "Avenida Moratalaz 80",
     "municipio": "Madrid",
     "distrito": "Moratalaz",
@@ -551,7 +553,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/lDBR3cb.jpg?1",
       "https://i.imgur.com/rLAKUuu.jpg?2",

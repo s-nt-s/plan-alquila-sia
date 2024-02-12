@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 12 Feb 2024 13:50:26 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 18:45:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -103,22 +103,6 @@
 			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32047?2024-02-08</guid>
-		</item>
-		<item>
-			<title>600€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32050</link>
-			<description>C/ Gerardo Cordon 42,&lt;br/&gt;2º con ascensor,&lt;br/&gt;1 🛏,&lt;br/&gt;1 🛀, 5 📷.&lt;br/&gt;sia/32050</description>
-			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32050?2024-02-08</guid>
-		</item>
-		<item>
-			<title>825€ Moratalaz</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32053</link>
-			<description>Av. Moratalaz 80,&lt;br/&gt;2º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 13 📷.&lt;br/&gt;sia/32053</description>
-			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-			<category>Moratalaz</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32053?2024-02-08</guid>
 		</item>
 		<item>
 			<title>1400€ Retiro</title>
@@ -415,14 +399,6 @@
 			<pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Vicálvaro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266250?2023-11-21</guid>
-		</item>
-		<item>
-			<title>1150€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266427</link>
-			<description>C/ Rafael Bergamín, 12,&lt;br/&gt;7º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/266427</description>
-			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266427?2024-02-12</guid>
 		</item>
 		<item>
 			<title>950€ Villa de Vallecas</title>
@@ -1321,12 +1297,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274495?2024-01-17</guid>
 		</item>
 		<item>
-			<title>1300€ Ciudad Lineal</title>
+			<title>1200€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274498</link>
 			<description>C/ Santa Genoveva, 52,&lt;br/&gt;1º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/274498</description>
-			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274498?2024-01-29</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274498?2024-02-12</guid>
 		</item>
 		<item>
 			<title>1100€ Tres Cantos</title>
