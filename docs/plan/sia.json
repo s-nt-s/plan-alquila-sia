@@ -353,6 +353,29 @@
     ]
   },
   {
+    "id": 32039,
+    "publicado": "2024-02-12",
+    "direccion": "Calle San Felipe Neri 1",
+    "municipio": "Madrid",
+    "distrito": "Centro",
+    "barrio": "Sol",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 1050,
+    "dormitorios": 1,
+    "aseos": 1,
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/usQIQlA.jpg?1",
+      "https://i.imgur.com/AAgEa8d.jpg?2",
+      "https://i.imgur.com/vyOmJOj.jpg?3",
+      "https://i.imgur.com/y7kGSWM.jpg?4",
+      "https://i.imgur.com/UTT3DBp.jpg?5"
+    ]
+  },
+  {
     "id": 32040,
     "publicado": "2024-02-06",
     "direccion": "Calle Via Lusitana 39",
@@ -543,6 +566,33 @@
       "https://i.imgur.com/GzyIjbP.jpg?11",
       "https://i.imgur.com/g5bLsej.jpg?12",
       "https://i.imgur.com/sxQyUV9.jpg?13"
+    ]
+  },
+  {
+    "id": 32055,
+    "publicado": "2024-02-12",
+    "direccion": "Calle Doctor Castelo 4",
+    "municipio": "Madrid",
+    "distrito": "Retiro",
+    "barrio": "Ibiza",
+    "planta": 6,
+    "orientacion": "Mixto",
+    "precio": 1400,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/86gDJqK.jpg?9",
+      "https://i.imgur.com/7KtEzmj.jpg?10",
+      "https://i.imgur.com/vseHRLf.jpg?11",
+      "https://i.imgur.com/KDBWrI8.jpg?12",
+      "https://i.imgur.com/8CX2zkd.jpg?13",
+      "https://i.imgur.com/zxCYKfV.jpg?14",
+      "https://i.imgur.com/32Ub0CF.jpg?15",
+      "https://i.imgur.com/WvUpDpo.jpg?16"
     ]
   }
 ]
