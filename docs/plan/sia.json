@@ -355,6 +355,7 @@
   {
     "id": 32039,
     "publicado": "2024-02-12",
+    "modificado": "2024-02-13",
     "direccion": "Calle San Felipe Neri 1",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -364,6 +365,7 @@
     "precio": 1050,
     "dormitorios": 1,
     "aseos": 1,
+    "cee": "E",
     "ascensor": true,
     "adaptada": false,
     "reservada": false,
