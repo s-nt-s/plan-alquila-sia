@@ -425,6 +425,7 @@
   {
     "id": 32046,
     "publicado": "2024-02-06",
+    "modificado": "2024-02-13",
     "direccion": "Travesia Felipe De Diego 53",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -437,7 +438,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/dj3Jt9o.jpg?2",
       "https://i.imgur.com/aNTcESJ.jpg?3",
