@@ -206,7 +206,7 @@
   {
     "id": 32022,
     "publicado": "2024-01-22",
-    "modificado": "2024-01-30",
+    "modificado": "2024-02-14",
     "direccion": "Calle Camarena 316",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -216,6 +216,7 @@
     "precio": 870,
     "dormitorios": 2,
     "aseos": 1,
+    "cee": "E",
     "ascensor": true,
     "adaptada": false,
     "reservada": true,
