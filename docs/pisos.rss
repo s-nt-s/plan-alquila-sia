@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 14 Feb 2024 13:42:01 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 18:45:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1201,14 +1201,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274453?2024-01-17</guid>
 		</item>
 		<item>
-			<title>900€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274466</link>
-			<description>C/ La Bañeza, 24,&lt;br/&gt;8º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274466</description>
-			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274466?2024-01-29</guid>
-		</item>
-		<item>
 			<title>1200€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274470</link>
 			<description>C/ Escalonilla, 30,&lt;br/&gt;1º con ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/274470</description>
@@ -1679,6 +1671,14 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274577?2024-02-13</guid>
+		</item>
+		<item>
+			<title>716€ Alcorcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274578</link>
+			<description>C/ Mestizaje, 2,&lt;br/&gt;2º con ascensor,&lt;br/&gt;80m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274578</description>
+			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+			<category>Alcorcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274578?2024-02-14</guid>
 		</item>
 	</channel>
 </rss>
