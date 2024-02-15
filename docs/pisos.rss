@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 15 Feb 2024 13:41:55 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 18:47:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -263,14 +263,6 @@
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/245967?2024-02-07</guid>
-		</item>
-		<item>
-			<title>1200€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/248054</link>
-			<description>Av. Brasil, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;47m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/248054</description>
-			<pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/248054?2023-09-25</guid>
 		</item>
 		<item>
 			<title>950€ Coslada</title>
@@ -1273,6 +1265,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274516?2024-01-24</guid>
 		</item>
 		<item>
+			<title>1080€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274520</link>
+			<description>C/ Ocaña, 20,&lt;br/&gt;6º con ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274520</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274520?2024-01-24</guid>
+		</item>
+		<item>
 			<title>950€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274524</link>
 			<description>C/ José Arcones Gil, 74,&lt;br/&gt;3º con ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274524</description>
@@ -1591,6 +1591,14 @@
 			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Alcorcón</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274578?2024-02-14</guid>
+		</item>
+		<item>
+			<title>1700€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274580</link>
+			<description>C/ Santa María, 20,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;74m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274580</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274580?2024-02-15</guid>
 		</item>
 		<item>
 			<title>768€ Ciudad Lineal</title>
