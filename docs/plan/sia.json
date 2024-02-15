@@ -435,7 +435,7 @@
   {
     "id": 32047,
     "publicado": "2024-02-06",
-    "modificado": "2024-02-08",
+    "modificado": "2024-02-15",
     "direccion": "Plaza De Las Promesas 10",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -448,7 +448,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/RItrwuZ.jpg?1",
       "https://i.imgur.com/77q5XJ5.jpg?2",
@@ -484,34 +484,6 @@
       "https://i.imgur.com/Sx72uye.jpg?3",
       "https://i.imgur.com/37Ep3Hf.jpg?4",
       "https://i.imgur.com/mMtGpXe.jpg?5"
-    ]
-  },
-  {
-    "id": 32051,
-    "publicado": "2024-02-07",
-    "modificado": "2024-02-08",
-    "direccion": "Calle Esperanza 4",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Embajadores",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 1250,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/jHZnio3.jpg?1",
-      "https://i.imgur.com/nXSMy5n.jpg?2",
-      "https://i.imgur.com/R9A0391.jpg?3",
-      "https://i.imgur.com/CyeEKNY.jpg?4",
-      "https://i.imgur.com/NSQr8SQ.jpg?5",
-      "https://i.imgur.com/0naHvni.jpg?6",
-      "https://i.imgur.com/3PXTna1.jpg?7",
-      "https://i.imgur.com/6VphJrz.jpg?8"
     ]
   },
   {
@@ -573,6 +545,30 @@
       "https://i.imgur.com/zxCYKfV.jpg?14",
       "https://i.imgur.com/32Ub0CF.jpg?15",
       "https://i.imgur.com/WvUpDpo.jpg?16"
+    ]
+  },
+  {
+    "id": 32058,
+    "publicado": "2024-02-15",
+    "direccion": "Avenida La Gavia 92",
+    "municipio": "Madrid",
+    "distrito": "Villa de Vallecas",
+    "barrio": "Ensanche de Vallecas",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 580,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": true,
+    "adaptada": true,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/eLzlQVD.jpg?4",
+      "https://i.imgur.com/KH8l1Xo.jpg?7",
+      "https://i.imgur.com/wOT7kXj.jpg?8",
+      "https://i.imgur.com/2888WWs.jpg?9",
+      "https://i.imgur.com/JBM4E16.jpg?10"
     ]
   }
 ]
