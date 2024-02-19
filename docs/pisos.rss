@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 19 Feb 2024 13:40:16 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2024 18:42:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -223,6 +223,14 @@
 			<pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/234062?2023-09-12</guid>
+		</item>
+		<item>
+			<title>500€ Valdemoro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/234643</link>
+			<description>C/ Trigo, 16,&lt;br/&gt;1º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/234643</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>Valdemoro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/234643?2024-02-19</guid>
 		</item>
 		<item>
 			<title>875€ Rozas de Madrid, Las</title>
@@ -1313,12 +1321,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274534?2024-02-14</guid>
 		</item>
 		<item>
-			<title>1050€ Hortaleza</title>
+			<title>1100€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274535</link>
 			<description>C/ Azagra, 10,&lt;br/&gt;5º con ascensor,&lt;br/&gt;65m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274535</description>
-			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274535?2024-02-01</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274535?2024-02-19</guid>
 		</item>
 		<item>
 			<title>1200€ San Blas-Canillejas</title>
