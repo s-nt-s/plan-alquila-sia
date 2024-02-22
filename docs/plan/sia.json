@@ -298,6 +298,7 @@
   {
     "id": 32036,
     "publicado": "2024-02-20",
+    "modificado": "2024-02-22",
     "direccion": "Calle Ichaso 5",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -310,7 +311,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": true,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/xWeHWiu.jpeg?2",
       "https://i.imgur.com/Cy06TaE.jpeg?3",
@@ -327,31 +328,6 @@
       "https://i.imgur.com/wXNHae4.jpeg?16",
       "https://i.imgur.com/s4BT0GP.jpeg?17",
       "https://i.imgur.com/zEc3YAw.jpeg?18"
-    ]
-  },
-  {
-    "id": 32039,
-    "publicado": "2024-02-12",
-    "modificado": "2024-02-13",
-    "direccion": "Calle San Felipe Neri 1",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Sol",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 1050,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/usQIQlA.jpg?1",
-      "https://i.imgur.com/AAgEa8d.jpg?2",
-      "https://i.imgur.com/vyOmJOj.jpg?3",
-      "https://i.imgur.com/y7kGSWM.jpg?4",
-      "https://i.imgur.com/UTT3DBp.jpg?5"
     ]
   },
   {
@@ -487,6 +463,7 @@
   {
     "id": 32049,
     "publicado": "2024-02-16",
+    "modificado": "2024-02-22",
     "direccion": "Calle Antonio Lopez 57",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -499,7 +476,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/NWssN5Q.jpg?2",
       "https://i.imgur.com/SCeisyl.jpg?3",
@@ -515,31 +492,6 @@
       "https://i.imgur.com/JcMyB90.jpg?13",
       "https://i.imgur.com/o3KXN9F.jpg?14",
       "https://i.imgur.com/KCXcTVd.jpg?15"
-    ]
-  },
-  {
-    "id": 32050,
-    "publicado": "2024-02-08",
-    "modificado": "2024-02-12",
-    "direccion": "Calle Gerardo Cordon 42",
-    "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "barrio": "Ventas",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 600,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/hWKQ0zv.jpg?1",
-      "https://i.imgur.com/iiKwOqF.jpg?2",
-      "https://i.imgur.com/Sx72uye.jpg?3",
-      "https://i.imgur.com/37Ep3Hf.jpg?4",
-      "https://i.imgur.com/mMtGpXe.jpg?5"
     ]
   },
   {
@@ -640,6 +592,7 @@
   {
     "id": 32056,
     "publicado": "2024-02-16",
+    "modificado": "2024-02-22",
     "direccion": "Calle Hernan Cortes 17",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -652,7 +605,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Q49s1g3.jpg?1",
       "https://i.imgur.com/BQRDCIu.jpg?2",
@@ -669,31 +622,6 @@
       "https://i.imgur.com/y7b4XfO.jpg?13",
       "https://i.imgur.com/hlYEsTM.jpg?14",
       "https://i.imgur.com/MbCg13I.jpg?15"
-    ]
-  },
-  {
-    "id": 32058,
-    "publicado": "2024-02-15",
-    "modificado": "2024-02-20",
-    "direccion": "Avenida La Gavia 92",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Ensanche de Vallecas",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 580,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": true,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/eLzlQVD.jpg?4",
-      "https://i.imgur.com/KH8l1Xo.jpg?7",
-      "https://i.imgur.com/wOT7kXj.jpg?8",
-      "https://i.imgur.com/2888WWs.jpg?9",
-      "https://i.imgur.com/JBM4E16.jpg?10"
     ]
   }
 ]
