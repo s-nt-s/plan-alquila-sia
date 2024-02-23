@@ -433,6 +433,7 @@
   {
     "id": 32048,
     "publicado": "2024-02-20",
+    "modificado": "2024-02-23",
     "direccion": "Acceso Gil Imon 6",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -445,7 +446,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/x4euo3Z.jpeg?1",
       "https://i.imgur.com/BvUJqB6.jpeg?2",
