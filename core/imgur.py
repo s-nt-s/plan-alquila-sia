@@ -3,6 +3,7 @@ import os
 import logging
 from base64 import standard_b64encode
 from functools import cache
+from requests.exceptions import JSONDecodeError
 
 
 logger = logging.getLogger(__name__)
@@ -68,7 +69,10 @@ class ImgUr:
         if not r.text:
             raise ImgUrlException("Not json response")
 
-        js = r.json()
+        try:
+            js = r.json()
+        except JSONDecodeError:
+            raise ImgUrlException("Not json response: "+r.text)
 
         error = get(js, 'data', 'error', 'message')
         if error:
