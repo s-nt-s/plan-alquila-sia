@@ -4818,5 +4818,28 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 274618,
+    "publicado": "2024-02-27",
+    "direccion": "Calle Antonio Zapata, 4",
+    "municipio": "Madrid",
+    "distrito": "Chamart\u00edn",
+    "planta": 0,
+    "precio": 1200,
+    "metros": 49.8,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": true,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]
