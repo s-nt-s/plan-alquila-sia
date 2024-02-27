@@ -315,6 +315,7 @@
   {
     "id": 32042,
     "publicado": "2024-02-21",
+    "modificado": "2024-02-27",
     "direccion": "Calle La Del Manojo De Rosas 90",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -326,7 +327,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/cjqFiMR.jpeg?1",
       "https://i.imgur.com/fzebOmO.jpeg?2",
@@ -361,35 +362,6 @@
       "https://i.imgur.com/iF5Sike.jpg?4",
       "https://i.imgur.com/n4uFOHp.jpg?5",
       "https://i.imgur.com/2HFUl7H.jpg?6"
-    ]
-  },
-  {
-    "id": 32047,
-    "publicado": "2024-02-06",
-    "modificado": "2024-02-15",
-    "direccion": "Plaza De Las Promesas 10",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "Orcasitas",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 860,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/RItrwuZ.jpg?1",
-      "https://i.imgur.com/77q5XJ5.jpg?2",
-      "https://i.imgur.com/XqYs2cq.jpg?3",
-      "https://i.imgur.com/GE6HZuc.jpg?4",
-      "https://i.imgur.com/3AtjAd6.jpg?5",
-      "https://i.imgur.com/L38J4mR.jpg?6",
-      "https://i.imgur.com/YXmb63k.jpg?7",
-      "https://i.imgur.com/rePV1SJ.jpg?8",
-      "https://i.imgur.com/17UdDEI.jpg?9"
     ]
   },
   {
@@ -460,6 +432,7 @@
   {
     "id": 32052,
     "publicado": "2024-02-20",
+    "modificado": "2024-02-27",
     "direccion": "Calle Mojacar 22",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -472,7 +445,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/cquXdNx.jpeg?1",
       "https://i.imgur.com/BK9y4Eh.jpeg?2",
