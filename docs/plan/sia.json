@@ -610,5 +610,30 @@
       "https://i.imgur.com/9wHCDak.jpeg?7",
       "https://i.imgur.com/pHBOacl.jpeg?8"
     ]
+  },
+  {
+    "id": 32064,
+    "publicado": "2024-02-28",
+    "direccion": "Calle Aguilar Del Rio 4",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Buenavista",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 850,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/lGGSZOv.jpeg?2",
+      "https://i.imgur.com/kgLQfJF.jpeg?3",
+      "https://i.imgur.com/iflbNPJ.jpeg?4",
+      "https://i.imgur.com/fTChH1c.jpeg?5",
+      "https://i.imgur.com/U8jWkWg.jpeg?6",
+      "https://i.imgur.com/S13lHk3.jpeg?7"
+    ]
   }
 ]
