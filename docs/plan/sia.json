@@ -168,7 +168,7 @@
   {
     "id": 32022,
     "publicado": "2024-01-22",
-    "modificado": "2024-02-14",
+    "modificado": "2024-02-28",
     "direccion": "Calle Camarena 316",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -181,7 +181,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
       "https://i.imgur.com/YyjxvdA.jpg?1",
       "https://i.imgur.com/xluPVVY.jpg?2",
@@ -340,6 +340,35 @@
     ]
   },
   {
+    "id": 32043,
+    "publicado": "2024-02-28",
+    "direccion": "Calle Doctor Zofio 15",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "San Isidro",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 800,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/fXxMM9z.jpeg?1",
+      "https://i.imgur.com/38a5rcG.jpeg?3",
+      "https://i.imgur.com/uJl6NLu.jpeg?4",
+      "https://i.imgur.com/xswMrwN.jpeg?5",
+      "https://i.imgur.com/vbNpFtv.jpeg?6",
+      "https://i.imgur.com/494QN1L.jpeg?7",
+      "https://i.imgur.com/ZqKI9wl.jpeg?8",
+      "https://i.imgur.com/mDOUpyF.jpeg?10",
+      "https://i.imgur.com/DCeuYVI.jpeg?11",
+      "https://i.imgur.com/5r0s23B.jpeg?12"
+    ]
+  },
+  {
     "id": 32045,
     "publicado": "2024-02-08",
     "direccion": "Calle Santa Barbara 6",
@@ -367,8 +396,8 @@
   {
     "id": 32048,
     "publicado": "2024-02-20",
-    "modificado": "2024-02-23",
-    "direccion": "Acceso Gil Imon 6",
+    "modificado": "2024-02-28",
+    "direccion": "Calle Gil Imon 6",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
     "barrio": "Imperial",
@@ -500,6 +529,33 @@
     ]
   },
   {
+    "id": 32059,
+    "publicado": "2024-02-28",
+    "direccion": "Calle Mariblanca 29",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "barrio": "Moscard\u00f3",
+    "planta": 0,
+    "orientacion": "Mixto",
+    "precio": 700,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/BRxP7bT.jpeg?3",
+      "https://i.imgur.com/GauX9rQ.jpeg?4",
+      "https://i.imgur.com/1UbUL42.jpeg?5",
+      "https://i.imgur.com/dGXyf88.jpeg?6",
+      "https://i.imgur.com/VWNOMmb.jpeg?7",
+      "https://i.imgur.com/49WbR7B.jpeg?8",
+      "https://i.imgur.com/Wgkx9pC.jpeg?9",
+      "https://i.imgur.com/28I72DM.jpeg?10"
+    ]
+  },
+  {
     "id": 32061,
     "publicado": "2024-02-26",
     "direccion": "Calle Vi\u00f1egra 3",
@@ -528,6 +584,31 @@
       "https://i.imgur.com/tqoLK3N.jpeg?12",
       "https://i.imgur.com/en6BDuo.jpeg?14",
       "https://i.imgur.com/569mauy.jpeg?15"
+    ]
+  },
+  {
+    "id": 32062,
+    "publicado": "2024-02-28",
+    "direccion": "Calle General Ricardos 218",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Vista Alegre",
+    "planta": 4,
+    "precio": 825,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/4QKUy3b.jpeg?2",
+      "https://i.imgur.com/23MOYpL.jpeg?3",
+      "https://i.imgur.com/YJSOqKb.jpeg?4",
+      "https://i.imgur.com/xlQ12rf.jpeg?5",
+      "https://i.imgur.com/J3y5Crk.jpeg?6",
+      "https://i.imgur.com/9wHCDak.jpeg?7",
+      "https://i.imgur.com/pHBOacl.jpeg?8"
     ]
   }
 ]
