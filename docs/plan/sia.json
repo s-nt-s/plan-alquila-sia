@@ -295,6 +295,7 @@
   {
     "id": 32040,
     "publicado": "2024-02-06",
+    "modificado": "2024-02-29",
     "direccion": "Calle Via Lusitana 39",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -309,7 +310,21 @@
     "adaptada": false,
     "reservada": false,
     "imgs": [
-      "https://i.imgur.com/y1XjKtI.jpg?1"
+      "https://i.imgur.com/wPD9r3x.jpeg?2",
+      "https://i.imgur.com/a62KhCk.jpeg?3",
+      "https://i.imgur.com/qYg2dMr.jpeg?4",
+      "https://i.imgur.com/f5Y1fXU.jpeg?5",
+      "https://i.imgur.com/g7acszd.jpeg?6",
+      "https://i.imgur.com/Y7Z1zTn.jpeg?7",
+      "https://i.imgur.com/sfEef83.jpeg?8",
+      "https://i.imgur.com/oBUOB3h.jpeg?9",
+      "https://i.imgur.com/xP0PWwN.jpeg?10",
+      "https://i.imgur.com/FI1k0DL.jpeg?11",
+      "https://i.imgur.com/qcrqnLe.jpeg?12",
+      "https://i.imgur.com/QKrI5jG.jpeg?13",
+      "https://i.imgur.com/Fo3RpEy.jpeg?14",
+      "https://i.imgur.com/UIfSfR6.jpeg?15",
+      "https://i.imgur.com/uDRHyUo.jpeg?16"
     ]
   },
   {
@@ -391,37 +406,6 @@
       "https://i.imgur.com/iF5Sike.jpg?4",
       "https://i.imgur.com/n4uFOHp.jpg?5",
       "https://i.imgur.com/2HFUl7H.jpg?6"
-    ]
-  },
-  {
-    "id": 32048,
-    "publicado": "2024-02-20",
-    "modificado": "2024-02-28",
-    "direccion": "Calle Gil Imon 6",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Imperial",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 950,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/x4euo3Z.jpeg?1",
-      "https://i.imgur.com/BvUJqB6.jpeg?2",
-      "https://i.imgur.com/8bamCkm.jpeg?3",
-      "https://i.imgur.com/rmDV9tY.jpeg?4",
-      "https://i.imgur.com/mD6XeRV.jpeg?5",
-      "https://i.imgur.com/L1fAEA9.jpeg?6",
-      "https://i.imgur.com/MbwNAZo.jpeg?7",
-      "https://i.imgur.com/qZjqG8r.jpeg?8",
-      "https://i.imgur.com/4lhr4tp.jpeg?9",
-      "https://i.imgur.com/xCKHpHL.jpeg?10",
-      "https://i.imgur.com/d5Whc08.jpeg?11"
     ]
   },
   {
@@ -558,6 +542,7 @@
   {
     "id": 32061,
     "publicado": "2024-02-26",
+    "modificado": "2024-02-29",
     "direccion": "Calle Vi\u00f1egra 3",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -570,7 +555,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32061&idDoc=3",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32061&idDoc=4",
@@ -634,6 +619,34 @@
       "https://i.imgur.com/fTChH1c.jpeg?5",
       "https://i.imgur.com/U8jWkWg.jpeg?6",
       "https://i.imgur.com/S13lHk3.jpeg?7"
+    ]
+  },
+  {
+    "id": 32067,
+    "publicado": "2024-02-29",
+    "direccion": "Calle Embajadores 190",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Legazpi",
+    "planta": 2,
+    "orientacion": "Interior",
+    "precio": 780,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/voDjgl9.jpeg?1",
+      "https://i.imgur.com/EZkiBbz.jpeg?2",
+      "https://i.imgur.com/yWsdIZO.jpeg?3",
+      "https://i.imgur.com/v50FzRW.jpeg?4",
+      "https://i.imgur.com/zVfrfHE.jpeg?5",
+      "https://i.imgur.com/KiqgD4n.jpeg?6",
+      "https://i.imgur.com/gz3xq5u.jpeg?7",
+      "https://i.imgur.com/QGYO3NB.jpeg?8",
+      "https://i.imgur.com/6aIzcrV.jpeg?9"
     ]
   }
 ]
