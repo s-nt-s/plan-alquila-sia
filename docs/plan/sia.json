@@ -529,6 +529,7 @@
   {
     "id": 32064,
     "publicado": "2024-02-28",
+    "modificado": "2024-03-04",
     "direccion": "Calle Aguilar Del Rio 4",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -541,7 +542,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/lGGSZOv.jpeg?2",
       "https://i.imgur.com/kgLQfJF.jpeg?3",
