@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 05 Mar 2024 13:40:45 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2024 18:43:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,10 +179,10 @@
 		<item>
 			<title>875€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/220095</link>
-			<description>C/ Alameda del Valle, 36,&lt;br/&gt;5º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/220095</description>
-			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<description>C/ Alameda del Valle, 36,&lt;br/&gt;5º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/220095</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/220095?2024-03-04</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/220095?2024-03-05</guid>
 		</item>
 		<item>
 			<title>820€ Puente de Vallecas</title>
@@ -449,14 +449,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268693?2024-02-09</guid>
 		</item>
 		<item>
-			<title>997€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268994</link>
-			<description>Av. La Gavia, 70,&lt;br/&gt;3º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/268994</description>
-			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268994?2024-02-20</guid>
-		</item>
-		<item>
 			<title>1300€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269236</link>
 			<description>Av. Monforte de Lemos, 168,&lt;br/&gt;3º con ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/269236</description>
@@ -479,14 +471,6 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269515?2024-01-08</guid>
-		</item>
-		<item>
-			<title>670.77€ Barajas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270098</link>
-			<description>C/ Alar del Rey, 66,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270098</description>
-			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-			<category>Barajas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270098?2024-03-04</guid>
 		</item>
 		<item>
 			<title>650€ Pinto</title>
@@ -1097,14 +1081,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274498?2024-02-16</guid>
 		</item>
 		<item>
-			<title>790€ Molar, El</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274505</link>
-			<description>C/ Cerezo, 6,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;51m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/274505</description>
-			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-			<category>Molar, El</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274505?2024-01-25</guid>
-		</item>
-		<item>
 			<title>1200€ Villaverde</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274513</link>
 			<description>C/ Virgen de los Desamparado, 10,&lt;br/&gt;3º con ascensor,&lt;br/&gt;73m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/274513</description>
@@ -1351,14 +1327,6 @@
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Vicálvaro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274599?2024-03-05</guid>
-		</item>
-		<item>
-			<title>890€ Valdemoro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274601</link>
-			<description>C/ Dalí, 7,&lt;br/&gt;1º con ascensor,&lt;br/&gt;71m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274601</description>
-			<pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-			<category>Valdemoro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274601?2024-02-22</guid>
 		</item>
 		<item>
 			<title>850€ Tetuán</title>
