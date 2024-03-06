@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 06 Mar 2024 14:01:32 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 06 Mar 2024 18:42:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1457,6 +1457,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274632?2024-03-01</guid>
 		</item>
 		<item>
+			<title>1207€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274633</link>
+			<description>C/ Mario Moreno &quot;Cantinflas&quot;, 58,&lt;br/&gt;2º con ascensor,&lt;br/&gt;82m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274633</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274633?2024-03-06</guid>
+		</item>
+		<item>
 			<title>950€ Villaverde</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274636</link>
 			<description>C/ Pan y Toros, 62,&lt;br/&gt;6º con ascensor,&lt;br/&gt;63m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274636</description>
@@ -1551,6 +1559,14 @@
 			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274650?2024-03-06</guid>
+		</item>
+		<item>
+			<title>750€ Collado Villalba</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274651</link>
+			<description>Pl. Cuatro Caños, 4,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;72m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274651</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>Collado Villalba</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274651?2024-03-06</guid>
 		</item>
 	</channel>
 </rss>
