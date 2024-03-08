@@ -168,7 +168,7 @@
   {
     "id": 32022,
     "publicado": "2024-01-22",
-    "modificado": "2024-02-28",
+    "modificado": "2024-03-08",
     "direccion": "Calle Camarena 316",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -181,7 +181,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/YyjxvdA.jpg?1",
       "https://i.imgur.com/xluPVVY.jpg?2",
@@ -287,6 +287,7 @@
   {
     "id": 32043,
     "publicado": "2024-02-28",
+    "modificado": "2024-03-08",
     "direccion": "Calle Doctor Zofio 15",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -299,7 +300,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/fXxMM9z.jpeg?1",
       "https://i.imgur.com/38a5rcG.jpeg?3",
@@ -311,31 +312,6 @@
       "https://i.imgur.com/mDOUpyF.jpeg?10",
       "https://i.imgur.com/DCeuYVI.jpeg?11",
       "https://i.imgur.com/5r0s23B.jpeg?12"
-    ]
-  },
-  {
-    "id": 32045,
-    "publicado": "2024-02-08",
-    "direccion": "Calle Santa Barbara 6",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Justicia",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 800,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/nORyv4X.jpg?1",
-      "https://i.imgur.com/hpdBRo5.jpg?2",
-      "https://i.imgur.com/rrSNIum.jpg?3",
-      "https://i.imgur.com/iF5Sike.jpg?4",
-      "https://i.imgur.com/n4uFOHp.jpg?5",
-      "https://i.imgur.com/2HFUl7H.jpg?6"
     ]
   },
   {
@@ -437,7 +413,7 @@
   {
     "id": 32062,
     "publicado": "2024-02-28",
-    "modificado": "2024-03-06",
+    "modificado": "2024-03-08",
     "direccion": "Calle General Ricardos 218",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -449,7 +425,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/4QKUy3b.jpeg?2",
       "https://i.imgur.com/23MOYpL.jpeg?3",
@@ -500,6 +476,7 @@
   {
     "id": 32066,
     "publicado": "2024-03-01",
+    "modificado": "2024-03-08",
     "direccion": "Calle Puerto De Arlaban 20",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -512,7 +489,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/oxXzLIN.jpeg?2",
       "https://i.imgur.com/4DoPslw.jpeg?3",
@@ -533,6 +510,7 @@
   {
     "id": 32067,
     "publicado": "2024-02-29",
+    "modificado": "2024-03-08",
     "direccion": "Calle Embajadores 190",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -545,7 +523,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/voDjgl9.jpeg?1",
       "https://i.imgur.com/EZkiBbz.jpeg?2",
