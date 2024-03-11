@@ -386,6 +386,7 @@
   {
     "id": 32059,
     "publicado": "2024-02-28",
+    "modificado": "2024-03-11",
     "direccion": "Calle Mariblanca 29",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -398,7 +399,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/BRxP7bT.jpeg?3",
       "https://i.imgur.com/GauX9rQ.jpeg?4",
