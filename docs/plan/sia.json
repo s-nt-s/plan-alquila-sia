@@ -195,6 +195,7 @@
   {
     "id": 32024,
     "publicado": "2024-02-08",
+    "modificado": "2024-03-13",
     "direccion": "Calle Cerro Negro 12",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -207,7 +208,7 @@
     "cee": "C",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/9yJKIPM.jpg?1",
       "https://i.imgur.com/MJvxVK7.jpg?2",
@@ -315,40 +316,6 @@
     ]
   },
   {
-    "id": 32049,
-    "publicado": "2024-02-16",
-    "modificado": "2024-02-27",
-    "direccion": "Calle Antonio Lopez 57",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Comillas",
-    "planta": 6,
-    "orientacion": "Mixto",
-    "precio": 1350,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/NWssN5Q.jpg?2",
-      "https://i.imgur.com/SCeisyl.jpg?3",
-      "https://i.imgur.com/OtG5coI.jpg?4",
-      "https://i.imgur.com/inO7vtu.jpg?5",
-      "https://i.imgur.com/uS6yWUn.jpg?6",
-      "https://i.imgur.com/943541w.jpg?7",
-      "https://i.imgur.com/bvKnCds.jpg?8",
-      "https://i.imgur.com/V17lz4A.jpg?9",
-      "https://i.imgur.com/BiJuCyZ.jpg?10",
-      "https://i.imgur.com/gXlZoHt.jpg?11",
-      "https://i.imgur.com/vP4FHrz.jpg?12",
-      "https://i.imgur.com/JcMyB90.jpg?13",
-      "https://i.imgur.com/o3KXN9F.jpg?14",
-      "https://i.imgur.com/KCXcTVd.jpg?15"
-    ]
-  },
-  {
     "id": 32052,
     "publicado": "2024-02-20",
     "modificado": "2024-02-27",
@@ -409,6 +376,34 @@
       "https://i.imgur.com/49WbR7B.jpeg?8",
       "https://i.imgur.com/Wgkx9pC.jpeg?9",
       "https://i.imgur.com/28I72DM.jpeg?10"
+    ]
+  },
+  {
+    "id": 32060,
+    "publicado": "2024-03-13",
+    "direccion": "Calle Parra 21",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Puerta Bonita",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 530,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/fR1anHo.jpeg?5",
+      "https://i.imgur.com/wOoBe51.jpeg?9",
+      "https://i.imgur.com/EPPfJGD.jpeg?10",
+      "https://i.imgur.com/Y4hnaau.jpeg?11",
+      "https://i.imgur.com/Gkx9uv0.jpeg?12",
+      "https://i.imgur.com/0NTTM0w.jpeg?13",
+      "https://i.imgur.com/7vF0CC3.jpeg?14",
+      "https://i.imgur.com/UKclhDp.jpeg?15",
+      "https://i.imgur.com/MsY9x6q.jpeg?16"
     ]
   },
   {
