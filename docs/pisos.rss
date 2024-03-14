@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 14 Mar 2024 13:41:45 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 14 Mar 2024 18:43:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1153,14 +1153,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274564?2024-02-09</guid>
 		</item>
 		<item>
-			<title>1100€ San Blas-Canillejas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274565</link>
-			<description>C/ Alcalá, 444,&lt;br/&gt;4º con ascensor,&lt;br/&gt;44m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/274565</description>
-			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-			<category>San Blas-Canillejas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274565?2024-02-08</guid>
-		</item>
-		<item>
 			<title>1600€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274566</link>
 			<description>C/ Goiri, 1,&lt;br/&gt;2º con ascensor,&lt;br/&gt;66m², 3 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;alq/274566</description>
@@ -1369,14 +1361,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274642?2024-03-06</guid>
 		</item>
 		<item>
-			<title>900€ Coslada</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274643</link>
-			<description>Av. José Hierro, 3,&lt;br/&gt;4º con ascensor,&lt;br/&gt;64m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274643</description>
-			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-			<category>Coslada</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274643?2024-03-07</guid>
-		</item>
-		<item>
 			<title>1400€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274644</link>
 			<description>C/ Emigrantes, 10,&lt;br/&gt;8º con ascensor,&lt;br/&gt;139m², 4 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/274644</description>
@@ -1519,6 +1503,22 @@
 			<pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274664?2024-03-11</guid>
+		</item>
+		<item>
+			<title>1150€ Getafe</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274669</link>
+			<description>Av. Francisco Largo Caballero, 7,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;84m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274669</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>Getafe</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274669?2024-03-14</guid>
+		</item>
+		<item>
+			<title>931€ Colmenar Viejo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274671</link>
+			<description>C/ Miguel Corral Aragón, 12,&lt;br/&gt;2º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274671</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>Colmenar Viejo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274671?2024-03-14</guid>
 		</item>
 	</channel>
 </rss>
