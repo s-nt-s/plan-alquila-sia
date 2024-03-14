@@ -381,6 +381,7 @@
   {
     "id": 32060,
     "publicado": "2024-03-13",
+    "modificado": "2024-03-14",
     "direccion": "Calle Parra 21",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -393,7 +394,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/fR1anHo.jpeg?5",
       "https://i.imgur.com/wOoBe51.jpeg?9",
@@ -446,6 +447,7 @@
   {
     "id": 32063,
     "publicado": "2024-03-12",
+    "modificado": "2024-03-14",
     "direccion": "Calle Alanis 1",
     "municipio": "Madrid",
     "distrito": "Barajas",
@@ -458,7 +460,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/lcLB2W3.jpeg?1",
       "https://i.imgur.com/tK1xIfL.jpeg?2",
