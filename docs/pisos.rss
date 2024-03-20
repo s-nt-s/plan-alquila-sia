@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 20 Mar 2024 13:45:24 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 20 Mar 2024 18:45:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -753,14 +753,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274114?2023-07-20</guid>
 		</item>
 		<item>
-			<title>550€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274133</link>
-			<description>Av. Velázquez, 2,&lt;br/&gt;3º con ascensor,&lt;br/&gt;27m², 1 🛏,&lt;br/&gt;1 🛀, 5 📷.&lt;br/&gt;alq/274133</description>
-			<pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274133?2023-07-31</guid>
-		</item>
-		<item>
 			<title>1030€ Vicálvaro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274137</link>
 			<description>Av. Blas de Lezo, 20,&lt;br/&gt;2º con ascensor,&lt;br/&gt;68m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274137</description>
@@ -1089,14 +1081,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274566?2024-02-21</guid>
 		</item>
 		<item>
-			<title>800€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274571</link>
-			<description>C/ Mayor, 2,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;36m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/274571</description>
-			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274571?2024-02-13</guid>
-		</item>
-		<item>
 			<title>1000€ Chamberí</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274575</link>
 			<description>C/ Fernández de los Ríos, 70,&lt;br/&gt;5º con ascensor,&lt;br/&gt;25m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/274575</description>
@@ -1151,14 +1135,6 @@
 			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274620?2024-02-29</guid>
-		</item>
-		<item>
-			<title>750€ Ciempozuelos</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274624</link>
-			<description>C/ Olimpia, 3,&lt;br/&gt;1º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274624</description>
-			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-			<category>Ciempozuelos</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274624?2024-02-29</guid>
 		</item>
 		<item>
 			<title>1000€ Alcorcón</title>
@@ -1287,14 +1263,6 @@
 			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274653?2024-03-18</guid>
-		</item>
-		<item>
-			<title>1300€ Ciudad Lineal</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274654</link>
-			<description>C/ Arzobispo Cos, 12,&lt;br/&gt;3º con ascensor,&lt;br/&gt;45m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274654</description>
-			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
-			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274654?2024-03-14</guid>
 		</item>
 		<item>
 			<title>920€ San Blas-Canillejas</title>
@@ -1439,6 +1407,22 @@
 			<pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274683?2024-03-19</guid>
+		</item>
+		<item>
+			<title>1200€ San Blas-Canillejas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274685</link>
+			<description>C/ Rumanía, 1,&lt;br/&gt;2º con ascensor,&lt;br/&gt;74m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274685</description>
+			<pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+			<category>San Blas-Canillejas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274685?2024-03-20</guid>
+		</item>
+		<item>
+			<title>1300€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274686</link>
+			<description>C/ Cardenal Mendoza, 72,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274686</description>
+			<pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274686?2024-03-20</guid>
 		</item>
 	</channel>
 </rss>
