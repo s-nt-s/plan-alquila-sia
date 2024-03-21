@@ -437,43 +437,6 @@
     ]
   },
   {
-    "id": 32063,
-    "publicado": "2024-03-12",
-    "modificado": "2024-03-15",
-    "direccion": "Calle Alanis 1",
-    "municipio": "Madrid",
-    "distrito": "Barajas",
-    "barrio": "Casco Hist\u00f3rico de Barajas",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 800,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/lcLB2W3.jpeg?1",
-      "https://i.imgur.com/tK1xIfL.jpeg?2",
-      "https://i.imgur.com/lOgCib5.jpeg?3",
-      "https://i.imgur.com/LHKCT1f.jpeg?4",
-      "https://i.imgur.com/OnSNANE.jpeg?5",
-      "https://i.imgur.com/NAkXRbK.jpeg?6",
-      "https://i.imgur.com/LGrFrZN.jpeg?7",
-      "https://i.imgur.com/Qgf4iP1.jpeg?8",
-      "https://i.imgur.com/ooQmkoc.jpeg?9",
-      "https://i.imgur.com/EfL0xNp.jpeg?10",
-      "https://i.imgur.com/CyOxeS4.jpeg?11",
-      "https://i.imgur.com/Zc2F4KU.jpeg?12",
-      "https://i.imgur.com/eRhM7jy.jpeg?13",
-      "https://i.imgur.com/ku6YRrf.jpeg?14",
-      "https://i.imgur.com/ibhj4oX.jpeg?15",
-      "https://i.imgur.com/TQnRRj8.jpeg?16",
-      "https://i.imgur.com/xfIeiiI.jpeg?17"
-    ]
-  },
-  {
     "id": 32078,
     "publicado": "2024-03-20",
     "direccion": "Calle Lagunas De Neila 16",
@@ -500,6 +463,30 @@
       "https://i.imgur.com/Bq0CbmV.jpeg?14",
       "https://i.imgur.com/xiJyVor.jpeg?15",
       "https://i.imgur.com/vWxvral.jpeg?16"
+    ]
+  },
+  {
+    "id": 32081,
+    "publicado": "2024-03-21",
+    "direccion": "Calle Lucero 45",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Lucero",
+    "planta": 1,
+    "orientacion": "Exterior",
+    "precio": 530,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/rt6CJhu.jpeg?1",
+      "https://i.imgur.com/C6sR3iS.jpeg?2",
+      "https://i.imgur.com/l35NHia.jpeg?3",
+      "https://i.imgur.com/6jLTinC.jpeg?4",
+      "https://i.imgur.com/MYYXcLk.jpeg?5"
     ]
   }
 ]
