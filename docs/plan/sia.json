@@ -34,6 +34,7 @@
   {
     "id": 31987,
     "publicado": "2023-12-26",
+    "modificado": "2024-03-22",
     "direccion": "Calle Cooperacion 6",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -46,7 +47,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/l9x9Wpo.jpg?1",
       "https://i.imgur.com/4SU6AyB.jpg?2",
@@ -439,6 +440,7 @@
   {
     "id": 32078,
     "publicado": "2024-03-20",
+    "modificado": "2024-03-22",
     "direccion": "Calle Lagunas De Neila 16",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -451,7 +453,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/X3UbwRp.jpeg?4",
       "https://i.imgur.com/YYk6E2L.jpeg?5",
@@ -463,6 +465,37 @@
       "https://i.imgur.com/Bq0CbmV.jpeg?14",
       "https://i.imgur.com/xiJyVor.jpeg?15",
       "https://i.imgur.com/vWxvral.jpeg?16"
+    ]
+  },
+  {
+    "id": 32079,
+    "publicado": "2024-03-22",
+    "direccion": "Calle San Delfin 7",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Comillas",
+    "planta": 6,
+    "orientacion": "Exterior",
+    "precio": 1050,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/uH9IKUS.jpeg?1",
+      "https://i.imgur.com/8AypBnR.jpeg?2",
+      "https://i.imgur.com/C2U0sZ6.jpeg?3",
+      "https://i.imgur.com/FOTR2PO.jpeg?4",
+      "https://i.imgur.com/DzBTBZ3.jpeg?5",
+      "https://i.imgur.com/mjpYhtK.jpeg?6",
+      "https://i.imgur.com/coGeK2h.jpeg?7",
+      "https://i.imgur.com/Ashqb8Z.jpeg?8",
+      "https://i.imgur.com/wwhFCva.jpeg?9",
+      "https://i.imgur.com/okWa9w2.jpeg?10",
+      "https://i.imgur.com/M0RSTBG.jpeg?11",
+      "https://i.imgur.com/bfsB5Nz.jpeg?12"
     ]
   },
   {
@@ -487,6 +520,34 @@
       "https://i.imgur.com/l35NHia.jpeg?3",
       "https://i.imgur.com/6jLTinC.jpeg?4",
       "https://i.imgur.com/MYYXcLk.jpeg?5"
+    ]
+  },
+  {
+    "id": 32082,
+    "publicado": "2024-03-22",
+    "direccion": "Calle Tolima 6",
+    "municipio": "Madrid",
+    "distrito": "Hortaleza",
+    "barrio": "Pinar del Rey",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 975,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/pZSHUdV.jpeg?1",
+      "https://i.imgur.com/XD76he7.jpeg?2",
+      "https://i.imgur.com/hvZ22Uj.jpeg?3",
+      "https://i.imgur.com/oYiEttT.jpeg?4",
+      "https://i.imgur.com/zKFFjfo.jpeg?5",
+      "https://i.imgur.com/h6fAQnV.jpeg?6",
+      "https://i.imgur.com/zxkn7vo.jpeg?7",
+      "https://i.imgur.com/LIxU99m.jpeg?8",
+      "https://i.imgur.com/oV5ASF2.jpeg?9"
     ]
   }
 ]
