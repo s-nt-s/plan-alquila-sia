@@ -381,34 +381,6 @@
     ]
   },
   {
-    "id": 32059,
-    "publicado": "2024-02-28",
-    "modificado": "2024-03-11",
-    "direccion": "Calle Mariblanca 29",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "Moscard\u00f3",
-    "planta": 0,
-    "orientacion": "Mixto",
-    "precio": 700,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/BRxP7bT.jpeg?3",
-      "https://i.imgur.com/GauX9rQ.jpeg?4",
-      "https://i.imgur.com/1UbUL42.jpeg?5",
-      "https://i.imgur.com/dGXyf88.jpeg?6",
-      "https://i.imgur.com/VWNOMmb.jpeg?7",
-      "https://i.imgur.com/49WbR7B.jpeg?8",
-      "https://i.imgur.com/Wgkx9pC.jpeg?9",
-      "https://i.imgur.com/28I72DM.jpeg?10"
-    ]
-  },
-  {
     "id": 32060,
     "publicado": "2024-03-13",
     "modificado": "2024-03-14",
@@ -501,6 +473,7 @@
   {
     "id": 32081,
     "publicado": "2024-03-21",
+    "modificado": "2024-03-25",
     "direccion": "Calle Lucero 45",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -513,7 +486,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/rt6CJhu.jpeg?1",
       "https://i.imgur.com/C6sR3iS.jpeg?2",
