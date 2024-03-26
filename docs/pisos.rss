@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 25 Mar 2024 18:48:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 26 Mar 2024 13:40:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -57,20 +57,20 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32041?2024-03-19</guid>
 		</item>
 		<item>
-			<title>1050€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32079</link>
-			<description>C/ San Delfin 7,&lt;br/&gt;6º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 12 📷.&lt;br/&gt;sia/32079</description>
-			<pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32079?2024-03-22</guid>
-		</item>
-		<item>
 			<title>975€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32082</link>
 			<description>C/ Tolima 6,&lt;br/&gt;2º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;sia/32082</description>
 			<pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32082?2024-03-22</guid>
+		</item>
+		<item>
+			<title>1000€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32084</link>
+			<description>C/ Alicun 10,&lt;br/&gt;2º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;sia/32084</description>
+			<pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32084?2024-03-26</guid>
 		</item>
 		<item>
 			<title>950€ Collado Mediano</title>
@@ -321,14 +321,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263057?2023-12-04</guid>
 		</item>
 		<item>
-			<title>700€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/263095</link>
-			<description>C/ Aracataca, 2,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;46m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/263095</description>
-			<pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263095?2024-03-11</guid>
-		</item>
-		<item>
 			<title>700€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/264002</link>
 			<description>C/ Antonio Gómez Galiana, 3,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;30m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/264002</description>
@@ -559,6 +551,14 @@
 			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273317?2024-03-25</guid>
+		</item>
+		<item>
+			<title>1000€ Paracuellos de Jarama</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273335</link>
+			<description>C/ Santiago Apóstol, 6,&lt;br/&gt;1º con ascensor,&lt;br/&gt;71m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/273335</description>
+			<pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+			<category>Paracuellos de Jarama</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273335?2024-03-26</guid>
 		</item>
 		<item>
 			<title>1380€ Ciudad Lineal</title>
@@ -1057,14 +1057,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274556?2024-03-18</guid>
 		</item>
 		<item>
-			<title>1150€ San Sebastián de los Reyes</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274564</link>
-			<description>C/ Sevilla, 11,&lt;br/&gt;1º con ascensor,&lt;br/&gt;51m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274564</description>
-			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
-			<category>San Sebastián de los Reyes</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274564?2024-02-09</guid>
-		</item>
-		<item>
 			<title>1600€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274566</link>
 			<description>C/ Goiri, 1,&lt;br/&gt;2º con ascensor,&lt;br/&gt;66m², 3 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;alq/274566</description>
@@ -1463,6 +1455,14 @@
 			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274702?2024-03-25</guid>
+		</item>
+		<item>
+			<title>1200€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274703</link>
+			<description>Av. Padre Piquer, 13,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;67m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274703</description>
+			<pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274703?2024-03-26</guid>
 		</item>
 	</channel>
 </rss>

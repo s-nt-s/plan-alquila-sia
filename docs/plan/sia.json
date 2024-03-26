@@ -442,6 +442,7 @@
   {
     "id": 32079,
     "publicado": "2024-03-22",
+    "modificado": "2024-03-26",
     "direccion": "Calle San Delfin 7",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -454,7 +455,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/uH9IKUS.jpeg?1",
       "https://i.imgur.com/8AypBnR.jpeg?2",
@@ -521,6 +522,34 @@
       "https://i.imgur.com/zxkn7vo.jpeg?7",
       "https://i.imgur.com/LIxU99m.jpeg?8",
       "https://i.imgur.com/oV5ASF2.jpeg?9"
+    ]
+  },
+  {
+    "id": 32084,
+    "publicado": "2024-03-26",
+    "direccion": "Calle Alicun 10",
+    "municipio": "Madrid",
+    "distrito": "Hortaleza",
+    "barrio": "Ap\u00f3stol Santiago",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 1000,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/anmOxnm.jpeg?2",
+      "https://i.imgur.com/nY7ozJi.jpeg?3",
+      "https://i.imgur.com/rzb2k4Z.jpeg?4",
+      "https://i.imgur.com/RygNqrs.jpeg?5",
+      "https://i.imgur.com/RAcC15R.jpeg?6",
+      "https://i.imgur.com/LNjhaO0.jpeg?7",
+      "https://i.imgur.com/1w3J0ZE.jpeg?8",
+      "https://i.imgur.com/jMF1d6A.jpeg?9",
+      "https://i.imgur.com/MglNLdO.jpeg?10"
     ]
   }
 ]
