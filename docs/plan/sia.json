@@ -2,7 +2,7 @@
   {
     "id": 31914,
     "publicado": "2023-09-14",
-    "modificado": "2024-02-05",
+    "modificado": "2024-03-27",
     "direccion": "Calle Doctor Esquerdo 150",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -15,7 +15,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": true,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/XkB3lXZ.jpg?1",
       "https://i.imgur.com/dTD8uwz.jpg?2",
@@ -164,33 +164,6 @@
       "https://i.imgur.com/iQXiGJx.jpg?13",
       "https://i.imgur.com/jH8iUub.jpg?14",
       "https://i.imgur.com/EenY4qw.jpg?15"
-    ]
-  },
-  {
-    "id": 32022,
-    "publicado": "2024-01-22",
-    "modificado": "2024-03-08",
-    "direccion": "Calle Camarena 316",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Aluche",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 870,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/YyjxvdA.jpg?1",
-      "https://i.imgur.com/xluPVVY.jpg?2",
-      "https://i.imgur.com/RipQ4iP.jpg?3",
-      "https://i.imgur.com/xALLxGH.jpg?4",
-      "https://i.imgur.com/4rrChKM.jpg?5",
-      "https://i.imgur.com/lWbj7Vj.jpg?6",
-      "https://i.imgur.com/Txokdjj.jpg?7"
     ]
   },
   {
@@ -381,35 +354,6 @@
     ]
   },
   {
-    "id": 32060,
-    "publicado": "2024-03-13",
-    "modificado": "2024-03-14",
-    "direccion": "Calle Parra 21",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Puerta Bonita",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 530,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/fR1anHo.jpeg?5",
-      "https://i.imgur.com/wOoBe51.jpeg?9",
-      "https://i.imgur.com/EPPfJGD.jpeg?10",
-      "https://i.imgur.com/Y4hnaau.jpeg?11",
-      "https://i.imgur.com/Gkx9uv0.jpeg?12",
-      "https://i.imgur.com/0NTTM0w.jpeg?13",
-      "https://i.imgur.com/7vF0CC3.jpeg?14",
-      "https://i.imgur.com/UKclhDp.jpeg?15",
-      "https://i.imgur.com/MsY9x6q.jpeg?16"
-    ]
-  },
-  {
     "id": 32078,
     "publicado": "2024-03-20",
     "modificado": "2024-03-22",
@@ -527,6 +471,7 @@
   {
     "id": 32084,
     "publicado": "2024-03-26",
+    "modificado": "2024-03-27",
     "direccion": "Calle Alicun 10",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -539,7 +484,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/anmOxnm.jpeg?2",
       "https://i.imgur.com/nY7ozJi.jpeg?3",
