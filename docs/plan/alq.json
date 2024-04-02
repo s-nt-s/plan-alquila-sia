@@ -3894,7 +3894,7 @@
     "calefacion": true,
     "garaje": true,
     "adaptada": false,
-    "piscina": false,
+    "piscina": true,
     "porteria": true,
     "trastero": false,
     "imgs": [
