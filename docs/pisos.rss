@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 03 Apr 2024 13:41:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 03 Apr 2024 18:42:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -531,7 +531,7 @@
 		<item>
 			<title>1700€ Arganzuela</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272297</link>
-			<description>Rda. Segovia, 42,&lt;br/&gt;4º con ascensor,&lt;br/&gt;106m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/272297</description>
+			<description>Rda. Segovia, 42,&lt;br/&gt;4º con ascensor,&lt;br/&gt;106m², 3 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/272297</description>
 			<pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272297?2024-04-03</guid>
@@ -593,20 +593,20 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273466?2023-10-20</guid>
 		</item>
 		<item>
+			<title>1950€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273765</link>
+			<description>C/ Julio Palacios, 11,&lt;br/&gt;6º con ascensor,&lt;br/&gt;130m², 5 🛏,&lt;br/&gt;2 🛀, 11 📷.&lt;br/&gt;alq/273765</description>
+			<pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273765?2024-04-03</guid>
+		</item>
+		<item>
 			<title>1200€ Vicálvaro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273782</link>
 			<description>C/ Francisco Grande Covián, 26,&lt;br/&gt;4º con ascensor,&lt;br/&gt;81m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/273782</description>
 			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Vicálvaro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273782?2024-03-06</guid>
-		</item>
-		<item>
-			<title>1200€ San Blas-Canillejas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273799</link>
-			<description>C/ Luis Sánchez Polack Tip, 3,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/273799</description>
-			<pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
-			<category>San Blas-Canillejas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273799?2024-03-19</guid>
 		</item>
 		<item>
 			<title>1700€ Tetuán</title>
@@ -1089,6 +1089,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274633?2024-03-07</guid>
 		</item>
 		<item>
+			<title>2500€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274634</link>
+			<description>C/ General Ricardos, 35,&lt;br/&gt;2º con ascensor,&lt;br/&gt;77m², 4 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274634</description>
+			<pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274634?2024-04-03</guid>
+		</item>
+		<item>
 			<title>947€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274635</link>
 			<description>C/ María Zayas, 1,&lt;br/&gt;2º con ascensor,&lt;br/&gt;69m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274635</description>
@@ -1283,10 +1291,10 @@
 		<item>
 			<title>950€ Alcobendas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274684</link>
-			<description>C/ Sonrisa, 2,&lt;br/&gt;2º con ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274684</description>
-			<pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+			<description>C/ Sonrisa, 2,&lt;br/&gt;2º con ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274684</description>
+			<pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Alcobendas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274684?2024-03-21</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274684?2024-04-03</guid>
 		</item>
 		<item>
 			<title>1200€ San Blas-Canillejas</title>
@@ -1395,10 +1403,10 @@
 		<item>
 			<title>1500€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274710</link>
-			<description>Custa Descargas, 10,&lt;br/&gt;2º con ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274710</description>
-			<pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+			<description>Custa Descargas, 10,&lt;br/&gt;2º con ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274710</description>
+			<pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274710?2024-04-02</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274710?2024-04-03</guid>
 		</item>
 		<item>
 			<title>875€ Moratalaz</title>
