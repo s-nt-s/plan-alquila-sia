@@ -1,68 +1,5 @@
 [
   {
-    "id": 31914,
-    "publicado": "2023-09-14",
-    "modificado": "2024-03-27",
-    "direccion": "Calle Doctor Esquerdo 150",
-    "municipio": "Madrid",
-    "distrito": "Retiro",
-    "barrio": "Estrella",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 1570,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": true,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/XkB3lXZ.jpg?1",
-      "https://i.imgur.com/dTD8uwz.jpg?2",
-      "https://i.imgur.com/WjtSVCh.jpg?3",
-      "https://i.imgur.com/vgB4kRe.jpg?4",
-      "https://i.imgur.com/dOTfC4j.jpg?5",
-      "https://i.imgur.com/YS8O1cB.jpg?6",
-      "https://i.imgur.com/5j95Q2O.jpg?7",
-      "https://i.imgur.com/mnvnslG.jpg?8",
-      "https://i.imgur.com/g1Kwh9n.jpg?9",
-      "https://i.imgur.com/XPLblkL.jpg?10",
-      "https://i.imgur.com/zpuKHsZ.jpg?11",
-      "https://i.imgur.com/VuHnR7W.jpg?12"
-    ]
-  },
-  {
-    "id": 31987,
-    "publicado": "2023-12-26",
-    "modificado": "2024-04-04",
-    "direccion": "Calle Cooperacion 6",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Opa\u00f1el",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/l9x9Wpo.jpg?1",
-      "https://i.imgur.com/4SU6AyB.jpg?2",
-      "https://i.imgur.com/xzm8iQm.jpg?3",
-      "https://i.imgur.com/q6ieurY.jpg?4",
-      "https://i.imgur.com/miwtxhi.jpg?5",
-      "https://i.imgur.com/RNHhXKi.jpg?6",
-      "https://i.imgur.com/XhbGN1O.jpg?7",
-      "https://i.imgur.com/zimtYbv.jpg?8",
-      "https://i.imgur.com/zpjbuAn.jpg?9",
-      "https://i.imgur.com/EpR0f5A.jpg?10",
-      "https://i.imgur.com/NsUyOV8.jpg?11"
-    ]
-  },
-  {
     "id": 31990,
     "publicado": "2023-11-17",
     "direccion": "Calle Ruiz 8",
@@ -264,6 +201,7 @@
   {
     "id": 32069,
     "publicado": "2024-04-02",
+    "modificado": "2024-04-05",
     "direccion": "Calle Litos 17",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -276,7 +214,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/X8fiBx8.jpeg?1",
       "https://i.imgur.com/ZeIXYVv.jpeg?2",
@@ -316,6 +254,7 @@
   {
     "id": 32074,
     "publicado": "2024-04-02",
+    "modificado": "2024-04-05",
     "direccion": "Calle Papagayo 22",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -328,7 +267,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/P64Ryer.jpeg?2",
       "https://i.imgur.com/uaJdGGx.jpeg?3",
@@ -350,6 +289,7 @@
   {
     "id": 32075,
     "publicado": "2024-04-02",
+    "modificado": "2024-04-05",
     "direccion": "Calle Nuestra Se\u00f1ora De Fatima 55",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -362,7 +302,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/FuECqQM.jpeg?2",
       "https://i.imgur.com/POORjQr.jpeg?3",
@@ -428,38 +368,6 @@
       "https://i.imgur.com/Bq0CbmV.jpeg?14",
       "https://i.imgur.com/xiJyVor.jpeg?15",
       "https://i.imgur.com/vWxvral.jpeg?16"
-    ]
-  },
-  {
-    "id": 32079,
-    "publicado": "2024-03-22",
-    "modificado": "2024-03-26",
-    "direccion": "Calle San Delfin 7",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Comillas",
-    "planta": 6,
-    "orientacion": "Exterior",
-    "precio": 1050,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/uH9IKUS.jpeg?1",
-      "https://i.imgur.com/8AypBnR.jpeg?2",
-      "https://i.imgur.com/C2U0sZ6.jpeg?3",
-      "https://i.imgur.com/FOTR2PO.jpeg?4",
-      "https://i.imgur.com/DzBTBZ3.jpeg?5",
-      "https://i.imgur.com/mjpYhtK.jpeg?6",
-      "https://i.imgur.com/coGeK2h.jpeg?7",
-      "https://i.imgur.com/Ashqb8Z.jpeg?8",
-      "https://i.imgur.com/wwhFCva.jpeg?9",
-      "https://i.imgur.com/okWa9w2.jpeg?10",
-      "https://i.imgur.com/M0RSTBG.jpeg?11",
-      "https://i.imgur.com/bfsB5Nz.jpeg?12"
     ]
   },
   {
@@ -548,6 +456,7 @@
   {
     "id": 32085,
     "publicado": "2024-04-02",
+    "modificado": "2024-04-05",
     "direccion": "Calle Angel Larra 4",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -560,7 +469,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/qqxDYj5.jpeg?11",
       "https://i.imgur.com/QR7RMk5.jpeg?12",
