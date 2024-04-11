@@ -3947,6 +3947,7 @@
   {
     "id": 274683,
     "publicado": "2024-03-19",
+    "modificado": "2024-04-11",
     "direccion": "Avda Ensanche de Vallecas, 110",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -3955,6 +3956,7 @@
     "metros": 37,
     "dormitorios": 1,
     "aseos": 1,
+    "cee": "C",
     "mascotas": false,
     "amueblada": false,
     "ascensor": true,
