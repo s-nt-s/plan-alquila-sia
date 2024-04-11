@@ -345,6 +345,7 @@
   {
     "id": 32076,
     "publicado": "2024-04-04",
+    "modificado": "2024-04-11",
     "direccion": "Calle Vicente Blasco Iba\u00f1ez 68",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -357,7 +358,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/ogFiegJ.jpeg?2",
       "https://i.imgur.com/bCQxVaE.jpeg?3",
@@ -492,6 +493,7 @@
   {
     "id": 32088,
     "publicado": "2024-04-08",
+    "modificado": "2024-04-11",
     "direccion": "Calle Melilla 27",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -504,7 +506,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Fq81UCV.jpeg?2",
       "https://i.imgur.com/kDrwViO.jpeg?3",
