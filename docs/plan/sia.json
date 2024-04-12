@@ -373,6 +373,36 @@
     ]
   },
   {
+    "id": 32080,
+    "publicado": "2024-04-12",
+    "direccion": "Calle Hermanos Gomez 45",
+    "municipio": "Madrid",
+    "distrito": "Ciudad Lineal",
+    "barrio": "Ventas",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 835,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/HOH0gVK.jpeg?7",
+      "https://i.imgur.com/wx4ocDW.jpeg?13",
+      "https://i.imgur.com/5gvmJrP.jpeg?14",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32080&idDoc=15",
+      "https://i.imgur.com/6NVcMXu.jpeg?16",
+      "https://i.imgur.com/VxjmRsv.jpeg?17",
+      "https://i.imgur.com/WAv1gxb.jpeg?18",
+      "https://i.imgur.com/2XpNpkX.jpeg?19",
+      "https://i.imgur.com/Ga6Bxl0.jpeg?20",
+      "https://i.imgur.com/BliEBYa.jpeg?21",
+      "https://i.imgur.com/qu3dPaZ.jpeg?22"
+    ]
+  },
+  {
     "id": 32081,
     "publicado": "2024-03-21",
     "modificado": "2024-03-25",
@@ -514,6 +544,63 @@
       "https://i.imgur.com/5I6IfP9.jpeg?5",
       "https://i.imgur.com/STJgVCV.jpeg?6",
       "https://i.imgur.com/YErSw6S.jpeg?7"
+    ]
+  },
+  {
+    "id": 32095,
+    "publicado": "2024-04-12",
+    "direccion": "Calle Rumania 1",
+    "municipio": "Madrid",
+    "distrito": "San Blas",
+    "barrio": "Rosas",
+    "planta": 0,
+    "orientacion": "Exterior",
+    "precio": 780,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/AAkHxeH.jpeg?1",
+      "https://i.imgur.com/mkARs1D.jpeg?2",
+      "https://i.imgur.com/fg2hTcq.jpeg?3",
+      "https://i.imgur.com/kYLGfsf.jpeg?4",
+      "https://i.imgur.com/b2ONrmc.jpeg?5",
+      "https://i.imgur.com/L2Dr5y3.jpeg?6",
+      "https://i.imgur.com/RCudQj7.jpeg?7",
+      "https://i.imgur.com/NOHjykn.jpeg?8",
+      "https://i.imgur.com/4vQ1Hbi.jpeg?9",
+      "https://i.imgur.com/6V3TGts.jpeg?10",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32095&idDoc=11",
+      "https://i.imgur.com/cW4X88V.jpeg?12",
+      "https://i.imgur.com/4rpSL9J.jpeg?13",
+      "https://i.imgur.com/2w47Lyo.jpeg?14"
+    ]
+  },
+  {
+    "id": 32096,
+    "publicado": "2024-04-12",
+    "direccion": "Paseo Marques De Zafra 51",
+    "municipio": "Madrid",
+    "distrito": "Salamanca",
+    "barrio": "Fuente del Berro",
+    "planta": 7,
+    "orientacion": "Exterior",
+    "precio": 520,
+    "dormitorios": 1,
+    "aseos": 1,
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/8t5RCYs.jpeg?1",
+      "https://i.imgur.com/GHW0BVj.jpeg?2",
+      "https://i.imgur.com/1GlnqFn.jpeg?3",
+      "https://i.imgur.com/GoAiJru.jpeg?4",
+      "https://i.imgur.com/HWquU0u.jpeg?5",
+      "https://i.imgur.com/6U0Q6aI.jpeg?6"
     ]
   }
 ]
