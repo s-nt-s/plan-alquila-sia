@@ -374,34 +374,6 @@
     ]
   },
   {
-    "id": 32085,
-    "publicado": "2024-04-02",
-    "modificado": "2024-04-05",
-    "direccion": "Calle Angel Larra 4",
-    "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "barrio": "Concepci\u00f3n",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 950,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/qqxDYj5.jpeg?11",
-      "https://i.imgur.com/QR7RMk5.jpeg?12",
-      "https://i.imgur.com/gQjU8Is.jpeg?13",
-      "https://i.imgur.com/rqBhxnM.jpeg?14",
-      "https://i.imgur.com/FFYUmGe.jpeg?15",
-      "https://i.imgur.com/tfxRo2A.jpeg?16",
-      "https://i.imgur.com/YxqXFnI.jpeg?17",
-      "https://i.imgur.com/gvhU9gT.jpeg?18"
-    ]
-  },
-  {
     "id": 32087,
     "publicado": "2024-04-09",
     "direccion": "Calle Fausta Elorz 5",
@@ -559,6 +531,7 @@
   {
     "id": 32099,
     "publicado": "2024-04-18",
+    "modificado": "2024-04-19",
     "direccion": "Calle Acacias 22",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -570,7 +543,7 @@
     "cee": "D",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/zBlq0nU.jpeg?2",
       "https://i.imgur.com/25Gb1pJ.jpeg?3",
