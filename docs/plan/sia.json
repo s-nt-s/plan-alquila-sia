@@ -173,6 +173,7 @@
   {
     "id": 32041,
     "publicado": "2024-03-19",
+    "modificado": "2024-04-22",
     "direccion": "Ronda Atocha 29",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -185,7 +186,7 @@
     "cee": "C",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/2NSGtJO.jpeg?2",
       "https://i.imgur.com/DuIX6Y6.jpeg?3",
@@ -259,6 +260,7 @@
   {
     "id": 32071,
     "publicado": "2024-04-18",
+    "modificado": "2024-04-22",
     "direccion": "Calle Padre Oltra 6",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -271,7 +273,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Tbk51bb.jpeg?3",
       "https://i.imgur.com/vNHSwBR.jpeg?4",
@@ -313,36 +315,6 @@
     ]
   },
   {
-    "id": 32076,
-    "publicado": "2024-04-04",
-    "modificado": "2024-04-11",
-    "direccion": "Calle Vicente Blasco Iba\u00f1ez 68",
-    "municipio": "Madrid",
-    "distrito": "Hortaleza",
-    "barrio": "Valdefuentes",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 820,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/ogFiegJ.jpeg?2",
-      "https://i.imgur.com/bCQxVaE.jpeg?3",
-      "https://i.imgur.com/mQ3qeIa.jpeg?4",
-      "https://i.imgur.com/u6zlxpS.jpeg?5",
-      "https://i.imgur.com/7TSxcYS.jpeg?6",
-      "https://i.imgur.com/DrDBWld.jpeg?7",
-      "https://i.imgur.com/68PMjtA.jpeg?8",
-      "https://i.imgur.com/Hooci9u.jpeg?9",
-      "https://i.imgur.com/IR8KDE7.jpeg?10",
-      "https://i.imgur.com/e5MzK3C.jpeg?11"
-    ]
-  },
-  {
     "id": 32080,
     "publicado": "2024-04-12",
     "modificado": "2024-04-12",
@@ -376,6 +348,7 @@
   {
     "id": 32087,
     "publicado": "2024-04-09",
+    "modificado": "2024-04-22",
     "direccion": "Calle Fausta Elorz 5",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -388,7 +361,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Buc7Wki.jpeg?5",
       "https://i.imgur.com/DETlRNd.jpeg?6",
@@ -470,40 +443,6 @@
     ]
   },
   {
-    "id": 32095,
-    "publicado": "2024-04-12",
-    "modificado": "2024-04-15",
-    "direccion": "Calle Rumania 1",
-    "municipio": "Madrid",
-    "distrito": "San Blas",
-    "barrio": "Rosas",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 780,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/AAkHxeH.jpeg?1",
-      "https://i.imgur.com/mkARs1D.jpeg?2",
-      "https://i.imgur.com/fg2hTcq.jpeg?3",
-      "https://i.imgur.com/kYLGfsf.jpeg?4",
-      "https://i.imgur.com/b2ONrmc.jpeg?5",
-      "https://i.imgur.com/L2Dr5y3.jpeg?6",
-      "https://i.imgur.com/RCudQj7.jpeg?7",
-      "https://i.imgur.com/NOHjykn.jpeg?8",
-      "https://i.imgur.com/4vQ1Hbi.jpeg?9",
-      "https://i.imgur.com/6V3TGts.jpeg?10",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32095&idDoc=11",
-      "https://i.imgur.com/cW4X88V.jpeg?12",
-      "https://i.imgur.com/4rpSL9J.jpeg?13",
-      "https://i.imgur.com/2w47Lyo.jpeg?14"
-    ]
-  },
-  {
     "id": 32096,
     "publicado": "2024-04-12",
     "modificado": "2024-04-17",
@@ -552,6 +491,34 @@
       "https://i.imgur.com/oJKkS2E.jpeg?6",
       "https://i.imgur.com/jakYASg.jpeg?7",
       "https://i.imgur.com/Dy9ep7D.jpeg?8"
+    ]
+  },
+  {
+    "id": 32104,
+    "publicado": "2024-04-22",
+    "direccion": "Calle Delicias 74",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Delicias",
+    "planta": 7,
+    "orientacion": "Exterior",
+    "precio": 1100,
+    "dormitorios": 3,
+    "aseos": 1,
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/iCH3Ob5.jpeg?2",
+      "https://i.imgur.com/lJ73bfV.jpeg?3",
+      "https://i.imgur.com/8PF2nFw.jpeg?4",
+      "https://i.imgur.com/SpqKZYg.jpeg?5",
+      "https://i.imgur.com/12MqZa5.jpeg?6",
+      "https://i.imgur.com/FrHp6zC.jpeg?7",
+      "https://i.imgur.com/WT1cvz4.jpeg?8",
+      "https://i.imgur.com/nSrMSST.jpeg?10",
+      "https://i.imgur.com/s8hXKKs.jpeg?12",
+      "https://i.imgur.com/1jyW9gZ.jpeg?13"
     ]
   }
 ]
