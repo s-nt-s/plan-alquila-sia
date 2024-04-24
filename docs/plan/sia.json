@@ -173,8 +173,8 @@
   {
     "id": 32041,
     "publicado": "2024-03-19",
-    "modificado": "2024-04-22",
-    "direccion": "Ronda Atocha 29",
+    "modificado": "2024-04-24",
+    "direccion": "Calle Ronda De Atocha 29",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
     "barrio": "Palos de Moguer",
@@ -343,6 +343,32 @@
       "https://i.imgur.com/Ga6Bxl0.jpeg?20",
       "https://i.imgur.com/BliEBYa.jpeg?21",
       "https://i.imgur.com/qu3dPaZ.jpeg?22"
+    ]
+  },
+  {
+    "id": 32086,
+    "publicado": "2024-04-24",
+    "direccion": "Plaza Verin 11",
+    "municipio": "Madrid",
+    "distrito": "Fuencarral-El Pardo",
+    "barrio": "Pilar",
+    "planta": 0,
+    "orientacion": "Exterior",
+    "precio": 951,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/puPTuU7.jpeg?2",
+      "https://i.imgur.com/GeljAPH.jpeg?3",
+      "https://i.imgur.com/ZLlGyoF.jpeg?4",
+      "https://i.imgur.com/luT3wZ8.jpeg?5",
+      "https://i.imgur.com/cbtYNBa.jpeg?6",
+      "https://i.imgur.com/oaR5w6N.jpeg?7",
+      "https://i.imgur.com/hJ2Txut.jpeg?8"
     ]
   },
   {
