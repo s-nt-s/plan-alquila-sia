@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 25 Apr 2024 13:38:58 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Apr 2024 18:43:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -223,6 +223,14 @@
 			<pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/227469?2024-03-27</guid>
+		</item>
+		<item>
+			<title>1250€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/227835</link>
+			<description>C/ Badalona, 59,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/227835</description>
+			<pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/227835?2024-04-25</guid>
 		</item>
 		<item>
 			<title>950€ Rivas-Vaciamadrid</title>
@@ -1217,6 +1225,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274733?2024-04-09</guid>
 		</item>
 		<item>
+			<title>800€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274736</link>
+			<description>C/ Honrubia, 22,&lt;br/&gt;2º con ascensor,&lt;br/&gt;42m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/274736</description>
+			<pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274736?2024-04-09</guid>
+		</item>
+		<item>
 			<title>1100€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274737</link>
 			<description>C/ Voluntarios Catalanes, 74,&lt;br/&gt;1º con ascensor,&lt;br/&gt;47m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274737</description>
@@ -1247,14 +1263,6 @@
 			<pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274743?2024-04-16</guid>
-		</item>
-		<item>
-			<title>900€ San Sebastián de los Reyes</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274745</link>
-			<description>C/ Pilar, 26,&lt;br/&gt;2º con ascensor,&lt;br/&gt;86m², 3 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274745</description>
-			<pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
-			<category>San Sebastián de los Reyes</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274745?2024-04-19</guid>
 		</item>
 		<item>
 			<title>850€ Getafe</title>
