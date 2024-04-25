@@ -496,8 +496,8 @@
   {
     "id": 32099,
     "publicado": "2024-04-18",
-    "modificado": "2024-04-23",
-    "direccion": "Calle Acacias 22",
+    "modificado": "2024-04-25",
+    "direccion": "Paseo Acacias 22",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
     "barrio": "Acacias",
@@ -517,6 +517,32 @@
       "https://i.imgur.com/jakYASg.jpeg?7",
       "https://i.imgur.com/Dy9ep7D.jpeg?8",
       "https://i.imgur.com/DnSF3Hu.jpeg?9"
+    ]
+  },
+  {
+    "id": 32102,
+    "publicado": "2024-04-25",
+    "direccion": "Calle Camarena 292",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Aluche",
+    "planta": 4,
+    "precio": 875,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/1mAyFmF.jpeg?2",
+      "https://i.imgur.com/smzgnqf.jpeg?3",
+      "https://i.imgur.com/6MsdiUt.jpeg?4",
+      "https://i.imgur.com/qNDLorE.jpeg?5",
+      "https://i.imgur.com/Lb6sxMz.jpeg?6",
+      "https://i.imgur.com/cxdSVDY.jpeg?7",
+      "https://i.imgur.com/uejVK9h.jpeg?8",
+      "https://i.imgur.com/IOiMNTE.jpeg?9"
     ]
   },
   {
