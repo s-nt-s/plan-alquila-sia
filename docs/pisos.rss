@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 26 Apr 2024 13:40:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Apr 2024 13:38:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -105,14 +105,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/207972?2024-04-24</guid>
 		</item>
 		<item>
-			<title>900€ Collado Mediano</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/209965</link>
-			<description>C/ Dehesa, 27,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;120m², 4 🛏,&lt;br/&gt;3 🛀, 9 📷.&lt;br/&gt;alq/209965</description>
-			<pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
-			<category>Collado Mediano</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/209965?2024-04-17</guid>
-		</item>
-		<item>
 			<title>1075€ Rivas-Vaciamadrid</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/210609</link>
 			<description>Pº Almendros, 2,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/210609</description>
@@ -129,12 +121,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/213374?2024-02-26</guid>
 		</item>
 		<item>
-			<title>1100€ Puente de Vallecas</title>
+			<title>900€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/217041</link>
 			<description>Av. Pablo Neruda, 81,&lt;br/&gt;2º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/217041</description>
-			<pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/217041?2024-04-05</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/217041?2024-04-29</guid>
 		</item>
 		<item>
 			<title>850€ Salamanca</title>
@@ -313,6 +305,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/251794?2024-04-24</guid>
 		</item>
 		<item>
+			<title>1100€ Retiro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/256563</link>
+			<description>C/ Barrilero, 9,&lt;br/&gt;5º con ascensor,&lt;br/&gt;59m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/256563</description>
+			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+			<category>Retiro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/256563?2024-04-29</guid>
+		</item>
+		<item>
 			<title>1300€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/257408</link>
 			<description>Av. Campo de Calatrava, 7,&lt;br/&gt;2º con ascensor,&lt;br/&gt;73m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/257408</description>
@@ -356,9 +356,9 @@
 			<title>1400€ Algete</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/261436</link>
 			<description>C/ Cerro de Aragón, 16,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;171m², 4 🛏,&lt;br/&gt;5 🛀, 0 📷.&lt;br/&gt;alq/261436</description>
-			<pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Algete</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261436?2024-04-09</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261436?2024-04-29</guid>
 		</item>
 		<item>
 			<title>2000€ Pozuelo de Alarcón</title>
@@ -1073,14 +1073,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274634?2024-04-24</guid>
 		</item>
 		<item>
-			<title>925€ San Blas-Canillejas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274640</link>
-			<description>C/ Pirra, 34,&lt;br/&gt;6º con ascensor,&lt;br/&gt;53m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274640</description>
-			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-			<category>San Blas-Canillejas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274640?2024-03-05</guid>
-		</item>
-		<item>
 			<title>920€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274655</link>
 			<description>C/ Lucano, 30,&lt;br/&gt;3º con ascensor,&lt;br/&gt;71m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274655</description>
@@ -1217,14 +1209,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274737?2024-04-09</guid>
 		</item>
 		<item>
-			<title>1300€ Moncloa-Aravaca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274738</link>
-			<description>Gta San Antonio de la Florida, 1,&lt;br/&gt;3º con ascensor,&lt;br/&gt;68m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274738</description>
-			<pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
-			<category>Moncloa-Aravaca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274738?2024-04-09</guid>
-		</item>
-		<item>
 			<title>1400€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274742</link>
 			<description>C/ Méjico, 51,&lt;br/&gt;1º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274742</description>
@@ -1339,18 +1323,34 @@
 		<item>
 			<title>950€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274770</link>
-			<description>C/ Silvio Abad, 43,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274770</description>
-			<pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+			<description>C/ Silvio Abad, 43,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/274770</description>
+			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274770?2024-04-24</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274770?2024-04-29</guid>
+		</item>
+		<item>
+			<title>1400€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274773</link>
+			<description>C/ Virgen de Aránzazu, 29,&lt;br/&gt;5º con ascensor,&lt;br/&gt;79m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274773</description>
+			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274773?2024-04-29</guid>
 		</item>
 		<item>
 			<title>1200€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274777</link>
-			<description>C/ Fresno de Cantespino, 15,&lt;br/&gt;3º con ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274777</description>
-			<pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
+			<description>C/ Fresno de Cantespino, 15,&lt;br/&gt;3º con ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/274777</description>
+			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274777?2024-04-25</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274777?2024-04-29</guid>
+		</item>
+		<item>
+			<title>800€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274782</link>
+			<description>C/ Santa Cruz de Mudela, 18,&lt;br/&gt;2º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274782</description>
+			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274782?2024-04-29</guid>
 		</item>
 	</channel>
 </rss>

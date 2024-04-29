@@ -173,8 +173,8 @@
   {
     "id": 32041,
     "publicado": "2024-03-19",
-    "modificado": "2024-04-24",
-    "direccion": "Calle Ronda De Atocha 29",
+    "modificado": "2024-04-29",
+    "direccion": "Ronda De Atocha 29",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
     "barrio": "Palos de Moguer",
@@ -431,32 +431,6 @@
       "https://i.imgur.com/OKvtHXC.jpeg?17",
       "https://i.imgur.com/C8nxTNg.jpeg?18",
       "https://i.imgur.com/NFClqlv.jpeg?19"
-    ]
-  },
-  {
-    "id": 32099,
-    "publicado": "2024-04-18",
-    "modificado": "2024-04-25",
-    "direccion": "Paseo Acacias 22",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Acacias",
-    "planta": 5,
-    "precio": 1350,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/zBlq0nU.jpeg?2",
-      "https://i.imgur.com/nBgORyg.jpeg?4",
-      "https://i.imgur.com/ZCtMkYM.jpeg?5",
-      "https://i.imgur.com/oJKkS2E.jpeg?6",
-      "https://i.imgur.com/jakYASg.jpeg?7",
-      "https://i.imgur.com/Dy9ep7D.jpeg?8",
-      "https://i.imgur.com/DnSF3Hu.jpeg?9"
     ]
   },
   {
