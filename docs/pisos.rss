@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 30 Apr 2024 13:41:41 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Apr 2024 18:45:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -303,14 +303,6 @@
 			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/256563?2024-04-29</guid>
-		</item>
-		<item>
-			<title>1300€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/257408</link>
-			<description>Av. Campo de Calatrava, 7,&lt;br/&gt;2º con ascensor,&lt;br/&gt;73m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/257408</description>
-			<pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/257408?2024-04-09</guid>
 		</item>
 		<item>
 			<title>975€ Retiro</title>
@@ -1203,10 +1195,10 @@
 		<item>
 			<title>750€ Arganzuela</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274747</link>
-			<description>C/ Segovia, 51,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;32m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274747</description>
-			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+			<description>C/ Segovia, 51,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;32m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/274747</description>
+			<pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274747?2024-04-29</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274747?2024-04-30</guid>
 		</item>
 		<item>
 			<title>850€ Villa de Vallecas</title>
@@ -1315,10 +1307,10 @@
 		<item>
 			<title>800€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274782</link>
-			<description>C/ Santa Cruz de Mudela, 18,&lt;br/&gt;2º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274782</description>
-			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+			<description>C/ Santa Cruz de Mudela, 18,&lt;br/&gt;2º con ascensor,&lt;br/&gt;67m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274782</description>
+			<pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274782?2024-04-29</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274782?2024-04-30</guid>
 		</item>
 	</channel>
 </rss>
