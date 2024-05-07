@@ -314,6 +314,7 @@
   {
     "id": 32090,
     "publicado": "2024-05-06",
+    "modificado": "2024-05-07",
     "direccion": "Calle La Del Manojo De Rosas 108",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -323,6 +324,7 @@
     "precio": 650,
     "dormitorios": 2,
     "aseos": 1,
+    "cee": "G",
     "ascensor": true,
     "adaptada": false,
     "reservada": false,
