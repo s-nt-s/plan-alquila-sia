@@ -22,7 +22,7 @@ class PisosRss:
 
     def save(self, out: str):
         feed = rfeed.Feed(
-            title="Pla Alquila Sia",
+            title="Plan Alquila Sia",
             link=self.root+'/'+out,
             description="Lista de pisos del Plan Alquila y el Plan Sia",
             language="es-ES",
