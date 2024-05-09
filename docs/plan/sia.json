@@ -137,38 +137,6 @@
     ]
   },
   {
-    "id": 32065,
-    "publicado": "2024-04-08",
-    "modificado": "2024-04-26",
-    "direccion": "Calle Paredes De Nava 13",
-    "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "barrio": "Costillares",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 1050,
-    "dormitorios": 4,
-    "aseos": 2,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/cVcfdoR.jpeg?2",
-      "https://i.imgur.com/0DF1YAC.jpeg?3",
-      "https://i.imgur.com/Q2zbk2O.jpeg?4",
-      "https://i.imgur.com/Cavof0E.jpeg?5",
-      "https://i.imgur.com/9p7ojgO.jpeg?6",
-      "https://i.imgur.com/Qw6zHQG.jpeg?7",
-      "https://i.imgur.com/WGfS32E.jpeg?8",
-      "https://i.imgur.com/FgCQAkI.jpeg?9",
-      "https://i.imgur.com/Ox7sZVu.jpeg?10",
-      "https://i.imgur.com/15wL5Av.jpeg?11",
-      "https://i.imgur.com/hovkKFc.jpeg?12",
-      "https://i.imgur.com/jDU3U7c.jpeg?13"
-    ]
-  },
-  {
     "id": 32073,
     "publicado": "2024-04-02",
     "direccion": "Calle Ca\u00f1izares 3",
@@ -337,7 +305,7 @@
   {
     "id": 32096,
     "publicado": "2024-04-12",
-    "modificado": "2024-04-17",
+    "modificado": "2024-05-09",
     "direccion": "Paseo Marques De Zafra 51",
     "municipio": "Madrid",
     "distrito": "Salamanca",
@@ -349,7 +317,7 @@
     "aseos": 1,
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/8t5RCYs.jpeg?1",
       "https://i.imgur.com/GHW0BVj.jpeg?2",
@@ -479,6 +447,34 @@
       "https://i.imgur.com/nSrMSST.jpeg?10",
       "https://i.imgur.com/s8hXKKs.jpeg?12",
       "https://i.imgur.com/1jyW9gZ.jpeg?13"
+    ]
+  },
+  {
+    "id": 32117,
+    "publicado": "2024-05-09",
+    "direccion": "Calle Antonio Romero 19",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Abrantes",
+    "planta": 0,
+    "orientacion": "Exterior",
+    "precio": 900,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/vNshx3d.jpeg?2",
+      "https://i.imgur.com/ZMnhFZ3.jpeg?3",
+      "https://i.imgur.com/R20Gquj.jpeg?4",
+      "https://i.imgur.com/E69QxoO.jpeg?5",
+      "https://i.imgur.com/YCpWjBB.jpeg?6",
+      "https://i.imgur.com/Xu6UC7l.jpeg?7",
+      "https://i.imgur.com/1Brts2N.jpeg?8",
+      "https://i.imgur.com/RLfanVm.jpeg?9",
+      "https://i.imgur.com/PNFJIaD.jpeg?10"
     ]
   }
 ]
