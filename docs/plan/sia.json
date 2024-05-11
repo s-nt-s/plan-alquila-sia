@@ -305,7 +305,7 @@
   {
     "id": 32096,
     "publicado": "2024-04-12",
-    "modificado": "2024-05-10",
+    "modificado": "2024-05-11",
     "direccion": "Paseo Marques De Zafra 51",
     "municipio": "Madrid",
     "distrito": "Salamanca",
@@ -315,6 +315,7 @@
     "precio": 515,
     "dormitorios": 1,
     "aseos": 1,
+    "cee": "G",
     "ascensor": true,
     "adaptada": false,
     "reservada": true,
