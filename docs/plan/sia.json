@@ -163,37 +163,6 @@
     ]
   },
   {
-    "id": 32080,
-    "publicado": "2024-04-12",
-    "modificado": "2024-05-06",
-    "direccion": "Calle Hermanos Gomez 45",
-    "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "barrio": "Ventas",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 835,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/HOH0gVK.jpeg?7",
-      "https://i.imgur.com/wx4ocDW.jpeg?13",
-      "https://i.imgur.com/5gvmJrP.jpeg?14",
-      "https://i.imgur.com/nF7FGeh.jpeg?15",
-      "https://i.imgur.com/6NVcMXu.jpeg?16",
-      "https://i.imgur.com/VxjmRsv.jpeg?17",
-      "https://i.imgur.com/WAv1gxb.jpeg?18",
-      "https://i.imgur.com/2XpNpkX.jpeg?19",
-      "https://i.imgur.com/Ga6Bxl0.jpeg?20",
-      "https://i.imgur.com/BliEBYa.jpeg?21",
-      "https://i.imgur.com/qu3dPaZ.jpeg?22"
-    ]
-  },
-  {
     "id": 32086,
     "publicado": "2024-04-24",
     "direccion": "Plaza Verin 11",
@@ -222,6 +191,7 @@
   {
     "id": 32089,
     "publicado": "2024-05-06",
+    "modificado": "2024-05-16",
     "direccion": "Calle Gallur 159",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -234,7 +204,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/zhNGGf6.jpeg?3",
       "https://i.imgur.com/00ukyk2.jpeg?4",
