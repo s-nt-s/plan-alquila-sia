@@ -395,6 +395,37 @@
     ]
   },
   {
+    "id": 32109,
+    "publicado": "2024-05-17",
+    "direccion": "Calle Alfredo Aleix 29",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Buenavista",
+    "planta": 2,
+    "precio": 840,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/4cCZNFH.jpeg?5",
+      "https://i.imgur.com/JLGLuU6.jpeg?6",
+      "https://i.imgur.com/vZw3rBf.jpeg?7",
+      "https://i.imgur.com/D2TcvMp.jpeg?9",
+      "https://i.imgur.com/FjH5CPy.jpeg?10",
+      "https://i.imgur.com/hcUepX6.jpeg?12",
+      "https://i.imgur.com/tvwVNZK.jpeg?13",
+      "https://i.imgur.com/qOlWfcy.jpeg?16",
+      "https://i.imgur.com/wBEdp17.jpeg?17",
+      "https://i.imgur.com/ipmtE6w.jpeg?18",
+      "https://i.imgur.com/LVqv3Pf.jpeg?19",
+      "https://i.imgur.com/dWI7g29.jpeg?20",
+      "https://i.imgur.com/YHTyO6P.jpeg?21"
+    ]
+  },
+  {
     "id": 32115,
     "publicado": "2024-05-14",
     "direccion": "Paseo Yeserias 49",
@@ -428,6 +459,7 @@
   {
     "id": 32116,
     "publicado": "2024-05-14",
+    "modificado": "2024-05-17",
     "direccion": "Calle Polan 2",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -440,7 +472,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/rUtR21o.jpeg?2",
       "https://i.imgur.com/xvWruuh.jpeg?3",
