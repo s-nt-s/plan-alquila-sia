@@ -426,6 +426,30 @@
     ]
   },
   {
+    "id": 32113,
+    "publicado": "2024-05-20",
+    "direccion": "Calle Del Amparo 50",
+    "municipio": "Madrid",
+    "distrito": "Centro",
+    "barrio": "Embajadores",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 650,
+    "dormitorios": 1,
+    "aseos": 1,
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/8LKL9pj.jpeg?1",
+      "https://i.imgur.com/ef5vB8h.jpeg?2",
+      "https://i.imgur.com/cCgoMfi.jpeg?3",
+      "https://i.imgur.com/eGw3wHP.jpeg?4",
+      "https://i.imgur.com/iPcxpHN.jpeg?5",
+      "https://i.imgur.com/eyKgUnN.jpeg?6"
+    ]
+  },
+  {
     "id": 32115,
     "publicado": "2024-05-14",
     "direccion": "Paseo Yeserias 49",
