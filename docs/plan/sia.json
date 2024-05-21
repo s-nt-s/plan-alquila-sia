@@ -426,8 +426,35 @@
     ]
   },
   {
+    "id": 32110,
+    "publicado": "2024-05-21",
+    "direccion": "Calle Caliza 29",
+    "municipio": "Madrid",
+    "distrito": "Vicalvaro",
+    "barrio": "Ambroz",
+    "planta": 6,
+    "orientacion": "Exterior",
+    "precio": 1050,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/606sZWo.jpeg?2",
+      "https://i.imgur.com/Ad2eAar.jpeg?3",
+      "https://i.imgur.com/FpX5nZq.jpeg?4",
+      "https://i.imgur.com/hA11Ryr.jpeg?5",
+      "https://i.imgur.com/JWON6fY.jpeg?9",
+      "https://i.imgur.com/hyyRwoY.jpeg?10",
+      "https://i.imgur.com/oTWR3CF.jpeg?11"
+    ]
+  },
+  {
     "id": 32113,
     "publicado": "2024-05-20",
+    "modificado": "2024-05-21",
     "direccion": "Calle Del Amparo 50",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -437,6 +464,7 @@
     "precio": 650,
     "dormitorios": 1,
     "aseos": 1,
+    "cee": "E",
     "ascensor": false,
     "adaptada": false,
     "reservada": false,
@@ -447,6 +475,34 @@
       "https://i.imgur.com/eGw3wHP.jpeg?4",
       "https://i.imgur.com/iPcxpHN.jpeg?5",
       "https://i.imgur.com/eyKgUnN.jpeg?6"
+    ]
+  },
+  {
+    "id": 32114,
+    "publicado": "2024-05-21",
+    "direccion": "Calle Charleroi 20",
+    "municipio": "Madrid",
+    "distrito": "Puente de Vallecas",
+    "barrio": "Palomeras Sureste",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 725,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/u4e9kNC.jpeg?2",
+      "https://i.imgur.com/sFmcSC8.jpeg?3",
+      "https://i.imgur.com/4ZAdii9.jpeg?4",
+      "https://i.imgur.com/d5C6hI6.jpeg?5",
+      "https://i.imgur.com/ZRhIFRq.jpeg?6",
+      "https://i.imgur.com/XbCiwNf.jpeg?7",
+      "https://i.imgur.com/ptsovkr.jpeg?8",
+      "https://i.imgur.com/xlwAuKZ.jpeg?9",
+      "https://i.imgur.com/JoM7uY5.jpeg?10"
     ]
   },
   {
@@ -535,6 +591,35 @@
       "https://i.imgur.com/1Brts2N.jpeg?8",
       "https://i.imgur.com/RLfanVm.jpeg?9",
       "https://i.imgur.com/PNFJIaD.jpeg?10"
+    ]
+  },
+  {
+    "id": 32124,
+    "publicado": "2024-05-21",
+    "direccion": "Calle Zalacain 3",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "barrio": "San Ferm\u00edn",
+    "planta": 0,
+    "precio": 775,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/qLNfJ3c.jpeg?2",
+      "https://i.imgur.com/IVCxdJa.jpeg?3",
+      "https://i.imgur.com/hxTliPr.jpeg?4",
+      "https://i.imgur.com/oJh5Qtj.jpeg?5",
+      "https://i.imgur.com/0OWlGmp.jpeg?6",
+      "https://i.imgur.com/XuOlZBt.jpeg?7",
+      "https://i.imgur.com/X0VxMQ7.jpeg?8",
+      "https://i.imgur.com/EChPFgz.jpeg?9",
+      "https://i.imgur.com/i8DNd0D.jpeg?11",
+      "https://i.imgur.com/ovD0sQY.jpeg?12",
+      "https://i.imgur.com/yJ1F5xI.jpeg?13"
     ]
   }
 ]
