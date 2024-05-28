@@ -473,7 +473,7 @@
   {
     "id": 32117,
     "publicado": "2024-05-09",
-    "modificado": "2024-05-14",
+    "modificado": "2024-05-28",
     "direccion": "Calle Antonio Romero 19",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -486,7 +486,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/vNshx3d.jpeg?2",
       "https://i.imgur.com/ZMnhFZ3.jpeg?3",
@@ -553,6 +553,7 @@
   {
     "id": 32124,
     "publicado": "2024-05-21",
+    "modificado": "2024-05-28",
     "direccion": "Calle Zalacain 3",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -564,7 +565,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/qLNfJ3c.jpeg?2",
       "https://i.imgur.com/IVCxdJa.jpeg?3",
@@ -582,6 +583,7 @@
   {
     "id": 32126,
     "publicado": "2024-05-27",
+    "modificado": "2024-05-28",
     "direccion": "Calle Santa Maria De La Cabeza 120",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -593,7 +595,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/HEqI3AL.jpeg?2",
       "https://i.imgur.com/NoYobGP.jpeg?3",
