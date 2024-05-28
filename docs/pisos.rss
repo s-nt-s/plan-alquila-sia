@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 28 May 2024 13:43:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 May 2024 18:44:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -135,6 +135,14 @@
 			<pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/210890?2024-05-10</guid>
+		</item>
+		<item>
+			<title>900€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/212621</link>
+			<description>Av. Pablo Iglesias, 84,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;83m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/212621</description>
+			<pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/212621?2024-05-28</guid>
 		</item>
 		<item>
 			<title>1300€ Centro</title>
@@ -1033,14 +1041,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274702?2024-03-25</guid>
 		</item>
 		<item>
-			<title>1200€ Móstoles</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274717</link>
-			<description>C/ Palmas, 47,&lt;br/&gt;5º con ascensor,&lt;br/&gt;67m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274717</description>
-			<pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-			<category>Móstoles</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274717?2024-04-03</guid>
-		</item>
-		<item>
 			<title>850€ Colmenar Viejo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274733</link>
 			<description>C/ Doctor Fleming, 11,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274733</description>
@@ -1463,6 +1463,14 @@
 			<pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
 			<category>Móstoles</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274851?2024-05-24</guid>
+		</item>
+		<item>
+			<title>1063€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274853</link>
+			<description>C/ Isadora Duncan, 1,&lt;br/&gt;3º con ascensor,&lt;br/&gt;84m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274853</description>
+			<pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274853?2024-05-28</guid>
 		</item>
 		<item>
 			<title>850€ San Blas-Canillejas</title>
