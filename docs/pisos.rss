@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 29 May 2024 13:42:05 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 May 2024 18:45:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -159,14 +159,6 @@
 			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Coslada</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/219969?2024-03-25</guid>
-		</item>
-		<item>
-			<title>875€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/220095</link>
-			<description>C/ Alameda del Valle, 36,&lt;br/&gt;5º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/220095</description>
-			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/220095?2024-03-05</guid>
 		</item>
 		<item>
 			<title>725€ Hortaleza</title>
@@ -1119,6 +1111,14 @@
 			<pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274762?2024-04-24</guid>
+		</item>
+		<item>
+			<title>893€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274765</link>
+			<description>C/ Sierra de Toloño, 12,&lt;br/&gt;1º con ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274765</description>
+			<pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274765?2024-04-25</guid>
 		</item>
 		<item>
 			<title>1150€ San Blas-Canillejas</title>
