@@ -386,7 +386,7 @@
   {
     "id": 32113,
     "publicado": "2024-05-20",
-    "modificado": "2024-05-21",
+    "modificado": "2024-05-31",
     "direccion": "Calle Del Amparo 50",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -399,7 +399,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/8LKL9pj.jpeg?1",
       "https://i.imgur.com/ef5vB8h.jpeg?2",
@@ -561,6 +561,7 @@
   {
     "id": 32121,
     "publicado": "2024-05-27",
+    "modificado": "2024-05-31",
     "direccion": "Calle Cabeza Mesada 21",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -572,7 +573,7 @@
     "aseos": 1,
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/rlc26Bq.jpeg?1",
       "https://i.imgur.com/oozGjX0.jpeg?2",
@@ -588,6 +589,7 @@
   {
     "id": 32123,
     "publicado": "2024-05-27",
+    "modificado": "2024-05-31",
     "direccion": "Calle Puerto De Idiazabal 9",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -600,7 +602,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/LTEglYP.jpeg?2",
       "https://i.imgur.com/bCRSTWD.jpeg?3",
