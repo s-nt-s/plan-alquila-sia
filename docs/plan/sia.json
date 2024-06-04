@@ -101,6 +101,7 @@
   {
     "id": 32073,
     "publicado": "2024-04-02",
+    "modificado": "2024-06-04",
     "direccion": "Calle Ca\u00f1izares 3",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -113,7 +114,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Y2gI2H8.jpeg?2",
       "https://i.imgur.com/QzMkbOI.jpeg?3",
@@ -183,61 +184,9 @@
     ]
   },
   {
-    "id": 32090,
-    "publicado": "2024-05-06",
-    "modificado": "2024-05-17",
-    "direccion": "Calle La Del Manojo De Rosas 108",
-    "municipio": "Madrid",
-    "distrito": "Villaverde",
-    "barrio": "Los \u00c1ngeles",
-    "planta": 8,
-    "orientacion": "Exterior",
-    "precio": 650,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/YdsbHIm.jpeg?2",
-      "https://i.imgur.com/I0vay5c.jpeg?3",
-      "https://i.imgur.com/6ZrKWfs.jpeg?4",
-      "https://i.imgur.com/ATofTx6.jpeg?5",
-      "https://i.imgur.com/O68cFMx.jpeg?6"
-    ]
-  },
-  {
-    "id": 32094,
-    "publicado": "2024-05-06",
-    "modificado": "2024-05-23",
-    "direccion": "Calle Mojacar 4",
-    "municipio": "Madrid",
-    "distrito": "Hortaleza",
-    "barrio": "Ap\u00f3stol Santiago",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 850,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/PTA89Mk.jpeg?2",
-      "https://i.imgur.com/A1UqXxO.jpeg?3",
-      "https://i.imgur.com/njGfOCj.jpeg?4",
-      "https://i.imgur.com/3kdz9Jl.jpeg?6",
-      "https://i.imgur.com/uw8StPq.jpeg?7",
-      "https://i.imgur.com/qckkEAa.jpeg?8",
-      "https://i.imgur.com/8BsomsT.jpeg?9"
-    ]
-  },
-  {
     "id": 32097,
     "publicado": "2024-04-26",
-    "modificado": "2024-05-30",
+    "modificado": "2024-06-04",
     "direccion": "Calle Caramuel 42",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -250,7 +199,7 @@
     "cee": "C",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/pHAKoF8.jpeg?2",
       "https://i.imgur.com/IxsIgcZ.jpeg?3",
@@ -468,34 +417,6 @@
       "https://i.imgur.com/P4aV7xl.jpeg?11",
       "https://i.imgur.com/Jrj02Tq.jpeg?12",
       "https://i.imgur.com/YZMjcAG.jpeg?13"
-    ]
-  },
-  {
-    "id": 32116,
-    "publicado": "2024-05-14",
-    "modificado": "2024-05-17",
-    "direccion": "Calle Polan 2",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Abrantes",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 1300,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/rUtR21o.jpeg?2",
-      "https://i.imgur.com/xvWruuh.jpeg?3",
-      "https://i.imgur.com/ehuNDKn.jpeg?4",
-      "https://i.imgur.com/4ZG0Cyo.jpeg?5",
-      "https://i.imgur.com/TwJjQcp.jpeg?6",
-      "https://i.imgur.com/qmSJzmx.jpeg?7",
-      "https://i.imgur.com/ayBrqhd.jpeg?8",
-      "https://i.imgur.com/s0mt9Dw.jpeg?9"
     ]
   },
   {
