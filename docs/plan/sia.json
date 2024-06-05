@@ -101,7 +101,7 @@
   {
     "id": 32073,
     "publicado": "2024-04-02",
-    "modificado": "2024-06-04",
+    "modificado": "2024-06-05",
     "direccion": "Calle Ca\u00f1izares 3",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -114,7 +114,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
       "https://i.imgur.com/Y2gI2H8.jpeg?2",
       "https://i.imgur.com/QzMkbOI.jpeg?3",
@@ -309,6 +309,7 @@
   {
     "id": 32110,
     "publicado": "2024-05-21",
+    "modificado": "2024-06-05",
     "direccion": "Calle Caliza 29",
     "municipio": "Madrid",
     "distrito": "Vicalvaro",
@@ -321,7 +322,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/606sZWo.jpeg?2",
       "https://i.imgur.com/Ad2eAar.jpeg?3",
@@ -385,38 +386,6 @@
       "https://i.imgur.com/ptsovkr.jpeg?8",
       "https://i.imgur.com/xlwAuKZ.jpeg?9",
       "https://i.imgur.com/JoM7uY5.jpeg?10"
-    ]
-  },
-  {
-    "id": 32115,
-    "publicado": "2024-05-14",
-    "modificado": "2024-05-27",
-    "direccion": "Paseo Yeserias 49",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Acacias",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 1800,
-    "dormitorios": 4,
-    "aseos": 3,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/JJZWaOA.jpeg?1",
-      "https://i.imgur.com/qzV1oxt.jpeg?2",
-      "https://i.imgur.com/1kldORX.jpeg?3",
-      "https://i.imgur.com/SNdz0kG.jpeg?4",
-      "https://i.imgur.com/twuNpqI.jpeg?5",
-      "https://i.imgur.com/0NFDpQr.jpeg?6",
-      "https://i.imgur.com/9hYUz63.jpeg?8",
-      "https://i.imgur.com/Qw23XJM.jpeg?9",
-      "https://i.imgur.com/k7ro6c5.jpeg?10",
-      "https://i.imgur.com/P4aV7xl.jpeg?11",
-      "https://i.imgur.com/Jrj02Tq.jpeg?12",
-      "https://i.imgur.com/YZMjcAG.jpeg?13"
     ]
   },
   {
@@ -565,8 +534,8 @@
   {
     "id": 32126,
     "publicado": "2024-05-27",
-    "modificado": "2024-05-28",
-    "direccion": "Calle Santa Maria De La Cabeza 120",
+    "modificado": "2024-06-05",
+    "direccion": "Paseo Santa Maria De La Cabeza 120",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
     "barrio": "Comillas",
