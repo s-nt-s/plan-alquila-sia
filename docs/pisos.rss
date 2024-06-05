@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 05 Jun 2024 13:44:43 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Jun 2024 18:44:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -63,14 +63,6 @@
 			<pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32108?2024-05-30</guid>
-		</item>
-		<item>
-			<title>750€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32120</link>
-			<description>C/ Parador Del Sol 40,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;1 🛏,&lt;br/&gt;1 🛀, 12 📷.&lt;br/&gt;sia/32120</description>
-			<pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32120?2024-05-30</guid>
 		</item>
 		<item>
 			<title>1350€ Arganzuela</title>
@@ -1439,6 +1431,14 @@
 			<pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
 			<category>San Sebastián de los Reyes</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274867?2024-06-04</guid>
+		</item>
+		<item>
+			<title>1250€ Alcobendas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274870</link>
+			<description>Av. Miguel de Cervantes, 8,&lt;br/&gt;4º con ascensor,&lt;br/&gt;74m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274870</description>
+			<pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+			<category>Alcobendas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274870?2024-06-05</guid>
 		</item>
 		<item>
 			<title>965€ Getafe</title>
