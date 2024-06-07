@@ -101,7 +101,7 @@
   {
     "id": 32073,
     "publicado": "2024-04-02",
-    "modificado": "2024-06-05",
+    "modificado": "2024-06-07",
     "direccion": "Calle Ca\u00f1izares 3",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -114,7 +114,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Y2gI2H8.jpeg?2",
       "https://i.imgur.com/QzMkbOI.jpeg?3",
@@ -149,38 +149,6 @@
       "https://i.imgur.com/cbtYNBa.jpeg?6",
       "https://i.imgur.com/oaR5w6N.jpeg?7",
       "https://i.imgur.com/hJ2Txut.jpeg?8"
-    ]
-  },
-  {
-    "id": 32089,
-    "publicado": "2024-05-06",
-    "modificado": "2024-05-16",
-    "direccion": "Calle Gallur 159",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "C\u00e1rmenes",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 725,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/zhNGGf6.jpeg?3",
-      "https://i.imgur.com/00ukyk2.jpeg?4",
-      "https://i.imgur.com/kDrV32e.jpeg?5",
-      "https://i.imgur.com/3gtmM0I.jpeg?6",
-      "https://i.imgur.com/5Fhq5OV.jpeg?7",
-      "https://i.imgur.com/RNN2aOR.jpeg?8",
-      "https://i.imgur.com/QTwb9yY.jpeg?9",
-      "https://i.imgur.com/Y9OAXEj.jpeg?10",
-      "https://i.imgur.com/PMXumSm.jpeg?11",
-      "https://i.imgur.com/hfQyBdf.jpeg?12",
-      "https://i.imgur.com/CJ8oAAC.jpeg?13",
-      "https://i.imgur.com/l0ALl2u.jpeg?14"
     ]
   },
   {
