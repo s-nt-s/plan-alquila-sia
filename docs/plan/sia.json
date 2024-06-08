@@ -356,7 +356,7 @@
   {
     "id": 32121,
     "publicado": "2024-05-27",
-    "modificado": "2024-05-31",
+    "modificado": "2024-06-08",
     "direccion": "Calle Cabeza Mesada 21",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -366,6 +366,7 @@
     "precio": 579,
     "dormitorios": 1,
     "aseos": 1,
+    "cee": "E",
     "ascensor": true,
     "adaptada": false,
     "reservada": true,
