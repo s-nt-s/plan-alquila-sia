@@ -128,6 +128,7 @@
   {
     "id": 32086,
     "publicado": "2024-04-24",
+    "modificado": "2024-06-10",
     "direccion": "Plaza Verin 11",
     "municipio": "Madrid",
     "distrito": "Fuencarral-El Pardo",
@@ -140,7 +141,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/puPTuU7.jpeg?2",
       "https://i.imgur.com/GeljAPH.jpeg?3",
@@ -354,35 +355,6 @@
     ]
   },
   {
-    "id": 32121,
-    "publicado": "2024-05-27",
-    "modificado": "2024-06-08",
-    "direccion": "Calle Cabeza Mesada 21",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Ensanche de Vallecas",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 579,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/rlc26Bq.jpeg?1",
-      "https://i.imgur.com/oozGjX0.jpeg?2",
-      "https://i.imgur.com/payggaG.jpeg?3",
-      "https://i.imgur.com/cUAmj3u.jpeg?4",
-      "https://i.imgur.com/Vg8pZYR.jpeg?5",
-      "https://i.imgur.com/NOKQHCj.jpeg?6",
-      "https://i.imgur.com/MFPVUeB.jpeg?7",
-      "https://i.imgur.com/QCDFv6E.jpeg?8",
-      "https://i.imgur.com/7HKqY0L.jpeg?9"
-    ]
-  },
-  {
     "id": 32123,
     "publicado": "2024-05-27",
     "modificado": "2024-05-31",
@@ -435,41 +407,6 @@
       "https://i.imgur.com/i8DNd0D.jpeg?11",
       "https://i.imgur.com/ovD0sQY.jpeg?12",
       "https://i.imgur.com/yJ1F5xI.jpeg?13"
-    ]
-  },
-  {
-    "id": 32126,
-    "publicado": "2024-05-27",
-    "modificado": "2024-06-05",
-    "direccion": "Paseo Santa Maria De La Cabeza 120",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Comillas",
-    "planta": 1,
-    "precio": 576,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/HEqI3AL.jpeg?2",
-      "https://i.imgur.com/NoYobGP.jpeg?3",
-      "https://i.imgur.com/aexoTUP.jpeg?4",
-      "https://i.imgur.com/jmU0n4h.jpeg?5",
-      "https://i.imgur.com/DVk2q5S.jpeg?6",
-      "https://i.imgur.com/ZhCmP6F.jpeg?7",
-      "https://i.imgur.com/N5cnvWc.jpeg?8",
-      "https://i.imgur.com/pBjhrnD.jpeg?9",
-      "https://i.imgur.com/660JGPy.jpeg?10",
-      "https://i.imgur.com/WgdBlO1.jpeg?11",
-      "https://i.imgur.com/NXkKtHY.jpeg?12",
-      "https://i.imgur.com/bf7TaRp.jpeg?13",
-      "https://i.imgur.com/EgUTVyQ.jpeg?14",
-      "https://i.imgur.com/1D4ROd9.jpeg?15",
-      "https://i.imgur.com/nUddgCU.jpeg?16",
-      "https://i.imgur.com/tOmKHUb.jpeg?17"
     ]
   },
   {
