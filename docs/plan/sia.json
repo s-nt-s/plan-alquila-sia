@@ -412,6 +412,7 @@
   {
     "id": 32127,
     "publicado": "2024-06-06",
+    "modificado": "2024-06-11",
     "direccion": "Calle Rocafort 4",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -421,6 +422,7 @@
     "precio": 800,
     "dormitorios": 3,
     "aseos": 1,
+    "cee": "E",
     "ascensor": false,
     "adaptada": false,
     "reservada": false,
