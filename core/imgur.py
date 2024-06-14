@@ -4,13 +4,25 @@ import logging
 from base64 import standard_b64encode
 from functools import cache
 from requests.exceptions import JSONDecodeError
-
+import bs4
+from typing import Union
+import re
 
 logger = logging.getLogger(__name__)
 
 
 class ImgUrlException(Exception):
     pass
+
+
+def get_text(n: Union[bs4.Tag, None]):
+    if n is None:
+        return None
+    txt = n.get_text()
+    txt = re.sub(r"\s+", " ", txt).strip()
+    if len(txt) == 0:
+        return None
+    return txt
 
 
 def get(obj, *args):
@@ -72,7 +84,9 @@ class ImgUr:
         try:
             js = r.json()
         except JSONDecodeError:
-            raise ImgUrlException("Not json response: "+r.text)
+            self.__raise_error_from_text(r.text)
+        except requests.exceptions.SSLError:
+            raise ImgUrlException(ImgUr.UPLOAD+" no disponible (ssl error)")
 
         error = get(js, 'data', 'error', 'message')
         if error:
@@ -84,6 +98,14 @@ class ImgUr:
             raise ImgUrlException("Not link found: "+r.text)
 
         return link
+
+    def __raise_error_from_text(self, text: str):
+        if text.startswith("<!DOCTYPE"):
+            soup = bs4.BeautifulSoup(text, "html.parser")
+            title = get_text(soup.select_one("html, title"))
+            if title:
+                raise ImgUrlException("html response instead json: "+title)
+        raise ImgUrlException("Not json response: "+text)
 
     def safe_upload(self, url):
         try:
