@@ -103,7 +103,7 @@ class ImgUr:
     def __raise_error_from_text(self, text: str):
         if text.startswith("<!DOCTYPE"):
             soup = bs4.BeautifulSoup(text, "html.parser")
-            title = get_text(soup.select_one("html title"))
+            title = get_text(soup.select_one("title"))
             if title is not None:
                 raise ImgUrlException("html response instead json: "+title)
         raise ImgUrlException("Not json response: "+text)
