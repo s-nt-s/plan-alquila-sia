@@ -60,33 +60,6 @@
     ]
   },
   {
-    "id": 32073,
-    "publicado": "2024-04-02",
-    "modificado": "2024-06-07",
-    "direccion": "Calle Ca\u00f1izares 3",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Embajadores",
-    "planta": 3,
-    "orientacion": "Interior",
-    "precio": 1200,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/Y2gI2H8.jpeg?2",
-      "https://i.imgur.com/QzMkbOI.jpeg?3",
-      "https://i.imgur.com/cf7J6Jt.jpeg?4",
-      "https://i.imgur.com/VYzzSEF.jpeg?5",
-      "https://i.imgur.com/jmgQOdU.jpeg?6",
-      "https://i.imgur.com/O8CcIcI.jpeg?7",
-      "https://i.imgur.com/ms1tlos.jpeg?8"
-    ]
-  },
-  {
     "id": 32086,
     "publicado": "2024-04-24",
     "modificado": "2024-06-10",
@@ -502,34 +475,6 @@
     ]
   },
   {
-    "id": 32139,
-    "publicado": "2024-06-06",
-    "modificado": "2024-06-15",
-    "direccion": "Calle Cuevas De Altamira 27",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Buenavista",
-    "planta": 2,
-    "precio": 750,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/MoR1Ikx.jpeg?1",
-      "https://i.imgur.com/rbvTJTH.jpeg?2",
-      "https://i.imgur.com/hIc03Eo.jpeg?3",
-      "https://i.imgur.com/fSe54eY.jpeg?4",
-      "https://i.imgur.com/NEb3j6W.jpeg?5",
-      "https://i.imgur.com/zfEB24E.jpeg?6",
-      "https://i.imgur.com/aRYIk4F.jpeg?7",
-      "https://i.imgur.com/zzkR4bV.jpeg?8",
-      "https://i.imgur.com/vAhapJt.jpeg?9"
-    ]
-  },
-  {
     "id": 32140,
     "publicado": "2024-06-06",
     "modificado": "2024-06-15",
@@ -559,7 +504,7 @@
   {
     "id": 32141,
     "publicado": "2024-06-15",
-    "modificado": "2024-06-15",
+    "modificado": "2024-06-18",
     "direccion": "Calle Cleopatra 15",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -572,7 +517,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/X7FkZmt.jpeg?2",
       "https://i.imgur.com/fBFy3LI.jpeg?3",
