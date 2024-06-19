@@ -261,34 +261,9 @@
     ]
   },
   {
-    "id": 32123,
-    "publicado": "2024-05-27",
-    "modificado": "2024-05-31",
-    "direccion": "Calle Puerto De Idiazabal 9",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Casco Hist\u00f3rico de Vallecas",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 550,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/LTEglYP.jpeg?2",
-      "https://i.imgur.com/bCRSTWD.jpeg?3",
-      "https://i.imgur.com/9kyEMdn.jpeg?4",
-      "https://i.imgur.com/weJ0GNA.jpeg?5",
-      "https://i.imgur.com/4KiZcZH.jpeg?6"
-    ]
-  },
-  {
     "id": 32127,
     "publicado": "2024-06-06",
-    "modificado": "2024-06-18",
+    "modificado": "2024-06-19",
     "direccion": "Calle Rocafort 4",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -301,7 +276,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/cgDyZ2X.jpeg?1",
       "https://i.imgur.com/ungrE4G.jpeg?2",
