@@ -177,32 +177,6 @@
     ]
   },
   {
-    "id": 32113,
-    "publicado": "2024-05-20",
-    "modificado": "2024-05-31",
-    "direccion": "Calle Del Amparo 50",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Embajadores",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 650,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/8LKL9pj.jpeg?1",
-      "https://i.imgur.com/ef5vB8h.jpeg?2",
-      "https://i.imgur.com/cCgoMfi.jpeg?3",
-      "https://i.imgur.com/eGw3wHP.jpeg?4",
-      "https://i.imgur.com/iPcxpHN.jpeg?5",
-      "https://i.imgur.com/eyKgUnN.jpeg?6"
-    ]
-  },
-  {
     "id": 32114,
     "publicado": "2024-05-21",
     "modificado": "2024-05-30",
@@ -551,6 +525,7 @@
   {
     "id": 32146,
     "publicado": "2024-06-17",
+    "modificado": "2024-06-20",
     "direccion": "Calle Francisco Fatou 26",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -563,7 +538,7 @@
     "cee": "D",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/dK5bgm6.jpeg?3",
       "https://i.imgur.com/Idhrza0.jpeg?4",
