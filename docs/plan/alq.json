@@ -1407,35 +1407,6 @@
     "imgs": []
   },
   {
-    "id": 270855,
-    "publicado": "2024-06-12",
-    "direccion": "Calle Bravo Murillo, 226",
-    "municipio": "Madrid",
-    "distrito": "Tetu\u00e1n",
-    "planta": 1,
-    "precio": 1100,
-    "metros": 39,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rFDEYxt9Od2u1ldauIArFgicRMtdCvbityMBoxcpS11M2G2ezZJJsktkdKRYVtKAHxQ-8CAp6USr-H4IKBcGLoF5ExA-8CJ6a2Y!uWpxTmLzPm-f3vO!6d8gnGgrnwzpuYsSxiNBipU6Jnbv9ZvnRpDnMPYBUAUDeaNjTrypKySkWr2f05XcP!!7wYKgM-SbmCXXVFnaxGEfUrysaOd2BSGGOmLBUo8QyblCQXYsFK59fffXtfXHtmQe5EHKYW2mh0HbjZ278wIkiqudCyGNBarIBqzASQqFqFqghminCpOh0szA1IFyymonI6UZZtXPflqbqX45u!6nPj5!-ubI26ziCHoeGyT7vqSSuUH19!f702L2PN7uheMsma7oTYHhGdY6jbx-8dC!MSx0hrDCpURRfvIAJNajJaAtlR06tQZSjeengUnushTU9i6OT1NZk9XiqNDXGUbnQs29o3E1Aw!7MS5rJttc1wn1j5VuffmWm3Cy36vqdnly7sfS7vHG0bdu5O0hkjEwi!tctiBX!cGZ1dvzc3Z!ZyxngRMuHI4dWKokhuCp1iTkUUcWnkwpn7g8uuk1ACrsBl5iR-hLA9qXqTuPFRunL1-mVE72l8izsbWfMJFpMrEqsK6Q4toPRdxZSqdQ576YwEGgoCbYDaXkwHMAIkTyJRQA5zgR1i6WwrWUkO9q7XHGx3rEQ-IaSRFOfCcKTKvWbXTDVA!MdcqOHa7Z4TXtygrosUFqzMW9NwG7ijFvaubGp2gQr-CVf",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rFDEYxt9Od2u1ldauIArFgicRMtdCvbityMBoxcpS11M2G2ezZJJsktkdKRYVtKAHxQ-8CAp6USr4dwgqFAQvgnoRET!wInhqZj-6a3FOYfI-b57f877r3yGfaCicD-u4iRHHIkKLlToldu72m-VHk-Yw9wBSBQB5o2FPv6ooJadYvJ7Rl989!PvDg6Ey5JuYJ9RVW9jFYhxRv65o5HQHIoU5YsJSjRLLuEFBdi0WrHx-9dW398W1Zx7kQshhbqWFQtuNn7nxAyeKqJ4LIY8FqckGrMJICIWqWaCGaKYIk6LTzcLUgHDJaiYipxtl1c59W5qqfzm6!ac-P37658rarOMIehwaJvu8p5K4QvX19fvTY!c-3uyG4i2brOlOgOEZ1TmOvn3w0r0wL3WEsMKkRlF88QIm1KAmoy2UHTm1BlGO5qWDS-2xFtb0LI5OUluT1eOp0tQYR-VCz76hcTcBDfszL2km217XCPeNlW99-pWZcrPcqut3enLtxtLv8sbRtm3n7iCRMTKJ-F-3IFb8w5nV2fFzd39mL2eAEy0fjhxaqSSG4KrUJeZQRBWfTiqcuT-46DYBKewGXGJG6ksA25eqO40XG6UvX6dXTvSWyrOwt50xk2gxsSqxrpDi2A5G31lIpVLnvJvCQKChJNgOpOXBcAAjRPIkFgHkOBPULZbCtpaR7GjvcsXFesdC4BtKEk19JghPqtRvdsFUD8x3yI0ertniNe3JCeqyQGnNxrw1AbuJM25p58amahMt!iVg",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rFDEYxt9Od2u1ldauIArFgicRMtdCvbityMBoxcpS11M2G2ezZJJsktkdKRYVtKAHxQ-8CAp6UerFP0NQoSB4EdSLiPiBF8FTM!vRXYtzCpP3efP8nvdd!w75REPhfFjHTYw4FhFarNQpsXO33yw!mjSHuQeQKgDIGw17-lVFKTnF4vWMvvzu4d8fHgyVId!EPKGu2sIuFuOI-nVFI6c7ECnMEROWapRYxg0KsmuxYOXzq6--vS-uPfMgF0IOcystFNpu!MyNHzhRRPVcCHksSE02YBVGQihUzQI1RDNFmBSdbhamBoRLVjMROd0oq3bu29JU!cvR7T!1-fHTP1fWZh1H0OPQMNnnPZXEFaqvr9-fHrv38WY3FG!ZZE13AgzPqM5x9O2Dl-6FeakjhBUmNYriixcwoQY1GW2h7MipNYhyNC8dXGqPtbCmZ3F0ktqarB5PlabGOCoXevYNjbsJaNifeUkz2fa6RrhvrHzr06!MlJvlVl2!05NrN5Z-lzeOtm07dweJjJFJxP-6BbHiH86szo6fu!szezkDnGj5cOTQSiUxBFelLjGHIqr4dFLhzP3BRbcJSGE34BIzUl8C2L5U3Wm82Ch9-Tq9cqK3VJ6Fve2MmUSLiVWJdYUUx3Yw-s5CKpU6590UBgINJcF2IC0PhgMYIZInsQggx5mgbrEUtrWMZEd7lysu1jsWAt9QkmjqM0F4UqV-swumemC-Q270cM0Wr2lPTlCXBUprNuatCdhNnHFLOzc2VZsyCiVi",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rFDEYxt9Od2u1ldauIArFgicRMtdCvbityMBoxcpS11M2G2ezZJJsktkdKRYVtKAHxQ-8CAp6UerNv0JQoSB4EdSLiPiBF8FTM!vRXYtzCpP3efP8nvdd!w75REPhfFjHTYw4FhFarNQpsXO33yw!mjSHuQeQKgDIGw17-lVFKTnF4vWMvvzu4d8fHgyVId!EPKGu2sIuFuOI-nVFI6c7ECnMEROWapRYxg0KsmuxYOXzq6--vS-uPfMgF0IOcystFNpu!MyNHzhRRPVcCHksSE02YBVGQihUzQI1RDNFmBSdbhamBoRLVjMROd0oq3bu29JU!cvR7T!1-fHTP1fWZh1H0OPQMNnnPZXEFaqvr9-fHrv38WY3FG!ZZE13AgzPqM5x9O2Dl-6FeakjhBUmNYriixcwoQY1GW2h7MipNYhyNC8dXGqPtbCmZ3F0ktqarB5PlabGOCoXevYNjbsJaNifeUkz2fa6RrhvrHzr06!MlJvlVl2!05NrN5Z-lzeOtm07dweJjJFJxP-6BbHiH86szo6fu!szezkDnGj5cOTQSiUxBFelLjGHIqr4dFLhzP3BRbcJSGE34BIzUl8C2L5U3Wm82Ch9-Tq9cqK3VJ6Fve2MmUSLiVWJdYUUx3Yw-s5CKpU6590UBgINJcF2IC0PhgMYIZInsQggx5mgbrEUtrWMZEd7lysu1jsWAt9QkmjqM0F4UqV-swumemC-Q270cM0Wr2lPTlCXBUprNuatCdhNnHFLOzc2VZs2FiVk",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rFDEYxt9Od2u1ldauIArFgicRMtdCvbityMBoxcpS11M2G2ezZJJsktkdKRYVtKAHxQ-8CAp6UerRf0JQoSB4EdSLiPiBF8FTM!vRXYtzCpP3efP8nvdd!w75REPhfFjHTYw4FhFarNQpsXO33yw!mjSHuQeQKgDIGw17-lVFKTnF4vWMvvzu4d8fHgyVId!EPKGu2sIuFuOI-nVFI6c7ECnMEROWapRYxg0KsmuxYOXzq6--vS-uPfMgF0IOcystFNpu!MyNHzhRRPVcCHksSE02YBVGQihUzQI1RDNFmBSdbhamBoRLVjMROd0oq3bu29JU!cvR7T!1-fHTP1fWZh1H0OPQMNnnPZXEFaqvr9-fHrv38WY3FG!ZZE13AgzPqM5x9O2Dl-6FeakjhBUmNYriixcwoQY1GW2h7MipNYhyNC8dXGqPtbCmZ3F0ktqarB5PlabGOCoXevYNjbsJaNifeUkz2fa6RrhvrHzr06!MlJvlVl2!05NrN5Z-lzeOtm07dweJjJFJxP-6BbHiH86szo6fu!szezkDnGj5cOTQSiUxBFelLjGHIqr4dFLhzP3BRbcJSGE34BIzUl8C2L5U3Wm82Ch9-Tq9cqK3VJ6Fve2MmUSLiVWJdYUUx3Yw-s5CKpU6590UBgINJcF2IC0PhgMYIZInsQggx5mgbrEUtrWMZEd7lysu1jsWAt9QkmjqM0F4UqV-swumemC-Q270cM0Wr2lPTlCXBUprNuatCdhNnHFLOzc2VZs4HCVl"
-    ]
-  },
-  {
     "id": 270886,
     "publicado": "2024-03-21",
     "direccion": "Calle Emilia, 33",
