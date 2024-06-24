@@ -60,33 +60,6 @@
     ]
   },
   {
-    "id": 32086,
-    "publicado": "2024-04-24",
-    "modificado": "2024-06-10",
-    "direccion": "Plaza Verin 11",
-    "municipio": "Madrid",
-    "distrito": "Fuencarral-El Pardo",
-    "barrio": "Pilar",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 951,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/puPTuU7.jpeg?2",
-      "https://i.imgur.com/GeljAPH.jpeg?3",
-      "https://i.imgur.com/ZLlGyoF.jpeg?4",
-      "https://i.imgur.com/luT3wZ8.jpeg?5",
-      "https://i.imgur.com/cbtYNBa.jpeg?6",
-      "https://i.imgur.com/oaR5w6N.jpeg?7",
-      "https://i.imgur.com/hJ2Txut.jpeg?8"
-    ]
-  },
-  {
     "id": 32097,
     "publicado": "2024-04-26",
     "modificado": "2024-06-04",
@@ -305,38 +278,6 @@
       "https://i.imgur.com/4poPT70.jpeg?24",
       "https://i.imgur.com/GdoKC7K.jpeg?25",
       "https://i.imgur.com/nicfP9B.jpeg?26"
-    ]
-  },
-  {
-    "id": 32132,
-    "publicado": "2024-05-30",
-    "modificado": "2024-06-15",
-    "direccion": "Calle Sebastian Elcano 36",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Palos de Moguer",
-    "planta": 2,
-    "orientacion": "Mixto",
-    "precio": 1350,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/Nn4svpL.jpeg?2",
-      "https://i.imgur.com/1jLRCXn.jpeg?3",
-      "https://i.imgur.com/17SZUDc.jpeg?4",
-      "https://i.imgur.com/r9xChCI.jpeg?5",
-      "https://i.imgur.com/axo3h3L.jpeg?6",
-      "https://i.imgur.com/hI4XnsX.jpeg?7",
-      "https://i.imgur.com/2wm7App.jpeg?8",
-      "https://i.imgur.com/Cxu4AR9.jpeg?9",
-      "https://i.imgur.com/DhOZa4P.jpeg?11",
-      "https://i.imgur.com/dHKtA8r.jpeg?13",
-      "https://i.imgur.com/JkF85t8.jpeg?14",
-      "https://i.imgur.com/WqO2Tsf.jpeg?15"
     ]
   },
   {
