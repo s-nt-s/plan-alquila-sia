@@ -150,35 +150,6 @@
     ]
   },
   {
-    "id": 32114,
-    "publicado": "2024-05-21",
-    "modificado": "2024-05-30",
-    "direccion": "Calle Charleroi 20",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "Palomeras Sureste",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 725,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/u4e9kNC.jpeg?2",
-      "https://i.imgur.com/sFmcSC8.jpeg?3",
-      "https://i.imgur.com/4ZAdii9.jpeg?4",
-      "https://i.imgur.com/d5C6hI6.jpeg?5",
-      "https://i.imgur.com/ZRhIFRq.jpeg?6",
-      "https://i.imgur.com/XbCiwNf.jpeg?7",
-      "https://i.imgur.com/ptsovkr.jpeg?8",
-      "https://i.imgur.com/xlwAuKZ.jpeg?9",
-      "https://i.imgur.com/JoM7uY5.jpeg?10"
-    ]
-  },
-  {
     "id": 32127,
     "publicado": "2024-06-06",
     "modificado": "2024-06-19",
@@ -361,33 +332,6 @@
       "https://i.imgur.com/KpNcqK1.jpeg?11",
       "https://i.imgur.com/QjglJG1.jpeg?12",
       "https://i.imgur.com/Y3Wv8fG.jpeg?13"
-    ]
-  },
-  {
-    "id": 32140,
-    "publicado": "2024-06-06",
-    "modificado": "2024-06-15",
-    "direccion": "Calle Salitre 9",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Embajadores",
-    "planta": 1,
-    "orientacion": "Mixto",
-    "precio": 765,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/8xaWJEe.jpeg?2",
-      "https://i.imgur.com/Gk7ZRVs.jpeg?3",
-      "https://i.imgur.com/SdYpc0F.jpeg?4",
-      "https://i.imgur.com/8Moixpa.jpeg?5",
-      "https://i.imgur.com/i0Lkans.jpeg?6",
-      "https://i.imgur.com/h3ynNB7.jpeg?7",
-      "https://i.imgur.com/R0LS3SS.jpeg?8"
     ]
   },
   {
