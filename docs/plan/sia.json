@@ -310,6 +310,7 @@
   {
     "id": 32137,
     "publicado": "2024-06-21",
+    "modificado": "2024-06-26",
     "direccion": "Calle Virgen Del Sagrario 13",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -322,7 +323,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/diIgp4s.jpeg?6",
       "https://i.imgur.com/TT4RCpx.jpeg?7",
