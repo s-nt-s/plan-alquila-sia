@@ -304,6 +304,7 @@
   {
     "id": 32147,
     "publicado": "2024-06-28",
+    "modificado": "2024-07-02",
     "direccion": "Avenida Padre Piquer 15",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -316,7 +317,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/OM5VA08.jpeg?2",
       "https://i.imgur.com/g5SSD5f.jpeg?3",
