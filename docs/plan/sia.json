@@ -135,7 +135,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/KxgKo7j.jpeg?6",
       "https://i.imgur.com/gybSVRW.jpeg?8",
@@ -316,33 +316,6 @@
       "https://i.imgur.com/C3yIf7U.jpeg?14",
       "https://i.imgur.com/6ZmN7hw.jpeg?15",
       "https://i.imgur.com/ceYR0LY.jpeg?16"
-    ]
-  },
-  {
-    "id": 32146,
-    "publicado": "2024-06-17",
-    "modificado": "2024-06-21",
-    "direccion": "Calle Francisco Fatou 26",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Casco Hist\u00f3rico de Vallecas",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 660,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/dK5bgm6.jpeg?3",
-      "https://i.imgur.com/Idhrza0.jpeg?4",
-      "https://i.imgur.com/qOxRRQT.jpeg?5",
-      "https://i.imgur.com/ycp8dSB.jpeg?7",
-      "https://i.imgur.com/icCxv8U.jpeg?8",
-      "https://i.imgur.com/CXQ23be.jpeg?9",
-      "https://i.imgur.com/yOImviK.jpeg?10"
     ]
   },
   {
