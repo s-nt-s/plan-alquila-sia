@@ -241,6 +241,7 @@
   {
     "id": 32142,
     "publicado": "2024-07-03",
+    "modificado": "2024-07-06",
     "direccion": "Calle Picos De Europa 56",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -250,6 +251,7 @@
     "precio": 770,
     "dormitorios": 1,
     "aseos": 1,
+    "cee": "E",
     "ascensor": true,
     "adaptada": false,
     "reservada": false,
