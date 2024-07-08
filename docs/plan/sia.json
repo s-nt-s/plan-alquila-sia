@@ -87,39 +87,6 @@
     ]
   },
   {
-    "id": 32130,
-    "publicado": "2024-06-15",
-    "modificado": "2024-06-28",
-    "direccion": "Calle General Lacy 58",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Delicias",
-    "planta": 7,
-    "orientacion": "Exterior",
-    "precio": 840,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/FH1yvAJ.jpeg?10",
-      "https://i.imgur.com/Ild3nPo.jpeg?11",
-      "https://i.imgur.com/LnhcpBu.jpeg?13",
-      "https://i.imgur.com/XC3b5FE.jpeg?14",
-      "https://i.imgur.com/UoQAIn0.jpeg?16",
-      "https://i.imgur.com/lxWmL0s.jpeg?17",
-      "https://i.imgur.com/QrwJVrS.jpeg?18",
-      "https://i.imgur.com/Mr9B0EL.jpeg?19",
-      "https://i.imgur.com/0C4UcFm.jpeg?20",
-      "https://i.imgur.com/bsH2P6t.jpeg?21",
-      "https://i.imgur.com/OTargwJ.jpeg?22",
-      "https://i.imgur.com/1Rtc6EH.jpeg?23",
-      "https://i.imgur.com/AC19OZ0.jpeg?24"
-    ]
-  },
-  {
     "id": 32131,
     "publicado": "2024-06-15",
     "modificado": "2024-07-04",
@@ -267,7 +234,7 @@
   {
     "id": 32143,
     "publicado": "2024-07-03",
-    "modificado": "2024-07-05",
+    "modificado": "2024-07-08",
     "direccion": "Calle Los Nogales 3",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -280,7 +247,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/n5iScUG.jpeg?2",
       "https://i.imgur.com/ud82hyT.jpeg?3",
@@ -373,6 +340,7 @@
   {
     "id": 32149,
     "publicado": "2024-07-01",
+    "modificado": "2024-07-08",
     "direccion": "Calle Transversal Sexta 10",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -385,7 +353,7 @@
     "cee": "C",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/laCqTf1.jpeg?1",
       "https://i.imgur.com/YDAyxQ9.jpeg?2",
@@ -429,6 +397,31 @@
       "https://i.imgur.com/5cFE20y.jpeg?11",
       "https://i.imgur.com/o7szKSl.jpeg?12",
       "https://i.imgur.com/hCuJ4cc.jpeg?13"
+    ]
+  },
+  {
+    "id": 32154,
+    "publicado": "2024-07-08",
+    "direccion": "Calle Via Carpetana 205",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Vista Alegre",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 850,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/fLF0Cm0.jpeg?1",
+      "https://i.imgur.com/jYqrA21.jpeg?2",
+      "https://i.imgur.com/t4jI4bv.jpeg?3",
+      "https://i.imgur.com/2w9SRhu.jpeg?4",
+      "https://i.imgur.com/5C3cjJJ.jpeg?5",
+      "https://i.imgur.com/GL8KdMK.jpeg?6"
     ]
   }
 ]
