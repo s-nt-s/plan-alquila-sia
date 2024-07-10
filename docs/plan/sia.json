@@ -87,41 +87,6 @@
     ]
   },
   {
-    "id": 32131,
-    "publicado": "2024-06-15",
-    "modificado": "2024-07-04",
-    "direccion": "Calle Bravo Murillo 359",
-    "municipio": "Madrid",
-    "distrito": "Tetuan",
-    "barrio": "Valdeacederas",
-    "planta": 7,
-    "orientacion": "Exterior",
-    "precio": 1150,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/KxgKo7j.jpeg?6",
-      "https://i.imgur.com/gybSVRW.jpeg?8",
-      "https://i.imgur.com/4SN5x8k.jpeg?14",
-      "https://i.imgur.com/7vgCLcm.jpeg?15",
-      "https://i.imgur.com/yp6jPQo.jpeg?16",
-      "https://i.imgur.com/6ng77CA.jpeg?17",
-      "https://i.imgur.com/uMQFkxt.jpeg?18",
-      "https://i.imgur.com/SNPDIp4.jpeg?19",
-      "https://i.imgur.com/6Z3nzSB.jpeg?20",
-      "https://i.imgur.com/f5PSkGN.jpeg?21",
-      "https://i.imgur.com/72tHAuL.jpeg?22",
-      "https://i.imgur.com/Ainx1rG.jpeg?23",
-      "https://i.imgur.com/4poPT70.jpeg?24",
-      "https://i.imgur.com/GdoKC7K.jpeg?25",
-      "https://i.imgur.com/nicfP9B.jpeg?26"
-    ]
-  },
-  {
     "id": 32133,
     "publicado": "2024-06-17",
     "modificado": "2024-06-21",
@@ -150,6 +115,7 @@
   {
     "id": 32135,
     "publicado": "2024-06-15",
+    "modificado": "2024-07-10",
     "direccion": "Calle Principal 15",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -162,7 +128,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/FuUpqiC.jpeg?2",
       "https://i.imgur.com/PYi1nAW.jpeg?3",
