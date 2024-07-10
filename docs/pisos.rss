@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 10 Jul 2024 13:42:57 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 10 Jul 2024 18:49:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,6 +79,14 @@
 			<pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
 			<category>Villaverde</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32156?2024-07-09</guid>
+		</item>
+		<item>
+			<title>1090€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/200697</link>
+			<description>C/ San Cipriano, 67K,&lt;br/&gt;3º con ascensor,&lt;br/&gt;112m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/200697</description>
+			<pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/200697?2024-07-10</guid>
 		</item>
 		<item>
 			<title>1900€ San Sebastián de los Reyes</title>
@@ -175,14 +183,6 @@
 			<pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/229214?2024-07-03</guid>
-		</item>
-		<item>
-			<title>820€ Retiro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/230337</link>
-			<description>Av. Menéndez Pelayo, 119,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;24m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/230337</description>
-			<pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
-			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/230337?2023-06-28</guid>
 		</item>
 		<item>
 			<title>1600€ Chamberí</title>
@@ -721,17 +721,9 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273961?2024-07-03</guid>
 		</item>
 		<item>
-			<title>950€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273962</link>
-			<description>C/ Escalona, 17,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;52m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/273962</description>
-			<pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273962?2024-06-13</guid>
-		</item>
-		<item>
 			<title>1400€ Moratalaz</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274070</link>
-			<description>C/ Antonio Cumella, 12,&lt;br/&gt;7º con ascensor,&lt;br/&gt;110m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274070</description>
+			<description>C/ Antonio Cumella, 12,&lt;br/&gt;7º con ascensor,&lt;br/&gt;110m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/274070</description>
 			<pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
 			<category>Moratalaz</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274070?2024-07-10</guid>
@@ -1255,14 +1247,6 @@
 			<pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274897?2024-06-15</guid>
-		</item>
-		<item>
-			<title>750€ Valdemoro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274898</link>
-			<description>C/ Hernán Cortés, 3,&lt;br/&gt;3º con ascensor,&lt;br/&gt;59m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/274898</description>
-			<pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
-			<category>Valdemoro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274898?2024-06-15</guid>
 		</item>
 		<item>
 			<title>1000€ Hortaleza</title>
