@@ -454,6 +454,7 @@
   {
     "id": 32155,
     "publicado": "2024-07-09",
+    "modificado": "2024-07-11",
     "direccion": "Calle Villamayor De Santiago 11",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -466,7 +467,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/pVvnqSk.jpeg?1",
       "https://i.imgur.com/VYyDE2w.jpeg?2",
@@ -488,7 +489,7 @@
   {
     "id": 32156,
     "publicado": "2024-07-09",
-    "modificado": "2024-07-09",
+    "modificado": "2024-07-11",
     "direccion": "Calle Limonita 12",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -501,7 +502,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/H5smMjZ.jpeg?1",
       "https://i.imgur.com/Kea6KjU.jpeg?2",
