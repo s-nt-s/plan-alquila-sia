@@ -306,6 +306,7 @@
   {
     "id": 32148,
     "publicado": "2024-07-09",
+    "modificado": "2024-07-12",
     "direccion": "Calle Cabeza Mesada 24",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -315,6 +316,7 @@
     "precio": 840,
     "dormitorios": 2,
     "aseos": 1,
+    "cee": "D",
     "ascensor": true,
     "adaptada": false,
     "reservada": false,
