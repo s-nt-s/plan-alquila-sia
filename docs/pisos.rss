@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 12 Jul 2024 13:42:27 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jul 2024 18:46:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1396,9 +1396,9 @@
 			<title>900€ Arganzuela</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274953</link>
 			<description>C/ Segovia, 61,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;25m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274953</description>
-			<pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274953?2024-07-08</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274953?2024-07-12</guid>
 		</item>
 		<item>
 			<title>800€ Puente de Vallecas</title>
@@ -1503,6 +1503,22 @@
 			<pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274976?2024-07-11</guid>
+		</item>
+		<item>
+			<title>950€ Leganés</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274977</link>
+			<description>C/ Panamá, 2,&lt;br/&gt;4º con ascensor,&lt;br/&gt;81m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274977</description>
+			<pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+			<category>Leganés</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274977?2024-07-12</guid>
+		</item>
+		<item>
+			<title>900€ Algete</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274978</link>
+			<description>C/ Félix Rguez. de la Fuente, 7,&lt;br/&gt;1º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274978</description>
+			<pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+			<category>Algete</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274978?2024-07-12</guid>
 		</item>
 	</channel>
 </rss>
