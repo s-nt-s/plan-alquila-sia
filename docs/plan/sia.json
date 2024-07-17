@@ -278,7 +278,7 @@
   {
     "id": 32148,
     "publicado": "2024-07-09",
-    "modificado": "2024-07-12",
+    "modificado": "2024-07-17",
     "direccion": "Calle Cabeza Mesada 24",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -291,7 +291,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/TbLq1yh.jpeg?2",
       "https://i.imgur.com/XKJzlwj.jpeg?3",
@@ -451,41 +451,6 @@
       "https://i.imgur.com/dOhe56c.jpeg?13",
       "https://i.imgur.com/kRqDM4v.jpeg?14",
       "https://i.imgur.com/zV1smD7.jpeg?15"
-    ]
-  },
-  {
-    "id": 32156,
-    "publicado": "2024-07-09",
-    "modificado": "2024-07-11",
-    "direccion": "Calle Limonita 12",
-    "municipio": "Madrid",
-    "distrito": "Villaverde",
-    "barrio": "Butarque",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 975,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/H5smMjZ.jpeg?1",
-      "https://i.imgur.com/Kea6KjU.jpeg?2",
-      "https://i.imgur.com/kDYrg0k.jpeg?3",
-      "https://i.imgur.com/AdRIfOw.jpeg?4",
-      "https://i.imgur.com/8priEVU.jpeg?5",
-      "https://i.imgur.com/djgu6PT.jpeg?6",
-      "https://i.imgur.com/b6OfLm8.jpeg?7",
-      "https://i.imgur.com/LqVbUDd.jpeg?8",
-      "https://i.imgur.com/emgX6h0.jpeg?9",
-      "https://i.imgur.com/KeyPrWt.jpeg?10",
-      "https://i.imgur.com/zbasjuK.jpeg?11",
-      "https://i.imgur.com/CbyVH6u.jpeg?12",
-      "https://i.imgur.com/N2BxUZ0.jpeg?13",
-      "https://i.imgur.com/2p9gkxo.jpeg?14",
-      "https://i.imgur.com/Mztqwoh.jpeg?15"
     ]
   },
   {
