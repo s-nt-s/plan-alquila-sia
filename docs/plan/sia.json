@@ -311,6 +311,7 @@
   {
     "id": 32150,
     "publicado": "2024-07-16",
+    "modificado": "2024-07-18",
     "direccion": "Calle Federico Gutierrez 29",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -323,7 +324,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Zp7FWoj.jpeg?1",
       "https://i.imgur.com/oHQA67J.jpeg?2",
