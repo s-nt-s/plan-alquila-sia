@@ -87,63 +87,6 @@
     ]
   },
   {
-    "id": 32133,
-    "publicado": "2024-06-17",
-    "modificado": "2024-06-21",
-    "direccion": "Calle Luisa Mu\u00f1oz 4",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "San Isidro",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 600,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/Qzg10po.jpeg?2",
-      "https://i.imgur.com/vbJvS4t.jpeg?3",
-      "https://i.imgur.com/mqeTfw3.jpeg?4",
-      "https://i.imgur.com/fpXVYER.jpeg?5",
-      "https://i.imgur.com/DXmfMZ3.jpeg?6",
-      "https://i.imgur.com/VsTs753.jpeg?7"
-    ]
-  },
-  {
-    "id": 32135,
-    "publicado": "2024-06-15",
-    "modificado": "2024-07-10",
-    "direccion": "Calle Principal 15",
-    "municipio": "Madrid",
-    "distrito": "Villaverde",
-    "barrio": "Butarque",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 900,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/FuUpqiC.jpeg?2",
-      "https://i.imgur.com/PYi1nAW.jpeg?3",
-      "https://i.imgur.com/WgppT0a.jpeg?4",
-      "https://i.imgur.com/nb73lEs.jpeg?5",
-      "https://i.imgur.com/DsO4FdD.jpeg?6",
-      "https://i.imgur.com/FEUV2Vn.jpeg?7",
-      "https://i.imgur.com/J81eKpI.jpeg?8",
-      "https://i.imgur.com/qPTr4F6.jpeg?9",
-      "https://i.imgur.com/l6Qg8U5.jpeg?10",
-      "https://i.imgur.com/pnpUx9N.jpeg?11",
-      "https://i.imgur.com/pfT72Rr.jpeg?12"
-    ]
-  },
-  {
     "id": 32142,
     "publicado": "2024-07-03",
     "modificado": "2024-07-09",
@@ -200,42 +143,6 @@
       "https://i.imgur.com/506N8Ed.jpeg?12",
       "https://i.imgur.com/FfZro6I.jpeg?13",
       "https://i.imgur.com/tphzaeK.jpeg?14"
-    ]
-  },
-  {
-    "id": 32144,
-    "publicado": "2024-06-15",
-    "modificado": "2024-06-15",
-    "direccion": "Calle Sodio 2",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Legazpi",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 1300,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "C",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/hg6mkvR.jpeg?1",
-      "https://i.imgur.com/z5BdsLR.jpeg?2",
-      "https://i.imgur.com/TtEJ8gV.jpeg?3",
-      "https://i.imgur.com/8P8kRz6.jpeg?4",
-      "https://i.imgur.com/Zml3kht.jpeg?5",
-      "https://i.imgur.com/nHHKJAy.jpeg?6",
-      "https://i.imgur.com/lT9ssbo.jpeg?7",
-      "https://i.imgur.com/fxVyXEJ.jpeg?8",
-      "https://i.imgur.com/0RFqkrr.jpeg?9",
-      "https://i.imgur.com/IWxruF2.jpeg?10",
-      "https://i.imgur.com/scZ5rLH.jpeg?11",
-      "https://i.imgur.com/QFAQi5y.jpeg?12",
-      "https://i.imgur.com/Ig4SF2T.jpeg?13",
-      "https://i.imgur.com/C3yIf7U.jpeg?14",
-      "https://i.imgur.com/6ZmN7hw.jpeg?15",
-      "https://i.imgur.com/ceYR0LY.jpeg?16"
     ]
   },
   {
@@ -490,6 +397,35 @@
       "https://i.imgur.com/gG6N0Oc.jpeg?17",
       "https://i.imgur.com/iDMMcad.jpeg?18",
       "https://i.imgur.com/VPKD3XT.jpeg?19"
+    ]
+  },
+  {
+    "id": 32162,
+    "publicado": "2024-07-19",
+    "direccion": "Calle San Modesto 42",
+    "municipio": "Madrid",
+    "distrito": "Fuencarral-El Pardo",
+    "barrio": "Pe\u00f1agrande",
+    "planta": 10,
+    "orientacion": "Exterior",
+    "precio": 980,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/hV03NEo.jpeg?1",
+      "https://i.imgur.com/O02mQhh.jpeg?2",
+      "https://i.imgur.com/shkm7My.jpeg?3",
+      "https://i.imgur.com/tNxLMoQ.jpeg?4",
+      "https://i.imgur.com/gOr4ebW.jpeg?5",
+      "https://i.imgur.com/5kSbg4c.jpeg?6",
+      "https://i.imgur.com/EedGwXL.jpeg?7",
+      "https://i.imgur.com/HqmglT7.jpeg?8",
+      "https://i.imgur.com/UHLvnie.jpeg?9",
+      "https://i.imgur.com/a16zBYG.jpeg?10"
     ]
   }
 ]
