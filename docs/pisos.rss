@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 23 Jul 2024 13:41:33 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jul 2024 18:47:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,9 +108,9 @@
 			<title>850€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/221022</link>
 			<description>Trª Humanitarias, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/221022</description>
-			<pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/221022?2024-07-04</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/221022?2024-07-23</guid>
 		</item>
 		<item>
 			<title>1200€ Rivas-Vaciamadrid</title>
@@ -1281,14 +1281,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274931?2024-07-22</guid>
 		</item>
 		<item>
-			<title>912€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274934</link>
-			<description>C/ Mariano Vela, 49,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/274934</description>
-			<pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274934?2024-07-12</guid>
-		</item>
-		<item>
 			<title>900€ Alcobendas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274937</link>
 			<description>C/ Marqués de la Valdavia, 53,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274937</description>
@@ -1567,6 +1559,14 @@
 			<pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
 			<category>Alcalá de Henares</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275004?2024-07-23</guid>
+		</item>
+		<item>
+			<title>1068€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275005</link>
+			<description>C/ Sierra de Antequera, 8,&lt;br/&gt;5º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275005</description>
+			<pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275005?2024-07-23</guid>
 		</item>
 	</channel>
 </rss>
