@@ -113,39 +113,6 @@
     ]
   },
   {
-    "id": 32143,
-    "publicado": "2024-07-03",
-    "modificado": "2024-07-08",
-    "direccion": "Calle Los Nogales 3",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Acacias",
-    "planta": 6,
-    "orientacion": "Exterior",
-    "precio": 1500,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/n5iScUG.jpeg?2",
-      "https://i.imgur.com/ud82hyT.jpeg?3",
-      "https://i.imgur.com/r4lhhTT.jpeg?4",
-      "https://i.imgur.com/E25ucgN.jpeg?5",
-      "https://i.imgur.com/GJSDnJL.jpeg?6",
-      "https://i.imgur.com/9Zhttli.jpeg?7",
-      "https://i.imgur.com/UdwoxVd.jpeg?8",
-      "https://i.imgur.com/6x0Etq1.jpeg?9",
-      "https://i.imgur.com/Z60BHkh.jpeg?10",
-      "https://i.imgur.com/i5SmvEJ.jpeg?11",
-      "https://i.imgur.com/506N8Ed.jpeg?12",
-      "https://i.imgur.com/FfZro6I.jpeg?13",
-      "https://i.imgur.com/tphzaeK.jpeg?14"
-    ]
-  },
-  {
     "id": 32147,
     "publicado": "2024-06-28",
     "modificado": "2024-07-02",
@@ -368,6 +335,7 @@
   {
     "id": 32162,
     "publicado": "2024-07-19",
+    "modificado": "2024-07-23",
     "direccion": "Calle San Modesto 42",
     "municipio": "Madrid",
     "distrito": "Fuencarral-El Pardo",
@@ -380,7 +348,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/hV03NEo.jpeg?1",
       "https://i.imgur.com/O02mQhh.jpeg?2",
