@@ -101,7 +101,7 @@ class ImgUr:
         return link
 
     def __raise_error_from_text(self, text: str):
-        if text.startswith("<!DOCTYPE"):
+        if "</html>" in text and "</title>" in text:
             soup = bs4.BeautifulSoup(text, "html.parser")
             title = get_text(soup.select_one("title"))
             if title is not None:
