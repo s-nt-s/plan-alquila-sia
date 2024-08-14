@@ -1,10 +1,7 @@
 import re
-import time
 
 import urllib3
 from bs4 import Tag, BeautifulSoup
-from selenium.common.exceptions import (NoSuchElementException,
-                                        StaleElementReferenceException)
 from selenium.webdriver.remote.webelement import WebElement
 from datetime import date
 
