@@ -121,6 +121,7 @@
   {
     "id": 32161,
     "publicado": "2024-08-14",
+    "modificado": "2024-08-16",
     "direccion": "Calle Rio San Lorenzo 12",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -133,7 +134,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/sEwWYMT.jpeg?1",
       "https://i.imgur.com/6Kgx4yb.jpeg?2",
@@ -179,33 +180,6 @@
       "https://i.imgur.com/7DptdBV.jpeg?8",
       "https://i.imgur.com/k20SxLu.jpeg?9",
       "https://i.imgur.com/8KDzryd.jpeg?10"
-    ]
-  },
-  {
-    "id": 32163,
-    "publicado": "2024-08-04",
-    "modificado": "2024-08-04",
-    "direccion": "Calle General Ramirez De Madrid 48",
-    "municipio": "Madrid",
-    "distrito": "Tetuan",
-    "barrio": "Castillejos",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 850,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/6QaDrqC.jpeg?1",
-      "https://i.imgur.com/Eq3umd9.jpeg?2",
-      "https://i.imgur.com/BRr3dIB.jpeg?3",
-      "https://i.imgur.com/FN75XHf.jpeg?4",
-      "https://i.imgur.com/HiECvUc.jpeg?5",
-      "https://i.imgur.com/UUvCYvF.jpeg?6",
-      "https://i.imgur.com/HPmlniW.jpeg?7"
     ]
   },
   {
@@ -259,32 +233,6 @@
       "https://i.imgur.com/T4O284T.jpeg?7",
       "https://i.imgur.com/jjFZlby.jpeg?8",
       "https://i.imgur.com/k6lgIQb.jpeg?9"
-    ]
-  },
-  {
-    "id": 32172,
-    "publicado": "2024-08-14",
-    "direccion": "Calle Albadalejo 44",
-    "municipio": "Madrid",
-    "distrito": "San Blas",
-    "barrio": "Simancas",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 805,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/tni5LgD.jpeg?1",
-      "https://i.imgur.com/WBRpX5v.jpeg?2",
-      "https://i.imgur.com/SLzEic9.jpeg?3",
-      "https://i.imgur.com/IRrg034.jpeg?4",
-      "https://i.imgur.com/1SyDJ1m.jpeg?5",
-      "https://i.imgur.com/RudNIec.jpeg?6",
-      "https://i.imgur.com/IblXEfW.jpeg?7"
     ]
   }
 ]
