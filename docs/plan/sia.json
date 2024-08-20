@@ -185,6 +185,7 @@
   {
     "id": 32165,
     "publicado": "2024-08-14",
+    "modificado": "2024-08-20",
     "direccion": "Paseo Castellana 205",
     "municipio": "Madrid",
     "distrito": "Tetuan",
@@ -197,7 +198,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/VrTDnDL.jpeg?9",
       "https://i.imgur.com/0duc7qk.jpeg?10",
@@ -206,33 +207,6 @@
       "https://i.imgur.com/smMXqkG.jpeg?13",
       "https://i.imgur.com/pyhIZwn.jpeg?14",
       "https://i.imgur.com/GVr3Zxv.jpeg?15"
-    ]
-  },
-  {
-    "id": 32166,
-    "publicado": "2024-08-14",
-    "direccion": "Calle Fuentespina 20",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Santa Eugenia",
-    "planta": 8,
-    "orientacion": "Exterior",
-    "precio": 1165,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/UlGl9Yq.jpeg?2",
-      "https://i.imgur.com/1YyUfkx.jpeg?3",
-      "https://i.imgur.com/I1Bc79j.jpeg?4",
-      "https://i.imgur.com/uFpx8bt.jpeg?5",
-      "https://i.imgur.com/kuolYbF.jpeg?6",
-      "https://i.imgur.com/T4O284T.jpeg?7",
-      "https://i.imgur.com/jjFZlby.jpeg?8",
-      "https://i.imgur.com/k6lgIQb.jpeg?9"
     ]
   }
 ]
