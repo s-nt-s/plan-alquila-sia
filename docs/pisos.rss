@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 26 Aug 2024 06:46:40 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Aug 2024 13:44:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,14 +23,6 @@
 			<pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32151?2024-08-04</guid>
-		</item>
-		<item>
-			<title>1250€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32159</link>
-			<description>C/ Laurel 6,&lt;br/&gt;1º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;sia/32159</description>
-			<pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32159?2024-08-15</guid>
 		</item>
 		<item>
 			<title>700€ Cercedilla</title>
@@ -689,14 +681,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273466?2023-10-20</guid>
 		</item>
 		<item>
-			<title>990€ Alcalá de Henares</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273645</link>
-			<description>C/ Pío Baroja, 2,&lt;br/&gt;2º con ascensor,&lt;br/&gt;68m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/273645</description>
-			<pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
-			<category>Alcalá de Henares</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273645?2024-08-15</guid>
-		</item>
-		<item>
 			<title>1100€ Arganzuela</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274004</link>
 			<description>Pº Delicias, 98,&lt;br/&gt;1º con ascensor,&lt;br/&gt;42m², 2 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/274004</description>
@@ -1217,6 +1201,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274977?2024-07-12</guid>
 		</item>
 		<item>
+			<title>1200€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274982</link>
+			<description>C/ Isla de Arosa, 25,&lt;br/&gt;7º con ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274982</description>
+			<pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274982?2024-07-15</guid>
+		</item>
+		<item>
 			<title>900€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274983</link>
 			<description>C/ Eulalia Paino, 1,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;48m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/274983</description>
@@ -1427,10 +1419,10 @@
 		<item>
 			<title>1450€ Alcorcón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275043</link>
-			<description>Av. Alcalde José Aranda, 12,&lt;br/&gt;8º con ascensor,&lt;br/&gt;94m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275043</description>
-			<pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+			<description>Av. Alcalde José Aranda, 12,&lt;br/&gt;8º con ascensor,&lt;br/&gt;94m², 4 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/275043</description>
+			<pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275043?2024-08-06</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275043?2024-08-26</guid>
 		</item>
 		<item>
 			<title>1277€ Hortaleza</title>
@@ -1547,10 +1539,10 @@
 		<item>
 			<title>1200€ Latina</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275069</link>
-			<description>C/ La Latina, 37,&lt;br/&gt;1º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275069</description>
-			<pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+			<description>C/ La Latina, 37,&lt;br/&gt;1º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;2 🛀, 7 📷.&lt;br/&gt;alq/275069</description>
+			<pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275069?2024-08-16</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275069?2024-08-26</guid>
 		</item>
 		<item>
 			<title>1200€ Vicálvaro</title>

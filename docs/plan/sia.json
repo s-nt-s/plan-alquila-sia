@@ -63,7 +63,7 @@
   {
     "id": 32159,
     "publicado": "2024-08-14",
-    "modificado": "2024-08-15",
+    "modificado": "2024-08-26",
     "direccion": "Calle Laurel 6",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -76,7 +76,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/7cM6P7h.jpeg?10",
       "https://i.imgur.com/ayWiAA9.jpeg?11",
