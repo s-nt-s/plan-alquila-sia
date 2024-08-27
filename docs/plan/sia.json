@@ -33,6 +33,7 @@
   {
     "id": 32151,
     "publicado": "2024-08-04",
+    "modificado": "2024-08-27",
     "direccion": "Calle Canillas 19",
     "municipio": "Madrid",
     "distrito": "Chamart\u00edn",
@@ -45,7 +46,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/nEqxtQc.jpeg?2",
       "https://i.imgur.com/8gJh3a6.jpeg?3",
