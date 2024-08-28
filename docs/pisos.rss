@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 27 Aug 2024 13:44:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Aug 2024 06:46:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1217,14 +1217,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274993?2024-07-19</guid>
 		</item>
 		<item>
-			<title>1500€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274994</link>
-			<description>C/ Peñuelas, 38,&lt;br/&gt;5º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274994</description>
-			<pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274994?2024-07-19</guid>
-		</item>
-		<item>
 			<title>975€ Alcobendas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274996</link>
 			<description>C/ Encanto, 5,&lt;br/&gt;3º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274996</description>
@@ -1591,6 +1583,14 @@
 			<pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275091?2024-08-27</guid>
+		</item>
+		<item>
+			<title>800€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275092</link>
+			<description>C/ Virgen de Aránzazu, 25,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;32m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275092</description>
+			<pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275092?2024-08-27</guid>
 		</item>
 		<item>
 			<title>1000€ Puente de Vallecas</title>
