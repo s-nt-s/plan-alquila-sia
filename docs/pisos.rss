@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 29 Aug 2024 06:47:54 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Aug 2024 13:46:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -15,6 +15,22 @@
 			<pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/31990?2023-11-17</guid>
+		</item>
+		<item>
+			<title>1090€ Villaverde</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32164</link>
+			<description>C/ Santa Escolastica 5,&lt;br/&gt;8º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;1 🛀, 13 📷.&lt;br/&gt;sia/32164</description>
+			<pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+			<category>Villaverde</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32164?2024-08-29</guid>
+		</item>
+		<item>
+			<title>865€ San Blas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32170</link>
+			<description>C/ Estocolmo 31,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;sia/32170</description>
+			<pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+			<category>San Blas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32170?2024-08-29</guid>
 		</item>
 		<item>
 			<title>750€ Ciudad Lineal</title>
@@ -31,6 +47,14 @@
 			<pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32185?2024-08-28</guid>
+		</item>
+		<item>
+			<title>1650€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32186</link>
+			<description>C/ Antonio Lopez 195,&lt;br/&gt;3º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 20 📷.&lt;br/&gt;sia/32186</description>
+			<pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32186?2024-08-29</guid>
 		</item>
 		<item>
 			<title>700€ Cercedilla</title>
@@ -113,14 +137,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/220190?2024-08-02</guid>
 		</item>
 		<item>
-			<title>850€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/221022</link>
-			<description>Trª Humanitarias, 1,&lt;br/&gt;1º con ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/221022</description>
-			<pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/221022?2024-07-04</guid>
-		</item>
-		<item>
 			<title>1500€ Moncloa-Aravaca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/226264</link>
 			<description>C/ Benito Gutiérrez, 14,&lt;br/&gt;6º con ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/226264</description>
@@ -159,6 +175,14 @@
 			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
 			<category>Parla</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/239193?2024-03-18</guid>
+		</item>
+		<item>
+			<title>850€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/241240</link>
+			<description>C/ Fray José Cerdeiriña, 16,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/241240</description>
+			<pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/241240?2024-06-21</guid>
 		</item>
 		<item>
 			<title>1200€ Vicálvaro</title>
