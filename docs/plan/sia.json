@@ -127,6 +127,7 @@
   {
     "id": 32164,
     "publicado": "2024-08-29",
+    "modificado": "2024-08-30",
     "direccion": "Calle Santa Escolastica 5",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -136,6 +137,7 @@
     "precio": 1090,
     "dormitorios": 3,
     "aseos": 1,
+    "cee": "E",
     "ascensor": true,
     "adaptada": false,
     "reservada": false,
@@ -158,6 +160,7 @@
   {
     "id": 32170,
     "publicado": "2024-08-29",
+    "modificado": "2024-08-30",
     "direccion": "Calle Estocolmo 31",
     "municipio": "Madrid",
     "distrito": "San Blas",
@@ -167,6 +170,7 @@
     "precio": 865,
     "dormitorios": 2,
     "aseos": 1,
+    "cee": "F",
     "ascensor": false,
     "adaptada": false,
     "reservada": false,
