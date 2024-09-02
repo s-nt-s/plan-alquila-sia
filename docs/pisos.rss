@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 30 Aug 2024 13:45:16 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Sep 2024 13:46:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -33,6 +33,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32170?2024-08-30</guid>
 		</item>
 		<item>
+			<title>1450€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32175</link>
+			<description>C/ General Lacy 23,&lt;br/&gt;4º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;2 🛀, 24 📷.&lt;br/&gt;sia/32175</description>
+			<pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32175?2024-09-02</guid>
+		</item>
+		<item>
 			<title>750€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32177</link>
 			<description>C/ Agami 4,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;sia/32177</description>
@@ -55,6 +63,14 @@
 			<pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32186?2024-08-29</guid>
+		</item>
+		<item>
+			<title>900€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32189</link>
+			<description>C/ Pelayo 22,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 10 📷.&lt;br/&gt;sia/32189</description>
+			<pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32189?2024-09-02</guid>
 		</item>
 		<item>
 			<title>700€ Cercedilla</title>
@@ -535,6 +551,14 @@
 			<pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Navalcarnero</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270290?2024-08-29</guid>
+		</item>
+		<item>
+			<title>700€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270415</link>
+			<description>C/ Enrique de Oro, 9,&lt;br/&gt;4º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270415</description>
+			<pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270415?2024-09-02</guid>
 		</item>
 		<item>
 			<title>925€ Arganzuela</title>
@@ -1337,14 +1361,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275039?2024-08-05</guid>
 		</item>
 		<item>
-			<title>850€ Leganés</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275040</link>
-			<description>C/ Batalla de Brunete, 16,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;50m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275040</description>
-			<pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
-			<category>Leganés</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275040?2024-08-02</guid>
-		</item>
-		<item>
 			<title>1450€ Alcorcón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275043</link>
 			<description>Av. Alcalde José Aranda, 12,&lt;br/&gt;8º con ascensor,&lt;br/&gt;94m², 4 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/275043</description>
@@ -1377,12 +1393,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275046?2024-08-29</guid>
 		</item>
 		<item>
-			<title>1500€ Chamberí</title>
+			<title>1450€ Chamberí</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275048</link>
 			<description>C/ Ríos Rosas, 41,&lt;br/&gt;3º con ascensor,&lt;br/&gt;50m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275048</description>
-			<pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275048?2024-08-07</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275048?2024-09-02</guid>
 		</item>
 		<item>
 			<title>1300€ Moncloa-Aravaca</title>
