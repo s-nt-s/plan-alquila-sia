@@ -160,7 +160,7 @@
   {
     "id": 32170,
     "publicado": "2024-08-29",
-    "modificado": "2024-08-30",
+    "modificado": "2024-09-04",
     "direccion": "Calle Estocolmo 31",
     "municipio": "Madrid",
     "distrito": "San Blas",
@@ -173,7 +173,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/3IwptHu.jpeg?1",
       "https://i.imgur.com/56xPQUL.jpeg?2",
