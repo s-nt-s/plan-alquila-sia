@@ -232,6 +232,7 @@
   {
     "id": 32177,
     "publicado": "2024-08-28",
+    "modificado": "2024-09-05",
     "direccion": "Calle Agami 4",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -244,7 +245,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/K9JsCPz.jpeg?4",
       "https://i.imgur.com/qrMx11J.jpeg?5",
@@ -426,6 +427,34 @@
       "https://i.imgur.com/OtqXnbi.jpeg?31",
       "https://i.imgur.com/CRGpH85.jpeg?32",
       "https://i.imgur.com/VQzDwrg.jpeg?33"
+    ]
+  },
+  {
+    "id": 32195,
+    "publicado": "2024-09-05",
+    "direccion": "Calle Trompas 5",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Buenavista",
+    "planta": 5,
+    "orientacion": "Exterior",
+    "precio": 1150,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/UfZu8Au.jpeg?2",
+      "https://i.imgur.com/4RHZEGj.jpeg?3",
+      "https://i.imgur.com/nWbTpYv.jpeg?4",
+      "https://i.imgur.com/1FOPH9U.jpeg?5",
+      "https://i.imgur.com/J2RkNYO.jpeg?6",
+      "https://i.imgur.com/3WBEHG1.jpeg?10",
+      "https://i.imgur.com/baRyBTn.jpeg?11",
+      "https://i.imgur.com/s7X8MSa.jpeg?12",
+      "https://i.imgur.com/mblQpWx.jpeg?13"
     ]
   }
 ]
