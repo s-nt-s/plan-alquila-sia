@@ -187,6 +187,34 @@
     ]
   },
   {
+    "id": 32173,
+    "publicado": "2024-09-06",
+    "direccion": "Calle Chaparral 3",
+    "municipio": "Madrid",
+    "distrito": "Hortaleza",
+    "barrio": "Pinar del Rey",
+    "planta": 1,
+    "orientacion": "Exterior",
+    "precio": 1050,
+    "dormitorios": 3,
+    "aseos": 1,
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/tKlw2yl.jpeg?2",
+      "https://i.imgur.com/dwVkqlQ.jpeg?3",
+      "https://i.imgur.com/NvKlb7F.jpeg?4",
+      "https://i.imgur.com/MhyF352.jpeg?5",
+      "https://i.imgur.com/ax7mFsG.jpeg?6",
+      "https://i.imgur.com/OHxzf64.jpeg?7",
+      "https://i.imgur.com/hfer54c.jpeg?8",
+      "https://i.imgur.com/AvB8Q4K.jpeg?9",
+      "https://i.imgur.com/VyMQc4o.jpeg?10",
+      "https://i.imgur.com/WaL01Yn.jpeg?11"
+    ]
+  },
+  {
     "id": 32175,
     "publicado": "2024-09-02",
     "direccion": "Calle General Lacy 23",
@@ -427,6 +455,31 @@
       "https://i.imgur.com/OtqXnbi.jpeg?31",
       "https://i.imgur.com/CRGpH85.jpeg?32",
       "https://i.imgur.com/VQzDwrg.jpeg?33"
+    ]
+  },
+  {
+    "id": 32193,
+    "publicado": "2024-09-06",
+    "direccion": "Calle Bulevar De La Naturaleza 15",
+    "municipio": "Madrid",
+    "distrito": "Villa de Vallecas",
+    "barrio": "Ensanche de Vallecas",
+    "planta": 6,
+    "orientacion": "Exterior",
+    "precio": 750,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/8qxtvur.jpeg?2",
+      "https://i.imgur.com/Jm0GItQ.jpeg?3",
+      "https://i.imgur.com/AxIOmr5.jpeg?4",
+      "https://i.imgur.com/wthlTU0.jpeg?5",
+      "https://i.imgur.com/nxW6SET.jpeg?6",
+      "https://i.imgur.com/tvZYumZ.jpeg?7"
     ]
   },
   {
