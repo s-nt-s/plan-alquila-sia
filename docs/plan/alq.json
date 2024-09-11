@@ -752,6 +752,29 @@
     "imgs": []
   },
   {
+    "id": 260704,
+    "publicado": "2024-09-11",
+    "direccion": "Calle General Lacy, 4",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "planta": 3,
+    "precio": 850,
+    "metros": 37.8,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "G",
+    "mascotas": true,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": false,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 261192,
     "publicado": "2024-08-16",
     "modificado": "2024-08-29",
@@ -5076,27 +5099,6 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GJFpbaW0EP6AoeBJhFm-FejGtyMJqxUrQeJrMjpsJszOTmdlkpVi0UAt6UPy4CQp6Ueo!IuihIHgR1IuI-IEXxZOz-WhicU!Dzvu88!ye913!CoVEQ-lS0MAtjDgWEVqoNSixs3deX3g0aY7wHECqAKBgNOweVJWl5BSLV4f0tTcP!3zLwUgVCi3ME-qqLexkMY6o11A0croDkcIcMWGpRoll3CA!uxbzVj5fefnlbXntWQ7yAeQxt9JCqePGy9x4vhNFVM8GUMCC1GUTlqEYQCk089QQzRRhUnS7WZgaEi5azUTkdDtY2L3vSFP1L0ev!9THx09!XV-bcRx-n0PD5ID3TBLXqL6x!mB67P77W71Q8sdM1nQUoLhPdY-jv1dW3QtzUkcIK0zqFMVXLmNCDWox2kbZkVNrEOVoTjq41J5oY03P4-g0tXUZnkyVpsY4Khd69o2Muwlo2J95STPZ1rpmsHesevvDj8yUm-Vm3aDTk9Wbiz-rG8c7tp27g0TGyCTif938WPF355Znxi!e-569nAFOtD04eniplhiCQ6krzKGIEJ9Napy5P7jsNgEp7AZcYUbqqwBbl6o3jRcblU-fp5dO9ZcqZ2FPJ2Mm0UJiVWJdIcWxHY6-u5BKpc55L4WhQANJsB1KKwfbfCgSyZNY-JDnTFC3WArbekayvbPLNRfrXQu-ZyhJNPWYIDwJqdfqgak-mOeQm31cs8lrOpMT1GWB0rqNeXsCdhFn3NLujU3VX6l0JSA_",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GJFpbaW0EP6AoeBJhFm-FejGtyEK0YiVoPE1mx82E2ZnJzGyyUixa0IIeFD9ugoJelPqPCHooCF4E60VE!MCL4snZTdLE4p6Gnfd55!k977v2FQqxhtKlShO3MeJYhGih3qTEzt59c-HxpDnCcwCJAoCC0bB7UFWWklMsXh!S194--vMtByM1KLQxj6mrtrCTRTikXlPR0OkOhApzxISlGsWWcYP89FrMW!li5dWXd-XV5znIVyCPuZUWSpkbL3Xj-U4UUj1bgQIWpCFbsAzFCpQCM08N0UwRJkW3m4WpIeGi1UyETreDBd37TJqofzl6!ac-Pnn26!rqjOPw-xwaJge8Z-KoTvXNtYfTYw8-3O6Fkj9m0qajAMV9qnsc!b2y4V6YkzpEWGHSoCi6chkTalCb0Q5Kj5xagyhHc9LBJfZEB2t6HoenqW3I4GSiNDXGUbnQ029k3E1Aw!7US5LKtta1KnvHanc2fqSm3Cw36wadnt64tfiztn48s-3cHSQyQiYW!-vmR4q!P7c8M37x!vf05RRwouPB0cNL9dgQHEhdZQ5FBPhsXOfM!cFltwlIYTfgKjNSXwXYulS9abxcr376PL10qr9UOQt7soyZRAuxVbF1hRRHdjj67kIqlTjnvRSGAq1Igu1QWjnY5kORSB5Hwoc8Z4K6xVLYNlKS7dku112s9yz4nqEk1tRjgvA4oF67B6b6YJ5DbvVxzSavySYnqMsCJQ0b8c4E7CLOuKXdG5uov2OrJXw_"
     ]
-  },
-  {
-    "id": 275106,
-    "publicado": "2024-09-03",
-    "direccion": "Calle Utrillas, 8",
-    "municipio": "Madrid",
-    "distrito": "Hortaleza",
-    "planta": 8,
-    "precio": 1300,
-    "dormitorios": 3,
-    "aseos": 1,
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": true,
-    "trastero": false,
-    "imgs": []
   },
   {
     "id": 275111,
