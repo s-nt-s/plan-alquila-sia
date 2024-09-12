@@ -675,7 +675,7 @@
   {
     "id": 32197,
     "publicado": "2024-09-10",
-    "modificado": "2024-09-10",
+    "modificado": "2024-09-12",
     "direccion": "Avenida San Luis 12",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -685,7 +685,7 @@
     "precio": 1300,
     "dormitorios": 2,
     "aseos": 1,
-    "ascensor": true,
+    "ascensor": false,
     "adaptada": false,
     "reservada": false,
     "imgs": [
