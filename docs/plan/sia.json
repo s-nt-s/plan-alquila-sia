@@ -557,6 +557,7 @@
   {
     "id": 32192,
     "publicado": "2024-09-09",
+    "modificado": "2024-09-12",
     "direccion": "Calle Valderrodrigo 27",
     "municipio": "Madrid",
     "distrito": "Moncloa-Aravaca",
@@ -569,7 +570,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/o087nmT.jpeg?2",
       "https://i.imgur.com/pQDPtFF.jpeg?3",
@@ -689,15 +690,15 @@
     "adaptada": false,
     "reservada": false,
     "imgs": [
-      "https://i.imgur.com/faM7F4J.jpeg?2",
-      "https://i.imgur.com/uiVZ0zH.jpeg?3",
       "https://i.imgur.com/yHyzpub.jpeg?4",
       "https://i.imgur.com/1TSDjpN.jpeg?5",
       "https://i.imgur.com/Vf3kzO8.jpeg?6",
       "https://i.imgur.com/orR25V8.jpeg?7",
       "https://i.imgur.com/JRC2NVN.jpeg?8",
-      "https://i.imgur.com/Mg07UR4.jpeg?9",
-      "https://i.imgur.com/DKlS1Cw.jpeg?10"
+      "https://i.imgur.com/DKlS1Cw.jpeg?10",
+      "https://i.imgur.com/HDKft1W.jpeg?11",
+      "https://i.imgur.com/yGF4huG.jpeg?12",
+      "https://i.imgur.com/IyjKZPn.jpeg?13"
     ]
   }
 ]
