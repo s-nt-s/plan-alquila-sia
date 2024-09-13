@@ -62,40 +62,6 @@
     ]
   },
   {
-    "id": 32161,
-    "publicado": "2024-08-14",
-    "modificado": "2024-08-16",
-    "direccion": "Calle Rio San Lorenzo 12",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "Portazgo",
-    "planta": 1,
-    "orientacion": "Mixto",
-    "precio": 880,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/sEwWYMT.jpeg?1",
-      "https://i.imgur.com/6Kgx4yb.jpeg?2",
-      "https://i.imgur.com/pn4XQJy.jpeg?3",
-      "https://i.imgur.com/8SGYrVw.jpeg?4",
-      "https://i.imgur.com/jgdREbW.jpeg?5",
-      "https://i.imgur.com/EDUTbo0.jpeg?6",
-      "https://i.imgur.com/FTJFkLR.jpeg?7",
-      "https://i.imgur.com/hY4BaiZ.jpeg?8",
-      "https://i.imgur.com/1hHOtDs.jpeg?9",
-      "https://i.imgur.com/CkDJIfO.jpeg?10",
-      "https://i.imgur.com/mO8UPA2.jpeg?11",
-      "https://i.imgur.com/1iQSEY1.jpeg?12",
-      "https://i.imgur.com/Dz2rjud.jpeg?13",
-      "https://i.imgur.com/owTHvzh.jpeg?14"
-    ]
-  },
-  {
     "id": 32164,
     "publicado": "2024-08-29",
     "modificado": "2024-09-11",
@@ -131,6 +97,7 @@
   {
     "id": 32168,
     "publicado": "2024-09-03",
+    "modificado": "2024-09-13",
     "direccion": "Calle Escalona 20",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -143,7 +110,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/VsJhlh2.jpeg?2",
       "https://i.imgur.com/UmTk7Qi.jpeg?3",
@@ -160,7 +127,7 @@
   {
     "id": 32173,
     "publicado": "2024-09-06",
-    "modificado": "2024-09-10",
+    "modificado": "2024-09-13",
     "direccion": "Calle Chaparral 3",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -173,7 +140,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/tKlw2yl.jpeg?2",
       "https://i.imgur.com/dwVkqlQ.jpeg?3",
@@ -458,6 +425,7 @@
   {
     "id": 32187,
     "publicado": "2024-09-03",
+    "modificado": "2024-09-13",
     "direccion": "Calle Santiago Alio 3",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -470,7 +438,7 @@
     "cee": "C",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/1HzaT4E.jpeg?2",
       "https://i.imgur.com/1Jp3ttF.jpeg?3",
@@ -505,7 +473,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/h74PmLg.jpeg?2",
       "https://i.imgur.com/QuPfkck.jpeg?3",
@@ -616,6 +584,7 @@
   {
     "id": 32194,
     "publicado": "2024-09-11",
+    "modificado": "2024-09-13",
     "direccion": "Calle Encomienda De Palacios 108",
     "municipio": "Madrid",
     "distrito": "Moratalaz",
@@ -627,7 +596,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/awMy8rI.jpeg?2",
       "https://i.imgur.com/JlZ6pLN.jpeg?3",
