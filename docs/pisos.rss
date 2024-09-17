@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 17 Sep 2024 13:46:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 17 Sep 2024 18:46:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -287,14 +287,6 @@
 			<pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/250456?2024-09-09</guid>
-		</item>
-		<item>
-			<title>950€ Getafe</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/255059</link>
-			<description>C/ Persiles y Segismunda, 6,&lt;br/&gt;4º con ascensor,&lt;br/&gt;68m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/255059</description>
-			<pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/255059?2024-09-11</guid>
 		</item>
 		<item>
 			<title>950€ Centro</title>
@@ -1559,6 +1551,22 @@
 			<pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275135?2024-09-17</guid>
+		</item>
+		<item>
+			<title>1800€ Paracuellos de Jarama</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275137</link>
+			<description>C/ Panzas, 109,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;205m², 3 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/275137</description>
+			<pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Paracuellos de Jarama</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275137?2024-09-17</guid>
+		</item>
+		<item>
+			<title>1700€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275139</link>
+			<description>C/ Veza, 23,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275139</description>
+			<pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275139?2024-09-17</guid>
 		</item>
 	</channel>
 </rss>
