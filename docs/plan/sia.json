@@ -563,65 +563,6 @@
     ]
   },
   {
-    "id": 32193,
-    "publicado": "2024-09-06",
-    "modificado": "2024-09-10",
-    "direccion": "Calle Bulevar De La Naturaleza 15",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Ensanche de Vallecas",
-    "planta": 6,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/8qxtvur.jpeg?2",
-      "https://i.imgur.com/Jm0GItQ.jpeg?3",
-      "https://i.imgur.com/AxIOmr5.jpeg?4",
-      "https://i.imgur.com/wthlTU0.jpeg?5",
-      "https://i.imgur.com/nxW6SET.jpeg?6",
-      "https://i.imgur.com/tvZYumZ.jpeg?7"
-    ]
-  },
-  {
-    "id": 32194,
-    "publicado": "2024-09-11",
-    "modificado": "2024-09-13",
-    "direccion": "Calle Encomienda De Palacios 108",
-    "municipio": "Madrid",
-    "distrito": "Moratalaz",
-    "barrio": "Fontarr\u00f3n",
-    "planta": 1,
-    "precio": 700,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/awMy8rI.jpeg?2",
-      "https://i.imgur.com/JlZ6pLN.jpeg?3",
-      "https://i.imgur.com/B5q4EmL.jpeg?4",
-      "https://i.imgur.com/kXMljbZ.jpeg?5",
-      "https://i.imgur.com/BcDV1x8.jpeg?6",
-      "https://i.imgur.com/5URfFd0.jpeg?7",
-      "https://i.imgur.com/K2rQRey.jpeg?8",
-      "https://i.imgur.com/tPdRlDo.jpeg?9",
-      "https://i.imgur.com/UJaXdBD.jpeg?10",
-      "https://i.imgur.com/8ojaz40.jpeg?11",
-      "https://i.imgur.com/wHHTLX2.jpeg?12",
-      "https://i.imgur.com/FDs9BMj.jpeg?13",
-      "https://i.imgur.com/cL1hLyU.jpeg?14",
-      "https://i.imgur.com/aa5T3qA.jpeg?15"
-    ]
-  },
-  {
     "id": 32195,
     "publicado": "2024-09-05",
     "modificado": "2024-09-11",
@@ -677,6 +618,36 @@
       "https://i.imgur.com/HDKft1W.jpeg?11",
       "https://i.imgur.com/yGF4huG.jpeg?12",
       "https://i.imgur.com/IyjKZPn.jpeg?13"
+    ]
+  },
+  {
+    "id": 32198,
+    "publicado": "2024-09-17",
+    "direccion": "Calle Fundadores 7",
+    "municipio": "Madrid",
+    "distrito": "Salamanca",
+    "barrio": "Fuente del Berro",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 970,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/OT2ahn8.jpeg?1",
+      "https://i.imgur.com/9Ay9B1U.jpeg?3",
+      "https://i.imgur.com/DukFTUa.jpeg?4",
+      "https://i.imgur.com/2uTwJCI.jpeg?5",
+      "https://i.imgur.com/g6kDCIp.jpeg?6",
+      "https://i.imgur.com/Dv6qUtI.jpeg?7",
+      "https://i.imgur.com/LmQJJsu.jpeg?8",
+      "https://i.imgur.com/VW31Zun.jpeg?9",
+      "https://i.imgur.com/N5xVU1W.jpeg?10",
+      "https://i.imgur.com/7L5uXJ5.jpeg?11",
+      "https://i.imgur.com/ng3tcAa.jpeg?12"
     ]
   }
 ]
