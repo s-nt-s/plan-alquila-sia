@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 18 Sep 2024 13:50:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Sep 2024 18:48:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -111,6 +111,14 @@
 			<pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/211920?2024-08-29</guid>
+		</item>
+		<item>
+			<title>700€ Valdemoro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/213625</link>
+			<description>Pº Estación, 14,&lt;br/&gt;4º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/213625</description>
+			<pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Valdemoro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/213625?2024-09-17</guid>
 		</item>
 		<item>
 			<title>750€ Pozuelo de Alarcón</title>
@@ -321,6 +329,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261835?2024-08-20</guid>
 		</item>
 		<item>
+			<title>1200€ Retiro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/262222</link>
+			<description>C/ Arregui y Aruej, 7,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;43m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/262222</description>
+			<pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Retiro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262222?2024-09-18</guid>
+		</item>
+		<item>
 			<title>750€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/263092</link>
 			<description>C/ Ntra. Sra. de la Torre, 17,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/263092</description>
@@ -367,6 +383,14 @@
 			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266130?2024-02-29</guid>
+		</item>
+		<item>
+			<title>800€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266229</link>
+			<description>C/ Esperanza, 13,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;25m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/266229</description>
+			<pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266229?2024-09-18</guid>
 		</item>
 		<item>
 			<title>440€ Alcalá de Henares</title>
