@@ -33,7 +33,7 @@
   {
     "id": 32164,
     "publicado": "2024-08-29",
-    "modificado": "2024-09-11",
+    "modificado": "2024-09-18",
     "direccion": "Calle Santa Escolastica 5",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -46,7 +46,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/GYwIKvM.jpeg?2",
       "https://i.imgur.com/Zvrj4H1.jpeg?3",
