@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 20 Sep 2024 13:43:27 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 20 Sep 2024 18:44:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -95,14 +95,6 @@
 			<pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
 			<category>San Sebastián de los Reyes</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/209364?2024-06-03</guid>
-		</item>
-		<item>
-			<title>1075€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/210609</link>
-			<description>Pº Almendros, 2,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/210609</description>
-			<pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/210609?2023-09-15</guid>
 		</item>
 		<item>
 			<title>950€ Arganzuela</title>
@@ -1305,12 +1297,20 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275094?2024-09-19</guid>
 		</item>
 		<item>
+			<title>800€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275096</link>
+			<description>C/ Vía Lusitana, 19,&lt;br/&gt;4º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275096</description>
+			<pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275096?2024-09-20</guid>
+		</item>
+		<item>
 			<title>1139€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275097</link>
 			<description>C/ Antonio López, 256,&lt;br/&gt;4º con ascensor,&lt;br/&gt;69m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/275097</description>
-			<pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
 			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275097?2024-09-09</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275097?2024-09-20</guid>
 		</item>
 		<item>
 			<title>1500€ Retiro</title>
@@ -1319,6 +1319,14 @@
 			<pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275099?2024-09-11</guid>
+		</item>
+		<item>
+			<title>1100€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275100</link>
+			<description>C/ Esperanza Schez. Carrasco, 19,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275100</description>
+			<pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275100?2024-09-20</guid>
 		</item>
 		<item>
 			<title>1700€ Centro</title>
