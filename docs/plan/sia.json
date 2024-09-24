@@ -156,6 +156,7 @@
   {
     "id": 32183,
     "publicado": "2024-09-10",
+    "modificado": "2024-09-24",
     "direccion": "Calle Limon 7",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -168,7 +169,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/v40Uk2d.jpeg?17",
       "https://i.imgur.com/DMh1oWs.jpeg?18",
@@ -189,6 +190,7 @@
   {
     "id": 32185,
     "publicado": "2024-08-28",
+    "modificado": "2024-09-24",
     "direccion": "Avenida Badajoz 11",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -201,7 +203,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/lU85iM4.jpeg?2",
       "https://i.imgur.com/uBoSKm7.jpeg?3",
@@ -219,45 +221,6 @@
       "https://i.imgur.com/gVZGpGU.jpeg?15",
       "https://i.imgur.com/IXxKivI.jpeg?16",
       "https://i.imgur.com/DXORNQQ.jpeg?17"
-    ]
-  },
-  {
-    "id": 32186,
-    "publicado": "2024-08-29",
-    "direccion": "Calle Antonio Lopez 195",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "Almendrales",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 1650,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "B",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/UOypmoc.jpeg?2",
-      "https://i.imgur.com/9fMpzIu.jpeg?3",
-      "https://i.imgur.com/iPWe8aN.jpeg?4",
-      "https://i.imgur.com/IznFqIa.jpeg?5",
-      "https://i.imgur.com/kr8fUdZ.jpeg?6",
-      "https://i.imgur.com/bWiqD76.jpeg?7",
-      "https://i.imgur.com/qg8FIr2.jpeg?8",
-      "https://i.imgur.com/k5wpmFq.jpeg?9",
-      "https://i.imgur.com/MO6L5No.jpeg?10",
-      "https://i.imgur.com/QPJDgTu.jpeg?11",
-      "https://i.imgur.com/eNtHyKY.jpeg?12",
-      "https://i.imgur.com/2mzqfrp.jpeg?13",
-      "https://i.imgur.com/KEMCPi7.jpeg?14",
-      "https://i.imgur.com/bIQniy5.jpeg?15",
-      "https://i.imgur.com/Bcy7lD7.jpeg?16",
-      "https://i.imgur.com/yReLNvf.jpeg?17",
-      "https://i.imgur.com/nFyPl0C.jpeg?18",
-      "https://i.imgur.com/Dfw5v8G.jpeg?19",
-      "https://i.imgur.com/XaUN8W4.jpeg?20",
-      "https://i.imgur.com/uai3VYT.jpeg?21"
     ]
   },
   {
@@ -448,6 +411,7 @@
   {
     "id": 32201,
     "publicado": "2024-09-18",
+    "modificado": "2024-09-24",
     "direccion": "Calle Arroyo Belincoso 34",
     "municipio": "Madrid",
     "distrito": "Moratalaz",
@@ -460,7 +424,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/xUaIV9x.jpeg?2",
       "https://i.imgur.com/FbzKafQ.jpeg?3",
