@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 25 Sep 2024 13:51:12 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Sep 2024 18:47:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1145,14 +1145,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275067?2024-08-29</guid>
 		</item>
 		<item>
-			<title>1250€ Carabanchel</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275068</link>
-			<description>C/ Antonio López, 5,&lt;br/&gt;5º con ascensor,&lt;br/&gt;58m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275068</description>
-			<pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275068?2024-09-11</guid>
-		</item>
-		<item>
 			<title>1200€ Vicálvaro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275073</link>
 			<description>C/ Concejal Victorino Graniz, 115,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;103m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275073</description>
@@ -1459,10 +1451,10 @@
 		<item>
 			<title>750€ Morata de Tajuña</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275144</link>
-			<description>C/ Baja Azotea, 6,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;73m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275144</description>
-			<pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+			<description>C/ Baja Azotea, 6,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;73m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275144</description>
+			<pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
 			<category>Morata de Tajuña</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275144?2024-09-20</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275144?2024-09-25</guid>
 		</item>
 		<item>
 			<title>1100€ Usera</title>
@@ -1479,6 +1471,14 @@
 			<pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275150?2024-09-25</guid>
+		</item>
+		<item>
+			<title>950€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275155</link>
+			<description>C/ José María Rodero, 18,&lt;br/&gt;4º con ascensor,&lt;br/&gt;54m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275155</description>
+			<pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275155?2024-09-25</guid>
 		</item>
 	</channel>
 </rss>
