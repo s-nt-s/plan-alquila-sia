@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 27 Sep 2024 13:47:16 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Sep 2024 18:50:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -55,6 +55,14 @@
 			<pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
 			<category>Valdemoro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/213625?2024-09-24</guid>
+		</item>
+		<item>
+			<title>689€ Alcorcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/219828</link>
+			<description>C/ Hayas, 55,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/219828</description>
+			<pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+			<category>Alcorcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/219828?2024-09-27</guid>
 		</item>
 		<item>
 			<title>750€ Pozuelo de Alarcón</title>
@@ -1119,14 +1127,6 @@
 			<pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275074?2024-08-21</guid>
-		</item>
-		<item>
-			<title>1731€ Fuenlabrada</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275080</link>
-			<description>C/ Gregorio Marañón, 83,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;181m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275080</description>
-			<pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-			<category>Fuenlabrada</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275080?2024-08-23</guid>
 		</item>
 		<item>
 			<title>950€ Villa de Vallecas</title>
