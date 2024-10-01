@@ -1,34 +1,5 @@
 [
   {
-    "id": 32174,
-    "publicado": "2024-09-10",
-    "modificado": "2024-09-23",
-    "direccion": "Calle Jesus Del Valle 15",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Universidad",
-    "planta": 5,
-    "orientacion": "Interior",
-    "precio": 650,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/xjVfzbS.jpeg?1",
-      "https://i.imgur.com/6zyCdxL.jpeg?2",
-      "https://i.imgur.com/fksudrL.jpeg?3",
-      "https://i.imgur.com/D6bTsQm.jpeg?4",
-      "https://i.imgur.com/5SFzpwM.jpeg?5",
-      "https://i.imgur.com/cdnlUCi.jpeg?6",
-      "https://i.imgur.com/yTGxqJl.jpeg?7",
-      "https://i.imgur.com/ntK9t3K.jpeg?8",
-      "https://i.imgur.com/ChSU3Kk.jpeg?9"
-    ]
-  },
-  {
     "id": 32181,
     "publicado": "2024-09-10",
     "modificado": "2024-09-16",
@@ -253,6 +224,34 @@
     ]
   },
   {
+    "id": 32200,
+    "publicado": "2024-10-01",
+    "direccion": "Calle Maqueda 17",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Campamento",
+    "planta": 1,
+    "orientacion": "Exterior",
+    "precio": 1250,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/xVoUqeP.jpeg?2",
+      "https://i.imgur.com/ZJSRpJA.jpeg?3",
+      "https://i.imgur.com/Ajplrtf.jpeg?4",
+      "https://i.imgur.com/i91xSdO.jpeg?5",
+      "https://i.imgur.com/y8HI0bG.jpeg?6",
+      "https://i.imgur.com/8w4QMro.jpeg?7",
+      "https://i.imgur.com/niUrZqr.jpeg?8",
+      "https://i.imgur.com/jmOWnJy.jpeg?9",
+      "https://i.imgur.com/O5kkLps.jpeg?10"
+    ]
+  },
+  {
     "id": 32203,
     "publicado": "2024-09-30",
     "direccion": "Calle Doctor Fourquet 26",
@@ -279,6 +278,31 @@
       "https://i.imgur.com/Psh1z7j.jpeg?9",
       "https://i.imgur.com/elFI0NM.jpeg?10",
       "https://i.imgur.com/PUfeJvI.jpeg?11"
+    ]
+  },
+  {
+    "id": 32208,
+    "publicado": "2024-10-01",
+    "direccion": "Calle Villalobos 43",
+    "municipio": "Madrid",
+    "distrito": "Puente de Vallecas",
+    "barrio": "Palomeras Sureste",
+    "planta": 0,
+    "orientacion": "Exterior",
+    "precio": 640,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/pODRavK.jpeg?2",
+      "https://i.imgur.com/IAj6EhS.jpeg?3",
+      "https://i.imgur.com/C77XGUa.jpeg?4",
+      "https://i.imgur.com/fqw7jKz.jpeg?5",
+      "https://i.imgur.com/BfdEBe2.jpeg?6",
+      "https://i.imgur.com/yQV92fl.jpeg?7"
     ]
   }
 ]
