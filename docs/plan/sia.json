@@ -65,6 +65,7 @@
   {
     "id": 32191,
     "publicado": "2024-09-23",
+    "modificado": "2024-10-04",
     "direccion": "Calle Catedral Santiago De Compostela 2",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -77,7 +78,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/0mZcltS.jpeg?10",
       "https://i.imgur.com/0CCQr9U.jpeg?11",
@@ -91,7 +92,7 @@
   {
     "id": 32197,
     "publicado": "2024-09-10",
-    "modificado": "2024-09-25",
+    "modificado": "2024-10-04",
     "direccion": "Avenida San Luis 12",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -104,7 +105,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/yHyzpub.jpeg?4",
       "https://i.imgur.com/1TSDjpN.jpeg?5",
@@ -178,6 +179,7 @@
   {
     "id": 32203,
     "publicado": "2024-09-30",
+    "modificado": "2024-10-04",
     "direccion": "Calle Doctor Fourquet 26",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -190,7 +192,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/t6qOsmJ.jpeg?2",
       "https://i.imgur.com/bvt9CXg.jpeg?3",
@@ -207,6 +209,7 @@
   {
     "id": 32208,
     "publicado": "2024-10-01",
+    "modificado": "2024-10-04",
     "direccion": "Calle Villalobos 43",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -219,7 +222,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/pODRavK.jpeg?2",
       "https://i.imgur.com/IAj6EhS.jpeg?3",
