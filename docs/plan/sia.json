@@ -227,6 +227,7 @@
   {
     "id": 32214,
     "publicado": "2024-10-07",
+    "modificado": "2024-10-08",
     "direccion": "Calle Ayala 81",
     "municipio": "Madrid",
     "distrito": "Salamanca",
@@ -237,7 +238,7 @@
     "dormitorios": 1,
     "aseos": 1,
     "cee": "F",
-    "ascensor": false,
+    "ascensor": true,
     "adaptada": false,
     "reservada": false,
     "imgs": [
