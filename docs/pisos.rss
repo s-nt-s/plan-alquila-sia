@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 08 Oct 2024 13:51:59 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 08 Oct 2024 18:51:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1585,12 +1585,28 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275204?2024-10-07</guid>
 		</item>
 		<item>
+			<title>1100€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275206</link>
+			<description>C/ Santa Cruz de Mudela, 17,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;64m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275206</description>
+			<pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275206?2024-10-08</guid>
+		</item>
+		<item>
 			<title>600€ Rascafría</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275208</link>
 			<description>C/ Nevero, 48,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275208</description>
 			<pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
 			<category>Rascafría</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275208?2024-10-08</guid>
+		</item>
+		<item>
+			<title>900€ Villaverde</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275210</link>
+			<description>C/ Vicente Carballal, 7,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;56m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275210</description>
+			<pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+			<category>Villaverde</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275210?2024-10-08</guid>
 		</item>
 	</channel>
 </rss>
