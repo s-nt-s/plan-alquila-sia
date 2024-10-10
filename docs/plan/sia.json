@@ -90,35 +90,6 @@
     ]
   },
   {
-    "id": 32197,
-    "publicado": "2024-09-10",
-    "modificado": "2024-10-04",
-    "direccion": "Avenida San Luis 12",
-    "municipio": "Madrid",
-    "distrito": "Hortaleza",
-    "barrio": "Pinar del Rey",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 1050,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/yHyzpub.jpeg?4",
-      "https://i.imgur.com/1TSDjpN.jpeg?5",
-      "https://i.imgur.com/Vf3kzO8.jpeg?6",
-      "https://i.imgur.com/orR25V8.jpeg?7",
-      "https://i.imgur.com/JRC2NVN.jpeg?8",
-      "https://i.imgur.com/DKlS1Cw.jpeg?10",
-      "https://i.imgur.com/HDKft1W.jpeg?11",
-      "https://i.imgur.com/yGF4huG.jpeg?12",
-      "https://i.imgur.com/IyjKZPn.jpeg?13"
-    ]
-  },
-  {
     "id": 32198,
     "publicado": "2024-09-17",
     "direccion": "Calle Fundadores 7",
@@ -232,6 +203,7 @@
   {
     "id": 32205,
     "publicado": "2024-10-08",
+    "modificado": "2024-10-10",
     "direccion": "Calle Pe\u00f1aranda De Bracamonte 38",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -244,7 +216,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/omJvXJy.jpeg?2",
       "https://i.imgur.com/uxhVDhF.jpeg?3",
@@ -428,6 +400,35 @@
       "https://i.imgur.com/lrxC1Tn.jpeg?20",
       "https://i.imgur.com/hDzE6XB.jpeg?21",
       "https://i.imgur.com/gtH6Ip9.jpeg?22"
+    ]
+  },
+  {
+    "id": 32216,
+    "publicado": "2024-10-10",
+    "direccion": "Calle Sedano 8",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Campamento",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 700,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/x5QmwHu.jpeg?2",
+      "https://i.imgur.com/Usn7VGm.jpeg?3",
+      "https://i.imgur.com/VeFHUmU.jpeg?4",
+      "https://i.imgur.com/hnoYtr0.jpeg?5",
+      "https://i.imgur.com/aj6jTYM.jpeg?6",
+      "https://i.imgur.com/AMGACCF.jpeg?7",
+      "https://i.imgur.com/P7BCASn.jpeg?8",
+      "https://i.imgur.com/u7nbaWi.jpeg?9",
+      "https://i.imgur.com/zdrIPaG.jpeg?10",
+      "https://i.imgur.com/7R8vlye.jpeg?11"
     ]
   }
 ]
