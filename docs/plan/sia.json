@@ -63,33 +63,6 @@
     ]
   },
   {
-    "id": 32191,
-    "publicado": "2024-09-23",
-    "modificado": "2024-10-04",
-    "direccion": "Calle Catedral Santiago De Compostela 2",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Buenavista",
-    "planta": 6,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/0mZcltS.jpeg?10",
-      "https://i.imgur.com/0CCQr9U.jpeg?11",
-      "https://i.imgur.com/Z3GSL99.jpeg?12",
-      "https://i.imgur.com/OoJlLRk.jpeg?13",
-      "https://i.imgur.com/BcAuC7z.jpeg?14",
-      "https://i.imgur.com/fBA7U23.jpeg?15",
-      "https://i.imgur.com/OxKEZoG.jpeg?16"
-    ]
-  },
-  {
     "id": 32198,
     "publicado": "2024-09-17",
     "direccion": "Calle Fundadores 7",
@@ -366,6 +339,7 @@
   {
     "id": 32215,
     "publicado": "2024-10-07",
+    "modificado": "2024-10-11",
     "direccion": "Calle Taburiente 7",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -378,7 +352,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/rE0h4fV.jpeg?3",
       "https://i.imgur.com/voGmep0.jpeg?4",
