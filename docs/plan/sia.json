@@ -178,6 +178,7 @@
   {
     "id": 32204,
     "publicado": "2024-10-16",
+    "modificado": "2024-10-17",
     "direccion": "Calle Antonio Salvador 27",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -190,7 +191,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/2DvUpnW.jpeg?2",
       "https://i.imgur.com/WcKlGN2.jpeg?3",
@@ -304,6 +305,30 @@
       "https://i.imgur.com/BdJgb1I.jpeg?11",
       "https://i.imgur.com/cwwFl58.jpeg?12",
       "https://i.imgur.com/tBtJoE0.jpeg?13"
+    ]
+  },
+  {
+    "id": 32212,
+    "publicado": "2024-10-17",
+    "direccion": "Calle Panizo 40",
+    "municipio": "Madrid",
+    "distrito": "Tetuan",
+    "barrio": "Berruguete",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 800,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/tlMqxki.jpeg?2",
+      "https://i.imgur.com/SFsaiiv.jpeg?3",
+      "https://i.imgur.com/fo3HUTb.jpeg?4",
+      "https://i.imgur.com/r9qP1Ut.jpeg?5",
+      "https://i.imgur.com/yBp7jpL.jpeg?6"
     ]
   },
   {
