@@ -463,5 +463,29 @@
       "https://i.imgur.com/zdrIPaG.jpeg?10",
       "https://i.imgur.com/7R8vlye.jpeg?11"
     ]
+  },
+  {
+    "id": 32221,
+    "publicado": "2024-10-18",
+    "direccion": "Avenida Oporto 91",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Opa\u00f1el",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 660,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/Nf4QwJf.jpeg?4",
+      "https://i.imgur.com/Yp3iCum.jpeg?5",
+      "https://i.imgur.com/K4VSf65.jpeg?7",
+      "https://i.imgur.com/MtMKinR.jpeg?8",
+      "https://i.imgur.com/BIOLtdg.jpeg?9"
+    ]
   }
 ]
