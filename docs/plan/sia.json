@@ -149,6 +149,7 @@
   {
     "id": 32202,
     "publicado": "2024-10-08",
+    "modificado": "2024-10-21",
     "direccion": "Calle Mataro 17",
     "municipio": "Madrid",
     "distrito": "Fuencarral-El Pardo",
@@ -161,7 +162,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/uqOOuRX.jpeg?2",
       "https://i.imgur.com/vMlxMwW.jpeg?3",
@@ -308,6 +309,32 @@
     ]
   },
   {
+    "id": 32210,
+    "publicado": "2024-10-21",
+    "direccion": "Calle Toledo 82",
+    "municipio": "Madrid",
+    "distrito": "Centro",
+    "barrio": "Palacio",
+    "planta": 5,
+    "orientacion": "Mixto",
+    "precio": 983,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/DyCfiT4.jpeg?8",
+      "https://i.imgur.com/JcYyLmb.jpeg?9",
+      "https://i.imgur.com/GwdEBQJ.jpeg?10",
+      "https://i.imgur.com/Pk4XsAB.jpeg?11",
+      "https://i.imgur.com/Q4xW7zt.jpeg?12",
+      "https://i.imgur.com/aA3AwVC.jpeg?13",
+      "https://i.imgur.com/xkwkAPS.jpeg?14"
+    ]
+  },
+  {
     "id": 32212,
     "publicado": "2024-10-17",
     "direccion": "Calle Panizo 40",
@@ -432,36 +459,6 @@
       "https://i.imgur.com/lrxC1Tn.jpeg?20",
       "https://i.imgur.com/hDzE6XB.jpeg?21",
       "https://i.imgur.com/gtH6Ip9.jpeg?22"
-    ]
-  },
-  {
-    "id": 32216,
-    "publicado": "2024-10-10",
-    "modificado": "2024-10-15",
-    "direccion": "Calle Sedano 8",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Campamento",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 700,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/x5QmwHu.jpeg?2",
-      "https://i.imgur.com/Usn7VGm.jpeg?3",
-      "https://i.imgur.com/VeFHUmU.jpeg?4",
-      "https://i.imgur.com/hnoYtr0.jpeg?5",
-      "https://i.imgur.com/aj6jTYM.jpeg?6",
-      "https://i.imgur.com/AMGACCF.jpeg?7",
-      "https://i.imgur.com/P7BCASn.jpeg?8",
-      "https://i.imgur.com/u7nbaWi.jpeg?9",
-      "https://i.imgur.com/zdrIPaG.jpeg?10",
-      "https://i.imgur.com/7R8vlye.jpeg?11"
     ]
   },
   {
