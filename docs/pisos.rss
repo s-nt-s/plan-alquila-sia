@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 22 Oct 2024 13:52:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 22 Oct 2024 18:47:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -239,14 +239,6 @@
 			<pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/257511?2024-10-05</guid>
-		</item>
-		<item>
-			<title>1400€ Algete</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/261436</link>
-			<description>C/ Cerro de Aragón, 16,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;171m², 4 🛏,&lt;br/&gt;5 🛀, 0 📷.&lt;br/&gt;alq/261436</description>
-			<pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-			<category>Algete</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261436?2024-04-29</guid>
 		</item>
 		<item>
 			<title>900€ Galapagar</title>
@@ -751,14 +743,6 @@
 			<pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274737?2024-04-09</guid>
-		</item>
-		<item>
-			<title>1400€ Salamanca</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274742</link>
-			<description>C/ Méjico, 51,&lt;br/&gt;1º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274742</description>
-			<pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
-			<category>Salamanca</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274742?2024-04-10</guid>
 		</item>
 		<item>
 			<title>900€ Pozuelo de Alarcón</title>
@@ -1495,6 +1479,14 @@
 			<pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275239?2024-10-04</guid>
+		</item>
+		<item>
+			<title>1500€ Chamberí</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275241</link>
+			<description>C/ Bretón de los Herreros, 6,&lt;br/&gt;2º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275241</description>
+			<pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+			<category>Chamberí</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275241?2024-10-22</guid>
 		</item>
 	</channel>
 </rss>
