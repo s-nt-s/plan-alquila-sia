@@ -230,32 +230,6 @@
     ]
   },
   {
-    "id": 32206,
-    "publicado": "2024-10-08",
-    "modificado": "2024-10-16",
-    "direccion": "Calle Maqueda 96",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Aluche",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 935,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/KUibocZ.jpeg?2",
-      "https://i.imgur.com/QBWgFfP.jpeg?3",
-      "https://i.imgur.com/6kJDRdm.jpeg?4",
-      "https://i.imgur.com/a2g2ihg.jpeg?5",
-      "https://i.imgur.com/3B8PREr.jpeg?6",
-      "https://i.imgur.com/nwjybCu.jpeg?7"
-    ]
-  },
-  {
     "id": 32207,
     "publicado": "2024-10-07",
     "direccion": "Calle Venancio Martin 42",
@@ -337,6 +311,7 @@
   {
     "id": 32212,
     "publicado": "2024-10-17",
+    "modificado": "2024-10-22",
     "direccion": "Calle Panizo 40",
     "municipio": "Madrid",
     "distrito": "Tetuan",
@@ -349,7 +324,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/tlMqxki.jpeg?2",
       "https://i.imgur.com/SFsaiiv.jpeg?3",
