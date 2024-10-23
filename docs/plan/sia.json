@@ -439,6 +439,7 @@
   {
     "id": 32221,
     "publicado": "2024-10-18",
+    "modificado": "2024-10-23",
     "direccion": "Avenida Oporto 91",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -451,7 +452,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Nf4QwJf.jpeg?4",
       "https://i.imgur.com/Yp3iCum.jpeg?5",
