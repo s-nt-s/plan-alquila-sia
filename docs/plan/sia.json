@@ -143,32 +143,6 @@
     ]
   },
   {
-    "id": 32204,
-    "publicado": "2024-10-16",
-    "modificado": "2024-10-17",
-    "direccion": "Calle Antonio Salvador 27",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "Almendrales",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 700,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/2DvUpnW.jpeg?2",
-      "https://i.imgur.com/WcKlGN2.jpeg?3",
-      "https://i.imgur.com/QTVwSjW.jpeg?4",
-      "https://i.imgur.com/8jWsqb0.jpeg?5",
-      "https://i.imgur.com/D6IbPB1.jpeg?6",
-      "https://i.imgur.com/nO0Cqgc.jpeg?7"
-    ]
-  },
-  {
     "id": 32205,
     "publicado": "2024-10-08",
     "modificado": "2024-10-10",
@@ -456,6 +430,34 @@
       "https://i.imgur.com/qtww1tc.jpeg?11",
       "https://i.imgur.com/aZ1G0er.jpeg?12",
       "https://i.imgur.com/sQVLNAg.jpeg?13"
+    ]
+  },
+  {
+    "id": 32225,
+    "publicado": "2024-10-25",
+    "direccion": "Calle Madres Plaza De Mayo 7",
+    "municipio": "Madrid",
+    "distrito": "Ciudad Lineal",
+    "barrio": "Pueblo Nuevo",
+    "planta": 4,
+    "orientacion": "Mixto",
+    "precio": 1200,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/DMatsOH.jpeg?2",
+      "https://i.imgur.com/rfo7Woo.jpeg?3",
+      "https://i.imgur.com/pMYNo0b.jpeg?4",
+      "https://i.imgur.com/UP3las2.jpeg?5",
+      "https://i.imgur.com/NaKN5tH.jpeg?6",
+      "https://i.imgur.com/MRmdQMr.jpeg?7",
+      "https://i.imgur.com/RtKBffh.jpeg?8",
+      "https://i.imgur.com/ulvyV8Y.jpeg?9",
+      "https://i.imgur.com/Plw62ZH.jpeg?10"
     ]
   }
 ]
