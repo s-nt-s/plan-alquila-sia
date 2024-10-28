@@ -29,37 +29,6 @@
     ]
   },
   {
-    "id": 32198,
-    "publicado": "2024-09-17",
-    "modificado": "2024-10-16",
-    "direccion": "Calle Fundadores 7",
-    "municipio": "Madrid",
-    "distrito": "Salamanca",
-    "barrio": "Fuente del Berro",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 970,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/OT2ahn8.jpeg?1",
-      "https://i.imgur.com/9Ay9B1U.jpeg?3",
-      "https://i.imgur.com/DukFTUa.jpeg?4",
-      "https://i.imgur.com/2uTwJCI.jpeg?5",
-      "https://i.imgur.com/g6kDCIp.jpeg?6",
-      "https://i.imgur.com/Dv6qUtI.jpeg?7",
-      "https://i.imgur.com/LmQJJsu.jpeg?8",
-      "https://i.imgur.com/VW31Zun.jpeg?9",
-      "https://i.imgur.com/N5xVU1W.jpeg?10",
-      "https://i.imgur.com/7L5uXJ5.jpeg?11",
-      "https://i.imgur.com/ng3tcAa.jpeg?12"
-    ]
-  },
-  {
     "id": 32199,
     "publicado": "2024-10-08",
     "modificado": "2024-10-17",
@@ -110,36 +79,6 @@
       "https://i.imgur.com/niUrZqr.jpeg?8",
       "https://i.imgur.com/jmOWnJy.jpeg?9",
       "https://i.imgur.com/O5kkLps.jpeg?10"
-    ]
-  },
-  {
-    "id": 32202,
-    "publicado": "2024-10-08",
-    "modificado": "2024-10-21",
-    "direccion": "Calle Mataro 17",
-    "municipio": "Madrid",
-    "distrito": "Fuencarral-El Pardo",
-    "barrio": "Valverde",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 1000,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/uqOOuRX.jpeg?2",
-      "https://i.imgur.com/vMlxMwW.jpeg?3",
-      "https://i.imgur.com/2ybvz2V.jpeg?4",
-      "https://i.imgur.com/qJPHYHZ.jpeg?5",
-      "https://i.imgur.com/eMAxHTd.jpeg?6",
-      "https://i.imgur.com/tCV3WGb.jpeg?7",
-      "https://i.imgur.com/EHSHp4b.jpeg?8",
-      "https://i.imgur.com/4p27jVR.jpeg?9",
-      "https://i.imgur.com/Luisg77.jpeg?10",
-      "https://i.imgur.com/LkFX5RA.jpeg?11"
     ]
   },
   {
@@ -458,6 +397,35 @@
       "https://i.imgur.com/RtKBffh.jpeg?8",
       "https://i.imgur.com/ulvyV8Y.jpeg?9",
       "https://i.imgur.com/Plw62ZH.jpeg?10"
+    ]
+  },
+  {
+    "id": 32227,
+    "publicado": "2024-10-28",
+    "direccion": "Avenida Oporto 106",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Opa\u00f1el",
+    "planta": 3,
+    "precio": 600,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/sABMbdE.jpeg?2",
+      "https://i.imgur.com/rAJ0S6z.jpeg?3",
+      "https://i.imgur.com/WPVzCzQ.jpeg?4",
+      "https://i.imgur.com/h0YgJKZ.jpeg?5",
+      "https://i.imgur.com/z7pMMEM.jpeg?6",
+      "https://i.imgur.com/q9o1TIJ.jpeg?7",
+      "https://i.imgur.com/PrIBV8B.jpeg?8",
+      "https://i.imgur.com/F16rXqB.jpeg?9",
+      "https://i.imgur.com/TTadB4O.jpeg?10",
+      "https://i.imgur.com/3FG3cWG.jpeg?11",
+      "https://i.imgur.com/Dpy8Qsr.jpeg?12"
     ]
   }
 ]
