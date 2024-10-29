@@ -343,6 +343,7 @@
   {
     "id": 32223,
     "publicado": "2024-10-24",
+    "modificado": "2024-10-29",
     "direccion": "Calle Lanuza 23",
     "municipio": "Madrid",
     "distrito": "Salamanca",
@@ -355,7 +356,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/pS9TvKy.jpeg?2",
       "https://i.imgur.com/pcWbpwq.jpeg?3",
