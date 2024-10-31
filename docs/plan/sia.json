@@ -82,33 +82,6 @@
     ]
   },
   {
-    "id": 32205,
-    "publicado": "2024-10-08",
-    "modificado": "2024-10-10",
-    "direccion": "Calle Pe\u00f1aranda De Bracamonte 38",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Ensanche de Vallecas",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 1046,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/omJvXJy.jpeg?2",
-      "https://i.imgur.com/uxhVDhF.jpeg?3",
-      "https://i.imgur.com/e8ZKexI.jpeg?4",
-      "https://i.imgur.com/kqQUH5k.jpeg?5",
-      "https://i.imgur.com/pG687rC.jpeg?6",
-      "https://i.imgur.com/RvJBtCi.jpeg?7",
-      "https://i.imgur.com/6J7cZ8a.jpeg?8"
-    ]
-  },
-  {
     "id": 32207,
     "publicado": "2024-10-07",
     "modificado": "2024-10-30",
@@ -339,6 +312,7 @@
   {
     "id": 32227,
     "publicado": "2024-10-28",
+    "modificado": "2024-10-31",
     "direccion": "Avenida Oporto 106",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -350,7 +324,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/sABMbdE.jpeg?2",
       "https://i.imgur.com/rAJ0S6z.jpeg?3",
