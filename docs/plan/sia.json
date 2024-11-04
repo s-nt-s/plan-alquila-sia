@@ -29,31 +29,6 @@
     ]
   },
   {
-    "id": 32199,
-    "publicado": "2024-10-08",
-    "modificado": "2024-10-17",
-    "direccion": "Calle Amparo 36",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Embajadores",
-    "planta": 3,
-    "orientacion": "Interior",
-    "precio": 750,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/kOKdR9k.jpeg?2",
-      "https://i.imgur.com/6lPiPuF.jpeg?3",
-      "https://i.imgur.com/RN4xWCf.jpeg?4",
-      "https://i.imgur.com/gMHprPF.jpeg?5",
-      "https://i.imgur.com/8YX5kwu.jpeg?6"
-    ]
-  },
-  {
     "id": 32200,
     "publicado": "2024-10-01",
     "direccion": "Calle Maqueda 17",
@@ -199,7 +174,7 @@
   {
     "id": 32214,
     "publicado": "2024-10-07",
-    "modificado": "2024-10-08",
+    "modificado": "2024-11-04",
     "direccion": "Calle Ayala 81",
     "municipio": "Madrid",
     "distrito": "Salamanca",
@@ -212,7 +187,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/ZCh8lSp.jpeg?2",
       "https://i.imgur.com/rqfOlYF.jpeg?3",
@@ -247,38 +222,6 @@
       "https://i.imgur.com/K4VSf65.jpeg?7",
       "https://i.imgur.com/MtMKinR.jpeg?8",
       "https://i.imgur.com/BIOLtdg.jpeg?9"
-    ]
-  },
-  {
-    "id": 32223,
-    "publicado": "2024-10-24",
-    "modificado": "2024-10-29",
-    "direccion": "Calle Lanuza 23",
-    "municipio": "Madrid",
-    "distrito": "Salamanca",
-    "barrio": "Fuente del Berro",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 1675,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/pS9TvKy.jpeg?2",
-      "https://i.imgur.com/pcWbpwq.jpeg?3",
-      "https://i.imgur.com/eY7ZJLd.jpeg?4",
-      "https://i.imgur.com/LWP0LcF.jpeg?5",
-      "https://i.imgur.com/FVWIsXc.jpeg?6",
-      "https://i.imgur.com/HxgcTEt.jpeg?7",
-      "https://i.imgur.com/NVa83nJ.jpeg?8",
-      "https://i.imgur.com/QYCVZlb.jpeg?9",
-      "https://i.imgur.com/dnKaYEW.jpeg?10",
-      "https://i.imgur.com/qtww1tc.jpeg?11",
-      "https://i.imgur.com/aZ1G0er.jpeg?12",
-      "https://i.imgur.com/sQVLNAg.jpeg?13"
     ]
   },
   {
