@@ -113,6 +113,7 @@
   {
     "id": 32210,
     "publicado": "2024-10-21",
+    "modificado": "2024-11-06",
     "direccion": "Calle Toledo 82",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -125,7 +126,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/DyCfiT4.jpeg?8",
       "https://i.imgur.com/JcYyLmb.jpeg?9",
