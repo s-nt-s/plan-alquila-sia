@@ -167,6 +167,30 @@
     ]
   },
   {
+    "id": 32219,
+    "publicado": "2024-11-12",
+    "direccion": "Calle Sambara 121",
+    "municipio": "Madrid",
+    "distrito": "Ciudad Lineal",
+    "barrio": "Quintana",
+    "planta": 1,
+    "orientacion": "Exterior",
+    "precio": 750,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/0yNStDE.jpeg?3",
+      "https://i.imgur.com/3nkKK4m.jpeg?6",
+      "https://i.imgur.com/jGlfXwA.jpeg?7",
+      "https://i.imgur.com/fD2130Z.jpeg?8",
+      "https://i.imgur.com/xP1OMQA.jpeg?9"
+    ]
+  },
+  {
     "id": 32222,
     "publicado": "2024-11-11",
     "direccion": "Calle Pedro\u00f1eras 27",
@@ -256,6 +280,7 @@
   {
     "id": 32226,
     "publicado": "2024-11-05",
+    "modificado": "2024-11-12",
     "direccion": "Calle Halcon 16",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -268,7 +293,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/YVtezPX.jpeg?2",
       "https://i.imgur.com/NNPMM0p.jpeg?3",
@@ -286,6 +311,32 @@
       "https://i.imgur.com/peP3FWX.jpeg?15",
       "https://i.imgur.com/5WbCU7d.jpeg?16",
       "https://i.imgur.com/qaNKglo.jpeg?17"
+    ]
+  },
+  {
+    "id": 32228,
+    "publicado": "2024-11-12",
+    "direccion": "Calle Oslo 18",
+    "municipio": "Madrid",
+    "distrito": "San Blas",
+    "barrio": "Rosas",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 950,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": true,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/3nx2L9s.jpeg?2",
+      "https://i.imgur.com/BdkCLZF.jpeg?3",
+      "https://i.imgur.com/S1c5vwL.jpeg?4",
+      "https://i.imgur.com/gaunWhz.jpeg?5",
+      "https://i.imgur.com/7IvVpxR.jpeg?6",
+      "https://i.imgur.com/0iXHnST.jpeg?7",
+      "https://i.imgur.com/Q64AGpD.jpeg?8"
     ]
   },
   {
