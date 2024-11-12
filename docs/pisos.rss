@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 12 Nov 2024 14:24:12 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 12 Nov 2024 18:50:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -921,6 +921,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274956?2024-07-03</guid>
 		</item>
 		<item>
+			<title>843€ Fuenlabrada</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274964</link>
+			<description>C/ Trece Rosas, 4,&lt;br/&gt;7º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274964</description>
+			<pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+			<category>Fuenlabrada</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274964?2024-07-10</guid>
+		</item>
+		<item>
 			<title>1050€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274970</link>
 			<description>C/ Quijada de Pandiellos, 45,&lt;br/&gt;1º con ascensor,&lt;br/&gt;55m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/274970</description>
@@ -1283,10 +1291,10 @@
 		<item>
 			<title>1200€ Getafe</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275221</link>
-			<description>C/ Magallanes, 2,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/275221</description>
-			<pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+			<description>C/ Magallanes, 2,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/275221</description>
+			<pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
 			<category>Getafe</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275221?2024-10-30</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275221?2024-11-12</guid>
 		</item>
 		<item>
 			<title>1321€ Vicálvaro</title>
@@ -1609,6 +1617,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275288?2024-11-11</guid>
 		</item>
 		<item>
+			<title>900€ Colmenar Viejo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275289</link>
+			<description>C/ Frailes, 34,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;99m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275289</description>
+			<pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Colmenar Viejo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275289?2024-11-12</guid>
+		</item>
+		<item>
 			<title>950€ Collado Villalba</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275292</link>
 			<description>C/ Rafael Alberti, 11,&lt;br/&gt;4º con ascensor,&lt;br/&gt;68m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275292</description>
@@ -1657,12 +1673,36 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275300?2024-11-12</guid>
 		</item>
 		<item>
+			<title>1090€ Getafe</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275302</link>
+			<description>C/ Lanza en Astillero, 2,&lt;br/&gt;4º con ascensor,&lt;br/&gt;78m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275302</description>
+			<pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Getafe</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275302?2024-11-12</guid>
+		</item>
+		<item>
 			<title>1300€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275303</link>
 			<description>Trª Capri, 22,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;90m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275303</description>
 			<pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
 			<category>San Blas-Canillejas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275303?2024-11-12</guid>
+		</item>
+		<item>
+			<title>1200€ Coslada</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275304</link>
+			<description>C/ Mar del Norte, 2,&lt;br/&gt;5º con ascensor,&lt;br/&gt;91m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275304</description>
+			<pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Coslada</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275304?2024-11-12</guid>
+		</item>
+		<item>
+			<title>970€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275305</link>
+			<description>C/ Valmojado, 99,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;45m², 1 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275305</description>
+			<pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275305?2024-11-12</guid>
 		</item>
 	</channel>
 </rss>
