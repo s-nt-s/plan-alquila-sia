@@ -2,7 +2,7 @@
   {
     "id": 32181,
     "publicado": "2024-09-10",
-    "modificado": "2024-09-16",
+    "modificado": "2024-11-15",
     "direccion": "Calle Pelayo 32",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -15,7 +15,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
       "https://i.imgur.com/NvHtuKc.jpeg?1",
       "https://i.imgur.com/Q5NSscR.jpeg?2",
@@ -139,34 +139,6 @@
     ]
   },
   {
-    "id": 32214,
-    "publicado": "2024-10-07",
-    "modificado": "2024-11-04",
-    "direccion": "Calle Ayala 81",
-    "municipio": "Madrid",
-    "distrito": "Salamanca",
-    "barrio": "Goya",
-    "planta": 2,
-    "orientacion": "Interior",
-    "precio": 750,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/ZCh8lSp.jpeg?2",
-      "https://i.imgur.com/rqfOlYF.jpeg?3",
-      "https://i.imgur.com/nnEbAt1.jpeg?4",
-      "https://i.imgur.com/71TAD7o.jpeg?5",
-      "https://i.imgur.com/U1fRftK.jpeg?6",
-      "https://i.imgur.com/YHEn7ka.jpeg?8",
-      "https://i.imgur.com/z3e0MJg.jpeg?9",
-      "https://i.imgur.com/3poCHue.jpeg?10"
-    ]
-  },
-  {
     "id": 32219,
     "publicado": "2024-11-12",
     "direccion": "Calle Sambara 121",
@@ -222,7 +194,7 @@
   {
     "id": 32224,
     "publicado": "2024-11-11",
-    "modificado": "2024-11-11",
+    "modificado": "2024-11-15",
     "direccion": "Camino Valderribas 37",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -234,7 +206,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/dFGQogf.jpeg?12",
       "https://i.imgur.com/E1QoRFv.jpeg?13",
@@ -275,42 +247,6 @@
       "https://i.imgur.com/RtKBffh.jpeg?8",
       "https://i.imgur.com/ulvyV8Y.jpeg?9",
       "https://i.imgur.com/Plw62ZH.jpeg?10"
-    ]
-  },
-  {
-    "id": 32226,
-    "publicado": "2024-11-05",
-    "modificado": "2024-11-12",
-    "direccion": "Calle Halcon 16",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Vista Alegre",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 700,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/YVtezPX.jpeg?2",
-      "https://i.imgur.com/NNPMM0p.jpeg?3",
-      "https://i.imgur.com/6MiFVyO.jpeg?4",
-      "https://i.imgur.com/8tjDK0B.jpeg?5",
-      "https://i.imgur.com/TXDiOWY.jpeg?6",
-      "https://i.imgur.com/1OAovfg.jpeg?7",
-      "https://i.imgur.com/4K9XXrE.jpeg?8",
-      "https://i.imgur.com/2Crgq8D.jpeg?9",
-      "https://i.imgur.com/HG2i6dH.jpeg?10",
-      "https://i.imgur.com/7kulTbm.jpeg?11",
-      "https://i.imgur.com/W6r1BGk.jpeg?12",
-      "https://i.imgur.com/8CVVbcq.jpeg?13",
-      "https://i.imgur.com/s9K13oO.jpeg?14",
-      "https://i.imgur.com/peP3FWX.jpeg?15",
-      "https://i.imgur.com/5WbCU7d.jpeg?16",
-      "https://i.imgur.com/qaNKglo.jpeg?17"
     ]
   },
   {
