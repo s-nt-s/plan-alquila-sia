@@ -2015,6 +2015,29 @@
     ]
   },
   {
+    "id": 274361,
+    "publicado": "2024-11-15",
+    "direccion": "Calle Embalse de La Jarosa, 8",
+    "municipio": "Madrid",
+    "distrito": "Villa de Vallecas",
+    "planta": 3,
+    "precio": 1200,
+    "metros": 83.43,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": true,
+    "porteria": false,
+    "trastero": true,
+    "imgs": []
+  },
+  {
     "id": 274381,
     "publicado": "2023-11-17",
     "direccion": "Calle Ruiz, 8",
@@ -5173,5 +5196,27 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GJNoPaW0EP6AoeBJhFm-F6sG0IgurFStB42kyGTcTZmcmM7PJSrGooAU9KH7cBAV7Ueo!IuihIHgR1IuI-IEXwZOzm6SJxT0NO-!zzvN73nf9GxRiDaVLQRO3MeJYhGix1qTEzt17c-HJlDnMcwCJAoCC0bBrUFWWklMsXh!U194-!vM9ByNVKLQxj6mrtjDGIhxSr6lo6HT7Q4U5YsJSjWLLuEF-ei0WrHxx49XXd-XV5znIB5DH3EoLpcyNl7rxfCcKqZ4LoIAFacgWrEAxgFLdLFBDNFOESdHtZmF6SLhkNROh0-1g9e59Jk3Uvxy9!tOfnq79vr466zj8PoeGqQHvmTiqUX1r!dHM-MMPd3qh5I-atOkoQHGv6h7H1kaPuxfmpQ4RVpg0KIquXMaEGtRmtIPSI6fWIMrRvHRwiT3RwZqex-FpahuyfjJRmhrjqFzo6Tcy4SagYV!qJUllW-tawZ7x6t2PP1NTbpabdYNOz27eXvpV3TiW2XbuDhAZIROL!3XzI8Xfn1uZnbj44Ef6cgo42fHgyKHlWmwIrktdYQ5F1PHZuMaZ-4PLbhOQwm7AFWakvgqwdal603i5Ufn8ZWb5VH-pchZ2ZxkziRZjq2LrCimO7HD03YVUKnHOeykMBRpIgu1QWjnY5kORSB5Hwoc8Z4K6xVLYNlKS7dku11ys9y34nqEk1tRjgvC4Tr12D0z1wTyH3Orjmk1ek01OUJcFSho24p1J2EmccUu7NzZRfwF5wCQM",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GJNoPaW0EP6AoeBJhFm-FCmJakYXVipWg8TSZjJsJszOTmdlkpVhU0IIeFD9ugoK9KPUfEfRQELwI6kVE!MCL4MnZTdLE4p6Gnfd55!k977v-DQqxhtKloInbGHEsQrRYa1Ji5-69ufBkyhzmOYBEAUDBaNg1qCpLySkWrw!qa28f!!meg5EqFNqYx9RVWxhjEQ6p11Q0dLr9ocIcMWGpRrFl3CA!vRYLVr648erru!Lq8xzkA8hjbqWFUubGS914vhOFVM8FUMCCNGQLVqAYQKluFqghminCpOh2szA9JFyymonQ6Xawevc-kybqX45e!-lPT9d-X1-ddRx-n0PD1ID3TBzVqL61!mhm!OGHO71Q8kdN2nQUoLhXdY9ja6PH3QvzUocIK0waFEVXLmNCDWoz2kHpkVNrEOVoXjq4xJ7oYE3P4!A0tQ1ZP5koTY1xVC709BuZcBPQsC!1kqSyrXWtYM949e7Hn6kpN8vNukGnZzdvL!2qbhzLbDt3B4iMkInF!7r5keLvz63MTlx88CN9OQWc7Hhw5NByLTYE16WuMIci6vhsXOPM!cFltwlIYTfgCjNSXwXYulS9abzcqHz-MrN8qr9UOQu7s4yZRIuxVbF1hRRHdjj67kIqlTjnvRSGAg0kwXYorRxs86FIJI8j4UOeM0HdYilsGynJ9myXay7W-xZ8z1ASa-oxQXhcp167B6b6YJ5DbvVxzSavySYnqMsCJQ0b8c4k7CTOuKXdG5uov33MJA4_"
     ]
+  },
+  {
+    "id": 275312,
+    "publicado": "2024-11-15",
+    "direccion": "Calle Galicia, 14",
+    "municipio": "Getafe",
+    "planta": 1,
+    "precio": 910,
+    "metros": 64.66,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]

@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 15 Nov 2024 13:49:36 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 15 Nov 2024 19:00:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -663,6 +663,14 @@
 			<pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Arganda del Rey</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274147?2024-08-29</guid>
+		</item>
+		<item>
+			<title>1200€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274361</link>
+			<description>C/ Embalse de La Jarosa, 8,&lt;br/&gt;3º con ascensor,&lt;br/&gt;83m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/274361</description>
+			<pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274361?2024-11-15</guid>
 		</item>
 		<item>
 			<title>1650€ Centro</title>
@@ -1623,6 +1631,14 @@
 			<pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275308?2024-11-15</guid>
+		</item>
+		<item>
+			<title>910€ Getafe</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275312</link>
+			<description>C/ Galicia, 14,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;65m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275312</description>
+			<pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Getafe</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275312?2024-11-15</guid>
 		</item>
 	</channel>
 </rss>
