@@ -82,7 +82,7 @@
   {
     "id": 32209,
     "publicado": "2024-10-15",
-    "modificado": "2024-11-18",
+    "modificado": "2024-11-19",
     "direccion": "Calle Donoso Cortes 34",
     "municipio": "Madrid",
     "distrito": "Chamber\u00ed",
@@ -95,7 +95,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/n62l3sT.jpeg?2",
       "https://i.imgur.com/56Zw5OY.jpeg?3",
