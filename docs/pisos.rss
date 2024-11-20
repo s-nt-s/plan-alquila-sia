@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 20 Nov 2024 13:51:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 20 Nov 2024 18:49:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -423,6 +423,14 @@
 			<pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
 			<category>Aranjuez</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269937?2024-09-24</guid>
+		</item>
+		<item>
+			<title>950€ Barajas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270128</link>
+			<description>Av. Logroño, 327,&lt;br/&gt;1º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270128</description>
+			<pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Barajas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270128?2024-11-20</guid>
 		</item>
 		<item>
 			<title>1150€ Villa de Vallecas</title>
@@ -1073,14 +1081,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275182?2024-10-04</guid>
 		</item>
 		<item>
-			<title>850€ Móstoles</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275184</link>
-			<description>C/ Navia, 2,&lt;br/&gt;3º con ascensor,&lt;br/&gt;57m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275184</description>
-			<pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-			<category>Móstoles</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275184?2024-09-30</guid>
-		</item>
-		<item>
 			<title>1200€ San Blas-Canillejas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275193</link>
 			<description>Av. Guadalajara, 97,&lt;br/&gt;10º con ascensor,&lt;br/&gt;89m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275193</description>
@@ -1513,14 +1513,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275313?2024-11-18</guid>
 		</item>
 		<item>
-			<title>950€ Latina</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275321</link>
-			<description>C/ Ocaña, 88,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275321</description>
-			<pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-			<category>Latina</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275321?2024-11-18</guid>
-		</item>
-		<item>
 			<title>1300€ Villaverde</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275322</link>
 			<description>C/ María Barrientos, 17,&lt;br/&gt;6º con ascensor,&lt;br/&gt;68m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275322</description>
@@ -1551,6 +1543,14 @@
 			<pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
 			<category>Parla</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275327?2024-11-20</guid>
+		</item>
+		<item>
+			<title>1300€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275328</link>
+			<description>C/ Belmonte de Tajo, 51,&lt;br/&gt;1º con ascensor,&lt;br/&gt;67m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275328</description>
+			<pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275328?2024-11-20</guid>
 		</item>
 	</channel>
 </rss>
