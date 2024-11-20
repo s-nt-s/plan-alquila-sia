@@ -114,6 +114,7 @@
   {
     "id": 32219,
     "publicado": "2024-11-12",
+    "modificado": "2024-11-20",
     "direccion": "Calle Sambara 121",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -126,7 +127,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/0yNStDE.jpeg?3",
       "https://i.imgur.com/3nkKK4m.jpeg?6",
@@ -225,6 +226,7 @@
   {
     "id": 32228,
     "publicado": "2024-11-12",
+    "modificado": "2024-11-20",
     "direccion": "Calle Oslo 18",
     "municipio": "Madrid",
     "distrito": "San Blas",
@@ -237,7 +239,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": true,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/3nx2L9s.jpeg?2",
       "https://i.imgur.com/BdkCLZF.jpeg?3",
