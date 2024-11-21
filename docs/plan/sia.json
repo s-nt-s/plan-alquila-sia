@@ -112,6 +112,39 @@
     ]
   },
   {
+    "id": 32211,
+    "publicado": "2024-11-21",
+    "direccion": "Calle Manuel Lamela 20",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Puerta Bonita",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 1090,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/tAlh0Ez.jpeg?1",
+      "https://i.imgur.com/c6m34YD.jpeg?2",
+      "https://i.imgur.com/YxFr5xW.jpeg?3",
+      "https://i.imgur.com/qon6Tmf.jpeg?4",
+      "https://i.imgur.com/6lIFUaa.jpeg?5",
+      "https://i.imgur.com/PvF5Ms5.jpeg?6",
+      "https://i.imgur.com/TB9Y94o.jpeg?7",
+      "https://i.imgur.com/xXT2neo.jpeg?8",
+      "https://i.imgur.com/xU333y4.jpeg?9",
+      "https://i.imgur.com/QpWEl5z.jpeg?10",
+      "https://i.imgur.com/LIDuYaV.jpeg?11",
+      "https://i.imgur.com/2JxdzQW.jpeg?12",
+      "https://i.imgur.com/fV6CrEb.jpeg?13",
+      "https://i.imgur.com/Ptz3GPF.jpeg?14"
+    ]
+  },
+  {
     "id": 32219,
     "publicado": "2024-11-12",
     "modificado": "2024-11-20",
@@ -275,6 +308,33 @@
       "https://i.imgur.com/9EKDwmc.jpeg?7",
       "https://i.imgur.com/7AdhrI1.jpeg?8",
       "https://i.imgur.com/s6xVz5j.jpeg?9"
+    ]
+  },
+  {
+    "id": 32243,
+    "publicado": "2024-11-21",
+    "direccion": "Calle Juan Tornero 27",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Puerta del \u00c1ngel",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 1050,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "C",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/BZJKLMm.jpeg?2",
+      "https://i.imgur.com/WmtHBJ1.jpeg?3",
+      "https://i.imgur.com/7xD58Sd.jpeg?4",
+      "https://i.imgur.com/PLHC8Su.jpeg?5",
+      "https://i.imgur.com/6iAB7dC.jpeg?6",
+      "https://i.imgur.com/ihUwzxW.jpeg?7",
+      "https://i.imgur.com/Rq3IdMF.jpeg?8",
+      "https://i.imgur.com/Jo8lU0m.jpeg?9"
     ]
   }
 ]

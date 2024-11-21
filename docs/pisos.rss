@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 20 Nov 2024 18:49:10 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 21 Nov 2024 13:50:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -33,6 +33,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32207?2024-11-05</guid>
 		</item>
 		<item>
+			<title>1090€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32211</link>
+			<description>C/ Manuel Lamela 20,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;1 🛀, 14 📷.&lt;br/&gt;sia/32211</description>
+			<pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32211?2024-11-21</guid>
+		</item>
+		<item>
 			<title>900€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32222</link>
 			<description>C/ Pedroñeras 27,&lt;br/&gt;3º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;1 🛀, 10 📷.&lt;br/&gt;sia/32222</description>
@@ -55,6 +63,14 @@
 			<pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32229?2024-11-11</guid>
+		</item>
+		<item>
+			<title>1050€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32243</link>
+			<description>C/ Juan Tornero 27,&lt;br/&gt;2º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;sia/32243</description>
+			<pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32243?2024-11-21</guid>
 		</item>
 		<item>
 			<title>900€ Parla</title>
@@ -217,14 +233,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/251115?2024-11-14</guid>
 		</item>
 		<item>
-			<title>1800€ Pozuelo de Alarcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/253847</link>
-			<description>C/ Carretera De Humera, 87,&lt;br/&gt;Atico con ascensor,&lt;br/&gt;113m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/253847</description>
-			<pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-			<category>Pozuelo de Alarcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/253847?2024-11-11</guid>
-		</item>
-		<item>
 			<title>1350€ Retiro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/257511</link>
 			<description>C/ Comercio, 4,&lt;br/&gt;6º con ascensor,&lt;br/&gt;63m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/257511</description>
@@ -247,6 +255,14 @@
 			<pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
 			<category>San Agustín del Guadalix</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261780?2024-08-29</guid>
+		</item>
+		<item>
+			<title>1399€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/262268</link>
+			<description>C/ Princesa de Éboli, 52,&lt;br/&gt;3º con ascensor,&lt;br/&gt;82m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/262268</description>
+			<pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262268?2024-11-21</guid>
 		</item>
 		<item>
 			<title>750€ Villa de Vallecas</title>
@@ -345,6 +361,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268707?2024-10-04</guid>
 		</item>
 		<item>
+			<title>850€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268885</link>
+			<description>Av. Ensanche de Vallecas, 112,&lt;br/&gt;3º con ascensor,&lt;br/&gt;50m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/268885</description>
+			<pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268885?2024-11-21</guid>
+		</item>
+		<item>
 			<title>1100€ Fuencarral-El Pardo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269236</link>
 			<description>Av. Monforte de Lemos, 168,&lt;br/&gt;3º con ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/269236</description>
@@ -425,6 +449,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269937?2024-09-24</guid>
 		</item>
 		<item>
+			<title>850€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269965</link>
+			<description>C/ Sierra del Valle, 56,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;45m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269965</description>
+			<pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269965?2024-11-21</guid>
+		</item>
+		<item>
 			<title>950€ Barajas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270128</link>
 			<description>Av. Logroño, 327,&lt;br/&gt;1º con ascensor,&lt;br/&gt;38m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270128</description>
@@ -479,6 +511,14 @@
 			<pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271054?2023-11-21</guid>
+		</item>
+		<item>
+			<title>1100€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271062</link>
+			<description>Av. Ensanche de Vallecas, 61,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;79m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/271062</description>
+			<pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271062?2024-11-21</guid>
 		</item>
 		<item>
 			<title>2600€ Moncloa-Aravaca</title>
@@ -543,14 +583,6 @@
 			<pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
 			<category>Colmenar Viejo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272600?2024-10-16</guid>
-		</item>
-		<item>
-			<title>1100€ Vicálvaro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272663</link>
-			<description>C/ Concejal Victorino Graniz, 127,&lt;br/&gt;7º con ascensor,&lt;br/&gt;74m², 2 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/272663</description>
-			<pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-			<category>Vicálvaro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272663?2024-10-11</guid>
 		</item>
 		<item>
 			<title>390€ Puebla de la Sierra</title>
