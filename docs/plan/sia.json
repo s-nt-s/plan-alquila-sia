@@ -80,38 +80,6 @@
     ]
   },
   {
-    "id": 32209,
-    "publicado": "2024-10-15",
-    "modificado": "2024-11-19",
-    "direccion": "Calle Donoso Cortes 34",
-    "municipio": "Madrid",
-    "distrito": "Chamber\u00ed",
-    "barrio": "Arapiles",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 1350,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/n62l3sT.jpeg?2",
-      "https://i.imgur.com/56Zw5OY.jpeg?3",
-      "https://i.imgur.com/wbk60EF.jpeg?4",
-      "https://i.imgur.com/MrDpGGb.jpeg?5",
-      "https://i.imgur.com/tbIqurx.jpeg?6",
-      "https://i.imgur.com/uYyPKAT.jpeg?7",
-      "https://i.imgur.com/5wg8MUj.jpeg?8",
-      "https://i.imgur.com/rF6Ybvp.jpeg?9",
-      "https://i.imgur.com/bJcNHka.jpeg?10",
-      "https://i.imgur.com/BdJgb1I.jpeg?11",
-      "https://i.imgur.com/cwwFl58.jpeg?12",
-      "https://i.imgur.com/tBtJoE0.jpeg?13"
-    ]
-  },
-  {
     "id": 32211,
     "publicado": "2024-11-21",
     "direccion": "Calle Manuel Lamela 20",
@@ -172,6 +140,7 @@
   {
     "id": 32222,
     "publicado": "2024-11-11",
+    "modificado": "2024-11-22",
     "direccion": "Calle Pedro\u00f1eras 27",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -184,7 +153,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/wap1enI.jpeg?2",
       "https://i.imgur.com/EMTQ3uB.jpeg?3",
