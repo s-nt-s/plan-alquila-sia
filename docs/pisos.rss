@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 26 Nov 2024 13:51:39 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 26 Nov 2024 18:50:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -433,6 +433,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269529?2024-10-31</guid>
 		</item>
 		<item>
+			<title>950€ Moncloa-Aravaca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269648</link>
+			<description>C/ Valldemosa, 28,&lt;br/&gt;2º con ascensor,&lt;br/&gt;44m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/269648</description>
+			<pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Moncloa-Aravaca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269648?2024-11-26</guid>
+		</item>
+		<item>
 			<title>1250€ Salamanca</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/269708</link>
 			<description>C/ Eraso, 41,&lt;br/&gt;1º con ascensor,&lt;br/&gt;58m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/269708</description>
@@ -743,14 +751,6 @@
 			<pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274737?2024-04-09</guid>
-		</item>
-		<item>
-			<title>800€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274744</link>
-			<description>C/ Josué Lillo, 17,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/274744</description>
-			<pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274744?2024-11-07</guid>
 		</item>
 		<item>
 			<title>900€ Pozuelo de Alarcón</title>
