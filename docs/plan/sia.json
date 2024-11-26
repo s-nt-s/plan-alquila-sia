@@ -168,36 +168,6 @@
     ]
   },
   {
-    "id": 32224,
-    "publicado": "2024-11-11",
-    "modificado": "2024-11-15",
-    "direccion": "Camino Valderribas 37",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "Numancia",
-    "planta": 2,
-    "precio": 800,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/dFGQogf.jpeg?12",
-      "https://i.imgur.com/E1QoRFv.jpeg?13",
-      "https://i.imgur.com/vxNdm1X.jpeg?14",
-      "https://i.imgur.com/5aKCGl3.jpeg?15",
-      "https://i.imgur.com/ny8CSHs.jpeg?16",
-      "https://i.imgur.com/uQBBwvi.jpeg?17",
-      "https://i.imgur.com/VTg43pt.jpeg?18",
-      "https://i.imgur.com/lcRNDKP.jpeg?19",
-      "https://i.imgur.com/hqudNpm.jpeg?20",
-      "https://i.imgur.com/Ur6qKMh.jpeg?21",
-      "https://i.imgur.com/Kwdfw6W.jpeg?22"
-    ]
-  },
-  {
     "id": 32225,
     "publicado": "2024-10-25",
     "direccion": "Calle Madres Plaza De Mayo 7",
@@ -345,6 +315,7 @@
   {
     "id": 32243,
     "publicado": "2024-11-21",
+    "modificado": "2024-11-26",
     "direccion": "Calle Juan Tornero 27",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -357,7 +328,7 @@
     "cee": "C",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/BZJKLMm.jpeg?2",
       "https://i.imgur.com/WmtHBJ1.jpeg?3",
