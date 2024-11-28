@@ -113,31 +113,6 @@
     ]
   },
   {
-    "id": 32219,
-    "publicado": "2024-11-12",
-    "modificado": "2024-11-20",
-    "direccion": "Calle Sambara 121",
-    "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "barrio": "Quintana",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/0yNStDE.jpeg?3",
-      "https://i.imgur.com/3nkKK4m.jpeg?6",
-      "https://i.imgur.com/jGlfXwA.jpeg?7",
-      "https://i.imgur.com/fD2130Z.jpeg?8",
-      "https://i.imgur.com/xP1OMQA.jpeg?9"
-    ]
-  },
-  {
     "id": 32222,
     "publicado": "2024-11-11",
     "modificado": "2024-11-22",
@@ -252,6 +227,7 @@
   {
     "id": 32237,
     "publicado": "2024-11-25",
+    "modificado": "2024-11-28",
     "direccion": "Calle Doctor Tolosa Latour 13",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -264,7 +240,7 @@
     "cee": "C",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/sGuSxl1.jpeg?2",
       "https://i.imgur.com/mjv6Esp.jpeg?3",
@@ -343,6 +319,7 @@
   {
     "id": 32244,
     "publicado": "2024-11-25",
+    "modificado": "2024-11-28",
     "direccion": "Calle Mercedes Arteaga 15",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -355,7 +332,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Edsd3Hi.jpeg?3",
       "https://i.imgur.com/LwH0q9O.jpeg?7",
