@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 29 Nov 2024 13:51:34 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 29 Nov 2024 18:52:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -135,6 +135,14 @@
 			<pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/220190?2024-10-22</guid>
+		</item>
+		<item>
+			<title>1000€ Ciudad Lineal</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/221552</link>
+			<description>C/ Alcalá, 255,&lt;br/&gt;3º con ascensor,&lt;br/&gt;44m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/221552</description>
+			<pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Ciudad Lineal</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/221552?2024-11-29</guid>
 		</item>
 		<item>
 			<title>800€ Tetuán</title>
@@ -1551,6 +1559,14 @@
 			<pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
 			<category>Vicálvaro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275351?2024-11-28</guid>
+		</item>
+		<item>
+			<title>875€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275355</link>
+			<description>C/ Casino, 4,&lt;br/&gt;2º con ascensor,&lt;br/&gt;54m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275355</description>
+			<pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275355?2024-11-29</guid>
 		</item>
 	</channel>
 </rss>
