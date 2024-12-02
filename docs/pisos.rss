@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 02 Dec 2024 13:54:51 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Dec 2024 18:50:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1233,14 +1233,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275259?2024-10-31</guid>
 		</item>
 		<item>
-			<title>880€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275260</link>
-			<description>C/ Palamós, 3,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;42m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275260</description>
-			<pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275260?2024-10-30</guid>
-		</item>
-		<item>
 			<title>1300€ Tres Cantos</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275263</link>
 			<description>Av. Castilla y León, 19,&lt;br/&gt;5º con ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275263</description>
@@ -1575,6 +1567,14 @@
 			<pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
 			<category>Parla</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275356?2024-12-02</guid>
+		</item>
+		<item>
+			<title>1150€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275362</link>
+			<description>C/ Carlos Morla Lynch, 2,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;61m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275362</description>
+			<pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275362?2024-12-02</guid>
 		</item>
 	</channel>
 </rss>
