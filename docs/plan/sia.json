@@ -2,7 +2,7 @@
   {
     "id": 32181,
     "publicado": "2024-09-10",
-    "modificado": "2024-11-15",
+    "modificado": "2024-12-03",
     "direccion": "Calle Pelayo 32",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -15,7 +15,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/NvHtuKc.jpeg?1",
       "https://i.imgur.com/Q5NSscR.jpeg?2",
@@ -254,6 +254,7 @@
   {
     "id": 32239,
     "publicado": "2024-11-25",
+    "modificado": "2024-12-03",
     "direccion": "Paseo Extremadura 308",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -266,7 +267,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/QKoOARP.jpeg?6",
       "https://i.imgur.com/9tB9fGV.jpeg?7",
@@ -359,7 +360,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/iLFGFjq.jpeg?2",
       "https://i.imgur.com/MMmfkOz.jpeg?3",
