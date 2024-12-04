@@ -170,6 +170,7 @@
   {
     "id": 32231,
     "publicado": "2024-12-02",
+    "modificado": "2024-12-04",
     "direccion": "Calle O\u00f1a 85",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -185,16 +186,16 @@
     "imgs": [
       "https://i.imgur.com/ZNaG4Qn.jpeg?2",
       "https://i.imgur.com/NhfeGhI.jpeg?3",
-      "https://i.imgur.com/tYWLj2o.jpeg?4",
       "https://i.imgur.com/YfW17Tp.jpeg?5",
       "https://i.imgur.com/Re5QfjX.jpeg?6",
       "https://i.imgur.com/Viwdxd7.jpeg?7",
       "https://i.imgur.com/iV7GgYi.jpeg?8",
       "https://i.imgur.com/ObrXqXR.jpeg?9",
       "https://i.imgur.com/9bmCwwk.jpeg?10",
-      "https://i.imgur.com/OcwmvYo.jpeg?11",
       "https://i.imgur.com/Cma9fjm.jpeg?12",
-      "https://i.imgur.com/HDisxKR.jpeg?13"
+      "https://i.imgur.com/HDisxKR.jpeg?13",
+      "https://i.imgur.com/DxwrfAE.jpeg?14",
+      "https://i.imgur.com/ObyI0id.jpeg?15"
     ]
   },
   {
@@ -304,44 +305,6 @@
       "https://i.imgur.com/ihUwzxW.jpeg?7",
       "https://i.imgur.com/Rq3IdMF.jpeg?8",
       "https://i.imgur.com/Jo8lU0m.jpeg?9"
-    ]
-  },
-  {
-    "id": 32244,
-    "publicado": "2024-11-25",
-    "modificado": "2024-11-28",
-    "direccion": "Calle Mercedes Arteaga 15",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Opa\u00f1el",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 675,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/Edsd3Hi.jpeg?3",
-      "https://i.imgur.com/LwH0q9O.jpeg?7",
-      "https://i.imgur.com/XlB6ehv.jpeg?23",
-      "https://i.imgur.com/SYs7Zti.jpeg?24",
-      "https://i.imgur.com/lWCowxY.jpeg?25",
-      "https://i.imgur.com/QXToqx9.jpeg?26",
-      "https://i.imgur.com/oukukjX.jpeg?27",
-      "https://i.imgur.com/ct8E8aY.jpeg?28",
-      "https://i.imgur.com/pb9rxJ5.jpeg?29",
-      "https://i.imgur.com/yq3FMqX.jpeg?30",
-      "https://i.imgur.com/0C6eUw1.jpeg?31",
-      "https://i.imgur.com/cg1Mkmn.jpeg?32",
-      "https://i.imgur.com/W87oshf.jpeg?33",
-      "https://i.imgur.com/NL2RuoE.jpeg?34",
-      "https://i.imgur.com/ARAftUJ.jpeg?35",
-      "https://i.imgur.com/yhBkXAJ.jpeg?36",
-      "https://i.imgur.com/Aynl45S.jpeg?37",
-      "https://i.imgur.com/hyW9vtm.jpeg?38"
     ]
   },
   {
