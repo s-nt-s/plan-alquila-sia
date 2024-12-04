@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 04 Dec 2024 13:57:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Dec 2024 18:51:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -241,6 +241,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/257511?2024-10-05</guid>
 		</item>
 		<item>
+			<title>1450€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/257951</link>
+			<description>Pº De La Dirección, 100,&lt;br/&gt;5º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/257951</description>
+			<pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/257951?2024-12-04</guid>
+		</item>
+		<item>
 			<title>900€ Galapagar</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/261711</link>
 			<description>C/ Comercio, 12,&lt;br/&gt;2º con ascensor,&lt;br/&gt;86m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/261711</description>
@@ -279,14 +287,6 @@
 			<pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263239?2024-07-10</guid>
-		</item>
-		<item>
-			<title>1350€ Fuenlabrada</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/264078</link>
-			<description>C/ Dolores Ibárruri, 3,&lt;br/&gt;7º con ascensor,&lt;br/&gt;86m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/264078</description>
-			<pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-			<category>Fuenlabrada</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264078?2024-09-25</guid>
 		</item>
 		<item>
 			<title>1500€ Arganzuela</title>
@@ -351,14 +351,6 @@
 			<pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267908?2024-08-05</guid>
-		</item>
-		<item>
-			<title>900€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268503</link>
-			<description>C/ Alvarado, 17,&lt;br/&gt;2º con ascensor,&lt;br/&gt;40m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/268503</description>
-			<pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268503?2024-11-26</guid>
 		</item>
 		<item>
 			<title>1700€ Arganzuela</title>
