@@ -4733,6 +4733,28 @@
     ]
   },
   {
+    "id": 275365,
+    "publicado": "2024-12-05",
+    "direccion": "Calle Dulcinea, 7",
+    "municipio": "Alcorc\u00f3n",
+    "planta": 2,
+    "precio": 1000,
+    "metros": 73,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": false,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 275366,
     "publicado": "2024-12-03",
     "direccion": "Paseo Santa Mar\u00eda de la Cabeza, 2",
@@ -4776,6 +4798,28 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 275369,
+    "publicado": "2024-12-05",
+    "direccion": "Calle Labrador, 2",
+    "municipio": "Navalcarnero",
+    "planta": 1,
+    "precio": 950,
+    "metros": 70,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
     "imgs": []
   },
   {
@@ -4838,5 +4882,28 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GJGpbaW0EP6AoeBJhFm-FejGtyEK0YiVoPE1mx82E2ZnJzGyyUiwqaEEPih83QUE9KPUfEfRQEDwoqBcR8QMvBU!ObpImFvc07LzPO8!ved!V71CINZQuVJq4jRHHIkQL9SYldvbOm3OPJs0hngNIFAAUjIadg6qylJxi8fqAvvL24Z8fORipQaGNeUxdtYVRFuGQek1FQ6fbFyrMEROWahRbxg3y02sxb-WLa6--vSuvPM9BvgJ5zK20UMrceKkbz3eikOrZChSwIA3ZgmUoVqAUmHlqiGaKMCm63SxMDQkXrWYidLptLOjeZ9JE!cvR6z!1-fHT9asrM47D73NomBzwnoqjOtU3Vh9Mj93!eKsXSv6ISZtuByjuUd3j6Pv1Z-6FOalDhBUmDYqiSxcxoQa1Ge2g9MipNYhyNCcdXGKPdbCmZ3F4ktqGDI4nSlNjHJULPf1Gxt0ENOxNvSSpbHNdq7J7rHb706!UlJvlRt2g05PrNxd!19aOZradu!1ERsjE4n!d!EjxD2eWZ8bP3!uZvpwCTnQ8OHxwqR4bggOpq8yhiACfjuucuT-47DYBKewGXGVG6ssAm5eqN42Xa9UvX6eXTvSXKmdhV5Yxk2ghtiq2rpDiyA5H311IpRLnvJfCUKAVSbAdSisHW3woEsnjSPiQ50xQt1gK20ZKsjXb5bqL9a4F3zOUxJp6TBAeB9Rr98BUH8xzyK0-rtngNdnkBHVZoKRhI96ZgB3EGbe0e2MT9RegnyWa",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GJGpbaW0EP6AoeBJhFm-FejGtyEK0YiVoPE1mx82E2ZnJzGyyUiwqaEEPih83QUERlPqPCHooCB4U1IuI-IGXgidnN0kTi3sadt7nnef3vO!qdyjEGkoXKk3cxohjEaKFepMSO3vnzblHk-YQzwEkCgAKRsPOQVVZSk6xeH1AX3n78M-PHIzUoNDGPKau2sIoi3BIvaaiodPtCxXmiAlLNYot4wb56bWYt!LFtVff3pVXnucgX4E85lZaKGVuvNSN5ztRSPVsBQpYkIZswTIUK1AKzDw1RDNFmBTdbhamhoSLVjMROt02FnTvM2mi!uXo9Z!6!Pjp-tWVGcfh9zk0TA54T8VRneobqw-mx-5!vNULJX!EpE23AxT3qO5x9P36M!fCnNQhwgqTBkXRpYuYUIPajHZQeuTUGkQ5mpMOLrHHOljTszg8SW1DBscTpakxjsqFnn4j424CGvamXpJUtrmuVdk9Vrv96Vdqys1yo27Q6cn1m4u!a2tHM9vO3X4iI2Ri8b9ufqT4hzPLM-Pn7!1MX04BJzoeHD64VI8NwYHUVeZQRIBPx3XO3B9cdpuAFHYDrjIj9WWAzUvVm8bLteqXr9NLJ!pLlbOwK8uYSbQQWxVbV0hxZIej7y6kUolz3kthKNCKJNgOpZWDLT4UieRxJHzIcyaoWyyFbSMl2Zrtct3FeteC7xlKYk09JgiPA-q1e2CqD-Y55FYf12zwmmxygrosUNKwEe9MwA7ijFvavbGJ-guipSWb"
     ]
+  },
+  {
+    "id": 275377,
+    "publicado": "2024-12-05",
+    "direccion": "Calle Juan Pe\u00f1alver, 58",
+    "municipio": "Madrid",
+    "distrito": "Villaverde",
+    "planta": 2,
+    "precio": 700,
+    "metros": 43,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": false,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]
