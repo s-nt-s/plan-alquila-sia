@@ -280,6 +280,40 @@
     ]
   },
   {
+    "id": 32240,
+    "publicado": "2024-12-10",
+    "direccion": "Calle Murcia 22",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Palos de Moguer",
+    "planta": 0,
+    "orientacion": "Exterior",
+    "precio": 1450,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/GSCLwRz.jpeg?2",
+      "https://i.imgur.com/8UwFRUW.jpeg?3",
+      "https://i.imgur.com/G6l1jE2.jpeg?4",
+      "https://i.imgur.com/YPqoTmc.jpeg?5",
+      "https://i.imgur.com/1OMgW5u.jpeg?6",
+      "https://i.imgur.com/UXSpNFG.jpeg?7",
+      "https://i.imgur.com/o44j5L2.jpeg?8",
+      "https://i.imgur.com/oYZf5Ft.jpeg?9",
+      "https://i.imgur.com/RhbXfnX.jpeg?10",
+      "https://i.imgur.com/6gd4sJU.jpeg?11",
+      "https://i.imgur.com/7M6Iq3v.jpeg?12",
+      "https://i.imgur.com/CTowLk3.jpeg?13",
+      "https://i.imgur.com/1qW5Qxe.jpeg?14",
+      "https://i.imgur.com/4AqZFdO.jpeg?15",
+      "https://i.imgur.com/foPlVtH.jpeg?16"
+    ]
+  },
+  {
     "id": 32243,
     "publicado": "2024-11-21",
     "modificado": "2024-11-26",
@@ -340,6 +374,33 @@
       "https://i.imgur.com/7Axg5OQ.jpeg?14",
       "https://i.imgur.com/OJxDFzF.jpeg?15",
       "https://i.imgur.com/MjbWI1T.jpeg?16"
+    ]
+  },
+  {
+    "id": 32246,
+    "publicado": "2024-12-10",
+    "direccion": "Calle Sierra Carbonera 82",
+    "municipio": "Madrid",
+    "distrito": "Puente de Vallecas",
+    "barrio": "San Diego",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 900,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/EwGgE3T.jpeg?9",
+      "https://i.imgur.com/clnOAF9.jpeg?10",
+      "https://i.imgur.com/Om8Y0zt.jpeg?11",
+      "https://i.imgur.com/mTavpoD.jpeg?12",
+      "https://i.imgur.com/YuYiRfb.jpeg?13",
+      "https://i.imgur.com/LgFft9K.jpeg?14",
+      "https://i.imgur.com/HHTOo3G.jpeg?15",
+      "https://i.imgur.com/6TzvO6s.jpeg?16"
     ]
   }
 ]
