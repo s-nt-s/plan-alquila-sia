@@ -1,36 +1,8 @@
 [
   {
-    "id": 32181,
-    "publicado": "2024-09-10",
-    "modificado": "2024-12-03",
-    "direccion": "Calle Pelayo 32",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Justicia",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 1200,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/NvHtuKc.jpeg?1",
-      "https://i.imgur.com/Q5NSscR.jpeg?2",
-      "https://i.imgur.com/wDihfx0.jpeg?3",
-      "https://i.imgur.com/809u3bT.jpeg?4",
-      "https://i.imgur.com/SkipZP7.jpeg?5",
-      "https://i.imgur.com/Bfv7Ng2.jpeg?6",
-      "https://i.imgur.com/47ckW1g.jpeg?7",
-      "https://i.imgur.com/LQbazj5.jpeg?8",
-      "https://i.imgur.com/0Ts9UNg.jpeg?9"
-    ]
-  },
-  {
     "id": 32200,
     "publicado": "2024-10-01",
+    "modificado": "2024-12-11",
     "direccion": "Calle Maqueda 17",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -43,7 +15,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/xVoUqeP.jpeg?2",
       "https://i.imgur.com/ZJSRpJA.jpeg?3",
@@ -82,6 +54,7 @@
   {
     "id": 32211,
     "publicado": "2024-11-21",
+    "modificado": "2024-12-11",
     "direccion": "Calle Manuel Lamela 20",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -94,7 +67,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/tAlh0Ez.jpeg?1",
       "https://i.imgur.com/c6m34YD.jpeg?2",
