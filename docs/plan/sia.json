@@ -226,33 +226,6 @@
     ]
   },
   {
-    "id": 32239,
-    "publicado": "2024-11-25",
-    "modificado": "2024-12-03",
-    "direccion": "Paseo Extremadura 308",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Campamento",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 680,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/QKoOARP.jpeg?6",
-      "https://i.imgur.com/9tB9fGV.jpeg?7",
-      "https://i.imgur.com/hM1yl8N.jpeg?8",
-      "https://i.imgur.com/qeosaCe.jpeg?9",
-      "https://i.imgur.com/SpCb9Tp.jpeg?10",
-      "https://i.imgur.com/MxqBGs7.jpeg?11",
-      "https://i.imgur.com/gsPMXgJ.jpeg?12"
-    ]
-  },
-  {
     "id": 32240,
     "publicado": "2024-12-10",
     "direccion": "Calle Murcia 22",
@@ -284,34 +257,6 @@
       "https://i.imgur.com/1qW5Qxe.jpeg?14",
       "https://i.imgur.com/4AqZFdO.jpeg?15",
       "https://i.imgur.com/foPlVtH.jpeg?16"
-    ]
-  },
-  {
-    "id": 32243,
-    "publicado": "2024-11-21",
-    "modificado": "2024-11-26",
-    "direccion": "Calle Juan Tornero 27",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Puerta del \u00c1ngel",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 1050,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "C",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/BZJKLMm.jpeg?2",
-      "https://i.imgur.com/WmtHBJ1.jpeg?3",
-      "https://i.imgur.com/7xD58Sd.jpeg?4",
-      "https://i.imgur.com/PLHC8Su.jpeg?5",
-      "https://i.imgur.com/6iAB7dC.jpeg?6",
-      "https://i.imgur.com/ihUwzxW.jpeg?7",
-      "https://i.imgur.com/Rq3IdMF.jpeg?8",
-      "https://i.imgur.com/Jo8lU0m.jpeg?9"
     ]
   },
   {
@@ -352,6 +297,7 @@
   {
     "id": 32246,
     "publicado": "2024-12-10",
+    "modificado": "2024-12-13",
     "direccion": "Calle Sierra Carbonera 82",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -364,7 +310,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/EwGgE3T.jpeg?9",
       "https://i.imgur.com/clnOAF9.jpeg?10",
@@ -374,6 +320,33 @@
       "https://i.imgur.com/LgFft9K.jpeg?14",
       "https://i.imgur.com/HHTOo3G.jpeg?15",
       "https://i.imgur.com/6TzvO6s.jpeg?16"
+    ]
+  },
+  {
+    "id": 32248,
+    "publicado": "2024-12-13",
+    "direccion": "Calle Alfredo Aleix 29",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Buenavista",
+    "planta": 1,
+    "orientacion": "Exterior",
+    "precio": 850,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/T8IXCuB.jpeg?2",
+      "https://i.imgur.com/FweFErv.jpeg?3",
+      "https://i.imgur.com/g9JnGRm.jpeg?4",
+      "https://i.imgur.com/tGjoHFk.jpeg?5",
+      "https://i.imgur.com/MiYnEHy.jpeg?6",
+      "https://i.imgur.com/kvrHK4p.jpeg?7",
+      "https://i.imgur.com/Xan0Iwq.jpeg?8",
+      "https://i.imgur.com/Mu3VjzV.jpeg?9"
     ]
   }
 ]
