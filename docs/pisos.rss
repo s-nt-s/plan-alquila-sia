@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 13 Dec 2024 13:55:02 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Dec 2024 18:54:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -457,6 +457,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270663?2024-11-06</guid>
 		</item>
 		<item>
+			<title>1100€ Salamanca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270684</link>
+			<description>C/ Príncipe de Vergara, 60,&lt;br/&gt;4º con ascensor,&lt;br/&gt;48m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/270684</description>
+			<pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+			<category>Salamanca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270684?2024-11-20</guid>
+		</item>
+		<item>
 			<title>1300€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270886</link>
 			<description>C/ Emilia, 33,&lt;br/&gt;3º con ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/270886</description>
@@ -467,10 +475,10 @@
 		<item>
 			<title>1000€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271317</link>
-			<description>C/ Vía Lusitana, 43,&lt;br/&gt;7º con ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/271317</description>
-			<pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+			<description>C/ Vía Lusitana, 43,&lt;br/&gt;7º con ascensor,&lt;br/&gt;62m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/271317</description>
+			<pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271317?2024-12-12</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271317?2024-12-13</guid>
 		</item>
 		<item>
 			<title>1900€ Chamberí</title>
@@ -1131,10 +1139,10 @@
 		<item>
 			<title>1300€ Puente de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275288</link>
-			<description>Pl. Mariana Pineda, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;97m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275288</description>
-			<pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+			<description>Pl. Mariana Pineda, 4,&lt;br/&gt;4º con ascensor,&lt;br/&gt;97m², 4 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/275288</description>
+			<pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
 			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275288?2024-11-11</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275288?2024-12-13</guid>
 		</item>
 		<item>
 			<title>900€ Colmenar Viejo</title>
@@ -1471,6 +1479,14 @@
 			<pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
 			<category>Alcorcón</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275392?2024-12-13</guid>
+		</item>
+		<item>
+			<title>750€ Algete</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275393</link>
+			<description>C/ Carrachel, 6,&lt;br/&gt;3º con ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275393</description>
+			<pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+			<category>Algete</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275393?2024-12-13</guid>
 		</item>
 	</channel>
 </rss>
