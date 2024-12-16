@@ -325,6 +325,7 @@
   {
     "id": 32248,
     "publicado": "2024-12-13",
+    "modificado": "2024-12-16",
     "direccion": "Calle Alfredo Aleix 29",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -337,7 +338,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/T8IXCuB.jpeg?2",
       "https://i.imgur.com/FweFErv.jpeg?3",
