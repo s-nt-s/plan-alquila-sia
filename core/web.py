@@ -1,4 +1,6 @@
+import stat
 import os
+from os.path import join, dirname, isfile
 import re
 import time
 from urllib.parse import parse_qsl, urljoin, urlsplit
@@ -7,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup, Tag
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.chrome import ChromeType
-from webdriver_manager.core.utils import read_version_from_cmd 
+from webdriver_manager.core.utils import read_version_from_cmd
 from webdriver_manager.core.os_manager import PATTERN
 from selenium import webdriver
 from selenium.common.exceptions import (ElementNotInteractableException,
@@ -19,11 +21,13 @@ from selenium.webdriver.chrome.options import Options as CMoptions
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.proxy import Proxy, ProxyType
+from selenium.webdriver.firefox.options import Options as FFoptions
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.remote.webelement import WebElement
 import logging
+from typing import Union
 
 logger = logging.getLogger(__name__)
 
@@ -56,8 +60,8 @@ def get_query(url):
     return q
 
 
-def iterhref(soup):
-    """Recorre los atriburos href o src de los tags"""
+def iterhref(soup: BeautifulSoup):
+    """Recorre los atributos href o src de los tags"""
     n: Tag
     for n in soup.findAll(["img", "form", "a", "iframe", "frame", "link", "script", "input"]):
         attr = "href" if n.name in ("a", "link") else "src"
@@ -172,6 +176,13 @@ class Web:
             return r.headers['location']
 
 
+FF_DEFAULT_PROFILE = {
+    "browser.tabs.drawInTitlebar": True,
+    "browser.uidensity": 1,
+    "dom.webdriver.enabled": False
+}
+
+
 class Driver:
     DRIVER_PATH = None
 
@@ -184,18 +195,26 @@ class Driver:
                         path+" --version",
                         PATTERN[ChromeType.CHROMIUM]
                     )
-            Driver.DRIVER_PATH = ChromeDriverManager(
+            path = ChromeDriverManager(
                 driver_version=get_version("/usr/bin/chromium"),
                 chrome_type=ChromeType.CHROMIUM
             ).install()
+            aux = join(dirname(path), 'chromedriver')
+            if isfile(aux):
+                path = aux
+            if not os.access(path, os.X_OK):
+                p = os.stat(path).st_mode
+                p = p | stat.S_IXUSR | stat.S_IXGRP | stat.S_IXOTH
+                os.chmod(path, p)
+            Driver.DRIVER_PATH = path
         return Driver.DRIVER_PATH
 
-    def __init__(self, wait=60, useragent=None):
-        Driver.find_driver_path()
+    def __init__(self, browser="firefox", wait=60, useragent=None):
         self._driver: WebDriver = None
         self.visible = (os.environ.get("DRIVER_VISIBLE") == "1")
         self._wait = wait
         self.useragent = useragent
+        self.browser = browser
 
     def __enter__(self, *args, **kwargs):
         return self
@@ -203,7 +222,24 @@ class Driver:
     def __exit__(self, *args, **kwargs):
         self.close()
 
-    def __create_chrome(self):
+    def _create_firefox(self):
+        options = FFoptions()
+        options.headless = not self.visible
+        profile = webdriver.FirefoxProfile()
+        if self.useragent:
+            profile.set_preference(
+                "general.useragent.override", self.useragent)
+        for k, v in FF_DEFAULT_PROFILE.items():
+            profile.set_preference(k, v)
+            profile.DEFAULT_PREFERENCES['frozen'][k] = v
+        profile.update_preferences()
+        driver = webdriver.Firefox(
+            options=options, firefox_profile=profile)
+        driver.maximize_window()
+        driver.implicitly_wait(5)
+        return driver
+
+    def _create_chrome(self):
         options = CMoptions()
         if not self.visible:
             options.add_argument('headless')
@@ -240,7 +276,10 @@ class Driver:
 
     def get_dirver(self) -> WebDriver:
         if self._driver is None:
-            self._driver = self.__create_chrome()
+            crt = getattr(self, "_create_" + str(self.browser), None)
+            if crt is None:
+                raise Exception("Not implemented yet: %s" % self.browser)
+            self._driver = crt()
         return self._driver
 
     @property
@@ -281,10 +320,10 @@ class Driver:
             sleep = int(sleep / 3)
             self.close()
         else:
-            sleep = sleep * 2
+            sleep = sleep*2
         if intentos > 20:
             time.sleep(10)
-        time.sleep(2 * (int(intentos / 10) + 1))
+        time.sleep(2 * (int(intentos/10)+1))
         return True, sleep
 
     def get(self, url):
@@ -308,14 +347,14 @@ class Driver:
             return None
         return self._driver.page_source
 
-    def wait(self, id: int | float | str, seconds=None, presence=False, by=None) -> WebElement:
+    def wait(self, id: Union[int, float, str], seconds=None, presence=False, by=None) -> WebElement:
         if isinstance(id, (int, float)):
             time.sleep(id)
             return
+        if seconds is None:
+            seconds = self._wait
         if by is None:
             by = By.ID
-            if seconds is None:
-                seconds = self._wait
             if id.startswith("//"):
                 by = By.XPATH
             if id.startswith("."):
@@ -376,8 +415,9 @@ class Driver:
         if isinstance(n, str):
             n = self.wait(n, **kvarg)
         if n.is_displayed():
+            self._driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", n)
             ActionChains(self._driver).move_to_element(n).click(n).perform()
-            #n.click()
+            # n.click()
         else:
             n.send_keys(Keys.RETURN)
         return True
@@ -399,7 +439,7 @@ class Driver:
                 StaleElementReferenceException,
                 ElementNotVisibleException,
                 WebDriverException
-                ):
+        ):
             return 0
         if after is not None:
             time.sleep(after)
@@ -421,3 +461,8 @@ class Driver:
         w = Web()
         self.pass_cookies(w.s)
         return w
+
+    def run_script(self, file: str):
+        with open(file, "r") as f:
+            js = f.read()
+        return self.execute_script(js)
