@@ -1,34 +1,5 @@
 [
   {
-    "id": 32200,
-    "publicado": "2024-10-01",
-    "modificado": "2024-12-11",
-    "direccion": "Calle Maqueda 17",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Campamento",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 1250,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/xVoUqeP.jpeg?2",
-      "https://i.imgur.com/ZJSRpJA.jpeg?3",
-      "https://i.imgur.com/Ajplrtf.jpeg?4",
-      "https://i.imgur.com/i91xSdO.jpeg?5",
-      "https://i.imgur.com/y8HI0bG.jpeg?6",
-      "https://i.imgur.com/8w4QMro.jpeg?7",
-      "https://i.imgur.com/niUrZqr.jpeg?8",
-      "https://i.imgur.com/jmOWnJy.jpeg?9",
-      "https://i.imgur.com/O5kkLps.jpeg?10"
-    ]
-  },
-  {
     "id": 32207,
     "publicado": "2024-10-07",
     "modificado": "2024-11-05",
@@ -269,6 +240,7 @@
   {
     "id": 32250,
     "publicado": "2024-12-20",
+    "modificado": "2024-12-23",
     "direccion": "Calle San Marcelo 22",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -281,7 +253,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/tIfew4t.jpeg?2",
       "https://i.imgur.com/yFEhVQq.jpeg?3",
@@ -290,6 +262,31 @@
       "https://i.imgur.com/CN4056z.jpeg?6",
       "https://i.imgur.com/AWyAqub.jpeg?7",
       "https://i.imgur.com/1PDBaaq.jpeg?8"
+    ]
+  },
+  {
+    "id": 32251,
+    "publicado": "2024-12-23",
+    "direccion": "Calle Granada 42",
+    "municipio": "Madrid",
+    "distrito": "Retiro",
+    "barrio": "Pac\u00edfico",
+    "planta": 0,
+    "orientacion": "Interior",
+    "precio": 710,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/Z4J7zJY.jpeg?2",
+      "https://i.imgur.com/qZzQQQX.jpeg?3",
+      "https://i.imgur.com/SGNuQYC.jpeg?4",
+      "https://i.imgur.com/iI2kwjm.jpeg?5",
+      "https://i.imgur.com/iFNjzD0.jpeg?6",
+      "https://i.imgur.com/O74wE7e.jpeg?7"
     ]
   },
   {
