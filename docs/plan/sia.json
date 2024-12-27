@@ -238,33 +238,6 @@
     ]
   },
   {
-    "id": 32250,
-    "publicado": "2024-12-20",
-    "modificado": "2024-12-23",
-    "direccion": "Calle San Marcelo 22",
-    "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "barrio": "Ventas",
-    "planta": 7,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/tIfew4t.jpeg?2",
-      "https://i.imgur.com/yFEhVQq.jpeg?3",
-      "https://i.imgur.com/WAhhcqb.jpeg?4",
-      "https://i.imgur.com/ao0NJF5.jpeg?5",
-      "https://i.imgur.com/CN4056z.jpeg?6",
-      "https://i.imgur.com/AWyAqub.jpeg?7",
-      "https://i.imgur.com/1PDBaaq.jpeg?8"
-    ]
-  },
-  {
     "id": 32251,
     "publicado": "2024-12-23",
     "direccion": "Calle Granada 42",
@@ -292,6 +265,7 @@
   {
     "id": 32252,
     "publicado": "2024-12-20",
+    "modificado": "2024-12-27",
     "direccion": "Calle Antonio Romero 19",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -304,7 +278,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/utVrzc5.jpeg?2",
       "https://i.imgur.com/1LE6YXP.jpeg?3",
