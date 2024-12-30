@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 27 Dec 2024 13:43:20 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 30 Dec 2024 18:48:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -249,12 +249,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/258715?2024-12-26</guid>
 		</item>
 		<item>
-			<title>800€ Ciudad Lineal</title>
+			<title>900€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/259337</link>
 			<description>C/ San Romualdo, 39,&lt;br/&gt;5º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/259337</description>
-			<pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/259337?2024-12-17</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/259337?2024-12-30</guid>
 		</item>
 		<item>
 			<title>1399€ Hortaleza</title>
@@ -1105,14 +1105,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275329?2024-11-25</guid>
 		</item>
 		<item>
-			<title>1478€ San Sebastián de los Reyes</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275331</link>
-			<description>Av. Sierra Nevada, 14,&lt;br/&gt;2º con ascensor,&lt;br/&gt;79m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/275331</description>
-			<pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-			<category>San Sebastián de los Reyes</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275331?2024-12-20</guid>
-		</item>
-		<item>
 			<title>950€ Collado Villalba</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275334</link>
 			<description>C/ Isla de Sálvora, 11,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;58m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275334</description>
@@ -1132,9 +1124,9 @@
 			<title>900€ Guadarrama</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275348</link>
 			<description>C/ Siete Picos, 4,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;74m², 2 🛏,&lt;br/&gt;1 🛀, 9 📷.&lt;br/&gt;alq/275348</description>
-			<pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
 			<category>Guadarrama</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275348?2024-12-20</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275348?2024-12-30</guid>
 		</item>
 		<item>
 			<title>850€ Aranjuez</title>
@@ -1415,6 +1407,14 @@
 			<pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275419?2024-12-27</guid>
+		</item>
+		<item>
+			<title>975€ Chamberí</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275424</link>
+			<description>C/ Treviño, 7,&lt;br/&gt;4º con ascensor,&lt;br/&gt;27m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275424</description>
+			<pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
+			<category>Chamberí</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275424?2024-12-30</guid>
 		</item>
 	</channel>
 </rss>
