@@ -143,41 +143,6 @@
     ]
   },
   {
-    "id": 32245,
-    "publicado": "2024-11-27",
-    "modificado": "2024-12-04",
-    "direccion": "Calle Aniceto Marinas 112",
-    "municipio": "Madrid",
-    "distrito": "Moncloa-Aravaca",
-    "barrio": "Casa de Campo",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 1340,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "F",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/iLFGFjq.jpeg?2",
-      "https://i.imgur.com/MMmfkOz.jpeg?3",
-      "https://i.imgur.com/lbplYiE.jpeg?4",
-      "https://i.imgur.com/TGD4sp7.jpeg?5",
-      "https://i.imgur.com/GWfQDWK.jpeg?6",
-      "https://i.imgur.com/WeLDyT2.jpeg?7",
-      "https://i.imgur.com/77gX4MP.jpeg?8",
-      "https://i.imgur.com/uTIgWDw.jpeg?9",
-      "https://i.imgur.com/QlplWfO.jpeg?10",
-      "https://i.imgur.com/mMMUgrn.jpeg?11",
-      "https://i.imgur.com/mpgjsTk.jpeg?12",
-      "https://i.imgur.com/xYsa4jz.jpeg?13",
-      "https://i.imgur.com/7Axg5OQ.jpeg?14",
-      "https://i.imgur.com/OJxDFzF.jpeg?15",
-      "https://i.imgur.com/MjbWI1T.jpeg?16"
-    ]
-  },
-  {
     "id": 32246,
     "publicado": "2024-12-10",
     "modificado": "2024-12-13",
@@ -240,6 +205,7 @@
   {
     "id": 32251,
     "publicado": "2024-12-23",
+    "modificado": "2025-01-03",
     "direccion": "Calle Granada 42",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -252,7 +218,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Z4J7zJY.jpeg?2",
       "https://i.imgur.com/qZzQQQX.jpeg?3",
