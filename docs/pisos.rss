@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 07 Jan 2025 13:46:57 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 07 Jan 2025 18:48:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -247,6 +247,14 @@
 			<pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
 			<category>Ciudad Lineal</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/259337?2024-12-30</guid>
+		</item>
+		<item>
+			<title>900€ Torrejón de Ardoz</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/259435</link>
+			<description>C/ Valle de Arán, 1,&lt;br/&gt;2º con ascensor,&lt;br/&gt;70m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/259435</description>
+			<pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Torrejón de Ardoz</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/259435?2025-01-07</guid>
 		</item>
 		<item>
 			<title>1399€ Hortaleza</title>
@@ -1223,14 +1231,6 @@
 			<pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
 			<category>Algete</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275393?2024-12-13</guid>
-		</item>
-		<item>
-			<title>1100€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275395</link>
-			<description>C/ Calatrava, 22,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;40m², 1 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275395</description>
-			<pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275395?2024-12-16</guid>
 		</item>
 		<item>
 			<title>750€ Getafe</title>
