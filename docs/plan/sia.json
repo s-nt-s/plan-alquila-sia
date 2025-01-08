@@ -215,6 +215,7 @@
   {
     "id": 32249,
     "publicado": "2024-12-20",
+    "modificado": "2025-01-08",
     "direccion": "Calle Caqueta 5",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -226,7 +227,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/95kiL8a.jpeg?2",
       "https://i.imgur.com/e37YJ98.jpeg?3",
