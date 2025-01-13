@@ -126,6 +126,7 @@
   {
     "id": 32235,
     "publicado": "2024-11-29",
+    "modificado": "2025-01-13",
     "direccion": "Calle Caba Baja 30",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -137,7 +138,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/eYpkhiw.jpeg?2",
       "https://i.imgur.com/32G4VlP.jpeg?3",
