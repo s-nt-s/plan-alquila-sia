@@ -4627,28 +4627,5 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
-  },
-  {
-    "id": 275457,
-    "publicado": "2025-01-14",
-    "direccion": "Calle Cerro Blanco, 3",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "planta": 0,
-    "precio": 579,
-    "metros": 38.61,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "F",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
   }
 ]
