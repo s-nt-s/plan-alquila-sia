@@ -53,7 +53,7 @@
   {
     "id": 32231,
     "publicado": "2024-12-02",
-    "modificado": "2024-12-04",
+    "modificado": "2025-01-14",
     "direccion": "Calle O\u00f1a 85",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -73,12 +73,12 @@
       "https://i.imgur.com/Re5QfjX.jpeg?6",
       "https://i.imgur.com/Viwdxd7.jpeg?7",
       "https://i.imgur.com/iV7GgYi.jpeg?8",
-      "https://i.imgur.com/ObrXqXR.jpeg?9",
       "https://i.imgur.com/9bmCwwk.jpeg?10",
       "https://i.imgur.com/Cma9fjm.jpeg?12",
       "https://i.imgur.com/HDisxKR.jpeg?13",
       "https://i.imgur.com/DxwrfAE.jpeg?14",
-      "https://i.imgur.com/ObyI0id.jpeg?15"
+      "https://i.imgur.com/ObyI0id.jpeg?15",
+      "https://i.imgur.com/1YW9QIL.jpeg?16"
     ]
   },
   {
@@ -247,32 +247,39 @@
     ]
   },
   {
-    "id": 32252,
-    "publicado": "2024-12-20",
-    "modificado": "2024-12-27",
-    "direccion": "Calle Antonio Romero 19",
+    "id": 32257,
+    "publicado": "2025-01-14",
+    "direccion": "Calle Embajadores 63",
     "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Abrantes",
-    "planta": 0,
+    "distrito": "Arganzuela",
+    "barrio": "Delicias",
+    "planta": 4,
     "orientacion": "Exterior",
-    "precio": 850,
+    "precio": 1015,
     "dormitorios": 2,
-    "aseos": 2,
-    "cee": "E",
+    "aseos": 1,
+    "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
-      "https://i.imgur.com/utVrzc5.jpeg?2",
-      "https://i.imgur.com/1LE6YXP.jpeg?3",
-      "https://i.imgur.com/uC4toHK.jpeg?4",
-      "https://i.imgur.com/IJqiL6g.jpeg?5",
-      "https://i.imgur.com/pBnA3ii.jpeg?6",
-      "https://i.imgur.com/lAaZ4rz.jpeg?7",
-      "https://i.imgur.com/yJ9ppyM.jpeg?8",
-      "https://i.imgur.com/wLwRoNu.jpeg?9",
-      "https://i.imgur.com/jgmhGal.jpeg?10"
+      "https://i.imgur.com/T9D5Nqz.jpeg?3",
+      "https://i.imgur.com/DIKYnAY.jpeg?4",
+      "https://i.imgur.com/2bAP4yW.jpeg?5",
+      "https://i.imgur.com/n5Qpttl.jpeg?6",
+      "https://i.imgur.com/K6kRSSf.jpeg?8",
+      "https://i.imgur.com/27icxfK.jpeg?9",
+      "https://i.imgur.com/rx9gAzf.jpeg?10",
+      "https://i.imgur.com/voQ1CbL.jpeg?18",
+      "https://i.imgur.com/6AP0n1U.jpeg?19",
+      "https://i.imgur.com/P35x49k.jpeg?20",
+      "https://i.imgur.com/1hQ7xVy.jpeg?21",
+      "https://i.imgur.com/9wTRHXT.jpeg?22",
+      "https://i.imgur.com/0Zw41vS.jpeg?23",
+      "https://i.imgur.com/7BI8nFY.jpeg?24",
+      "https://i.imgur.com/QPTxgRL.jpeg?25",
+      "https://i.imgur.com/BhY60pw.jpeg?26",
+      "https://i.imgur.com/4jGO5Kb.jpeg?27"
     ]
   }
 ]
