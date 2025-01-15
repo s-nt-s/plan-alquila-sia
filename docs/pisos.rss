@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 15 Jan 2025 13:45:34 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jan 2025 18:48:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -505,12 +505,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272781?2024-12-18</guid>
 		</item>
 		<item>
-			<title>800€ Chamberí</title>
+			<title>725€ Chamberí</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272884</link>
 			<description>C/ Morejón, 3,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;28m², 1 🛏,&lt;br/&gt;1 🛀, 4 📷.&lt;br/&gt;alq/272884</description>
-			<pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272884?2024-12-17</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272884?2025-01-15</guid>
 		</item>
 		<item>
 			<title>2000€ Vicálvaro</title>
@@ -1455,6 +1455,14 @@
 			<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275461?2025-01-15</guid>
+		</item>
+		<item>
+			<title>1600€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275462</link>
+			<description>C/ Vilar de Donas, 19,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;70m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275462</description>
+			<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275462?2025-01-15</guid>
 		</item>
 	</channel>
 </rss>
