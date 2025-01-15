@@ -281,5 +281,32 @@
       "https://i.imgur.com/BhY60pw.jpeg?26",
       "https://i.imgur.com/4jGO5Kb.jpeg?27"
     ]
+  },
+  {
+    "id": 32261,
+    "publicado": "2025-01-15",
+    "direccion": "Calle Republica Eslovaca 9",
+    "municipio": "Madrid",
+    "distrito": "San Blas",
+    "barrio": "Arcos",
+    "planta": 4,
+    "orientacion": "Mixto",
+    "precio": 850,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "C",
+    "ascensor": true,
+    "adaptada": true,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/Gx45Z7r.jpeg?2",
+      "https://i.imgur.com/yko4k4e.jpeg?3",
+      "https://i.imgur.com/Tf3u3wB.jpeg?4",
+      "https://i.imgur.com/uoq7mR7.jpeg?5",
+      "https://i.imgur.com/Y7AuP2d.jpeg?6",
+      "https://i.imgur.com/cq6KdTE.jpeg?7",
+      "https://i.imgur.com/oqVzUNy.jpeg?8",
+      "https://i.imgur.com/qArDFsv.jpeg?9"
+    ]
   }
 ]

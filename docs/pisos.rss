@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 14 Jan 2025 18:49:06 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jan 2025 13:45:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -55,6 +55,14 @@
 			<pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32257?2025-01-14</guid>
+		</item>
+		<item>
+			<title>850€ San Blas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32261</link>
+			<description>C/ Republica Eslovaca 9,&lt;br/&gt;4º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;sia/32261</description>
+			<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+			<category>San Blas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32261?2025-01-15</guid>
 		</item>
 		<item>
 			<title>900€ San Martín de la Vega</title>
@@ -369,12 +377,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268693?2024-12-20</guid>
 		</item>
 		<item>
-			<title>1550€ Alcorcón</title>
+			<title>1450€ Alcorcón</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/268707</link>
 			<description>C/ Hayas, 63,&lt;br/&gt;2º con ascensor,&lt;br/&gt;107m², 3 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/268707</description>
-			<pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268707?2024-12-20</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268707?2025-01-15</guid>
 		</item>
 		<item>
 			<title>1100€ Fuencarral-El Pardo</title>
@@ -1305,6 +1313,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275428?2025-01-07</guid>
 		</item>
 		<item>
+			<title>1250€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275430</link>
+			<description>Pl. Coimbra, 13,&lt;br/&gt;2º con ascensor,&lt;br/&gt;65m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275430</description>
+			<pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275430?2025-01-03</guid>
+		</item>
+		<item>
 			<title>995€ Fuenlabrada</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275431</link>
 			<description>Urb Nuevo Versalles, 8,&lt;br/&gt;5º con ascensor,&lt;br/&gt;73m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275431</description>
@@ -1423,6 +1439,22 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275454?2025-01-13</guid>
+		</item>
+		<item>
+			<title>1050€ Fuencarral-El Pardo</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275460</link>
+			<description>C/ Sarriá, 63,&lt;br/&gt;4º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275460</description>
+			<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Fuencarral-El Pardo</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275460?2025-01-15</guid>
+		</item>
+		<item>
+			<title>1000€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275461</link>
+			<description>C/ Los Yébenes, 97,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;58m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275461</description>
+			<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275461?2025-01-15</guid>
 		</item>
 	</channel>
 </rss>
