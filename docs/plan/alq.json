@@ -685,6 +685,28 @@
     "imgs": []
   },
   {
+    "id": 265613,
+    "publicado": "2025-01-21",
+    "direccion": "Calle Colodra, 1",
+    "municipio": "Getafe",
+    "planta": 4,
+    "precio": 1000,
+    "metros": 86.3,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "C",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
+    "imgs": []
+  },
+  {
     "id": 265677,
     "publicado": "2025-01-09",
     "direccion": "Avda Haya, 22",
