@@ -84,6 +84,7 @@
   {
     "id": 32232,
     "publicado": "2025-01-07",
+    "modificado": "2025-01-21",
     "direccion": "Calle Mateo Garcia 30",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -96,7 +97,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/t6qu6u8.jpeg?2",
       "https://i.imgur.com/FUgQUvK.jpeg?3",
@@ -249,6 +250,7 @@
   {
     "id": 32257,
     "publicado": "2025-01-14",
+    "modificado": "2025-01-21",
     "direccion": "Calle Embajadores 63",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -261,7 +263,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/T9D5Nqz.jpeg?3",
       "https://i.imgur.com/DIKYnAY.jpeg?4",
