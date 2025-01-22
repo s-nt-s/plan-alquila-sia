@@ -127,8 +127,8 @@
   {
     "id": 32235,
     "publicado": "2024-11-29",
-    "modificado": "2025-01-13",
-    "direccion": "Calle Caba Baja 30",
+    "modificado": "2025-01-22",
+    "direccion": "Calle Cava Baja 30",
     "municipio": "Madrid",
     "distrito": "Centro",
     "barrio": "Palacio",
@@ -187,34 +187,6 @@
     ]
   },
   {
-    "id": 32246,
-    "publicado": "2024-12-10",
-    "modificado": "2024-12-13",
-    "direccion": "Calle Sierra Carbonera 82",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "San Diego",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 900,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/EwGgE3T.jpeg?9",
-      "https://i.imgur.com/clnOAF9.jpeg?10",
-      "https://i.imgur.com/Om8Y0zt.jpeg?11",
-      "https://i.imgur.com/mTavpoD.jpeg?12",
-      "https://i.imgur.com/YuYiRfb.jpeg?13",
-      "https://i.imgur.com/LgFft9K.jpeg?14",
-      "https://i.imgur.com/HHTOo3G.jpeg?15",
-      "https://i.imgur.com/6TzvO6s.jpeg?16"
-    ]
-  },
-  {
     "id": 32249,
     "publicado": "2024-12-20",
     "modificado": "2025-01-08",
@@ -245,6 +217,38 @@
       "https://i.imgur.com/1OPBaGK.jpeg?13",
       "https://i.imgur.com/Xgtfu6i.jpeg?14",
       "https://i.imgur.com/XXkRLyd.jpeg?15"
+    ]
+  },
+  {
+    "id": 32256,
+    "publicado": "2025-01-22",
+    "direccion": "Calle Principal 19",
+    "municipio": "Madrid",
+    "distrito": "Villaverde",
+    "barrio": "Butarque",
+    "planta": 0,
+    "orientacion": "Exterior",
+    "precio": 920,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/NoXOfe5.jpeg?2",
+      "https://i.imgur.com/MiTY6cl.jpeg?3",
+      "https://i.imgur.com/OnJRjj6.jpeg?4",
+      "https://i.imgur.com/QwVAkQl.jpeg?5",
+      "https://i.imgur.com/dpU6n01.jpeg?6",
+      "https://i.imgur.com/G3TYXAe.jpeg?7",
+      "https://i.imgur.com/3mZjBDA.jpeg?8",
+      "https://i.imgur.com/WXk1bbs.jpeg?9",
+      "https://i.imgur.com/xCjZL8Z.jpeg?10",
+      "https://i.imgur.com/8NLqdLc.jpeg?11",
+      "https://i.imgur.com/6bMEffj.jpeg?12",
+      "https://i.imgur.com/c7h0mhS.jpeg?13",
+      "https://i.imgur.com/9OPWq3L.jpeg?14"
     ]
   },
   {
