@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 22 Jan 2025 13:49:52 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jan 2025 18:50:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -55,14 +55,6 @@
 			<pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
 			<category>San Martín de la Vega</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/200691?2024-12-20</guid>
-		</item>
-		<item>
-			<title>925€ Parla</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/202672</link>
-			<description>C/ Estrella Denébola, 3,&lt;br/&gt;3º con ascensor,&lt;br/&gt;81m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/202672</description>
-			<pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-			<category>Parla</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/202672?2025-01-09</guid>
 		</item>
 		<item>
 			<title>1000€ Chamberí</title>
@@ -303,14 +295,6 @@
 			<pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266229?2024-12-20</guid>
-		</item>
-		<item>
-			<title>1300€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/266245</link>
-			<description>C/ Echegaray, 4,&lt;br/&gt;1º con ascensor,&lt;br/&gt;49m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/266245</description>
-			<pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266245?2025-01-20</guid>
 		</item>
 		<item>
 			<title>1200€ Vicálvaro</title>
@@ -953,14 +937,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275271?2024-12-20</guid>
 		</item>
 		<item>
-			<title>900€ Alcalá de Henares</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275272</link>
-			<description>C/ Juan de Soto, 8,&lt;br/&gt;1º con ascensor,&lt;br/&gt;73m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275272</description>
-			<pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-			<category>Alcalá de Henares</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275272?2024-12-20</guid>
-		</item>
-		<item>
 			<title>1034€ Colmenar Viejo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275276</link>
 			<description>C/ Talgo, 1,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;87m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275276</description>
@@ -1575,6 +1551,14 @@
 			<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275484?2025-01-22</guid>
+		</item>
+		<item>
+			<title>1150€ Coslada</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275486</link>
+			<description>C/ Luis Grasset, 1,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275486</description>
+			<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Coslada</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275486?2025-01-22</guid>
 		</item>
 	</channel>
 </rss>
