@@ -2,7 +2,7 @@
   {
     "id": 32207,
     "publicado": "2024-10-07",
-    "modificado": "2024-11-05",
+    "modificado": "2025-01-23",
     "direccion": "Calle Venancio Martin 42",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -14,7 +14,7 @@
     "aseos": 1,
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/mtGAtKX.jpeg?2",
       "https://i.imgur.com/DiSilrQ.jpeg?3",
@@ -53,7 +53,7 @@
   {
     "id": 32231,
     "publicado": "2024-12-02",
-    "modificado": "2025-01-14",
+    "modificado": "2025-01-23",
     "direccion": "Calle O\u00f1a 85",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -65,7 +65,7 @@
     "aseos": 2,
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/ZNaG4Qn.jpeg?2",
       "https://i.imgur.com/NhfeGhI.jpeg?3",
@@ -184,39 +184,6 @@
       "https://i.imgur.com/1qW5Qxe.jpeg?14",
       "https://i.imgur.com/4AqZFdO.jpeg?15",
       "https://i.imgur.com/foPlVtH.jpeg?16"
-    ]
-  },
-  {
-    "id": 32249,
-    "publicado": "2024-12-20",
-    "modificado": "2025-01-08",
-    "direccion": "Calle Caqueta 5",
-    "municipio": "Madrid",
-    "distrito": "Hortaleza",
-    "barrio": "Pinar del Rey",
-    "planta": 3,
-    "precio": 1150,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/95kiL8a.jpeg?2",
-      "https://i.imgur.com/e37YJ98.jpeg?3",
-      "https://i.imgur.com/S6kghEO.jpeg?4",
-      "https://i.imgur.com/qmbhn7N.jpeg?5",
-      "https://i.imgur.com/RRKxetC.jpeg?6",
-      "https://i.imgur.com/e7KFHJn.jpeg?7",
-      "https://i.imgur.com/1qFLplY.jpeg?8",
-      "https://i.imgur.com/SipkCvJ.jpeg?9",
-      "https://i.imgur.com/AY5hPtm.jpeg?10",
-      "https://i.imgur.com/VfwOOVL.jpeg?11",
-      "https://i.imgur.com/q6JYANL.jpeg?12",
-      "https://i.imgur.com/1OPBaGK.jpeg?13",
-      "https://i.imgur.com/Xgtfu6i.jpeg?14",
-      "https://i.imgur.com/XXkRLyd.jpeg?15"
     ]
   },
   {
