@@ -1676,6 +1676,28 @@
     ]
   },
   {
+    "id": 274300,
+    "publicado": "2025-01-23",
+    "direccion": "Calle Pico de San Pedro, 4",
+    "municipio": "Tres Cantos",
+    "planta": 5,
+    "precio": 1350,
+    "metros": 93,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "C",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
+    "imgs": []
+  },
+  {
     "id": 274376,
     "publicado": "2024-12-19",
     "direccion": "Calle Pintor Murillo, 20",
