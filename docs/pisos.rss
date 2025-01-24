@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 23 Jan 2025 18:46:39 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jan 2025 13:46:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -252,9 +252,9 @@
 			<title>820€ Arganda del Rey</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/265677</link>
 			<description>Av. Haya, 22,&lt;br/&gt;4º con ascensor,&lt;br/&gt;52m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/265677</description>
-			<pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Arganda del Rey</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265677?2025-01-09</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265677?2025-01-24</guid>
 		</item>
 		<item>
 			<title>1600€ Rozas de Madrid, Las</title>
@@ -372,9 +372,9 @@
 			<title>975€ Tetuán</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271520</link>
 			<description>C/ Numancia, 31,&lt;br/&gt;2º con ascensor,&lt;br/&gt;44m², 1 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/271520</description>
-			<pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271520?2025-01-09</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271520?2025-01-24</guid>
 		</item>
 		<item>
 			<title>727€ Getafe</title>
@@ -1017,14 +1017,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275351?2024-11-28</guid>
 		</item>
 		<item>
-			<title>950€ Parla</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275356</link>
-			<description>C/ Gobernador, 10,&lt;br/&gt;3º con ascensor,&lt;br/&gt;96m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275356</description>
-			<pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-			<category>Parla</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275356?2024-12-02</guid>
-		</item>
-		<item>
 			<title>1255€ Colmenar Viejo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275360</link>
 			<description>C/ Alonso de Ojeda, 1,&lt;br/&gt;Atico con ascensor,&lt;br/&gt;86m², 3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;alq/275360</description>
@@ -1551,6 +1543,14 @@
 			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275488?2025-01-23</guid>
+		</item>
+		<item>
+			<title>850€ Puente de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275489</link>
+			<description>C/ Sierra del Valle, 44,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;44m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275489</description>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Puente de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275489?2025-01-24</guid>
 		</item>
 	</channel>
 </rss>
