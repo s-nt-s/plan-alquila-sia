@@ -1,28 +1,5 @@
 [
   {
-    "id": 32207,
-    "publicado": "2024-10-07",
-    "modificado": "2025-01-23",
-    "direccion": "Calle Venancio Martin 42",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "Numancia",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 780,
-    "dormitorios": 1,
-    "aseos": 1,
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/mtGAtKX.jpeg?2",
-      "https://i.imgur.com/DiSilrQ.jpeg?3",
-      "https://i.imgur.com/Mn1IgX5.jpeg?4",
-      "https://i.imgur.com/JZvnT3j.jpeg?5"
-    ]
-  },
-  {
     "id": 32225,
     "publicado": "2024-10-25",
     "direccion": "Calle Madres Plaza De Mayo 7",
