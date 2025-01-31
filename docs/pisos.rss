@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 31 Jan 2025 13:42:12 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 18:46:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1291,10 +1291,10 @@
 		<item>
 			<title>919€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275476</link>
-			<description>Av. Mayorazgo, 73,&lt;br/&gt;3º con ascensor,&lt;br/&gt;2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275476</description>
-			<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+			<description>Av. Mayorazgo, 73,&lt;br/&gt;3º con ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275476</description>
+			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275476?2025-01-22</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275476?2025-01-31</guid>
 		</item>
 		<item>
 			<title>1100€ Rozas de Madrid, Las</title>
@@ -1385,6 +1385,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275491?2025-01-29</guid>
 		</item>
 		<item>
+			<title>1700€ Retiro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275492</link>
+			<description>C/ Doctor Esquerdo, 191,&lt;br/&gt;3º con ascensor,&lt;br/&gt;81m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275492</description>
+			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Retiro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275492?2025-01-31</guid>
+		</item>
+		<item>
 			<title>1115€ Colmenar Viejo</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275494</link>
 			<description>C/ Cristóbal Colón, 12,&lt;br/&gt;2º con ascensor,&lt;br/&gt;73m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275494</description>
@@ -1423,6 +1431,14 @@
 			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Valdemoro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275504?2025-01-29</guid>
+		</item>
+		<item>
+			<title>1030€ Chamartín</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275505</link>
+			<description>C/ López de Hoyos, 153,&lt;br/&gt;2º con ascensor,&lt;br/&gt;55m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275505</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Chamartín</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275505?2025-01-29</guid>
 		</item>
 		<item>
 			<title>1100€ Fuencarral-El Pardo</title>
