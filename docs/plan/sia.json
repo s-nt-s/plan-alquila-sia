@@ -156,7 +156,7 @@
   {
     "id": 32259,
     "publicado": "2025-01-28",
-    "modificado": "2025-01-31",
+    "modificado": "2025-02-03",
     "direccion": "Calle Mirabel 6",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -169,7 +169,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": true,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/K3CxmBE.jpeg?3",
       "https://i.imgur.com/hO7upGo.jpeg?4",
@@ -192,6 +192,7 @@
   {
     "id": 32262,
     "publicado": "2025-01-28",
+    "modificado": "2025-02-03",
     "direccion": "Calle Ca\u00f1ada 22",
     "municipio": "Madrid",
     "distrito": "Moratalaz",
@@ -204,7 +205,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/8Fv8zoJ.jpeg?1",
       "https://i.imgur.com/cQVb1pK.jpeg?2",
