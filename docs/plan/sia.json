@@ -30,7 +30,7 @@
   {
     "id": 32231,
     "publicado": "2024-12-02",
-    "modificado": "2025-01-23",
+    "modificado": "2025-02-04",
     "direccion": "Calle O\u00f1a 85",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -42,7 +42,7 @@
     "aseos": 2,
     "ascensor": true,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
       "https://i.imgur.com/ZNaG4Qn.jpeg?2",
       "https://i.imgur.com/NhfeGhI.jpeg?3",
