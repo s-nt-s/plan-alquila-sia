@@ -4231,7 +4231,7 @@
   {
     "id": 275494,
     "publicado": "2025-01-29",
-    "modificado": "2025-02-05",
+    "modificado": "2025-02-06",
     "direccion": "Calle Crist\u00f3bal Col\u00f3n, 12",
     "municipio": "Colmenar Viejo",
     "planta": 2,
@@ -4246,7 +4246,7 @@
     "calefacion": true,
     "garaje": true,
     "adaptada": false,
-    "piscina": false,
+    "piscina": true,
     "porteria": true,
     "trastero": true,
     "imgs": [
