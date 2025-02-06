@@ -191,6 +191,36 @@
     ]
   },
   {
+    "id": 32269,
+    "publicado": "2025-02-06",
+    "direccion": "Calle Isla De Sumatra 18",
+    "municipio": "Madrid",
+    "distrito": "Fuencarral-El Pardo",
+    "barrio": "Valverde",
+    "planta": 0,
+    "orientacion": "Exterior",
+    "precio": 750,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/9bO2UJl.jpeg?1",
+      "https://i.imgur.com/7XLnwUH.jpeg?2",
+      "https://i.imgur.com/uLWcjMe.jpeg?4",
+      "https://i.imgur.com/OyIkTjk.jpeg?6",
+      "https://i.imgur.com/ilZz0oc.jpeg?7",
+      "https://i.imgur.com/jrUzoOd.jpeg?8",
+      "https://i.imgur.com/gDkkL62.jpeg?10",
+      "https://i.imgur.com/4ypgaxL.jpeg?12",
+      "https://i.imgur.com/JSxJEnj.jpeg?13",
+      "https://i.imgur.com/gLqGRx6.jpeg?14",
+      "https://i.imgur.com/vT6R4oF.jpeg?15"
+    ]
+  },
+  {
     "id": 32272,
     "publicado": "2025-02-05",
     "direccion": "Calle Durazno 5",
