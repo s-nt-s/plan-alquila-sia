@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 06 Feb 2025 13:43:02 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 18:44:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -257,14 +257,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264962?2025-01-09</guid>
 		</item>
 		<item>
-			<title>1200€ Tetuán</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/265586</link>
-			<description>C/ Azucenas, 69,&lt;br/&gt;3º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/265586</description>
-			<pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-			<category>Tetuán</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/265586?2025-01-09</guid>
-		</item>
-		<item>
 			<title>1600€ Rozas de Madrid, Las</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/265735</link>
 			<description>C/ Menorca, 2,&lt;br/&gt;1º con ascensor,&lt;br/&gt;110m², 3 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/265735</description>
@@ -311,6 +303,14 @@
 			<pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267908?2024-08-05</guid>
+		</item>
+		<item>
+			<title>1400€ Salamanca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267922</link>
+			<description>C/ Montesa, 17,&lt;br/&gt;5º con ascensor,&lt;br/&gt;53m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/267922</description>
+			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Salamanca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267922?2025-01-28</guid>
 		</item>
 		<item>
 			<title>1200€ Centro</title>
@@ -463,6 +463,14 @@
 			<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
 			<category>Chamberí</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272884?2025-01-15</guid>
+		</item>
+		<item>
+			<title>1150€ Cubas de la Sagra</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273314</link>
+			<description>C/ Alces, 1,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;144m², 4 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/273314</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>Cubas de la Sagra</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273314?2025-02-06</guid>
 		</item>
 		<item>
 			<title>2000€ Vicálvaro</title>
@@ -1067,10 +1075,10 @@
 		<item>
 			<title>1100€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275447</link>
-			<description>Pl. Cebada, 12,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;46m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275447</description>
-			<pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+			<description>Pl. Cebada, 12,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;46m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275447</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275447?2025-01-10</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275447?2025-02-06</guid>
 		</item>
 		<item>
 			<title>1000€ Latina</title>
