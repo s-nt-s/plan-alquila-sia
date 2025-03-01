@@ -15,7 +15,8 @@ from selenium import webdriver
 from selenium.common.exceptions import (ElementNotInteractableException,
                                         ElementNotVisibleException,
                                         StaleElementReferenceException,
-                                        TimeoutException, WebDriverException)
+                                        TimeoutException, WebDriverException, 
+                                        JavascriptException)
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.chrome.options import Options as CMoptions
 from selenium.webdriver.common.by import By
@@ -416,8 +417,10 @@ class Driver:
             n = self.wait(n, **kvarg)
         if n.is_displayed():
             self._driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", n)
-            ActionChains(self._driver).move_to_element(n).click(n).perform()
-            # n.click()
+            try:
+                ActionChains(self._driver).move_to_element(n).click(n).perform()
+            except JavascriptException:
+                n.click()
         else:
             n.send_keys(Keys.RETURN)
         return True
