@@ -207,37 +207,6 @@
     ]
   },
   {
-    "id": 32276,
-    "publicado": "2025-02-10",
-    "modificado": "2025-03-01",
-    "direccion": "Calle Puerto De Porzuna 26",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Casco Hist\u00f3rico de Vallecas",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 650,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/ryDp9Cv.jpeg?1",
-      "https://i.imgur.com/ZXviZxn.jpeg?2",
-      "https://i.imgur.com/BZBnHDs.jpeg?3",
-      "https://i.imgur.com/rFdYYQZ.jpeg?4",
-      "https://i.imgur.com/jXYOfKx.jpeg?5",
-      "https://i.imgur.com/Jb54aRE.jpeg?6",
-      "https://i.imgur.com/GsYpcyX.jpeg?7",
-      "https://i.imgur.com/IvCYhwq.jpeg?8",
-      "https://i.imgur.com/Z44hoIh.jpeg?9",
-      "https://i.imgur.com/8oDqS66.jpeg?10",
-      "https://i.imgur.com/L0Buk6o.jpeg?11"
-    ]
-  },
-  {
     "id": 32277,
     "publicado": "2025-03-01",
     "direccion": "Calle Ezcaray 16",
@@ -292,7 +261,7 @@
   {
     "id": 32283,
     "publicado": "2025-03-01",
-    "modificado": "2025-03-01",
+    "modificado": "2025-03-04",
     "direccion": "Calle Enrique Fuentes 23",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -305,7 +274,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/8b6wAFN.jpeg?2",
       "https://i.imgur.com/cijzRJ1.jpeg?3",
@@ -318,6 +287,32 @@
       "https://i.imgur.com/uYsLwoC.jpeg?10",
       "https://i.imgur.com/I7gWsvZ.jpeg?11",
       "https://i.imgur.com/HEk4aCb.jpeg?12"
+    ]
+  },
+  {
+    "id": 32284,
+    "publicado": "2025-03-04",
+    "direccion": "Calle Parvillas Bajas 38",
+    "municipio": "Madrid",
+    "distrito": "Villaverde",
+    "barrio": "San Andr\u00e9s",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 1000,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/0XWUAHt.jpeg?2",
+      "https://i.imgur.com/sp3X8tg.jpeg?3",
+      "https://i.imgur.com/GNMX2OX.jpeg?4",
+      "https://i.imgur.com/FZi8nf6.jpeg?5",
+      "https://i.imgur.com/iXNURbR.jpeg?6",
+      "https://i.imgur.com/XzWYGVn.jpeg?7",
+      "https://i.imgur.com/QCP0hdA.jpeg?8"
     ]
   },
   {
@@ -351,6 +346,35 @@
     ]
   },
   {
+    "id": 32288,
+    "publicado": "2025-03-04",
+    "direccion": "Calle Valldemosa 32",
+    "municipio": "Madrid",
+    "distrito": "Moncloa-Aravaca",
+    "barrio": "Valdezarza",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 800,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/OHlPTHd.jpeg?2",
+      "https://i.imgur.com/7KAG09c.jpeg?3",
+      "https://i.imgur.com/zDfQAVb.jpeg?4",
+      "https://i.imgur.com/xffXVtS.jpeg?5",
+      "https://i.imgur.com/v0pKN6W.jpeg?6",
+      "https://i.imgur.com/k8gSKgY.jpeg?7",
+      "https://i.imgur.com/dehFf9l.jpeg?8",
+      "https://i.imgur.com/Z3EhM7f.jpeg?9",
+      "https://i.imgur.com/Fy1f8SS.jpeg?10",
+      "https://i.imgur.com/23NQaJh.jpeg?11"
+    ]
+  },
+  {
     "id": 32290,
     "publicado": "2025-03-01",
     "modificado": "2025-03-01",
@@ -379,6 +403,40 @@
       "https://i.imgur.com/MQwEXl6.jpeg?13",
       "https://i.imgur.com/VoUzdiV.jpeg?14",
       "https://i.imgur.com/T3NaaO2.jpeg?15"
+    ]
+  },
+  {
+    "id": 32291,
+    "publicado": "2025-03-04",
+    "direccion": "Calle Pinar De San Jose 9",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Comillas",
+    "planta": 1,
+    "orientacion": "Mixto",
+    "precio": 970,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/UL2s4GW.jpeg?2",
+      "https://i.imgur.com/NDsOpur.jpeg?3",
+      "https://i.imgur.com/wx9W5wt.jpeg?4",
+      "https://i.imgur.com/pXiYS7l.jpeg?5",
+      "https://i.imgur.com/6lFY9z3.jpeg?6",
+      "https://i.imgur.com/mYwbFCN.jpeg?7",
+      "https://i.imgur.com/lY2oGfB.jpeg?8",
+      "https://i.imgur.com/q4m0Qs6.jpeg?9",
+      "https://i.imgur.com/3JPEZQz.jpeg?10",
+      "https://i.imgur.com/6ela3eE.jpeg?11",
+      "https://i.imgur.com/bTe5LQC.jpeg?12",
+      "https://i.imgur.com/czR8hzq.jpeg?13",
+      "https://i.imgur.com/g1Xv0dL.jpeg?14",
+      "https://i.imgur.com/YTvTQpt.jpeg?15",
+      "https://i.imgur.com/8LrY3wK.jpeg?16"
     ]
   },
   {
