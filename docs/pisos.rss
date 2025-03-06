@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 06 Mar 2025 13:46:05 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Mar 2025 18:45:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -87,6 +87,14 @@
 			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32299?2025-03-05</guid>
+		</item>
+		<item>
+			<title>1450€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/200072</link>
+			<description>C/ Sodio, 1,&lt;br/&gt;2º con ascensor,&lt;br/&gt;76m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/200072</description>
+			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/200072?2025-03-06</guid>
 		</item>
 		<item>
 			<title>900€ San Martín de la Vega</title>
@@ -279,6 +287,14 @@
 			<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/266374?2025-03-04</guid>
+		</item>
+		<item>
+			<title>650€ Álamo, El</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/267713</link>
+			<description>C/ Vía Crucis, 3,&lt;br/&gt;Bajo sin ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/267713</description>
+			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Álamo, El</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/267713?2025-01-28</guid>
 		</item>
 		<item>
 			<title>1160€ Fuencarral-El Pardo</title>
@@ -1263,6 +1279,14 @@
 			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
 			<category>Usera</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275591?2025-02-26</guid>
+		</item>
+		<item>
+			<title>1050€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275592</link>
+			<description>C/ San Cipriano, 29,&lt;br/&gt;1º con ascensor,&lt;br/&gt;41m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275592</description>
+			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275592?2025-02-26</guid>
 		</item>
 		<item>
 			<title>875€ Getafe</title>
