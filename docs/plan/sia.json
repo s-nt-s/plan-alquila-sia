@@ -356,7 +356,7 @@
   {
     "id": 32291,
     "publicado": "2025-03-04",
-    "modificado": "2025-03-05",
+    "modificado": "2025-03-06",
     "direccion": "Calle Pinar De San Jose 9",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -372,7 +372,6 @@
     "reservada": false,
     "imgs": [
       "https://i.imgur.com/q4m0Qs6.jpeg?9",
-      "https://i.imgur.com/3JPEZQz.jpeg?10",
       "https://i.imgur.com/bTe5LQC.jpeg?12",
       "https://i.imgur.com/czR8hzq.jpeg?13",
       "https://i.imgur.com/8LrY3wK.jpeg?16",
@@ -385,7 +384,8 @@
       "https://i.imgur.com/7goPZpT.jpeg?23",
       "https://i.imgur.com/0RtRYiZ.jpeg?24",
       "https://i.imgur.com/fpUn1xE.jpeg?25",
-      "https://i.imgur.com/alEJ4bL.jpeg?26"
+      "https://i.imgur.com/alEJ4bL.jpeg?26",
+      "https://i.imgur.com/zLeRFu8.jpeg?27"
     ]
   },
   {
@@ -420,6 +420,7 @@
   {
     "id": 32295,
     "publicado": "2025-03-03",
+    "modificado": "2025-03-06",
     "direccion": "Calle Clara Campoamor 9",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -432,7 +433,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/5Bg0cfd.jpeg?6",
       "https://i.imgur.com/agybu2x.jpeg?7",
