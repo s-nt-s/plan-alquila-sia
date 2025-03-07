@@ -1768,38 +1768,6 @@
     ]
   },
   {
-    "id": 274970,
-    "publicado": "2024-07-09",
-    "modificado": "2024-12-20",
-    "direccion": "Calle Quijada de Pandiellos, 45",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "planta": 1,
-    "precio": 1050,
-    "metros": 54.7,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "D",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx19jUq2ttDaCKBQFTyLMXgv1YlqRhdWKlaDxNJkdNxNmZ6Yzs8lKsaigBT0o!jgpKOhFqVf!CEEPFcGLoF5ExB94UOjJ2U3SxOKehp33ffP9fN9b!QalREP5XNDELYw4FhGarzcpsTO3Xp95OGEO8gJAqgCgZDTs7FdVpOQUi1f79aW3D9a!F2CoBqUW5gl11Ra2sxhH1GsqGjnd3khhjpiwVKPEMm6Qn12LOSufXXn59V1l5WkBigEUMbfSQjl342VuPN-JIqpnAihhQRpyEZZhOIByaOaoIZopwqTodLMwOSBcsJqJyOm2sbBzn0tT9S9Ht!!kp0dP!lxemXYcfo9Dw0Sf90QS16m-tnpvavTuhxvdUAovTNZ0xKVTVZ3jyO83990Ls1JHCCtMGhTFF85jQg1qMdpG2ZFTaxDlaFY6uNQeaWNNT-PoOLUNGR5NlabGOCoXevYNjbkJaNiTeUkz2ea6xWD3aO3mx5-ZKTfLjbp-p8dXry!8qq0dzm07d!uIjJFJxP-6-bHi708tT4-dvfMjezkDHG97cOjAUj0xBIdSV5lDESE-mdQ5c39wxW0CUtgNuMqM1BcBNi9VdxrP16qfv0wtHestVcHCrjxjJtF8YlViXSHFsR2MvrOQSqXOeTeFgUADSbAdSKsAW3wYJpInsfChyJmgbrEUto2MZGu-y3UX620LvmcoSTT1mCA8CanX6oKpHpjnkBd7uGaD1-STE9RlgdKGjXl7HHYQZ9zSzo1N1V8IJyZF",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx1!XpFpbaW0EUSgKnkSYvRbqxbQiC6sVK0HjaTIZNxNmZ6Yzs8lKsaigBT0o!rgVFPSi1Kt!hKCHiuBFUC8i4g88KHjq7CZpYnFPw877vvl-vu-tfYNioqF0IWziFkYciwjN15qU2Jk7r889nDCHuQeQKgAoGg27-1VlKTnF4tVBfeXt6t!vHgxVodjCPKGu2sJOFuOI-k1FI6fbHynMEROWapRYxg0KsmsxZ-Wzay-!viuvPPWgEEIBcystlHI3fubGD5woonomhCIWpCEXYRmGQyjVzRw1RDNFmBSdbhYmB4QLVjMROd0OVu!c59JU!cvR7T!56dGTP1dXph1H0OPQMNHnPZXENapvrD2YGr3!4VY3FO-FyZqOuHQqqnMc-f1m1b0wK3WEsMKkQVF86SIm1KAWo22UHTm1BlGOZqWDS-2xNtb0LI5OUtuQ9eOp0tQYR-VCz76hMTcBDfsyL2km21q3GO4drd7--DMz5Wa5Wdfv9Pj6zYVf1fWjuW3n7gCRMTKJ-F-3IFb8!Znl6bHz935kL2eA420fjhxaqiWG4LrUFeZQRB2fTmqcuT-47DYBKewGXGFG6ssAW5eqO43n65XPX6aWTvSWyrOwJ8-YSTSfWJVYV0hxbAej7yykUqlz3k1hINBQEmwH0vJgWwDDRPIkFgEUOBPULZbCtpGRbM93ueZivWsh8A0liaY-E4Qndeq3umCqB-Y75MUertnkNfnkBHVZoLRhY94eh13EGbe0c2NTtQEKLSZG",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx19jUq2ttDaCKBQFTyLMXgv1YlqRhdWKlaDxNJkdNxNmZ6Yzs8lKsaigBT0o!rgpCnpR6tU!QtBDRfAiqBcR8QceFHpydpM0sbinYed933w!3!dWv0Ep0VA-FzRxCyOORYTm601K7Myt12ceTpiDvACQKgAoGQ07-1UVKTnF4tV-fent!fXvBRiqQamFeUJdtYXtLMYR9ZqKRk63N1KYIyYs1SixjBvkZ9dizspnV15-fVdZeVqAYgBFzK20UM7deJkbz3eiiOqZAEpYkIZchGUYDqAcmjlqiGaKMCk63SxMDggXrGYicrptLOzc59JU!cvR7T!56dGTP5dXph2H3-PQMNHnPZHEdaqvrd6bGr374UY3lMILkzUdcelUVec48vvNA!fCrNQRwgqTBkXxhfOYUINajLZRduTUGkQ5mpUOLrVH2ljT0zg6Tm1DhkdTpakxjsqFnn1DY24CGvZkXtJMtrluMdg9Wrv58Wdmys1yo67f6fHV6wu!amuHc9vO3T4iY2QS8b9ufqz4-1PL02Nn7!zIXs4Ax9seHDqwVE8MwaHUVeZQRIhPJnXO3B9ccZuAFHYDrjIj9UWAzUvVncbzternL1NLx3pLVbCwK8-YSTSfWJVYV0hxbAej7yykUqlz3k1hINBAEmwH0irAFh-GieRJLHwociaoWyyFbSMj2Zrvct3FetuC7xlKEk09JghPQuq1umCqB-Y55MUertngNfnkBHVZoLRhY94ehx3EGbe0c2NT9RcMMyZH",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx19jUq2ttDaCKBQFTyLMXgv1YlqRhdWKlaDxNJkdNxNmZ6Yzs8lKsaigBT0o!riJCnpR6tU!QtBDRfAiqBcR8QceFHpydpM0sbinYed933w!3!dWv0Ep0VA-FzRxCyOORYTm601K7Myt12ceTpiDvACQKgAoGQ07-1UVKTnF4tV-fent!fXvBRiqQamFeUJdtYXtLMYR9ZqKRk63N1KYIyYs1SixjBvkZ9dizspnV15-fVdZeVqAYgBFzK20UM7deJkbz3eiiOqZAEpYkIZchGUYDqAcmjlqiGaKMCk63SxMDggXrGYicrptLOzc59JU!cvR7T!56dGTP5dXph2H3-PQMNHnPZHEdaqvrd6bGr374UY3lMILkzUdcelUVec48vvNA!fCrNQRwgqTBkXxhfOYUINajLZRduTUGkQ5mpUOLrVH2ljT0zg6Tm1DhkdTpakxjsqFnn1DY24CGvZkXtJMtrluMdg9Wrv58Wdmys1yo67f6fHV6wu!amuHc9vO3T4iY2QS8b9ufqz4-1PL02Nn7!zIXs4Ax9seHDqwVE8MwaHUVeZQRIhPJnXO3B9ccZuAFHYDrjIj9UWAzUvVncbzternL1NLx3pLVbCwK8-YSTSfWJVYV0hxbAej7yykUqlz3k1hINBAEmwH0irAFh-GieRJLHwociaoWyyFbSMj2Zrvct3FetuC7xlKEk09JghPQuq1umCqB-Y55MUertngNfnkBHVZoLRhY94ehx3EGbe0c2NT9RcOOSZI",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx1!XpFpbaW0EUSgKnkSYvRbqxbQiC6sVK0HjaTIZNxNmZ6Yzs8lKsaigBT0o!rgJFfSi1Kt!hKCHiuBFUC8i4g88KHjq7CZpYnFPw877vvl-vu-tfYNioqF0IWziFkYciwjN15qU2Jk7r8-tTpjD3ANIFQAUjYbd!aqylJxi8eqgvvL24d!vHgxVodjCPKGu2sJOFuOI-k1FI6fbHynMEROWapRYxg0KsmsxZ-Wzay-!viuvPPWgEEIBcystlHI3fubGD5woonomhCIWpCEXYRmGQyjVzRw1RDNFmBSdbhYmB4QLVjMROd0OVu!c59JU!cvR7T!56dGTP1dXph1H0OPQMNHnPZXENapvrD2YGr3!4VY3FO-FyZqOuHQqqnMc-f1m1b0wK3WEsMKkQVF86SIm1KAWo22UHTm1BlGOZqWDS-2xNtb0LI5OUtuQ9eOp0tQYR-VCz76hMTcBDfsyL2km21q3GO4drd7--DMz5Wa5Wdfv9Pj6zYVf1fWjuW3n7gCRMTKJ-F-3IFb8!Znl6bHz935kL2eA420fjhxaqiWG4LrUFeZQRB2fTmqcuT-47DYBKewGXGFG6ssAW5eqO43n65XPX6aWTvSWyrOwJ8-YSTSfWJVYV0hxbAej7yykUqlz3k1hINBQEmwH0vJgWwDDRPIkFgEUOBPULZbCtpGRbM93ueZivWsh8A0liaY-E4Qndeq3umCqB-Y75MUertnkNfnkBHVZoLRhY94eh13EGbe0c2NTtQEQPyZJ",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx19jUq2ttDaCKBQFTyLMXgv1YlqRhdWKlaDxNJkdNxNmZ6Yzs8lKsaigBT0o!rgJCnpR6tW!wJOgh4rgRVAvIuIPPCj05OwmaWJxT8PO-775fr7vrX6DUqKhfC5o4hZGHIsIzdeblNiZW6!PPJgwB3kBIFUAUDIadvarKlJyisWr!frS2!vr3wswVINSC!OEumoL21mMI-o1FY2cbm-kMEdMWKpRYhk3yM-uxZyVT6-8!PqusvKkAMUAiphbaaGcu!EyN57vRBHVMwGUsCANuQjLMBxAOTRz1BDNFGFSdLpZmBwQLljNROR021jYuc-lqfqXo9t!8tPDx38ur0w7Dr!HoWGiz3siietUX1u9NzV698ONbiiF5yZrOuLSqarOceT3mxfuhVmpI4QVJg2K4gvnMaEGtRhto-zIqTWIcjQrHVxqj7SxpqdxdJzahgyPpkpTYxyVCz37hsbcBDTsybykmWxz3WKwe7R28-PPzJSb5UZdv9Ojq9cXftXWDue2nbt9RMbIJOJ!3fxY8fenlqfHzt75kb2cAY63PTh0YKmeGIJDqavMoYgQn0zqnLk!uOI2ASnsBlxlRuqLAJuXqjuNZ2vVz1-mlo71lqpgYVeeMZNoPrEqsa6Q4tgORt9ZSKVS57ybwkCggSTYDqRVgC0-DBPJk1j4UORMULdYCttGRrI13-W6i!W2Bd8zlCSaekwQnoTUa3XBVA!Mc8iLPVyzwWvyyQnqskBpw8a8PQ47iDNuaefGpuovWx0mbg__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx19jUq2ttDaCKBQFTyLMXgv1YlqRhdWKlaDxNJkdNxNmZ6Yzs8lKsaigBT0o!rgJCnpR6tX!wIugh4rgRVAvIuIPPCj05OwmaWJxT8PO-775fr7vrX6DUqKhfC5o4hZGHIsIzdeblNiZW6!PPJgwB3kBIFUAUDIadvarKlJyisWr!frS2!vr3wswVINSC!OEumoL21mMI-o1FY2cbm-kMEdMWKpRYhk3yM-uxZyVT6-8!PqusvKkAMUAiphbaaGcu!EyN57vRBHVMwGUsCANuQjLMBxAOTRz1BDNFGFSdLpZmBwQLljNROR021jYuc-lqfqXo9t!8tPDx38ur0w7Dr!HoWGiz3siietUX1u9NzV698ONbiiF5yZrOuLSqarOceT3mxfuhVmpI4QVJg2K4gvnMaEGtRhto-zIqTWIcjQrHVxqj7SxpqdxdJzahgyPpkpTYxyVCz37hsbcBDTsybykmWxz3WKwe7R28-PPzJSb5UZdv9Ojq9cXftXWDue2nbt9RMbIJOJ!3fxY8fenlqfHzt75kb2cAY63PTh0YKmeGIJDqavMoYgQn0zqnLk!uOI2ASnsBlxlRuqLAJuXqjuNZ2vVz1-mlo71lqpgYVeeMZNoPrEqsa6Q4tgORt9ZSKVS57ybwkCggSTYDqRVgC0-DBPJk1j4UORMULdYCttGRrI13-W6i!W2Bd8zlCSaekwQnoTUa3XBVA!Mc8iLPVyzwWvyyQnqskBpw8a8PQ47iDNuaefGpuovXSMmbw__"
-    ]
-  },
-  {
     "id": 274974,
     "publicado": "2024-07-10",
     "direccion": "Calle Porto Lagos, 1",
