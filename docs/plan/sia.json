@@ -332,32 +332,27 @@
     ]
   },
   {
-    "id": 32292,
-    "publicado": "2025-03-01",
-    "modificado": "2025-03-03",
-    "direccion": "Calle Delicias 35",
+    "id": 32294,
+    "publicado": "2025-03-10",
+    "direccion": "Calle Picos De Europa 70",
     "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Delicias",
-    "planta": 5,
-    "orientacion": "Interior",
-    "precio": 900,
-    "dormitorios": 2,
+    "distrito": "Puente de Vallecas",
+    "barrio": "Numancia",
+    "planta": 0,
+    "orientacion": "Exterior",
+    "precio": 700,
+    "dormitorios": 1,
     "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
+    "cee": "F",
+    "ascensor": false,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
-      "https://i.imgur.com/oBQv9Lj.jpeg?2",
-      "https://i.imgur.com/QXUwA1p.jpeg?3",
-      "https://i.imgur.com/t6dvwdi.jpeg?4",
-      "https://i.imgur.com/adg412e.jpeg?5",
-      "https://i.imgur.com/cNcgA2l.jpeg?6",
-      "https://i.imgur.com/fDH9XHW.jpeg?7",
-      "https://i.imgur.com/NVYzPsU.jpeg?8",
-      "https://i.imgur.com/B0Ea26d.jpeg?9",
-      "https://i.imgur.com/aqByB7p.jpeg?10"
+      "https://i.imgur.com/DoEIU6r.jpeg?2",
+      "https://i.imgur.com/x5BRVEK.jpeg?3",
+      "https://i.imgur.com/yI8ETv2.jpeg?4",
+      "https://i.imgur.com/RlwKpZu.jpeg?5",
+      "https://i.imgur.com/i7EeZnL.jpeg?6"
     ]
   },
   {
@@ -388,6 +383,7 @@
   {
     "id": 32297,
     "publicado": "2025-03-03",
+    "modificado": "2025-03-10",
     "direccion": "Calle Luis Mitjans 42",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -400,7 +396,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/fzggWlg.jpeg?2",
       "https://i.imgur.com/ZZcE3oJ.jpeg?3",
@@ -420,6 +416,7 @@
   {
     "id": 32298,
     "publicado": "2025-03-05",
+    "modificado": "2025-03-10",
     "direccion": "Calle Ercilla 26",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -433,10 +430,10 @@
     "adaptada": false,
     "reservada": false,
     "imgs": [
-      "https://i.imgur.com/g5TXV5s.jpeg?2",
       "https://i.imgur.com/Yw10ROz.jpeg?3",
-      "https://i.imgur.com/DBVzK6j.jpeg?4",
-      "https://i.imgur.com/xCX2WAg.jpeg?5"
+      "https://i.imgur.com/88IHIh8.jpeg?6",
+      "https://i.imgur.com/EDX5DGx.jpeg?7",
+      "https://i.imgur.com/Od7VOqu.jpeg?8"
     ]
   },
   {
