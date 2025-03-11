@@ -270,6 +270,7 @@
   {
     "id": 32288,
     "publicado": "2025-03-04",
+    "modificado": "2025-03-11",
     "direccion": "Calle Valldemosa 32",
     "municipio": "Madrid",
     "distrito": "Moncloa-Aravaca",
@@ -282,7 +283,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/OHlPTHd.jpeg?2",
       "https://i.imgur.com/7KAG09c.jpeg?3",
@@ -381,6 +382,39 @@
     ]
   },
   {
+    "id": 32296,
+    "publicado": "2025-03-11",
+    "direccion": "Calle Castilla 40",
+    "municipio": "Madrid",
+    "distrito": "Tetuan",
+    "barrio": "Bellas Vistas",
+    "planta": 0,
+    "orientacion": "Exterior",
+    "precio": 1250,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/lK6YVq8.jpeg?2",
+      "https://i.imgur.com/vg0qcaM.jpeg?3",
+      "https://i.imgur.com/uI53lvV.jpeg?4",
+      "https://i.imgur.com/wWEm3uW.jpeg?5",
+      "https://i.imgur.com/1WwPMdg.jpeg?6",
+      "https://i.imgur.com/I8GUgXd.jpeg?7",
+      "https://i.imgur.com/RnjRqDp.jpeg?8",
+      "https://i.imgur.com/BpD1o5A.jpeg?9",
+      "https://i.imgur.com/7NYPF3V.jpeg?10",
+      "https://i.imgur.com/ksHSCdI.jpeg?11",
+      "https://i.imgur.com/BtTq8s8.jpeg?12",
+      "https://i.imgur.com/iHDxXmk.jpeg?13",
+      "https://i.imgur.com/8x2Rd8U.jpeg?14",
+      "https://i.imgur.com/bab7NYD.jpeg?15"
+    ]
+  },
+  {
     "id": 32297,
     "publicado": "2025-03-03",
     "modificado": "2025-03-10",
@@ -464,6 +498,29 @@
       "https://i.imgur.com/eDB5wlW.jpeg?12",
       "https://i.imgur.com/hehf3OS.jpeg?13",
       "https://i.imgur.com/z82iiMG.jpeg?14"
+    ]
+  },
+  {
+    "id": 32300,
+    "publicado": "2025-03-11",
+    "direccion": "Ronda Valencia 7",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Palos de Moguer",
+    "planta": 4,
+    "orientacion": "Interior",
+    "precio": 730,
+    "dormitorios": 0,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/IryJKvW.jpeg?2",
+      "https://i.imgur.com/R62Ne7N.jpeg?3",
+      "https://i.imgur.com/2KtCu4F.jpeg?4",
+      "https://i.imgur.com/gaKAU9A.jpeg?5"
     ]
   }
 ]
