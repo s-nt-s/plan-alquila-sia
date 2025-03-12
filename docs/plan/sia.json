@@ -184,33 +184,6 @@
     ]
   },
   {
-    "id": 32277,
-    "publicado": "2025-03-01",
-    "modificado": "2025-03-05",
-    "direccion": "Calle Ezcaray 16",
-    "municipio": "Madrid",
-    "distrito": "Vicalvaro",
-    "barrio": "Ambroz",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/hICS2AJ.jpeg?1",
-      "https://i.imgur.com/PWZlw4y.jpeg?2",
-      "https://i.imgur.com/kj2UjdQ.jpeg?3",
-      "https://i.imgur.com/6jXCFLW.jpeg?4",
-      "https://i.imgur.com/kJ4WABG.jpeg?5",
-      "https://i.imgur.com/8xcHzrV.jpeg?6",
-      "https://i.imgur.com/nzpncJk.jpeg?7"
-    ]
-  },
-  {
     "id": 32283,
     "publicado": "2025-03-01",
     "modificado": "2025-03-04",
@@ -354,31 +327,6 @@
       "https://i.imgur.com/yI8ETv2.jpeg?4",
       "https://i.imgur.com/RlwKpZu.jpeg?5",
       "https://i.imgur.com/i7EeZnL.jpeg?6"
-    ]
-  },
-  {
-    "id": 32295,
-    "publicado": "2025-03-03",
-    "modificado": "2025-03-06",
-    "direccion": "Calle Clara Campoamor 9",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Vista Alegre",
-    "planta": 2,
-    "orientacion": "Interior",
-    "precio": 620,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/5Bg0cfd.jpeg?6",
-      "https://i.imgur.com/agybu2x.jpeg?7",
-      "https://i.imgur.com/n08Dvxz.jpeg?8",
-      "https://i.imgur.com/1ONKc23.jpeg?9",
-      "https://i.imgur.com/53BuSWI.jpeg?10"
     ]
   },
   {

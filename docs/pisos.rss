@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 11 Mar 2025 13:48:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 13:50:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -111,6 +111,14 @@
 			<pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
 			<category>San Martín de la Vega</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/200691?2024-12-20</guid>
+		</item>
+		<item>
+			<title>1300€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/204511</link>
+			<description>C/ Ángel, 4,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;33m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/204511</description>
+			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/204511?2025-03-12</guid>
 		</item>
 		<item>
 			<title>1250€ San Blas-Canillejas</title>
@@ -383,6 +391,14 @@
 			<pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/269717?2024-05-23</guid>
+		</item>
+		<item>
+			<title>1149€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270107</link>
+			<description>C/ Baños de Valdearados, 5,&lt;br/&gt;2º con ascensor,&lt;br/&gt;80m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/270107</description>
+			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270107?2025-01-28</guid>
 		</item>
 		<item>
 			<title>1300€ Tetuán</title>
@@ -1065,14 +1081,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275539?2025-02-13</guid>
 		</item>
 		<item>
-			<title>1325€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275540</link>
-			<description>C/ Sabal, 5,&lt;br/&gt;1º con ascensor,&lt;br/&gt;64m², 2 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;alq/275540</description>
-			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275540?2025-02-13</guid>
-		</item>
-		<item>
 			<title>900€ Parla</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275542</link>
 			<description>C/ San Blas, 26,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;74m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275542</description>
@@ -1411,10 +1419,10 @@
 		<item>
 			<title>950€ Fuenlabrada</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275620</link>
-			<description>C/ Nazaret, 10,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275620</description>
-			<pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+			<description>C/ Nazaret, 10,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;72m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275620</description>
+			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
 			<category>Fuenlabrada</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275620?2025-03-10</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275620?2025-03-12</guid>
 		</item>
 		<item>
 			<title>1100€ Barajas</title>
@@ -1423,6 +1431,14 @@
 			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
 			<category>Barajas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275621?2025-03-11</guid>
+		</item>
+		<item>
+			<title>1300€ Rozas de Madrid, Las</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275624</link>
+			<description>C/ Madrid, 12,&lt;br/&gt;3º con ascensor,&lt;br/&gt;107m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275624</description>
+			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+			<category>Rozas de Madrid, Las</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275624?2025-03-12</guid>
 		</item>
 	</channel>
 </rss>
