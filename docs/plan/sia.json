@@ -273,7 +273,7 @@
   {
     "id": 32291,
     "publicado": "2025-03-04",
-    "modificado": "2025-03-06",
+    "modificado": "2025-03-13",
     "direccion": "Calle Pinar De San Jose 9",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -288,10 +288,7 @@
     "adaptada": false,
     "reservada": false,
     "imgs": [
-      "https://i.imgur.com/q4m0Qs6.jpeg?9",
       "https://i.imgur.com/bTe5LQC.jpeg?12",
-      "https://i.imgur.com/czR8hzq.jpeg?13",
-      "https://i.imgur.com/8LrY3wK.jpeg?16",
       "https://i.imgur.com/yb2WTyS.jpeg?17",
       "https://i.imgur.com/3OJqDWS.jpeg?18",
       "https://i.imgur.com/XtRMnqB.jpeg?19",
@@ -302,7 +299,10 @@
       "https://i.imgur.com/0RtRYiZ.jpeg?24",
       "https://i.imgur.com/fpUn1xE.jpeg?25",
       "https://i.imgur.com/alEJ4bL.jpeg?26",
-      "https://i.imgur.com/zLeRFu8.jpeg?27"
+      "https://i.imgur.com/zLeRFu8.jpeg?27",
+      "https://i.imgur.com/yDw7G58.jpeg?28",
+      "https://i.imgur.com/Fhd5bik.jpeg?29",
+      "https://i.imgur.com/C13D0YF.jpeg?30"
     ]
   },
   {
@@ -421,6 +421,7 @@
   {
     "id": 32299,
     "publicado": "2025-03-05",
+    "modificado": "2025-03-13",
     "direccion": "Calle Churruca 3",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -433,7 +434,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/TJJQprU.jpeg?2",
       "https://i.imgur.com/KhfGufd.jpeg?3",
