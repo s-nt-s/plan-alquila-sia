@@ -88,6 +88,7 @@
   {
     "id": 32268,
     "publicado": "2025-02-05",
+    "modificado": "2025-03-14",
     "direccion": "Calle Pintor Antonio Saura 14",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -100,7 +101,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/6fiUC8B.jpeg?7",
       "https://i.imgur.com/GBCHNLY.jpeg?8",
