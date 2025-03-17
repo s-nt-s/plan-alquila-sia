@@ -51,32 +51,13 @@
       "https://i.imgur.com/COj5cxu.jpeg?5",
       "https://i.imgur.com/xxQgCNp.jpeg?6",
       "https://i.imgur.com/35dooOy.jpeg?7",
-      "https://i.imgur.com/5r7tLPY.jpeg?8"
-    ]
-  },
-  {
-    "id": 32264,
-    "publicado": "2025-03-01",
-    "direccion": "Calle Sierra Vieja 71",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Casco Hist\u00f3rico de Vallecas",
-    "planta": 1,
-    "orientacion": "Mixto",
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/BlcHYTR.jpeg?2",
-      "https://i.imgur.com/RakJeJZ.jpeg?3",
-      "https://i.imgur.com/df8pfGC.jpeg?4",
-      "https://i.imgur.com/HGl1d6s.jpeg?5",
-      "https://i.imgur.com/TFwb8Kk.jpeg?6",
-      "https://i.imgur.com/P4KCyTZ.jpeg?7"
+      "https://i.imgur.com/5r7tLPY.jpeg?8",
+      "https://i.imgur.com/xHvV34f.jpeg?9",
+      "https://i.imgur.com/JtwaE30.jpeg?10",
+      "https://i.imgur.com/XK4VtZz.jpeg?11",
+      "https://i.imgur.com/Njpo1XD.jpeg?12",
+      "https://i.imgur.com/4x0tEwj.jpeg?13",
+      "https://i.imgur.com/QtRYecY.jpeg?14"
     ]
   },
   {
@@ -179,39 +160,9 @@
     ]
   },
   {
-    "id": 32283,
-    "publicado": "2025-03-01",
-    "modificado": "2025-03-04",
-    "direccion": "Calle Enrique Fuentes 23",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "Moscard\u00f3",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/8b6wAFN.jpeg?2",
-      "https://i.imgur.com/cijzRJ1.jpeg?3",
-      "https://i.imgur.com/ZjGac61.jpeg?4",
-      "https://i.imgur.com/3DG7GQG.jpeg?5",
-      "https://i.imgur.com/3u3IznB.jpeg?6",
-      "https://i.imgur.com/NzfleuY.jpeg?7",
-      "https://i.imgur.com/Gw4Er4A.jpeg?8",
-      "https://i.imgur.com/oJu1677.jpeg?9",
-      "https://i.imgur.com/uYsLwoC.jpeg?10",
-      "https://i.imgur.com/I7gWsvZ.jpeg?11",
-      "https://i.imgur.com/HEk4aCb.jpeg?12"
-    ]
-  },
-  {
     "id": 32284,
     "publicado": "2025-03-04",
+    "modificado": "2025-03-17",
     "direccion": "Calle Parvillas Bajas 38",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -224,7 +175,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/0XWUAHt.jpeg?2",
       "https://i.imgur.com/sp3X8tg.jpeg?3",
@@ -268,7 +219,7 @@
   {
     "id": 32291,
     "publicado": "2025-03-04",
-    "modificado": "2025-03-13",
+    "modificado": "2025-03-17",
     "direccion": "Calle Pinar De San Jose 9",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -281,7 +232,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/bTe5LQC.jpeg?12",
       "https://i.imgur.com/yb2WTyS.jpeg?17",
@@ -447,13 +398,14 @@
   {
     "id": 32300,
     "publicado": "2025-03-11",
+    "modificado": "2025-03-17",
     "direccion": "Ronda Valencia 7",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
     "barrio": "Palos de Moguer",
     "planta": 4,
     "orientacion": "Interior",
-    "precio": 730,
+    "precio": 770,
     "dormitorios": 0,
     "aseos": 1,
     "cee": "F",
