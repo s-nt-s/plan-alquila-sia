@@ -97,7 +97,7 @@
   {
     "id": 32273,
     "publicado": "2025-03-03",
-    "modificado": "2025-03-05",
+    "modificado": "2025-03-18",
     "direccion": "Calle Eugenio Selles 5",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -117,10 +117,10 @@
       "https://i.imgur.com/oObmGcp.jpeg?5",
       "https://i.imgur.com/LhDMFTP.jpeg?6",
       "https://i.imgur.com/ZUsH7li.jpeg?8",
-      "https://i.imgur.com/KYilITA.jpeg?9",
       "https://i.imgur.com/kKHz4J8.jpeg?10",
       "https://i.imgur.com/6cWKKgE.jpeg?11",
-      "https://i.imgur.com/uOwv4is.jpeg?12"
+      "https://i.imgur.com/uOwv4is.jpeg?12",
+      "https://i.imgur.com/i2vlsCB.jpeg?13"
     ]
   },
   {
@@ -417,6 +417,45 @@
       "https://i.imgur.com/R62Ne7N.jpeg?3",
       "https://i.imgur.com/2KtCu4F.jpeg?4",
       "https://i.imgur.com/gaKAU9A.jpeg?5"
+    ]
+  },
+  {
+    "id": 32301,
+    "publicado": "2025-03-18",
+    "direccion": "Calle Cazalegas 5",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Abrantes",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 1285,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/IpnIC5Z.jpeg?2",
+      "https://i.imgur.com/5hmBnnL.jpeg?3",
+      "https://i.imgur.com/ZIqlXx5.jpeg?4",
+      "https://i.imgur.com/pDpOWLI.jpeg?5",
+      "https://i.imgur.com/59g1OpA.jpeg?6",
+      "https://i.imgur.com/q4ZLOS2.jpeg?7",
+      "https://i.imgur.com/HIoO1M3.jpeg?8",
+      "https://i.imgur.com/HDJzydw.jpeg?9",
+      "https://i.imgur.com/vbbh2MH.jpeg?10",
+      "https://i.imgur.com/28NMQ5B.jpeg?11",
+      "https://i.imgur.com/Td1iNZb.jpeg?12",
+      "https://i.imgur.com/mgyO07e.jpeg?13",
+      "https://i.imgur.com/yfC2mdD.jpeg?14",
+      "https://i.imgur.com/3ChKRaO.jpeg?15",
+      "https://i.imgur.com/tlWSMzB.jpeg?16",
+      "https://i.imgur.com/hy2rcwJ.jpeg?17",
+      "https://i.imgur.com/Yl4dByU.jpeg?18",
+      "https://i.imgur.com/GipaJCi.jpeg?19",
+      "https://i.imgur.com/BkFpb2L.jpeg?20",
+      "https://i.imgur.com/BegamK2.jpeg?21"
     ]
   }
 ]
