@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 18 Mar 2025 13:48:58 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Mar 2025 18:56:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -159,6 +159,14 @@
 			<pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
 			<category>Collado Villalba</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/238332?2025-03-10</guid>
+		</item>
+		<item>
+			<title>950€ Barajas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/238717</link>
+			<description>Av. Logroño, 142,&lt;br/&gt;3º con ascensor,&lt;br/&gt;48m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/238717</description>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+			<category>Barajas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/238717?2025-03-05</guid>
 		</item>
 		<item>
 			<title>780€ Moncloa-Aravaca</title>
@@ -1097,14 +1105,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275580?2025-02-24</guid>
 		</item>
 		<item>
-			<title>800€ Gargantilla del Lozoya y Pinilla de Buitrago</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275581</link>
-			<description>C/ Carretas, 26,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;83m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275581</description>
-			<pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-			<category>Gargantilla del Lozoya y Pinilla de Buitrago</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275581?2025-02-24</guid>
-		</item>
-		<item>
 			<title>1200€ Vicálvaro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275582</link>
 			<description>C/ Francisco Grande Covián, 12,&lt;br/&gt;1º con ascensor,&lt;br/&gt;82m², 4 🛏,&lt;br/&gt;2 🛀, 10 📷.&lt;br/&gt;alq/275582</description>
@@ -1204,9 +1204,9 @@
 			<title>1175€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275609</link>
 			<description>C/ Estanislao Perez Pita, 40,&lt;br/&gt;1º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275609</description>
-			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275609?2025-03-07</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275609?2025-03-18</guid>
 		</item>
 		<item>
 			<title>1229€ Hortaleza</title>
