@@ -126,6 +126,7 @@
   {
     "id": 32275,
     "publicado": "2025-03-01",
+    "modificado": "2025-03-20",
     "direccion": "Calle Omega 45",
     "municipio": "Madrid",
     "distrito": "Vicalvaro",
@@ -138,7 +139,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/9WQkPxB.jpeg?1",
       "https://i.imgur.com/Z0IdlYU.jpeg?2",
