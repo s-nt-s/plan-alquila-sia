@@ -191,6 +191,7 @@
   {
     "id": 32294,
     "publicado": "2025-03-10",
+    "modificado": "2025-03-25",
     "direccion": "Calle Picos De Europa 70",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -203,7 +204,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/DoEIU6r.jpeg?2",
       "https://i.imgur.com/x5BRVEK.jpeg?3",
@@ -470,6 +471,7 @@
   {
     "id": 32311,
     "publicado": "2025-03-21",
+    "modificado": "2025-03-25",
     "direccion": "Calle Fray Ceferino Gonzalez 10",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -482,7 +484,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/kPgI4xl.jpeg?1",
       "https://i.imgur.com/ZscVUqr.jpeg?2",
