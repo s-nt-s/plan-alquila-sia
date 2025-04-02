@@ -30,6 +30,7 @@
   {
     "id": 32263,
     "publicado": "2025-04-01",
+    "modificado": "2025-04-02",
     "direccion": "Calle Sanchidrian 15",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -44,7 +45,7 @@
     "adaptada": false,
     "reservada": true,
     "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32263&idDoc=2",
+      "https://i.imgur.com/A3Qno2N.jpeg?2",
       "https://i.imgur.com/Dm8soLo.jpeg?3",
       "https://i.imgur.com/Nw60toW.jpeg?4",
       "https://i.imgur.com/C5PeAer.jpeg?5",
@@ -114,6 +115,7 @@
   {
     "id": 32296,
     "publicado": "2025-04-01",
+    "modificado": "2025-04-02",
     "direccion": "Calle Castilla 40",
     "municipio": "Madrid",
     "distrito": "Tetuan",
@@ -128,9 +130,9 @@
     "adaptada": false,
     "reservada": false,
     "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32296&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32296&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32296&idDoc=4",
+      "https://i.imgur.com/TnzrUgT.jpeg?2",
+      "https://i.imgur.com/KhyvUTy.jpeg?3",
+      "https://i.imgur.com/TXNWwIg.jpeg?4",
       "https://i.imgur.com/ZhHadPP.jpeg?5",
       "https://i.imgur.com/y1Vc2EX.jpeg?6",
       "https://i.imgur.com/JOsnPvN.jpeg?7",
@@ -190,47 +192,9 @@
     ]
   },
   {
-    "id": 32301,
-    "publicado": "2025-04-01",
-    "direccion": "Calle Cazalegas 5",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Abrantes",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 1285,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=9",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=10",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=11",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=12",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=13",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=14",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=15",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=16",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=17",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=18",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=19",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=20",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32301&idDoc=21"
-    ]
-  },
-  {
     "id": 32303,
     "publicado": "2025-04-01",
+    "modificado": "2025-04-02",
     "direccion": "Calle De La Caridad 5",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -245,16 +209,17 @@
     "adaptada": false,
     "reservada": false,
     "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32303&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32303&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32303&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32303&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32303&idDoc=6"
+      "https://i.imgur.com/6gAPlZe.jpeg?2",
+      "https://i.imgur.com/12Ctn4Q.jpeg?3",
+      "https://i.imgur.com/pbh5ney.jpeg?4",
+      "https://i.imgur.com/ZDC153k.jpeg?5",
+      "https://i.imgur.com/cQYSgBD.jpeg?6"
     ]
   },
   {
     "id": 32304,
     "publicado": "2025-04-01",
+    "modificado": "2025-04-02",
     "direccion": "Calle Puentedey 25",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -267,23 +232,24 @@
     "cee": "D",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32304&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32304&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32304&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32304&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32304&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32304&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32304&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32304&idDoc=9",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32304&idDoc=10",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32304&idDoc=11"
+      "https://i.imgur.com/dodlGqq.jpeg?2",
+      "https://i.imgur.com/7dGbAfh.jpeg?3",
+      "https://i.imgur.com/FBmD6dD.jpeg?4",
+      "https://i.imgur.com/XEFJ4Gv.jpeg?5",
+      "https://i.imgur.com/anq4LTe.jpeg?6",
+      "https://i.imgur.com/LXOzb3b.jpeg?7",
+      "https://i.imgur.com/oFhRkwO.jpeg?8",
+      "https://i.imgur.com/2rTmpfQ.jpeg?9",
+      "https://i.imgur.com/JAWQ6UC.jpeg?10",
+      "https://i.imgur.com/yGHZIyS.jpeg?11"
     ]
   },
   {
     "id": 32305,
     "publicado": "2025-04-01",
+    "modificado": "2025-04-02",
     "direccion": "Calle Isla De Rodas 8",
     "municipio": "Madrid",
     "distrito": "Fuencarral-El Pardo",
@@ -298,17 +264,18 @@
     "adaptada": false,
     "reservada": false,
     "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32305&idDoc=1",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32305&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32305&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32305&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32305&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32305&idDoc=6"
+      "https://i.imgur.com/YfPiSgt.jpeg?1",
+      "https://i.imgur.com/bPWdDKN.jpeg?2",
+      "https://i.imgur.com/fCQrDrQ.jpeg?3",
+      "https://i.imgur.com/o9nwYUX.jpeg?4",
+      "https://i.imgur.com/pYFaU3j.jpeg?5",
+      "https://i.imgur.com/8XRNOOd.jpeg?6"
     ]
   },
   {
     "id": 32307,
     "publicado": "2025-04-01",
+    "modificado": "2025-04-02",
     "direccion": "Calle Doctor Tolosa Latour 25",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -323,22 +290,23 @@
     "adaptada": false,
     "reservada": true,
     "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=2",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=3",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=4",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=5",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=6",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=7",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=10",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=11",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=12",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32307&idDoc=13"
+      "https://i.imgur.com/Yrr6jSr.jpeg?2",
+      "https://i.imgur.com/aYr41w5.jpeg?3",
+      "https://i.imgur.com/zuiSNKo.jpeg?4",
+      "https://i.imgur.com/NbPkzsR.jpeg?5",
+      "https://i.imgur.com/mD05hrl.jpeg?6",
+      "https://i.imgur.com/s6M77jA.jpeg?7",
+      "https://i.imgur.com/EYYH1Kk.jpeg?8",
+      "https://i.imgur.com/2NcnHU5.jpeg?10",
+      "https://i.imgur.com/GlZOz4U.jpeg?11",
+      "https://i.imgur.com/eEFEcpE.jpeg?12",
+      "https://i.imgur.com/IDxEOTv.jpeg?13"
     ]
   },
   {
     "id": 32308,
     "publicado": "2025-04-01",
+    "modificado": "2025-04-02",
     "direccion": "Calle Silvinita 7",
     "municipio": "Madrid",
     "distrito": "Villaverde",
@@ -353,13 +321,13 @@
     "adaptada": false,
     "reservada": false,
     "imgs": [
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32308&idDoc=8",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32308&idDoc=9",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32308&idDoc=10",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32308&idDoc=11",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32308&idDoc=12",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32308&idDoc=13",
-      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32308&idDoc=14"
+      "https://i.imgur.com/ZExY7x0.jpeg?8",
+      "https://i.imgur.com/5qQCulf.jpeg?9",
+      "https://i.imgur.com/0wkpey1.jpeg?10",
+      "https://i.imgur.com/m4LeRnf.jpeg?11",
+      "https://i.imgur.com/ng9BgqW.jpeg?12",
+      "https://i.imgur.com/KZpRf5H.jpeg?13",
+      "https://i.imgur.com/C4d7nU7.jpeg?14"
     ]
   },
   {
@@ -417,6 +385,7 @@
   {
     "id": 32312,
     "publicado": "2025-04-01",
+    "modificado": "2025-04-02",
     "direccion": "Calle Esperanza 12",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -429,7 +398,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32312&idDoc=2",
       "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32312&idDoc=3",
