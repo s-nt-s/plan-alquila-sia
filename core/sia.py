@@ -7,6 +7,7 @@ from .util import safe_int, tmap
 from .web import Driver, get_text, get_query
 from .retry import retry, RetryException
 from .imgur import ImgUr
+from selenium.common.exceptions import JavascriptException
 
 urllib3.disable_warnings()
 
@@ -14,6 +15,10 @@ logger = logging.getLogger(__name__)
 
 
 class BadSiaFicha(RetryException):
+    pass
+
+
+class CaptchaError(ValueError):
     pass
 
 
@@ -37,7 +42,13 @@ class SiaDriver(Driver):
         super().__init__(*args, **kwargs)
 
     def waitLoaded(self):
-        self.waitjs('!jQuery("#ctl00_UpdateProg1").is(":visible")')
+        try:
+            self.waitjs('window.document.readyState === "complete" && !jQuery("#ctl00_UpdateProg1").is(":visible")')
+        except JavascriptException:
+            title = get_text(self.get_soup().select_one("title"))
+            if set((title or "").lower().split()).intersection("captcha", "blocked"):
+                raise CaptchaError(title)
+            raise
 
     def iter_pages(self):
         page = 1
@@ -66,13 +77,19 @@ class SiaDriver(Driver):
             ids.append(txt[0])
         for id in ids:
             logger.info(f"Piso {id}")
-            self.click(f"//td[text()='{id}']")
-            self.waitLoaded()
+            self.click_and_wait(f"//td[text()='{id}']")
             yield id
-            self.click("//div/input[@type='submit']")
+            self.click_and_wait("//div/input[@type='submit']")
             if page > 1:
-                self.click("//td/a[text()='%s']" % page)
-                self.waitLoaded()
+                self.click_and_wait(f"//td/a[text()='{page}']")
+
+    def click_and_wait(self, id: str):
+        while True:
+            self.waitjs('window.document.readyState === "complete"')
+            self.click(id)
+            self.waitLoaded()
+            if self.safe_wait(id) is None:
+                return
 
 
 class Sia:

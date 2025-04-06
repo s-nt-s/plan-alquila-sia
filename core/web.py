@@ -330,6 +330,7 @@ class Driver:
     def get(self, url):
         logger.info(url)
         self.driver.get(url)
+        self.waitjs('window.document.readyState === "complete"')
 
     def get_soup(self):
         if self._driver is None:
