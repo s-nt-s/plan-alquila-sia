@@ -197,37 +197,6 @@
     ]
   },
   {
-    "id": 32307,
-    "publicado": "2025-04-01",
-    "modificado": "2025-04-07",
-    "direccion": "Calle Doctor Tolosa Latour 25",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "Pradolongo",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 880,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/WrFwDGC.jpeg?2",
-      "https://i.imgur.com/oTrYX9m.jpeg?3",
-      "https://i.imgur.com/rRJQRZl.jpeg?4",
-      "https://i.imgur.com/lvIPpZn.jpeg?5",
-      "https://i.imgur.com/ZvJqAow.jpeg?6",
-      "https://i.imgur.com/f2JoIoD.jpeg?7",
-      "https://i.imgur.com/vqGBfw7.jpeg?8",
-      "https://i.imgur.com/PxlCzlO.jpeg?10",
-      "https://i.imgur.com/7NOOiHf.jpeg?11",
-      "https://i.imgur.com/zxmMDrG.jpeg?12",
-      "https://i.imgur.com/HT3avj3.jpeg?13"
-    ]
-  },
-  {
     "id": 32316,
     "publicado": "2025-04-01",
     "modificado": "2025-04-07",
@@ -414,6 +383,7 @@
   {
     "id": 32332,
     "publicado": "2025-04-10",
+    "modificado": "2025-04-10",
     "direccion": "Calle Padre Piquer 50",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -426,7 +396,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/J7erfzj.jpeg?2",
       "https://i.imgur.com/XehZNRl.jpeg?3",
