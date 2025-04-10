@@ -2934,6 +2934,28 @@
     ]
   },
   {
+    "id": 275558,
+    "publicado": "2025-02-19",
+    "direccion": "Calle Laurel, 2",
+    "municipio": "Fuenlabrada",
+    "planta": 2,
+    "precio": 788,
+    "metros": 59,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
+    "imgs": []
+  },
+  {
     "id": 275561,
     "publicado": "2025-02-19",
     "direccion": "Calle Pablo Sarasate, 10",
