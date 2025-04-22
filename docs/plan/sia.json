@@ -2,6 +2,7 @@
   {
     "id": 32225,
     "publicado": "2024-10-25",
+    "modificado": "2025-04-22",
     "direccion": "Calle Madres Plaza De Mayo 7",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -14,7 +15,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/DMatsOH.jpeg?2",
       "https://i.imgur.com/rfo7Woo.jpeg?3",
@@ -397,6 +398,7 @@
   {
     "id": 32326,
     "publicado": "2025-04-16",
+    "modificado": "2025-04-22",
     "direccion": "Calle Aguilar De Campoo 4",
     "municipio": "Madrid",
     "distrito": "Moncloa-Aravaca",
@@ -409,7 +411,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Y3Cov8p.jpeg?8",
       "https://i.imgur.com/iGzgAcJ.jpeg?9",
@@ -480,8 +482,43 @@
     ]
   },
   {
+    "id": 32336,
+    "publicado": "2025-04-22",
+    "direccion": "Calle Pico De Los Artilleros 142",
+    "municipio": "Madrid",
+    "distrito": "Moratalaz",
+    "barrio": "Vinateros",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 900,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/Ua5a2oo.jpeg?1",
+      "https://i.imgur.com/iw1jY1g.jpeg?16",
+      "https://i.imgur.com/thUppQ0.jpeg?17",
+      "https://i.imgur.com/8cdAaoL.jpeg?18",
+      "https://i.imgur.com/AuOOQni.jpeg?19",
+      "https://i.imgur.com/MeIAlnd.jpeg?20",
+      "https://i.imgur.com/RddDXSf.jpeg?21",
+      "https://i.imgur.com/nChfBAt.jpeg?22",
+      "https://i.imgur.com/nhhoLH2.jpeg?23",
+      "https://i.imgur.com/mSATtdT.jpeg?24",
+      "https://i.imgur.com/QAzcSNQ.jpeg?25",
+      "https://i.imgur.com/gyMLSnH.jpeg?26",
+      "https://i.imgur.com/Y6jPFKD.jpeg?27",
+      "https://i.imgur.com/aQjciFu.jpeg?28",
+      "https://www3.emvs.es/SMAWeb/MostrarFoto.aspx?ID=32336&idDoc=29"
+    ]
+  },
+  {
     "id": 32337,
     "publicado": "2025-04-16",
+    "modificado": "2025-04-22",
     "direccion": "Calle San Delfin 10",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -494,7 +531,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/3EWjj2B.jpeg?2",
       "https://i.imgur.com/H1l23ln.jpeg?3",
