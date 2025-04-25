@@ -29,39 +29,6 @@
     ]
   },
   {
-    "id": 32263,
-    "publicado": "2025-04-01",
-    "modificado": "2025-04-07",
-    "direccion": "Calle Sanchidrian 15",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Campamento",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 1200,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/o4DuLZM.jpeg?2",
-      "https://i.imgur.com/Dm8soLo.jpeg?3",
-      "https://i.imgur.com/Nw60toW.jpeg?4",
-      "https://i.imgur.com/C5PeAer.jpeg?5",
-      "https://i.imgur.com/ryYBALE.jpeg?6",
-      "https://i.imgur.com/g3xjgYP.jpeg?7",
-      "https://i.imgur.com/QNvaX26.jpeg?8",
-      "https://i.imgur.com/OGzOXB1.jpeg?9",
-      "https://i.imgur.com/aJPHkI5.jpeg?10",
-      "https://i.imgur.com/xNE8aWM.jpeg?11",
-      "https://i.imgur.com/Qdg6ArS.jpeg?12",
-      "https://i.imgur.com/Dj1EDTO.jpeg?13",
-      "https://i.imgur.com/4fm9s3e.jpeg?14"
-    ]
-  },
-  {
     "id": 32273,
     "publicado": "2025-04-01",
     "modificado": "2025-04-07",
@@ -122,29 +89,6 @@
       "https://i.imgur.com/7gfHh5G.jpeg?13",
       "https://i.imgur.com/bYYlArA.jpeg?14",
       "https://i.imgur.com/WCnsR7T.jpeg?15"
-    ]
-  },
-  {
-    "id": 32298,
-    "publicado": "2025-04-01",
-    "modificado": "2025-04-25",
-    "direccion": "Calle Ercilla 26",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Acacias",
-    "planta": 0,
-    "precio": 700,
-    "dormitorios": 0,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/7QmXXxr.jpeg?3",
-      "https://i.imgur.com/VqaC0Xn.jpeg?6",
-      "https://i.imgur.com/dltZd25.jpeg?7",
-      "https://i.imgur.com/lF1D4Sl.jpeg?8"
     ]
   },
   {
@@ -231,37 +175,6 @@
       "https://i.imgur.com/6vh6OXi.jpeg?14",
       "https://i.imgur.com/Zwx8cKK.jpeg?15",
       "https://i.imgur.com/mDw9LxJ.jpeg?16"
-    ]
-  },
-  {
-    "id": 32322,
-    "publicado": "2025-04-06",
-    "modificado": "2025-04-07",
-    "direccion": "Calle Doctor Castelo 4",
-    "municipio": "Madrid",
-    "distrito": "Retiro",
-    "barrio": "Ibiza",
-    "planta": 6,
-    "orientacion": "Exterior",
-    "precio": 1650,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/WmSFZX5.jpeg?15",
-      "https://i.imgur.com/eMq28Fu.jpeg?16",
-      "https://i.imgur.com/AmEM1XV.jpeg?17",
-      "https://i.imgur.com/YzY6TyW.jpeg?18",
-      "https://i.imgur.com/msug3IZ.jpeg?19",
-      "https://i.imgur.com/KJrVHQh.jpeg?20",
-      "https://i.imgur.com/Z3pw3JB.jpeg?21",
-      "https://i.imgur.com/F5vw7tQ.jpeg?22",
-      "https://i.imgur.com/lTnZhqv.jpeg?23",
-      "https://i.imgur.com/fkfbBsP.jpeg?24",
-      "https://i.imgur.com/thFy1Yd.jpeg?25"
     ]
   },
   {
@@ -427,31 +340,6 @@
       "https://i.imgur.com/2NUMmmd.jpeg?9",
       "https://i.imgur.com/t6yyVtu.jpeg?10",
       "https://i.imgur.com/ZjauFQN.jpeg?11"
-    ]
-  },
-  {
-    "id": 32332,
-    "publicado": "2025-04-10",
-    "modificado": "2025-04-10",
-    "direccion": "Calle Padre Piquer 50",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Aluche",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 900,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/J7erfzj.jpeg?2",
-      "https://i.imgur.com/XehZNRl.jpeg?3",
-      "https://i.imgur.com/xOkYVBN.jpeg?4",
-      "https://i.imgur.com/FLROlqZ.jpeg?5",
-      "https://i.imgur.com/fKQfUOL.jpeg?6"
     ]
   },
   {
