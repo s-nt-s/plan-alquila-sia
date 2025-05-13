@@ -93,6 +93,7 @@
   {
     "id": 32335,
     "publicado": "2025-05-07",
+    "modificado": "2025-05-13",
     "direccion": "Calle San Mateo 6",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -105,7 +106,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/SQ5Cdnz.jpeg?1",
       "https://i.imgur.com/7ImltBB.jpeg?2",
@@ -224,6 +225,7 @@
   {
     "id": 32344,
     "publicado": "2025-05-10",
+    "modificado": "2025-05-13",
     "direccion": "Calle Navalmoral De La Mata 50",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -236,7 +238,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/QUNvEiT.jpeg?1",
       "https://i.imgur.com/xZ4yYZF.jpeg?2",
@@ -254,6 +256,64 @@
       "https://i.imgur.com/7NWkOTg.jpeg?14",
       "https://i.imgur.com/NyDPFnX.jpeg?15",
       "https://i.imgur.com/9LaGYa5.jpeg?16"
+    ]
+  },
+  {
+    "id": 32346,
+    "publicado": "2025-05-13",
+    "direccion": "Calle Julian Rabanedo 48",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Legazpi",
+    "planta": 1,
+    "orientacion": "Exterior",
+    "precio": 1120,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "C",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/6O59imU.jpeg?1",
+      "https://i.imgur.com/GNjduwg.jpeg?2",
+      "https://i.imgur.com/IuPtMsa.jpeg?3",
+      "https://i.imgur.com/ZNw3YF0.jpeg?4",
+      "https://i.imgur.com/FyDZ4WE.jpeg?5",
+      "https://i.imgur.com/cPyNNRm.jpeg?6",
+      "https://i.imgur.com/fR4NYdN.jpeg?7",
+      "https://i.imgur.com/vFZ1Xv3.jpeg?8",
+      "https://i.imgur.com/l9x958e.jpeg?9",
+      "https://i.imgur.com/5dYkZgj.jpeg?10",
+      "https://i.imgur.com/xWT9FUO.jpeg?11",
+      "https://i.imgur.com/yDVqOJ3.jpeg?12",
+      "https://i.imgur.com/UF0Xf47.jpeg?13",
+      "https://i.imgur.com/dcNPG6k.jpeg?14",
+      "https://i.imgur.com/NnHthlt.jpeg?15",
+      "https://i.imgur.com/7QKqWL4.jpeg?16",
+      "https://i.imgur.com/73JMRxk.jpeg?17",
+      "https://i.imgur.com/5slCT8J.jpeg?18",
+      "https://i.imgur.com/14skZFY.jpeg?19",
+      "https://i.imgur.com/vZtyWZV.jpeg?20",
+      "https://i.imgur.com/1pWJ2Fn.jpeg?21",
+      "https://i.imgur.com/FVFu4Ls.jpeg?22",
+      "https://i.imgur.com/eBu8oIE.jpeg?25",
+      "https://i.imgur.com/U4H25fk.jpeg?27",
+      "https://i.imgur.com/7jeztDG.jpeg?30",
+      "https://i.imgur.com/FeBdtCI.jpeg?31",
+      "https://i.imgur.com/NkYRdND.jpeg?32",
+      "https://i.imgur.com/QAnbM3d.jpeg?33",
+      "https://i.imgur.com/4KDwfhI.jpeg?34",
+      "https://i.imgur.com/wJYYVYs.jpeg?35",
+      "https://i.imgur.com/auJagjQ.jpeg?36",
+      "https://i.imgur.com/aFlpqC9.jpeg?37",
+      "https://i.imgur.com/oBZXZkB.jpeg?38",
+      "https://i.imgur.com/TQDJAb5.jpeg?39",
+      "https://i.imgur.com/CPDKBGE.jpeg?40",
+      "https://i.imgur.com/g6xY4iR.jpeg?41",
+      "https://i.imgur.com/yVBzrXW.jpeg?42",
+      "https://i.imgur.com/iiYLKY5.jpeg?43",
+      "https://i.imgur.com/NpMGmu8.jpeg?44"
     ]
   },
   {
@@ -295,6 +355,7 @@
   {
     "id": 32350,
     "publicado": "2025-05-10",
+    "modificado": "2025-05-13",
     "direccion": "Cuesta De San Vicente 38",
     "municipio": "Madrid",
     "distrito": "Moncloa-Aravaca",
@@ -307,7 +368,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/7sozOyt.jpeg?1",
       "https://i.imgur.com/7QQydS1.jpeg?2",
@@ -326,6 +387,7 @@
   {
     "id": 32354,
     "publicado": "2025-05-10",
+    "modificado": "2025-05-13",
     "direccion": "Calle Ba\u00f1os De Valdearados 9",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -338,7 +400,7 @@
     "cee": "C",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/4QYC4Jt.jpeg?2",
       "https://i.imgur.com/LWNFPkz.jpeg?3",
@@ -353,6 +415,34 @@
       "https://i.imgur.com/s50AGiV.jpeg?12",
       "https://i.imgur.com/prZYIqw.jpeg?13",
       "https://i.imgur.com/S2Z1Alx.jpeg?14"
+    ]
+  },
+  {
+    "id": 32360,
+    "publicado": "2025-05-13",
+    "direccion": "Calle Fuente Del Tiro 191",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Las \u00c1guilas",
+    "planta": 1,
+    "orientacion": "Mixto",
+    "precio": 835,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/FYJur1q.jpeg?2",
+      "https://i.imgur.com/G4t14w1.jpeg?3",
+      "https://i.imgur.com/qKAekMr.jpeg?4",
+      "https://i.imgur.com/eoUiIr2.jpeg?5",
+      "https://i.imgur.com/ObnLyfu.jpeg?6",
+      "https://i.imgur.com/fE2w8u3.jpeg?7",
+      "https://i.imgur.com/2xS2uUK.jpeg?8",
+      "https://i.imgur.com/vxTFWBN.jpeg?9",
+      "https://i.imgur.com/blPqKz6.jpeg?10"
     ]
   }
 ]
