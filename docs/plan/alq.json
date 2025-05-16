@@ -4927,5 +4927,27 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 275815,
+    "publicado": "2025-05-16",
+    "direccion": "Calle Cullera, 11",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "planta": 8,
+    "precio": 1100,
+    "metros": 65,
+    "dormitorios": 2,
+    "aseos": 1,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]

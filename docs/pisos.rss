@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 16 May 2025 14:04:46 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 May 2025 19:03:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1519,6 +1519,14 @@
 			<pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275812?2025-05-14</guid>
+		</item>
+		<item>
+			<title>1100€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275815</link>
+			<description>C/ Cullera, 11,&lt;br/&gt;8º con ascensor,&lt;br/&gt;65m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275815</description>
+			<pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275815?2025-05-16</guid>
 		</item>
 	</channel>
 </rss>
