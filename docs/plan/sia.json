@@ -438,6 +438,7 @@
   {
     "id": 32364,
     "publicado": "2025-05-22",
+    "modificado": "2025-05-22",
     "direccion": "Calle Sierra De Cuerda Larga 23",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -450,7 +451,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/YkPtB0k.jpeg?1",
       "https://i.imgur.com/akjOh6p.jpeg?2",
@@ -487,6 +488,37 @@
       "https://i.imgur.com/mkevkHc.jpeg?7",
       "https://i.imgur.com/1unqfjp.jpeg?8",
       "https://i.imgur.com/8w29kIN.jpeg?9"
+    ]
+  },
+  {
+    "id": 32366,
+    "publicado": "2025-05-22",
+    "direccion": "Calle Doctor Esquerdo 150",
+    "municipio": "Madrid",
+    "distrito": "Retiro",
+    "barrio": "Estrella",
+    "planta": 4,
+    "orientacion": "Mixto",
+    "precio": 1650,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/CxND1Hs.jpeg?2",
+      "https://i.imgur.com/5cZvd38.jpeg?3",
+      "https://i.imgur.com/VRl3JsZ.jpeg?4",
+      "https://i.imgur.com/h3N9ZAM.jpeg?5",
+      "https://i.imgur.com/2ndoH34.jpeg?6",
+      "https://i.imgur.com/f08MtK3.jpeg?7",
+      "https://i.imgur.com/LatA6Ek.jpeg?8",
+      "https://i.imgur.com/qS0necu.jpeg?9",
+      "https://i.imgur.com/bleSQRx.jpeg?10",
+      "https://i.imgur.com/Gf7aPmS.jpeg?11",
+      "https://i.imgur.com/JXQQKTO.jpeg?12",
+      "https://i.imgur.com/NNkaDl7.jpeg?13"
     ]
   }
 ]
