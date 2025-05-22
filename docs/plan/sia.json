@@ -2,7 +2,7 @@
   {
     "id": 32296,
     "publicado": "2025-04-01",
-    "modificado": "2025-04-07",
+    "modificado": "2025-05-22",
     "direccion": "Calle Castilla 40",
     "municipio": "Madrid",
     "distrito": "Tetuan",
@@ -15,7 +15,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/UmBD3ij.jpeg?2",
       "https://i.imgur.com/msI0aig.jpeg?3",
@@ -128,41 +128,6 @@
     ]
   },
   {
-    "id": 32336,
-    "publicado": "2025-04-22",
-    "modificado": "2025-05-07",
-    "direccion": "Calle Pico De Los Artilleros 142",
-    "municipio": "Madrid",
-    "distrito": "Moratalaz",
-    "barrio": "Vinateros",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 900,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/Ua5a2oo.jpeg?1",
-      "https://i.imgur.com/iw1jY1g.jpeg?16",
-      "https://i.imgur.com/thUppQ0.jpeg?17",
-      "https://i.imgur.com/8cdAaoL.jpeg?18",
-      "https://i.imgur.com/AuOOQni.jpeg?19",
-      "https://i.imgur.com/MeIAlnd.jpeg?20",
-      "https://i.imgur.com/RddDXSf.jpeg?21",
-      "https://i.imgur.com/nChfBAt.jpeg?22",
-      "https://i.imgur.com/nhhoLH2.jpeg?23",
-      "https://i.imgur.com/mSATtdT.jpeg?24",
-      "https://i.imgur.com/QAzcSNQ.jpeg?25",
-      "https://i.imgur.com/gyMLSnH.jpeg?26",
-      "https://i.imgur.com/Y6jPFKD.jpeg?27",
-      "https://i.imgur.com/aQjciFu.jpeg?28",
-      "https://i.imgur.com/QriyvnQ.jpeg?29"
-    ]
-  },
-  {
     "id": 32340,
     "publicado": "2025-05-07",
     "direccion": "Calle Amparo 84",
@@ -194,6 +159,33 @@
       "https://i.imgur.com/LZSbxRn.jpeg?13",
       "https://i.imgur.com/EBAVGoR.jpeg?14",
       "https://i.imgur.com/QQO75My.jpeg?15"
+    ]
+  },
+  {
+    "id": 32343,
+    "publicado": "2025-05-22",
+    "direccion": "Calle Maria De Echarri 15",
+    "municipio": "Madrid",
+    "distrito": "Villaverde",
+    "barrio": "Los Rosales",
+    "planta": 5,
+    "orientacion": "Exterior",
+    "precio": 1200,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "C",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/QUeOeEb.jpeg?1",
+      "https://i.imgur.com/bC8enBf.jpeg?2",
+      "https://i.imgur.com/2Ohjbcc.jpeg?3",
+      "https://i.imgur.com/tgkTP3A.jpeg?4",
+      "https://i.imgur.com/IloBYcF.jpeg?5",
+      "https://i.imgur.com/nk8yFm5.jpeg?6",
+      "https://i.imgur.com/Or0lypF.jpeg?7",
+      "https://i.imgur.com/tK67OrF.jpeg?8"
     ]
   },
   {
@@ -257,6 +249,7 @@
   {
     "id": 32348,
     "publicado": "2025-05-13",
+    "modificado": "2025-05-22",
     "direccion": "Calle Bravo Murillo 30",
     "municipio": "Madrid",
     "distrito": "Chamber\u00ed",
@@ -269,7 +262,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/RZI6SFQ.jpeg?2",
       "https://i.imgur.com/5ngfTYz.jpeg?3",
@@ -293,6 +286,7 @@
   {
     "id": 32351,
     "publicado": "2025-05-16",
+    "modificado": "2025-05-22",
     "direccion": "Calle Luis De Hoyos Sainz 176",
     "municipio": "Madrid",
     "distrito": "Moratalaz",
@@ -305,7 +299,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/vOIgTEZ.jpeg?2",
       "https://i.imgur.com/WR2mBUk.jpeg?3",
@@ -354,8 +348,39 @@
     ]
   },
   {
+    "id": 32359,
+    "publicado": "2025-05-22",
+    "direccion": "Calle Marmolina 16",
+    "municipio": "Madrid",
+    "distrito": "Vicalvaro",
+    "barrio": "Ambroz",
+    "planta": 4,
+    "precio": 1000,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/seguQrv.jpeg?2",
+      "https://i.imgur.com/Oe1fvdZ.jpeg?3",
+      "https://i.imgur.com/pKpVIpT.jpeg?4",
+      "https://i.imgur.com/l9wBI3h.jpeg?5",
+      "https://i.imgur.com/iMkxObJ.jpeg?6",
+      "https://i.imgur.com/5cONMgq.jpeg?7",
+      "https://i.imgur.com/Iw6RhqS.jpeg?8",
+      "https://i.imgur.com/8XNGCsW.jpeg?9",
+      "https://i.imgur.com/RuY57jC.jpeg?10",
+      "https://i.imgur.com/0E3mG0l.jpeg?11",
+      "https://i.imgur.com/ALzPXDE.jpeg?12",
+      "https://i.imgur.com/eABe0uk.jpeg?13"
+    ]
+  },
+  {
     "id": 32360,
     "publicado": "2025-05-13",
+    "modificado": "2025-05-22",
     "direccion": "Calle Fuente Del Tiro 191",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -368,7 +393,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/FYJur1q.jpeg?2",
       "https://i.imgur.com/G4t14w1.jpeg?3",
@@ -379,6 +404,89 @@
       "https://i.imgur.com/2xS2uUK.jpeg?8",
       "https://i.imgur.com/vxTFWBN.jpeg?9",
       "https://i.imgur.com/blPqKz6.jpeg?10"
+    ]
+  },
+  {
+    "id": 32363,
+    "publicado": "2025-05-22",
+    "direccion": "Calle Ercilla 41",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Acacias",
+    "planta": 3,
+    "orientacion": "Mixto",
+    "precio": 1340,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/7F0kLul.jpeg?1",
+      "https://i.imgur.com/LWzKHdD.jpeg?2",
+      "https://i.imgur.com/kHLPMSv.jpeg?3",
+      "https://i.imgur.com/87VLukP.jpeg?4",
+      "https://i.imgur.com/YGRYuR2.jpeg?5",
+      "https://i.imgur.com/xLabC0M.jpeg?6",
+      "https://i.imgur.com/X3cikvV.jpeg?7",
+      "https://i.imgur.com/AIh6Omf.jpeg?8",
+      "https://i.imgur.com/DISGR6l.jpeg?9",
+      "https://i.imgur.com/hNrmTOf.jpeg?10"
+    ]
+  },
+  {
+    "id": 32364,
+    "publicado": "2025-05-22",
+    "direccion": "Calle Sierra De Cuerda Larga 23",
+    "municipio": "Madrid",
+    "distrito": "Puente de Vallecas",
+    "barrio": "Numancia",
+    "planta": 1,
+    "orientacion": "Exterior",
+    "precio": 1050,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/YkPtB0k.jpeg?1",
+      "https://i.imgur.com/akjOh6p.jpeg?2",
+      "https://i.imgur.com/mOwfv1Y.jpeg?3",
+      "https://i.imgur.com/0wkQuc5.jpeg?4",
+      "https://i.imgur.com/8ydkw70.jpeg?5",
+      "https://i.imgur.com/kLAU7NQ.jpeg?6",
+      "https://i.imgur.com/ABFontS.jpeg?8",
+      "https://i.imgur.com/JhjVwfv.jpeg?9"
+    ]
+  },
+  {
+    "id": 32365,
+    "publicado": "2025-05-22",
+    "direccion": "Calle Francisco Abril 6",
+    "municipio": "Madrid",
+    "distrito": "Retiro",
+    "barrio": "Estrella",
+    "planta": 5,
+    "orientacion": "Mixto",
+    "precio": 950,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/GBAF6r5.jpeg?2",
+      "https://i.imgur.com/UutNvds.jpeg?3",
+      "https://i.imgur.com/Q3OZJE1.jpeg?4",
+      "https://i.imgur.com/H5UhYaZ.jpeg?5",
+      "https://i.imgur.com/JVnYxLN.jpeg?6",
+      "https://i.imgur.com/mkevkHc.jpeg?7",
+      "https://i.imgur.com/1unqfjp.jpeg?8",
+      "https://i.imgur.com/8w29kIN.jpeg?9"
     ]
   }
 ]
