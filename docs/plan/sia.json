@@ -399,6 +399,7 @@
   {
     "id": 32366,
     "publicado": "2025-05-22",
+    "modificado": "2025-05-28",
     "direccion": "Calle Doctor Esquerdo 150",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -411,7 +412,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/CxND1Hs.jpeg?2",
       "https://i.imgur.com/5cZvd38.jpeg?3",
@@ -425,6 +426,40 @@
       "https://i.imgur.com/Gf7aPmS.jpeg?11",
       "https://i.imgur.com/JXQQKTO.jpeg?12",
       "https://i.imgur.com/NNkaDl7.jpeg?13"
+    ]
+  },
+  {
+    "id": 32367,
+    "publicado": "2025-05-28",
+    "direccion": "Calle Martin De Vargas 25",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Acacias",
+    "planta": 5,
+    "orientacion": "Mixto",
+    "precio": 1050,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/UdTt9di.jpeg?2",
+      "https://i.imgur.com/ym3WMZ0.jpeg?3",
+      "https://i.imgur.com/UTplrTu.jpeg?4",
+      "https://i.imgur.com/vDD4O18.jpeg?5",
+      "https://i.imgur.com/JkS1v5t.jpeg?6",
+      "https://i.imgur.com/7LEYJUP.jpeg?7",
+      "https://i.imgur.com/ZocileX.jpeg?8",
+      "https://i.imgur.com/j7mSFJ0.jpeg?9",
+      "https://i.imgur.com/QfhXY6C.jpeg?10",
+      "https://i.imgur.com/4q1uuKr.jpeg?11",
+      "https://i.imgur.com/gz1kd1M.jpeg?12",
+      "https://i.imgur.com/vDsSzcX.jpeg?13",
+      "https://i.imgur.com/lKuTwcF.jpeg?14",
+      "https://i.imgur.com/ZWGuGIc.jpeg?15",
+      "https://i.imgur.com/gOuKILR.jpeg?16"
     ]
   }
 ]
