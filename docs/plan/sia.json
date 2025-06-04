@@ -96,34 +96,6 @@
     ]
   },
   {
-    "id": 32343,
-    "publicado": "2025-05-22",
-    "modificado": "2025-05-28",
-    "direccion": "Calle Maria De Echarri 15",
-    "municipio": "Madrid",
-    "distrito": "Villaverde",
-    "barrio": "Los Rosales",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 1200,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "C",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/QUeOeEb.jpeg?1",
-      "https://i.imgur.com/bC8enBf.jpeg?2",
-      "https://i.imgur.com/2Ohjbcc.jpeg?3",
-      "https://i.imgur.com/tgkTP3A.jpeg?4",
-      "https://i.imgur.com/IloBYcF.jpeg?5",
-      "https://i.imgur.com/nk8yFm5.jpeg?6",
-      "https://i.imgur.com/Or0lypF.jpeg?7",
-      "https://i.imgur.com/tK67OrF.jpeg?8"
-    ]
-  },
-  {
     "id": 32349,
     "publicado": "2025-06-04",
     "direccion": "Calle Felipe Alvarez 38",
@@ -188,7 +160,7 @@
   {
     "id": 32363,
     "publicado": "2025-05-22",
-    "modificado": "2025-05-31",
+    "modificado": "2025-06-04",
     "direccion": "Calle Ercilla 41",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -201,7 +173,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
       "https://i.imgur.com/7F0kLul.jpeg?1",
       "https://i.imgur.com/LWzKHdD.jpeg?2",
@@ -374,6 +346,37 @@
       "https://i.imgur.com/G12zP9A.jpeg?12",
       "https://i.imgur.com/fBdhvAs.jpeg?13",
       "https://i.imgur.com/0gvugLP.jpeg?14"
+    ]
+  },
+  {
+    "id": 32375,
+    "publicado": "2025-06-04",
+    "direccion": "Avenida Pablo Neruda 63",
+    "municipio": "Madrid",
+    "distrito": "Puente de Vallecas",
+    "barrio": "Palomeras Sureste",
+    "planta": 9,
+    "orientacion": "Exterior",
+    "precio": 1150,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/ldJ5u14.jpeg?19",
+      "https://i.imgur.com/wEkBKSm.jpeg?20",
+      "https://i.imgur.com/XGVEbYP.jpeg?21",
+      "https://i.imgur.com/gdBpnGW.jpeg?22",
+      "https://i.imgur.com/tBdQkab.jpeg?23",
+      "https://i.imgur.com/5DPG1an.jpeg?24",
+      "https://i.imgur.com/F2fz1xm.jpeg?25",
+      "https://i.imgur.com/7oeKKSs.jpeg?26",
+      "https://i.imgur.com/513MLOY.jpeg?27",
+      "https://i.imgur.com/NLmBb34.jpeg?28",
+      "https://i.imgur.com/J5hAsRB.jpeg?29",
+      "https://i.imgur.com/BsSMAn9.jpeg?30"
     ]
   }
 ]
