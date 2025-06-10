@@ -97,6 +97,33 @@
     ]
   },
   {
+    "id": 32345,
+    "publicado": "2025-06-10",
+    "direccion": "Calle Antonio Lopez 254",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "barrio": "Almendrales",
+    "planta": 7,
+    "orientacion": "Exterior",
+    "precio": 900,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/VpmivpC.jpeg?2",
+      "https://i.imgur.com/7E0PbWL.jpeg?3",
+      "https://i.imgur.com/5nC2B27.jpeg?4",
+      "https://i.imgur.com/MqtJOVu.jpeg?5",
+      "https://i.imgur.com/TJ9aHzc.jpeg?6",
+      "https://i.imgur.com/ZEclCjH.jpeg?7",
+      "https://i.imgur.com/hxVlAsj.jpeg?8",
+      "https://i.imgur.com/JvPPBxz.jpeg?9"
+    ]
+  },
+  {
     "id": 32347,
     "publicado": "2025-06-07",
     "direccion": "Calle Camino De Los Vinateros 126",
@@ -341,6 +368,40 @@
       "https://i.imgur.com/woOdHpg.jpeg?11",
       "https://i.imgur.com/TzFSNRp.jpeg?12",
       "https://i.imgur.com/uWjL7iU.jpeg?13"
+    ]
+  },
+  {
+    "id": 32371,
+    "publicado": "2025-06-10",
+    "direccion": "Calle Servando Batanero 77",
+    "municipio": "Madrid",
+    "distrito": "Ciudad Lineal",
+    "barrio": "San Pascual",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 710,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/BuqEvNE.jpeg?2",
+      "https://i.imgur.com/ZFTbPsi.jpeg?3",
+      "https://i.imgur.com/2P4OwE0.jpeg?4",
+      "https://i.imgur.com/9KAFjwL.jpeg?5",
+      "https://i.imgur.com/jqlro9o.jpeg?6",
+      "https://i.imgur.com/nejygKw.jpeg?7",
+      "https://i.imgur.com/wWU8tWv.jpeg?8",
+      "https://i.imgur.com/sNBo4tv.jpeg?9",
+      "https://i.imgur.com/P9EOAqH.jpeg?10",
+      "https://i.imgur.com/ppI0Nzn.jpeg?11",
+      "https://i.imgur.com/Kf35xom.jpeg?12",
+      "https://i.imgur.com/WZ9cdaF.jpeg?13",
+      "https://i.imgur.com/kVOiaPn.jpeg?14",
+      "https://i.imgur.com/67TsTqe.jpeg?15",
+      "https://i.imgur.com/79hRuLW.jpeg?16"
     ]
   },
   {
