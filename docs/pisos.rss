@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 13 Jun 2025 07:09:38 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 13 Jun 2025 14:04:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -39,14 +39,6 @@
 			<pubDate>Sat, 07 Jun 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32352?2025-06-07</guid>
-		</item>
-		<item>
-			<title>1150€ Vicalvaro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32361</link>
-			<description>C/ Juglares 14,&lt;br/&gt;1º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 8 📷.&lt;br/&gt;sia/32361</description>
-			<pubDate>Sat, 07 Jun 2025 00:00:00 GMT</pubDate>
-			<category>Vicalvaro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32361?2025-06-07</guid>
 		</item>
 		<item>
 			<title>1340€ Arganzuela</title>
@@ -279,6 +271,14 @@
 			<pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
 			<category>Chamartín</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/263239?2024-07-10</guid>
+		</item>
+		<item>
+			<title>1200€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/264962</link>
+			<description>C/ General Margallo, 14,&lt;br/&gt;5º con ascensor,&lt;br/&gt;33m², 1 🛏,&lt;br/&gt;1 🛀, 6 📷.&lt;br/&gt;alq/264962</description>
+			<pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/264962?2025-06-12</guid>
 		</item>
 		<item>
 			<title>1650€ Tetuán</title>
@@ -913,14 +913,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275634?2025-03-17</guid>
 		</item>
 		<item>
-			<title>1200€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275639</link>
-			<description>C/ Pico Almanzor, 6,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;56m², 2 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/275639</description>
-			<pubDate>Tue, 22 Apr 2025 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275639?2025-04-22</guid>
-		</item>
-		<item>
 			<title>1558€ Rozas de Madrid, Las</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275641</link>
 			<description>C/ Mirto, 2,&lt;br/&gt;2º con ascensor,&lt;br/&gt;91m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275641</description>
@@ -1241,14 +1233,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275807?2025-05-28</guid>
 		</item>
 		<item>
-			<title>900€ Collado Mediano</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275809</link>
-			<description>Av. Pinar, 25,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;80m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275809</description>
-			<pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-			<category>Collado Mediano</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275809?2025-05-14</guid>
-		</item>
-		<item>
 			<title>650€ Buitrago del Lozoya</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275810</link>
 			<description>C/ Tahona, 38,&lt;br/&gt;2º con ascensor,&lt;br/&gt;79m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275810</description>
@@ -1351,14 +1335,6 @@
 			<pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
 			<category>Vicálvaro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275838?2025-05-23</guid>
-		</item>
-		<item>
-			<title>775€ Alcorcón</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275840</link>
-			<description>C/ San Juan, 10,&lt;br/&gt;4º sin ascensor,&lt;br/&gt;51m², 3 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/275840</description>
-			<pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
-			<category>Alcorcón</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275840?2025-05-28</guid>
 		</item>
 		<item>
 			<title>775€ Tetuán</title>

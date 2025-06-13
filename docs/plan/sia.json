@@ -224,6 +224,7 @@
   {
     "id": 32361,
     "publicado": "2025-06-07",
+    "modificado": "2025-06-13",
     "direccion": "Calle Juglares 14",
     "municipio": "Madrid",
     "distrito": "Vicalvaro",
@@ -236,7 +237,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/pqrtfaY.jpeg?1",
       "https://i.imgur.com/ITI5Ftp.jpeg?2",
