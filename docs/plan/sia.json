@@ -34,35 +34,6 @@
     ]
   },
   {
-    "id": 32339,
-    "publicado": "2025-06-04",
-    "modificado": "2025-06-10",
-    "direccion": "Calle Vinaroz 14",
-    "municipio": "Madrid",
-    "distrito": "Chamart\u00edn",
-    "barrio": "Ciudad Jard\u00edn",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 880,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/skXt1u4.jpeg?1",
-      "https://i.imgur.com/PjQPrBQ.jpeg?2",
-      "https://i.imgur.com/oYnVzmN.jpeg?3",
-      "https://i.imgur.com/r0fdOQG.jpeg?4",
-      "https://i.imgur.com/92tHWWE.jpeg?5",
-      "https://i.imgur.com/zgt26o8.jpeg?6",
-      "https://i.imgur.com/UxQ15dC.jpeg?7",
-      "https://i.imgur.com/Pdyn6bH.jpeg?8",
-      "https://i.imgur.com/nyY69qO.jpeg?9"
-    ]
-  },
-  {
     "id": 32340,
     "publicado": "2025-05-07",
     "direccion": "Calle Amparo 84",
@@ -99,14 +70,14 @@
   {
     "id": 32345,
     "publicado": "2025-06-10",
-    "modificado": "2025-06-13",
+    "modificado": "2025-06-16",
     "direccion": "Calle Antonio Lopez 254",
     "municipio": "Madrid",
     "distrito": "Usera",
     "barrio": "Almendrales",
     "planta": 7,
     "orientacion": "Exterior",
-    "precio": 900,
+    "precio": 670,
     "dormitorios": 2,
     "aseos": 1,
     "cee": "E",
@@ -127,6 +98,7 @@
   {
     "id": 32347,
     "publicado": "2025-06-07",
+    "modificado": "2025-06-16",
     "direccion": "Calle Camino De Los Vinateros 126",
     "municipio": "Madrid",
     "distrito": "Moratalaz",
@@ -139,7 +111,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/lmlUQcQ.jpeg?1",
       "https://i.imgur.com/58FF2vv.jpeg?2",
@@ -159,6 +131,7 @@
   {
     "id": 32349,
     "publicado": "2025-06-04",
+    "modificado": "2025-06-16",
     "direccion": "Calle Felipe Alvarez 38",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -171,7 +144,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/mJrdh7j.jpeg?1",
       "https://i.imgur.com/6q9YohI.jpeg?2",
@@ -281,7 +254,7 @@
   {
     "id": 32363,
     "publicado": "2025-05-22",
-    "modificado": "2025-06-04",
+    "modificado": "2025-06-16",
     "direccion": "Calle Ercilla 41",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -294,7 +267,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/7F0kLul.jpeg?1",
       "https://i.imgur.com/LWzKHdD.jpeg?2",
