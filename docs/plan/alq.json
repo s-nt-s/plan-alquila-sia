@@ -4546,5 +4546,28 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 275924,
+    "publicado": "2025-06-19",
+    "direccion": "Calle Bustamante, 18",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "planta": 1,
+    "precio": 1050,
+    "metros": 38,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "F",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": false,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]

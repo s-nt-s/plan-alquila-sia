@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 19 Jun 2025 14:22:46 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Jun 2025 19:04:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1447,6 +1447,14 @@
 			<pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275920?2025-06-18</guid>
+		</item>
+		<item>
+			<title>1050€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275924</link>
+			<description>C/ Bustamante, 18,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;38m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275924</description>
+			<pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275924?2025-06-19</guid>
 		</item>
 	</channel>
 </rss>
