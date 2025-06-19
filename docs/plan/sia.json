@@ -1,39 +1,5 @@
 [
   {
-    "id": 32296,
-    "publicado": "2025-04-01",
-    "modificado": "2025-05-22",
-    "direccion": "Calle Castilla 40",
-    "municipio": "Madrid",
-    "distrito": "Tetuan",
-    "barrio": "Bellas Vistas",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 1250,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/UmBD3ij.jpeg?2",
-      "https://i.imgur.com/msI0aig.jpeg?3",
-      "https://i.imgur.com/y0Yrnyn.jpeg?4",
-      "https://i.imgur.com/ZhHadPP.jpeg?5",
-      "https://i.imgur.com/y1Vc2EX.jpeg?6",
-      "https://i.imgur.com/JOsnPvN.jpeg?7",
-      "https://i.imgur.com/38QbW4N.jpeg?8",
-      "https://i.imgur.com/SopBKTy.jpeg?9",
-      "https://i.imgur.com/TTntznP.jpeg?10",
-      "https://i.imgur.com/YuWsP5s.jpeg?11",
-      "https://i.imgur.com/Gg3is4G.jpeg?12",
-      "https://i.imgur.com/7gfHh5G.jpeg?13",
-      "https://i.imgur.com/bYYlArA.jpeg?14",
-      "https://i.imgur.com/WCnsR7T.jpeg?15"
-    ]
-  },
-  {
     "id": 32340,
     "publicado": "2025-05-07",
     "direccion": "Calle Amparo 84",
@@ -413,6 +379,35 @@
       "https://i.imgur.com/G12zP9A.jpeg?12",
       "https://i.imgur.com/fBdhvAs.jpeg?13",
       "https://i.imgur.com/0gvugLP.jpeg?14"
+    ]
+  },
+  {
+    "id": 32373,
+    "publicado": "2025-06-19",
+    "direccion": "Calle Montesa 14",
+    "municipio": "Madrid",
+    "distrito": "Salamanca",
+    "barrio": "Goya",
+    "planta": 4,
+    "orientacion": "Interior",
+    "precio": 1000,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/c3x9fr4.jpeg?4",
+      "https://i.imgur.com/z7mYtKs.jpeg?5",
+      "https://i.imgur.com/BBgfyGm.jpeg?6",
+      "https://i.imgur.com/k0JE7Sg.jpeg?7",
+      "https://i.imgur.com/SUxDRO4.jpeg?8",
+      "https://i.imgur.com/C3mJkWg.jpeg?10",
+      "https://i.imgur.com/pE4gxLa.jpeg?11",
+      "https://i.imgur.com/9VwrLP9.jpeg?12",
+      "https://i.imgur.com/0s73sWo.jpeg?13",
+      "https://i.imgur.com/lT0ClmX.jpeg?14"
     ]
   },
   {
