@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 01 Jul 2025 14:04:55 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 01 Jul 2025 19:07:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -236,9 +236,9 @@
 			<title>1350€ Arganzuela</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/261777</link>
 			<description>C/ Batalla del Salado, 49,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;58m², 2 🛏,&lt;br/&gt;1 🛀, 7 📷.&lt;br/&gt;alq/261777</description>
-			<pubDate>Sat, 28 Jun 2025 00:00:00 GMT</pubDate>
+			<pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261777?2025-06-28</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/261777?2025-07-01</guid>
 		</item>
 		<item>
 			<title>2100€ Chamartín</title>
@@ -351,6 +351,14 @@
 			<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
 			<category>Salamanca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272380?2025-04-07</guid>
+		</item>
+		<item>
+			<title>1400€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272567</link>
+			<description>C/ Ilusión, 21,&lt;br/&gt;8º con ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/272567</description>
+			<pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/272567?2025-05-30</guid>
 		</item>
 		<item>
 			<title>1450€ Colmenar Viejo</title>
