@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 04 Jul 2025 14:02:47 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 04 Jul 2025 19:12:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -159,6 +159,14 @@
 			<pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214519?2025-07-02</guid>
+		</item>
+		<item>
+			<title>1200€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/217616</link>
+			<description>C/ Barquillo, 36,&lt;br/&gt;3º con ascensor,&lt;br/&gt;50m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/217616</description>
+			<pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/217616?2025-07-04</guid>
 		</item>
 		<item>
 			<title>750€ Pozuelo de Alarcón</title>
@@ -1401,6 +1409,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275920?2025-06-25</guid>
 		</item>
 		<item>
+			<title>850€ Alcorcón</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275923</link>
+			<description>C/ Princesa, 21,&lt;br/&gt;3º con ascensor,&lt;br/&gt;68m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275923</description>
+			<pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+			<category>Alcorcón</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275923?2025-07-04</guid>
+		</item>
+		<item>
 			<title>1050€ Arganzuela</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275924</link>
 			<description>C/ Bustamante, 18,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;38m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275924</description>
@@ -1599,6 +1615,14 @@
 			<pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275969?2025-07-04</guid>
+		</item>
+		<item>
+			<title>1250€ Moncloa-Aravaca</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275972</link>
+			<description>C/ Aguarón, 29,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;59m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275972</description>
+			<pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+			<category>Moncloa-Aravaca</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275972?2025-07-04</guid>
 		</item>
 	</channel>
 </rss>
