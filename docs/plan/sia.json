@@ -202,34 +202,9 @@
     ]
   },
   {
-    "id": 32376,
-    "publicado": "2025-06-19",
-    "modificado": "2025-06-28",
-    "direccion": "Calle Porcelana 13",
-    "municipio": "Madrid",
-    "distrito": "San Blas",
-    "barrio": "Arcos",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 650,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/jO633QW.jpeg?1",
-      "https://i.imgur.com/cDGlhoJ.jpeg?2",
-      "https://i.imgur.com/q87JW4a.jpeg?3",
-      "https://i.imgur.com/vozCnBN.jpeg?4",
-      "https://i.imgur.com/jLausMw.jpeg?7",
-      "https://i.imgur.com/ObmxHhw.jpeg?8"
-    ]
-  },
-  {
     "id": 32381,
     "publicado": "2025-06-25",
+    "modificado": "2025-07-04",
     "direccion": "Calle Parroco Julio Morate 7",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -242,7 +217,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Hu5VCk4.jpeg?1",
       "https://i.imgur.com/KiIN2WR.jpeg?2",
@@ -257,13 +232,14 @@
   {
     "id": 32382,
     "publicado": "2025-06-13",
+    "modificado": "2025-07-04",
     "direccion": "Avenida Del Ensanche De Vallecas 120",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
     "barrio": "Ensanche de Vallecas",
     "planta": 5,
     "orientacion": "Mixto",
-    "precio": 1300,
+    "precio": 1287,
     "dormitorios": 2,
     "aseos": 2,
     "cee": "C",
@@ -275,7 +251,6 @@
       "https://i.imgur.com/lnTUEiB.jpeg?3",
       "https://i.imgur.com/9QREIs7.jpeg?7",
       "https://i.imgur.com/cuiTyIK.jpeg?9",
-      "https://i.imgur.com/ak8cF5T.jpeg?11",
       "https://i.imgur.com/iXIgo2e.jpeg?12",
       "https://i.imgur.com/Qbdh9Ni.jpeg?13",
       "https://i.imgur.com/hRPPsAl.jpeg?14",
@@ -285,7 +260,8 @@
       "https://i.imgur.com/4TGorlx.jpeg?18",
       "https://i.imgur.com/cKwsQHl.jpeg?19",
       "https://i.imgur.com/AOB67Ml.jpeg?20",
-      "https://i.imgur.com/2PkTTqk.jpeg?21"
+      "https://i.imgur.com/2PkTTqk.jpeg?21",
+      "https://i.imgur.com/4Kn0a5m.jpeg?22"
     ]
   },
   {
@@ -322,6 +298,7 @@
   {
     "id": 32387,
     "publicado": "2025-06-28",
+    "modificado": "2025-07-04",
     "direccion": "Calle Cerrillo 7",
     "municipio": "Madrid",
     "distrito": "Fuencarral-El Pardo",
@@ -334,7 +311,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/WnOjBbW.jpeg?2",
       "https://i.imgur.com/T65o6M0.jpeg?3",
@@ -417,6 +394,7 @@
   {
     "id": 32391,
     "publicado": "2025-06-19",
+    "modificado": "2025-07-04",
     "direccion": "Calle Juan Espa\u00f1ol 63",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -429,7 +407,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/3TNBmsD.jpeg?2",
       "https://i.imgur.com/zflBBO3.jpeg?3",
@@ -465,6 +443,35 @@
       "https://i.imgur.com/AXsRaq3.jpeg?9",
       "https://i.imgur.com/rSVTqrJ.jpeg?10",
       "https://i.imgur.com/KK1O0Hf.jpeg?11"
+    ]
+  },
+  {
+    "id": 32395,
+    "publicado": "2025-07-04",
+    "direccion": "Calle Miguel Mayor 1",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "Opa\u00f1el",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 1150,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/i4jclnv.jpeg?10",
+      "https://i.imgur.com/P8YFq14.jpeg?11",
+      "https://i.imgur.com/kkp7Ej9.jpeg?12",
+      "https://i.imgur.com/E62ZCGN.jpeg?13",
+      "https://i.imgur.com/bsSPAJ0.jpeg?14",
+      "https://i.imgur.com/e9vSt2R.jpeg?15",
+      "https://i.imgur.com/GG0E5tb.jpeg?16",
+      "https://i.imgur.com/99W4yyO.jpeg?17",
+      "https://i.imgur.com/RCZSdc5.jpeg?18",
+      "https://i.imgur.com/AlJo7Zt.jpeg?19"
     ]
   },
   {
