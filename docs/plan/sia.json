@@ -198,7 +198,7 @@
   {
     "id": 32382,
     "publicado": "2025-06-13",
-    "modificado": "2025-07-04",
+    "modificado": "2025-07-07",
     "direccion": "Avenida Del Ensanche De Vallecas 120",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -211,7 +211,7 @@
     "cee": "C",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/UHarLFK.jpeg?2",
       "https://i.imgur.com/lnTUEiB.jpeg?3",
