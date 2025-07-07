@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 07 Jul 2025 14:09:53 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 07 Jul 2025 19:03:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1649,6 +1649,14 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275972?2025-07-04</guid>
 		</item>
 		<item>
+			<title>1200€ Coslada</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275974</link>
+			<description>Av. San Pablo, 55,&lt;br/&gt;5º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275974</description>
+			<pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+			<category>Coslada</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275974?2025-07-07</guid>
+		</item>
+		<item>
 			<title>1050€ Ciudad Lineal</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275975</link>
 			<description>C/ Jazmín, 35,&lt;br/&gt;1º con ascensor,&lt;br/&gt;1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275975</description>
@@ -1663,6 +1671,22 @@
 			<pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275976?2025-07-07</guid>
+		</item>
+		<item>
+			<title>1450€ Chamberí</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275978</link>
+			<description>C/ Ríos Rosas, 49,&lt;br/&gt;7º con ascensor,&lt;br/&gt;37m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275978</description>
+			<pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+			<category>Chamberí</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275978?2025-07-07</guid>
+		</item>
+		<item>
+			<title>890€ Collado Villalba</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275979</link>
+			<description>C/ Playa Frexeira, 4,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;57m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275979</description>
+			<pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+			<category>Collado Villalba</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275979?2025-07-07</guid>
 		</item>
 	</channel>
 </rss>
