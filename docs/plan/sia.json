@@ -162,6 +162,36 @@
     ]
   },
   {
+    "id": 32384,
+    "publicado": "2025-07-19",
+    "direccion": "Calle Francisco Puertas 4",
+    "municipio": "Madrid",
+    "distrito": "Carabanchel",
+    "barrio": "San Isidro",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 750,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/bKg1rmI.jpeg?1",
+      "https://i.imgur.com/PXls3Y5.jpeg?2",
+      "https://i.imgur.com/ddMfLYR.jpeg?3",
+      "https://i.imgur.com/Z5v8XRo.jpeg?4",
+      "https://i.imgur.com/eMj3bKn.jpeg?5",
+      "https://i.imgur.com/6Hw3Xea.jpeg?6",
+      "https://i.imgur.com/8ZSdAiA.jpeg?7",
+      "https://i.imgur.com/hY4AyiQ.jpeg?9",
+      "https://i.imgur.com/mMEovO4.jpeg?11",
+      "https://i.imgur.com/3oMFaJ3.jpeg?12",
+      "https://i.imgur.com/sJz5fk7.jpeg?13"
+    ]
+  },
+  {
     "id": 32385,
     "publicado": "2025-06-25",
     "modificado": "2025-07-10",
@@ -487,6 +517,7 @@
   {
     "id": 32409,
     "publicado": "2025-07-16",
+    "modificado": "2025-07-19",
     "direccion": "Calle Nicolas S\u00e1nchez 65",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -499,7 +530,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/XJj0Kcy.jpeg?1",
       "https://i.imgur.com/BVR69rU.jpeg?2",
