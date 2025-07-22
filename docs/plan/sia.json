@@ -456,6 +456,29 @@
     ]
   },
   {
+    "id": 32406,
+    "publicado": "2025-07-22",
+    "direccion": "Calle Antonia Calas 13",
+    "municipio": "Madrid",
+    "distrito": "Puente de Vallecas",
+    "barrio": "San Diego",
+    "planta": 4,
+    "orientacion": "Mixto",
+    "precio": 550,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "G",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/ujdIBTy.jpeg?1",
+      "https://i.imgur.com/DWSz0ZI.jpeg?2",
+      "https://i.imgur.com/DkwTJpp.jpeg?3",
+      "https://i.imgur.com/nKLvpij.jpeg?4"
+    ]
+  },
+  {
     "id": 32409,
     "publicado": "2025-07-16",
     "modificado": "2025-07-19",
@@ -524,6 +547,7 @@
   {
     "id": 32411,
     "publicado": "2025-07-16",
+    "modificado": "2025-07-22",
     "direccion": "Calle Valle De Berganti\u00f1os 15",
     "municipio": "Madrid",
     "distrito": "Moncloa-Aravaca",
@@ -536,7 +560,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/faOXbqI.jpeg?1",
       "https://i.imgur.com/LDmxXjw.jpeg?2",
