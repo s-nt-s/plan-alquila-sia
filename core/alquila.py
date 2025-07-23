@@ -177,7 +177,7 @@ class AlqDriver(Driver):
 
     def iter_municipios(self):
         info: ComboOption
-        for info in self.iter_combo_py(
+        for info in self.iter_combo_js(
             input="mainPanel:pf_comboValoresMunicipioInput",
             items="mainPanel:pf_comboValoresMunicipioItems",
         ):
@@ -194,7 +194,7 @@ class AlqDriver(Driver):
             return $("*[id='mainPanel:pf_comboValoresMunicipioInput']").val().trim().replace(/\s+\S+$/, "");
         '''.strip())
         info: ComboOption
-        for info in self.iter_combo_py(
+        for info in self.iter_combo_js(
             input="mainPanel:pf_comboValoresDistritoPanel",
             items="mainPanel:pf_comboValoresDistritoItems",
         ):
@@ -216,63 +216,6 @@ class AlqDriver(Driver):
 
     def jClick(self, node):
         self.execute_script("jQuery(arguments[0]).click()", node)
-
-    def iter_combo_py(self, input: str, items: str):
-        """Versión Python que obtiene todos los elementos de una vez"""
-
-        # Obtener toda la lista de opciones de una vez
-        self.click(input)
-        div = self.wait(items)
-        all_divs = div.find_elements(By.XPATH, "./div")
-
-        # Parsear todas las opciones
-        options = []
-        for i, elem in enumerate(all_divs):
-            if not elem.is_displayed():
-                continue
-
-            text = elem.text.strip()
-            if not text:
-                continue
-
-            # Parsear texto: "Municipio (123)"
-            try:
-                txt, num_str = text.rsplit(None, 1)
-                if num_str.startswith('(') and num_str.endswith(')'):
-                    num = int(num_str[1:-1])
-                    options.append({
-                        'index': i,
-                        'text': txt.strip(),
-                        'items': num,
-                        'element': elem
-                    })
-            except (ValueError, IndexError):
-                continue
-
-        # Cerrar el combo inicial
-        self.click(input)
-
-        # Iterar sobre las opciones que tienen datos
-        for opt in options:
-            if opt['items'] == 0:
-                continue
-
-            # Abrir combo y hacer click en el elemento específico
-            self.click(input)
-            div = self.wait(items)
-            fresh_divs = div.find_elements(By.XPATH, "./div")
-
-            # Buscar el elemento correcto por índice
-            if opt['index'] < len(fresh_divs):
-                fresh_divs[opt['index']].click()
-
-                yield ComboOption(
-                    txt=opt['text'],
-                    dom=None,
-                    items=opt['items'],
-                    index=opt['index'],
-                    total=len(options)
-                )
 
 class Alquila:
     URL = "https://gestiona.comunidad.madrid/gpal_inter/secure/include/viviendapublicada/busqViviendasPublicadasContenedor.jsf"
