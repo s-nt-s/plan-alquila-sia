@@ -99,8 +99,6 @@ class AlqDriver(Driver):
             if info is None:
                 break
             index += 1
-            if info.index == 32:
-                print("aquí")
             if info.items == 0:
                 continue
             info.dom.click()
