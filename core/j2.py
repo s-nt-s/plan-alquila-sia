@@ -98,7 +98,7 @@ class Jnj2():
     def __is_changed(self, destino, new_html):
         if not os.path.isfile(destino):
             return True
-        with open(destino, "r") as f:
+        with open(destino, "r", encoding="utf-8") as f:
             old_html = f.read()
         new_html = re_last_modified.sub("", new_html).strip()
         old_html = re_last_modified.sub("", old_html).strip()

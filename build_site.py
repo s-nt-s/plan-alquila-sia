@@ -17,7 +17,7 @@ import re
 def clean(html, **kwargs):
     n: Tag
     soup = BeautifulSoup(html, "lxml")
-    for n in soup.findAll(["th", "td", "span", "code", "li"]):
+    for n in soup.find_all(["th", "td", "span", "code", "li"]):
         txt = get_text(n)
         if n.name == "li" and "None" in txt:
             n.extract()
@@ -107,7 +107,7 @@ for file in (glob("docs/sia/*.html")+glob("docs/alq/*.html")):
     id = id.split(".")[0]
     if id.isdigit() and int(id) not in ids[plan]:
         html = readhtml(file)
-        html = re.sub("\s*<header[^><]*>.*?</header>",
+        html = re.sub(r"\s*<header[^><]*>.*?</header>",
                       "", html, flags=re.DOTALL)
         html = html.replace(
             "<main>",
