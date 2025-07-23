@@ -1,4 +1,4 @@
-bs4==0.0.2
+beautifulsoup4==4.13.4
 chardet==5.2.0
 Jinja2==3.1.6
 lxml==6.0.0
@@ -8,3 +8,4 @@ selenium==4.34.2
 Unidecode==1.4.0
 urllib3==2.5.0
 webdriver-manager==4.0.2
+rfeed==1.1.1
