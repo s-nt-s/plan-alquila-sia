@@ -160,6 +160,9 @@ fieldset#leyenda dt {
   padding-left: 5px;
   padding-right: 5px;
 }
+fieldset#leyenda dt.ico {
+  background-color: unset !important;
+}
 fieldset#leyenda dd {
   grid-column-start: 2;
   margin-left: 5px !important;
@@ -191,4 +194,7 @@ nav ul li code {
 }
 .tagFalse {
   font-style: italic;
+}
+td.abbr {
+  text-decoration: none;
 }
