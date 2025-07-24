@@ -64,7 +64,7 @@ def get_query(url):
 def iterhref(soup: BeautifulSoup):
     """Recorre los atributos href o src de los tags"""
     n: Tag
-    for n in soup.findAll(["img", "form", "a", "iframe", "frame", "link", "script", "input"]):
+    for n in soup.find_all(["img", "form", "a", "iframe", "frame", "link", "script", "input"]):
         attr = "href" if n.name in ("a", "link") else "src"
         if n.name == "form":
             attr = "action"
@@ -234,8 +234,8 @@ class Driver:
             profile.set_preference(k, v)
             profile.DEFAULT_PREFERENCES['frozen'][k] = v
         profile.update_preferences()
-        driver = webdriver.Firefox(
-            options=options)
+        options.profile = profile
+        driver = webdriver.Firefox(options=options)
         driver.maximize_window()
         driver.implicitly_wait(5)
         return driver
