@@ -70,7 +70,7 @@ class SiaDriver(Driver):
         )
         ids = []
         for tr in self.get_soup().select("tr"):
-            tds = tr.findAll("td")
+            tds = tr.find_all("td")
             txt = tmap(get_val, tds)
             if len(tds) != 7:
                 continue

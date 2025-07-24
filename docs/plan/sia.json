@@ -34,40 +34,6 @@
     ]
   },
   {
-    "id": 32352,
-    "publicado": "2025-06-07",
-    "modificado": "2025-07-16",
-    "direccion": "Calle Amaniel 23",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Universidad",
-    "planta": 2,
-    "orientacion": "Interior",
-    "precio": 800,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/RspbuZa.jpeg?2",
-      "https://i.imgur.com/ADGH1so.jpeg?4",
-      "https://i.imgur.com/YMI4LdL.jpeg?5",
-      "https://i.imgur.com/vxQPlZy.jpeg?7",
-      "https://i.imgur.com/T4dU2bF.jpeg?8",
-      "https://i.imgur.com/8TN8D1Q.jpeg?9",
-      "https://i.imgur.com/PkzrfRd.jpeg?10",
-      "https://i.imgur.com/eLyMzON.jpeg?22",
-      "https://i.imgur.com/tkJNN4B.jpeg?23",
-      "https://i.imgur.com/beyzwXK.jpeg?24",
-      "https://i.imgur.com/ZmC6xRt.jpeg?25",
-      "https://i.imgur.com/qrkzhEx.jpeg?26",
-      "https://i.imgur.com/N8KB5Wj.jpeg?27",
-      "https://i.imgur.com/WbEJwwM.jpeg?28"
-    ]
-  },
-  {
     "id": 32369,
     "publicado": "2025-05-28",
     "direccion": "Pasaje Conde De Belchite 4",
@@ -195,7 +161,7 @@
   {
     "id": 32385,
     "publicado": "2025-06-25",
-    "modificado": "2025-07-10",
+    "modificado": "2025-07-23",
     "direccion": "Calle General Ricardos 218",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -208,7 +174,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/h7EMQ72.jpeg?2",
       "https://i.imgur.com/4xciZc4.jpeg?3",
@@ -456,8 +422,37 @@
     ]
   },
   {
+    "id": 32403,
+    "publicado": "2025-07-23",
+    "direccion": "Calle Pe\u00f1uelas 52",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Acacias",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 930,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/mBpRNnx.jpeg?11",
+      "https://i.imgur.com/E82SFlm.jpeg?12",
+      "https://i.imgur.com/CM41Ioo.jpeg?13",
+      "https://i.imgur.com/RbIHp1V.jpeg?14",
+      "https://i.imgur.com/xrjjYKl.jpeg?15",
+      "https://i.imgur.com/Utdee2j.jpeg?16",
+      "https://i.imgur.com/D8rmNXg.jpeg?17",
+      "https://i.imgur.com/VruuCIG.jpeg?18",
+      "https://i.imgur.com/Fwi3xlz.jpeg?19",
+      "https://i.imgur.com/cgyiYlb.jpeg?20"
+    ]
+  },
+  {
     "id": 32406,
-    "publicado": "2025-07-22",
+    "publicado": "2025-07-23",
     "direccion": "Calle Antonia Calas 13",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -472,39 +467,10 @@
     "adaptada": false,
     "reservada": false,
     "imgs": [
-      "https://i.imgur.com/ujdIBTy.jpeg?1",
-      "https://i.imgur.com/DWSz0ZI.jpeg?2",
-      "https://i.imgur.com/DkwTJpp.jpeg?3",
-      "https://i.imgur.com/nKLvpij.jpeg?4"
-    ]
-  },
-  {
-    "id": 32409,
-    "publicado": "2025-07-16",
-    "modificado": "2025-07-19",
-    "direccion": "Calle Nicolas S\u00e1nchez 65",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "Pradolongo",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 1100,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/XJj0Kcy.jpeg?1",
-      "https://i.imgur.com/BVR69rU.jpeg?2",
-      "https://i.imgur.com/VMc0yoX.jpeg?3",
-      "https://i.imgur.com/5pW3a7w.jpeg?4",
-      "https://i.imgur.com/s42XR3A.jpeg?5",
-      "https://i.imgur.com/5uWDVSA.jpeg?6",
-      "https://i.imgur.com/xxMWhbl.jpeg?7",
-      "https://i.imgur.com/yGnxlvJ.jpeg?8",
-      "https://i.imgur.com/3RN0RhQ.jpeg?9"
+      "https://i.imgur.com/r0upoSt.jpeg?1",
+      "https://i.imgur.com/qrKyZEs.jpeg?2",
+      "https://i.imgur.com/dfCLtfY.jpeg?3",
+      "https://i.imgur.com/EZAHuKF.jpeg?4"
     ]
   },
   {
@@ -547,7 +513,7 @@
   {
     "id": 32411,
     "publicado": "2025-07-16",
-    "modificado": "2025-07-22",
+    "modificado": "2025-07-23",
     "direccion": "Calle Valle De Berganti\u00f1os 15",
     "municipio": "Madrid",
     "distrito": "Moncloa-Aravaca",

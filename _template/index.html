@@ -31,15 +31,18 @@
       <option value="{{zsimplify}}" data-label="{{z}}" data-count="{{count}}">{{z}} ({{count | millar}})</option>
       {%endfor%}
     </select>
+    <input style="text-align: right;" type="number" id="precio" size="13" min="0" step="50" placeholder="Precio máximo"/>
+    <label for="precio" title="Precio máximo">€</label>
   </p>
   <p>
-    <label for="precioMax">Precio máx:</label>
-    <input type="number" id="precioMax" min="0" step="50" placeholder="Ej: 1200"/>
-    <label for="soloGaraje">
-      <input type="checkbox" id="soloGaraje"/>
-      Solo con garaje
-    </label>
-    <button onclick="filtrarTabla()">Filtrar</button>
+    <input type="checkbox" id="garaje"/>
+    <label for="garaje" title="Con garaje">🚗</label>
+    <input type="checkbox" id="piscina"/>
+    <label for="piscina" title="Con piscina">🏊</label>
+    <input type="checkbox" id="trastero"/>
+    <label for="trastero" title="Con adaptación">📦</label>
+    <input type="checkbox" id="adaptada"/>
+    <label for="adaptada" title="Con adaptación">♿</label>
   </p>
   <table>
     <thead>
@@ -52,15 +55,14 @@
         <th title="Planta" class="isSortable hideIfEQ">P</th>
         <th class="isSortable str hideIfEQ">Dirección</th>
         <th class="isSortable str isSortedByMe isReversed hideIfEQ">Fecha</th>
+        <th>Extras</th>
       </tr>
     </thead>
     <tbody>
     {% for p in pisos|sort(reverse=true, attribute='fecha,plan,id,precio') %}
-    <tr class="{{p.plan}}" data-zona="{{p.zona | simplify}}" data-garaje="{{p.garaje|lower if p.garaje is not none else 'false'}}">
+    <tr class="{{p.plan}}" data-zona="{{p.zona | simplify}}" data-precio="{{p.precio}}">
       <td data-sortkey="{{p.get_plan_id()}}"
-          class="rgh id" title="{{p.plan}}/{{p.id}}">
-          <a href="{{p.plan}}/{{p.id}}.html">{{p.id}}</a>
-      </td>
+          class="rgh id" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan}}/{{p.id}}">{{p.id}}</a></td>
       <td class="rgh">{{p.metros | round}}</td>
       <td data-sortkey="{{p.precio}}"
           class="rgh">{{p.precio | millar}}</td>
@@ -73,6 +75,12 @@
       <td data-sortkey="{{(p.zona or 'z')+'\t'+p.direccion}}"
       ><a href="{{p.mapa}}">{{p.get_direccion()}}</a>, {{p.zona}}</td>
       <td data-sortkey="{{p.fecha}}.{{p.get_plan_id()}}">{{p.fecha}}</td>
+      <td class="tags">
+        {%if p.garaje%}<abbr title="Garaje">🚗</abbr> {%endif%}
+        {%if p.piscina%}<abbr title="Piscina">🏊</abbr> {%endif%}
+        {%if p.trastero%}<abbr title="Trastero">📦</abbr> {%endif%}
+        {%if p.adaptada%}<abbr title="Adaptada">♿</abbr> {%endif%}
+      </td>
     </tr>
     {% endfor %}
     </tbody>
@@ -92,6 +100,16 @@
       <dd>Planta del piso (en <span class="ascensorFalse">rojo</span> si no hay ascensor)</dd>
       <dt>Fecha</dt>
       <dd>Última fecha de modificación del anuncio</dd>
+      <dt class="ico">🚗</dt>
+      <dd>Tiene garaje</dd>
+      <dt class="ico">🏊</dt>
+      <dd>Tiene piscina</dd>
+      <dt class="ico">📦</dt>
+      <dd>Tiene trastero</dd>
+      <dt class="ico">♿</dt>
+      <dd>Esta adaptada</dd>
+
+      
     </dl>
     {#
     <p>
@@ -106,29 +124,5 @@
     Si falla o tienes alguna sugerencia pon un <a href="https://github.com/s-nt-s/plan-alquila-sia/issues">issue</a>.
 		</p>
 	</footer>
-  <script>
-  function filtrarTabla() {
-    const zona = document.getElementById('zona').value;
-    const precioMax = parseInt(document.getElementById('precioMax').value, 10) || Infinity;
-    const soloGaraje = document.getElementById('soloGaraje').checked;
-
-    document.querySelectorAll('table tbody tr').forEach(tr => {
-      const zonaTr = tr.getAttribute('data-zona') || '';
-      const precioCelda = tr.children[2]; // La tercera columna es el precio (€)
-      const precio = precioCelda ? parseInt(precioCelda.getAttribute('data-sortkey'), 10) || 0 : 0;
-      const tieneGaraje = tr.getAttribute('data-garaje') === 'true';
-
-      let visible = true;
-      if (zona && zonaTr !== zona) visible = false;
-      if (precio > precioMax) visible = false;
-      if (soloGaraje && !tieneGaraje) visible = false;
-
-      tr.style.display = visible ? '' : 'none';
-    });
-  }
-
-  // Mantener filtro de zona existente
-  document.getElementById('zona').addEventListener('change', filtrarTabla);
-  </script>
   </body>
 </html>
