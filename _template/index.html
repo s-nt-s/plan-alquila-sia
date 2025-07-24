@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1" name="viewport"/>
 		<meta http-equiv="Last-Modified" content="{{now.strftime('%Y-%m-%d %H:%M:%S')}}">
-    <link rel="alternate" type="application/rss+xml" 
-      title="RSS Plan Alquila y Plan Sia" 
+    <link rel="alternate" type="application/rss+xml"
+      title="RSS Plan Alquila y Plan Sia"
       href="./pisos.rss"
     />
     <title>Pisos en Madrid</title>
@@ -32,6 +32,15 @@
       {%endfor%}
     </select>
   </p>
+  <p>
+    <label for="precioMax">Precio máx:</label>
+    <input type="number" id="precioMax" min="0" step="50" placeholder="Ej: 1200"/>
+    <label for="soloGaraje">
+      <input type="checkbox" id="soloGaraje"/>
+      Solo con garaje
+    </label>
+    <button onclick="filtrarTabla()">Filtrar</button>
+  </p>
   <table>
     <thead>
       <tr class="sortme">
@@ -47,14 +56,16 @@
     </thead>
     <tbody>
     {% for p in pisos|sort(reverse=true, attribute='fecha,plan,id,precio') %}
-    <tr class="{{p.plan}}" data-zona="{{p.zona | simplify}}">
-      <td data-sortkey="{{p.get_plan_id()}}" 
-          class="rgh id" title="{{p.plan}}/{{p.id}}"><a href="{{p.plan}}/{{p.id}}">{{p.id}}</a></td>
+    <tr class="{{p.plan}}" data-zona="{{p.zona | simplify}}" data-garaje="{{p.garaje|lower if p.garaje is not none else 'false'}}">
+      <td data-sortkey="{{p.get_plan_id()}}"
+          class="rgh id" title="{{p.plan}}/{{p.id}}">
+          <a href="{{p.plan}}/{{p.id}}.html">{{p.id}}</a>
+      </td>
       <td class="rgh">{{p.metros | round}}</td>
       <td data-sortkey="{{p.precio}}"
           class="rgh">{{p.precio | millar}}</td>
       <td data-sortkey="{{p.dormitorios}}"
-          class="rgh nw" 
+          class="rgh nw"
           title="{{p.get_dormitorio_title()}}">{%if p.imgs%}📷 {%endif%}{{p.dormitorios}}</td>
       {#<td class="rgh">{{p.aseos}}</td>#}
       <td data-sortkey="{{p.planta}}" title="{{p.get_planta_title()}}"
@@ -95,5 +106,29 @@
     Si falla o tienes alguna sugerencia pon un <a href="https://github.com/s-nt-s/plan-alquila-sia/issues">issue</a>.
 		</p>
 	</footer>
+  <script>
+  function filtrarTabla() {
+    const zona = document.getElementById('zona').value;
+    const precioMax = parseInt(document.getElementById('precioMax').value, 10) || Infinity;
+    const soloGaraje = document.getElementById('soloGaraje').checked;
+
+    document.querySelectorAll('table tbody tr').forEach(tr => {
+      const zonaTr = tr.getAttribute('data-zona') || '';
+      const precioCelda = tr.children[2]; // La tercera columna es el precio (€)
+      const precio = precioCelda ? parseInt(precioCelda.getAttribute('data-sortkey'), 10) || 0 : 0;
+      const tieneGaraje = tr.getAttribute('data-garaje') === 'true';
+
+      let visible = true;
+      if (zona && zonaTr !== zona) visible = false;
+      if (precio > precioMax) visible = false;
+      if (soloGaraje && !tieneGaraje) visible = false;
+
+      tr.style.display = visible ? '' : 'none';
+    });
+  }
+
+  // Mantener filtro de zona existente
+  document.getElementById('zona').addEventListener('change', filtrarTabla);
+  </script>
   </body>
 </html>

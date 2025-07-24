@@ -3,6 +3,7 @@ import re
 import urllib3
 from bs4 import Tag, BeautifulSoup
 from selenium.webdriver.remote.webelement import WebElement
+from selenium.webdriver.common.by import By
 from datetime import date
 
 from .piso import Piso
@@ -11,6 +12,7 @@ from .web import Driver, get_text
 from .retry import retry, RetryException
 from typing import NamedTuple
 import logging
+import time
 
 urllib3.disable_warnings()
 
@@ -85,25 +87,95 @@ class AlqDriver(Driver):
 
     def iter_combo(self, input: str, items: str):
         dvs = None
-        index = -1
+        index = 0
         while True:
-            index += 1
             if dvs is None:
                 self.click(input)
                 div = self.wait(items)
-                dvs = div.find_elements_by_xpath("./div")
+                # Filtrar solo elementos visibles
+                all_divs = div.find_elements(By.XPATH, "./div")
+                dvs = [d for d in all_divs if d.is_displayed()]
             info = ComboOption.parse(dvs, index)
             if info is None:
                 break
+            index += 1
             if info.items == 0:
                 continue
             info.dom.click()
-            dvs = None
+            dvs = None  # Resetear la lista para el próximo ciclo
             yield info
+
+    def iter_combo_js(self, input: str, items: str):
+        """Versión más robusta usando JavaScript para iterar el combo"""
+
+        # JavaScript que maneja toda la lógica del combo
+        js_code = f'''
+        var results = [];
+        var inputId = "{input}";
+        var itemsId = "{items}";
+
+        function getComboOptions() {{
+            // Abrir combo usando selector de atributo en lugar de ID
+            jQuery("*[id='" + inputId + "']").click();
+
+            // Esperar a que aparezcan los items
+            var items = jQuery("*[id='" + itemsId + "'] div");
+            var options = [];
+
+            items.each(function(i, elem) {{
+                var text = jQuery(elem).text().trim();
+                if (text) {{
+                    var match = text.match(/^(.*?)\\s+\\((\\d+)\\)$/);
+                    if (match) {{
+                        options.push({{
+                            index: i,
+                            text: match[1].trim(),
+                            items: parseInt(match[2]),
+                            element: elem
+                        }});
+                    }}
+                }}
+            }});
+
+            return options;
+        }}
+
+        return getComboOptions();
+        '''
+
+        # Obtener todas las opciones del combo de una vez
+        options = self.execute_script(js_code)
+
+        for opt in options:
+            if opt['items'] == 0:
+                continue
+
+            # Hacer click usando JavaScript directamente en el elemento
+            click_js = f'''
+            jQuery("*[id='{input}']").click();
+            setTimeout(function() {{
+                var items = jQuery("*[id='{items}'] div");
+                var targetItem = items.eq({opt['index']});
+                if (targetItem.length > 0) {{
+                    targetItem.click();
+                }}
+            }}, 100);
+            '''
+
+            self.execute_script(click_js)
+            time.sleep(0.5)  # Pequeña pausa para que se procese el click
+
+            yield ComboOption(
+                txt=opt['text'],
+                dom=None,  # No necesitamos el WebElement
+                items=opt['items'],
+                index=opt['index'],
+                total=len(options)
+            )
 
     def iter_municipios(self):
         info: ComboOption
-        for info in self.iter_combo(
+        for info in self.iter_combo_js(
             input="mainPanel:pf_comboValoresMunicipioInput",
             items="mainPanel:pf_comboValoresMunicipioItems",
         ):
@@ -116,11 +188,11 @@ class AlqDriver(Driver):
             yield Zona(municipio=info.txt, distrito=None)
 
     def iter_distritos(self):
-        municipio = self.execute_script('''
+        municipio = self.execute_script(r'''
             return $("*[id='mainPanel:pf_comboValoresMunicipioInput']").val().trim().replace(/\s+\S+$/, "");
         '''.strip())
         info: ComboOption
-        for info in self.iter_combo(
+        for info in self.iter_combo_js(
             input="mainPanel:pf_comboValoresDistritoPanel",
             items="mainPanel:pf_comboValoresDistritoItems",
         ):
@@ -135,14 +207,13 @@ class AlqDriver(Driver):
 
     def get_detail(self, id) -> WebElement:
         self.execute_script(f'''
-            $("*[id='mainPanel:viviendasTable:table'] tr").find("td:eq(1) > a").filter((i, e)=>e.textContent.trim()=="{id}").click();                 
+            $("*[id='mainPanel:viviendasTable:table'] tr").find("td:eq(1) > a").filter((i, e)=>e.textContent.trim()=="{id}").click();
         '''.strip())
         self.waitLoaded()
-        return self._driver.find_element_by_id("mainPanel:solapaDetalle:content")
+        return self._driver.find_element(By.ID, "mainPanel:solapaDetalle:content")
 
     def jClick(self, node):
         self.execute_script("jQuery(arguments[0]).click()", node)
-
 
 class Alquila:
     URL = "https://gestiona.comunidad.madrid/gpal_inter/secure/include/viviendapublicada/busqViviendasPublicadasContenedor.jsf"
@@ -164,7 +235,6 @@ class Alquila:
         with AlqDriver(wait=10) as w:
             w.get(Alquila.URL)
             for zona in w.iter_municipios():
-            #for info in w.iter_distritos():
                 w.click_search()
                 for vals in iter_panel(w.get_soup()):
                     ps = self.get_piso(
@@ -223,15 +293,15 @@ class Alquila:
             w.jClick(img)
             img = None
             w.waitLoaded()
-            pop: WebElement = w.driver.find_element_by_id("mainPanel:popupGaleria_container")
+            pop: WebElement = w.driver.find_element(By.ID, "mainPanel:popupGaleria_container")
             src = w.get_soup().find(
                 "img", attrs={"id": "mainPanel:imagenPopup"})
             src = src.attrs["src"]
             if src not in ps.imgs:
                 ps.imgs.append(src)
-                img = pop.find_element_by_css_selector("a[title='Ver foto siguiente']")
+                img = pop.find_element(By.CSS_SELECTOR, "a[title='Ver foto siguiente']")
             if img is None:
-                cls = pop.find_element_by_css_selector("img[alt='Cancelar']")
+                cls = pop.find_element(By.CSS_SELECTOR, "img[alt='Cancelar']")
                 w.jClick(cls)
                 w.waitLoaded()
 

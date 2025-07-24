@@ -38,19 +38,15 @@ class PisosRss:
 
         rss = self.__get_rss(feed)
         if self.__is_changed(destino, rss):
-            with open(destino, "w") as f:
+            with open(destino, "w", encoding="utf-8") as f:
                 f.write(rss)
 
-    def __is_changed(self, destino, new_rss):
+    def __is_changed(self, destino, rss):
         if not os.path.isfile(destino):
             return True
-        with open(destino, "r") as f:
+        with open(destino, "r", encoding="utf-8") as f:
             old_rss = f.read()
-        new_rss = re_last_modified.sub("", new_rss)
-        old_rss = re_last_modified.sub("", old_rss)
-        if old_rss == new_rss:
-            return False
-        return True
+        return old_rss != rss
 
     def __get_rss(self, feed: rfeed.Feed):
         def bkline(s, i):

@@ -15,7 +15,7 @@ from selenium import webdriver
 from selenium.common.exceptions import (ElementNotInteractableException,
                                         ElementNotVisibleException,
                                         StaleElementReferenceException,
-                                        TimeoutException, WebDriverException, 
+                                        TimeoutException, WebDriverException,
                                         JavascriptException)
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.chrome.options import Options as CMoptions
@@ -235,7 +235,7 @@ class Driver:
             profile.DEFAULT_PREFERENCES['frozen'][k] = v
         profile.update_preferences()
         driver = webdriver.Firefox(
-            options=options, firefox_profile=profile)
+            options=options)
         driver.maximize_window()
         driver.implicitly_wait(5)
         return driver
@@ -367,12 +367,12 @@ class Driver:
         else:
             wait.until(ec.visibility_of_element_located((by, id)))
         if by == By.CLASS_NAME:
-            return self._driver.find_element_by_class_name(id)
+            return self._driver.find_element(By.CLASS_NAME, id)
         if by == By.CSS_SELECTOR:
-            return self._driver.find_element_by_css_selector(id)
+            return self._driver.find_element(By.CSS_SELECTOR, id)
         if by == By.XPATH:
-            return self._driver.find_element_by_xpath(id)
-        return self._driver.find_element_by_id(id)
+            return self._driver.find_element(By.XPATH, id)
+        return self._driver.find_element(By.ID, id)
 
     def waitjs(self, js: str, val=True, seconds=None):
         if seconds is None:
