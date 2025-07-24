@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 from bs4 import BeautifulSoup, Tag
-from core.j2 import Jnj2
+from core.j2 import Jnj2, simplify
 from core.rss import PisosRss
 from core.web import get_text
 from core.piso import Piso
@@ -37,6 +37,13 @@ def clean(html, **kwargs):
         prtc = href.split("://")[0].lower()
         if prtc in ('http', 'https'):
             a.attrs["target"] = '_blank'
+    for i in soup.select('input[type="checkbox"]'):
+        lb = soup.new_tag("label")
+        lb.attrs["class"] = "ico"
+        i.wrap(lb)
+        lb.attrs["title"] = i.attrs["title"]
+        lb.append(i.attrs["value"])
+        del i.attrs["title"]
     return str(soup)
 
 

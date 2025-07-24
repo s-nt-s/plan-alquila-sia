@@ -195,6 +195,9 @@ nav ul li code {
 .tagFalse {
   font-style: italic;
 }
-td.abbr {
+td abbr {
   text-decoration: none;
+}
+label.ico {
+  font-family: monospace;
 }

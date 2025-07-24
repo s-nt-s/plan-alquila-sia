@@ -25,7 +25,7 @@ function hideTr(params, tr) {
 
 function filtrar() {
     const precio = gInt(document.getElementById("precio").value, 10);
-    const tags = gAll("input[id][type='checkbox']:checked").map((i)=> i.value);
+    const tags = gAll("input[type='checkbox']:checked").map((i)=> i.value);
     const zdom = document.getElementById("zona");
     const zona = gStr(zdom.value);
     const trs = document.querySelectorAll("tr[data-zona]");
@@ -65,7 +65,7 @@ function filtrar() {
 function getQuery() {
     if (document.location.search==null) return {tags:[]};
     if (document.location.search.length<2) return {tags:[]};
-    const tags = gAll("input[id][type='checkbox']").map((i)=> i.value);
+    const tags = gAll("input[type='checkbox']").map((i)=> i.value);
     const query = {
         tags: []
     };
@@ -103,10 +103,6 @@ function setQuery(query) {
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll("input[id][type='checkbox']").forEach(i=>{
-        const v = document.querySelector('label[for="'+i.id+'"]').textContent.trim();
-        i.value = v;
-    })
     const query = getQuery();
     setQuery(query);
 
@@ -122,10 +118,10 @@ document.addEventListener("DOMContentLoaded", function() {
     }
     document.getElementById("zona").value = query.zona??"";
     document.getElementById("precio").value = query.precio??"";
-    gAll("input[id][type='checkbox']").forEach(i=>{
+    gAll("input[type='checkbox']").forEach(i=>{
         i.checked = query.tags.includes(i.value)
     });
-    document.querySelectorAll("select[id], input[id]").forEach(n=>{
+    document.querySelectorAll("select, input").forEach(n=>{
         n.addEventListener("change", filtrar);
     })
     filtrar();
