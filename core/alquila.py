@@ -87,22 +87,20 @@ class AlqDriver(Driver):
 
     def iter_combo(self, input: str, items: str):
         dvs = None
-        index = 0
+        index = -1
         while True:
+            index += 1
             if dvs is None:
                 self.click(input)
                 div = self.wait(items)
-                # Filtrar solo elementos visibles
-                all_divs = div.find_elements(By.XPATH, "./div")
-                dvs = [d for d in all_divs if d.is_displayed()]
+                dvs = div.find_elements(By.XPATH, "./div")
             info = ComboOption.parse(dvs, index)
             if info is None:
                 break
-            index += 1
             if info.items == 0:
                 continue
             info.dom.click()
-            dvs = None  # Resetear la lista para el próximo ciclo
+            dvs = None
             yield info
 
     def iter_combo_js(self, input: str, items: str):
@@ -175,7 +173,7 @@ class AlqDriver(Driver):
 
     def iter_municipios(self):
         info: ComboOption
-        for info in self.iter_combo_js(
+        for info in self.iter_combo(
             input="mainPanel:pf_comboValoresMunicipioInput",
             items="mainPanel:pf_comboValoresMunicipioItems",
         ):
@@ -192,7 +190,7 @@ class AlqDriver(Driver):
             return $("*[id='mainPanel:pf_comboValoresMunicipioInput']").val().trim().replace(/\s+\S+$/, "");
         '''.strip())
         info: ComboOption
-        for info in self.iter_combo_js(
+        for info in self.iter_combo(
             input="mainPanel:pf_comboValoresDistritoPanel",
             items="mainPanel:pf_comboValoresDistritoItems",
         ):
@@ -215,6 +213,7 @@ class AlqDriver(Driver):
     def jClick(self, node):
         self.execute_script("jQuery(arguments[0]).click()", node)
 
+
 class Alquila:
     URL = "https://gestiona.comunidad.madrid/gpal_inter/secure/include/viviendapublicada/busqViviendasPublicadasContenedor.jsf"
 
@@ -227,7 +226,7 @@ class Alquila:
             tbody = soup.find(
                 "tbody", attrs={"id": "mainPanel:viviendasTable:table:tb"})
             for tr in tbody.select("tr"):
-                vals = tmap(get_val, tr.findAll("td"))
+                vals = tmap(get_val, tr.find_all("td"))
                 if len(vals) == 10:
                     yield vals
 
@@ -259,7 +258,7 @@ class Alquila:
             soup = w.get_soup()
             div = soup.find(
                 "div", attrs={"id": "mainPanel:solapaDetalle:content"})
-            vals = tmap(get_val, div.findAll("input"))
+            vals = tmap(get_val, div.find_all("input"))
             if len(vals) < 12:
                 raise BadAlqFicha()
             return soup, vals
