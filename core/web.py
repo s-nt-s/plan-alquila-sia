@@ -213,6 +213,7 @@ class Driver:
     def __init__(self, browser="firefox", wait=60, useragent=None):
         self._driver: WebDriver = None
         self.visible = (os.environ.get("DRIVER_VISIBLE") == "1")
+        logger.info(f"Dirver.visible={self.visible}")
         self._wait = wait
         self.useragent = useragent
         self.browser = browser
@@ -225,7 +226,8 @@ class Driver:
 
     def _create_firefox(self):
         options = FFoptions()
-        options.headless = not self.visible
+        if not self.visible:
+            options.add_argument("--headless")
         profile = webdriver.FirefoxProfile()
         if self.useragent:
             profile.set_preference(
