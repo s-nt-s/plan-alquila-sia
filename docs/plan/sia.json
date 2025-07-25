@@ -453,6 +453,7 @@
   {
     "id": 32406,
     "publicado": "2025-07-23",
+    "modificado": "2025-07-25",
     "direccion": "Calle Antonia Calas 13",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -465,7 +466,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/r0upoSt.jpeg?1",
       "https://i.imgur.com/qrKyZEs.jpeg?2",
