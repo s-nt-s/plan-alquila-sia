@@ -99,36 +99,6 @@
     ]
   },
   {
-    "id": 32377,
-    "publicado": "2025-07-07",
-    "modificado": "2025-07-22",
-    "direccion": "Paseo De Las Acacias 4",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Acacias",
-    "planta": 6,
-    "orientacion": "Exterior",
-    "precio": 1085,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/JFlEUfp.jpeg?1",
-      "https://i.imgur.com/gZoI3EF.jpeg?2",
-      "https://i.imgur.com/nLQmUMm.jpeg?3",
-      "https://i.imgur.com/hpc1UWg.jpeg?4",
-      "https://i.imgur.com/7N6Gooc.jpeg?5",
-      "https://i.imgur.com/2lfHibP.jpeg?6",
-      "https://i.imgur.com/mqPuuR5.jpeg?7",
-      "https://i.imgur.com/unzRCan.jpeg?8",
-      "https://i.imgur.com/iTOKPi0.jpeg?10",
-      "https://i.imgur.com/nOrNyMn.jpeg?11"
-    ]
-  },
-  {
     "id": 32384,
     "publicado": "2025-07-19",
     "direccion": "Calle Francisco Puertas 4",
@@ -367,30 +337,6 @@
       "https://i.imgur.com/Cu5RxmJ.jpeg?8",
       "https://i.imgur.com/5PuCzQg.jpeg?9",
       "https://i.imgur.com/yP8j79v.jpeg?10"
-    ]
-  },
-  {
-    "id": 32406,
-    "publicado": "2025-07-23",
-    "modificado": "2025-07-25",
-    "direccion": "Calle Antonia Calas 13",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "San Diego",
-    "planta": 4,
-    "orientacion": "Mixto",
-    "precio": 550,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/r0upoSt.jpeg?1",
-      "https://i.imgur.com/qrKyZEs.jpeg?2",
-      "https://i.imgur.com/dfCLtfY.jpeg?3",
-      "https://i.imgur.com/EZAHuKF.jpeg?4"
     ]
   },
   {
