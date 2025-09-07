@@ -47,7 +47,7 @@ class ImgUr:
         if isinstance(client_id, str):
             client_id = client_id.strip()
         if client_id in (None, ""):
-            logger.warn("env IMGUR_CLIENT empty")
+            logger.warning("env IMGUR_CLIENT empty")
             return None
         return client_id
 
@@ -80,6 +80,8 @@ class ImgUr:
             )
         except requests.exceptions.SSLError:
             raise ImgUrlException(ImgUr.UPLOAD+" no disponible (ssl error)")
+        except requests.exceptions.ChunkedEncodingError as e:
+            raise ImgUrlException(ImgUr.UPLOAD+" "+str(e))
 
         if not r.text:
             raise ImgUrlException("Not json response")
