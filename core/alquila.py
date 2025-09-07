@@ -18,6 +18,8 @@ urllib3.disable_warnings()
 
 logger = logging.getLogger(__name__)
 
+re_sp = re.compile(r"\s+")
+
 
 class BadAlqFicha(RetryException):
     pass
@@ -287,20 +289,26 @@ class Alquila:
         if ps.planta is None:
             ps.planta = "Casa"
 
-        img = w.execute_script("return jQuery(arguments[0]).find('img')[0]", detail)
+        img: WebElement = w.execute_script("return jQuery(arguments[0]).find('img')[0]", detail)
         while img:
             w.jClick(img)
             img = None
             w.waitLoaded()
-            pop: WebElement = w.driver.find_element(By.ID, "mainPanel:popupGaleria_container")
+            error = w.jQuerySelector("*[id='msgListaErrores']:visible")
+            if error:
+                logger.critical(re_sp.sub(" ", error.text).strip())
+                w.click("linkAceptar")
+                w.waitLoaded()
+                break
+            pop = w.querySelector("*[id='mainPanel:popupGaleria_container']")
             src = w.get_soup().find(
                 "img", attrs={"id": "mainPanel:imagenPopup"})
             src = src.attrs["src"]
             if src not in ps.imgs:
                 ps.imgs.append(src)
-                img = pop.find_element(By.CSS_SELECTOR, "a[title='Ver foto siguiente']")
+                img = w.querySelector("a[title='Ver foto siguiente']", document=pop)
             if img is None:
-                cls = pop.find_element(By.CSS_SELECTOR, "img[alt='Cancelar']")
+                cls = w.querySelector("img[alt='Cancelar']", document=pop)
                 w.jClick(cls)
                 w.waitLoaded()
 

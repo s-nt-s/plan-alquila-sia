@@ -16,7 +16,7 @@ from selenium.common.exceptions import (ElementNotInteractableException,
                                         ElementNotVisibleException,
                                         StaleElementReferenceException,
                                         TimeoutException, WebDriverException,
-                                        JavascriptException)
+                                        JavascriptException, NoSuchElementException)
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.chrome.options import Options as CMoptions
 from selenium.webdriver.common.by import By
@@ -453,6 +453,14 @@ class Driver:
 
     def execute_script(self, *args, **kwargs):
         return self.driver.execute_script(*args, **kwargs)
+
+    def querySelector(self, slc: str, document: WebElement = None) -> WebElement | None:
+        obj = self.driver.execute_script('''return (arguments[1]??document).querySelector(arguments[0])''', slc, document)
+        return obj
+
+    def jQuerySelector(self, slc: str, document: WebElement = None) -> WebElement | None:
+        obj = self.driver.execute_script('''return jQuery(arguments[1]??document).find(arguments[0])[0]''', slc, document)
+        return obj
 
     def pass_cookies(self, session=None):
         if self._driver is None:
