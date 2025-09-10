@@ -304,7 +304,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/hahYMYa.jpeg?3",
       "https://i.imgur.com/ngzL2Ma.jpeg?5",
@@ -314,6 +314,39 @@
       "https://i.imgur.com/SXkoyrQ.jpeg?10",
       "https://i.imgur.com/Fdg9InJ.jpeg?11",
       "https://i.imgur.com/fRDRYEJ.jpeg?12"
+    ]
+  },
+  {
+    "id": 32433,
+    "publicado": "2025-09-10",
+    "direccion": "Calle Esteban Mora 55",
+    "municipio": "Madrid",
+    "distrito": "Ciudad Lineal",
+    "barrio": "San Pascual",
+    "planta": 3,
+    "orientacion": "Mixto",
+    "precio": 800,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/7AinIpj.jpeg?2",
+      "https://i.imgur.com/M2Iu7pd.jpeg?3",
+      "https://i.imgur.com/XaCxrzH.jpeg?4",
+      "https://i.imgur.com/Nwc6jYo.jpeg?5",
+      "https://i.imgur.com/R3gbcod.jpeg?6",
+      "https://i.imgur.com/X7GptZp.jpeg?7",
+      "https://i.imgur.com/6cK4v2Q.jpeg?8",
+      "https://i.imgur.com/t2ExFsq.jpeg?9",
+      "https://i.imgur.com/a1UZILy.jpeg?10",
+      "https://i.imgur.com/jmcaBBW.jpeg?11",
+      "https://i.imgur.com/PxZDckY.jpeg?12",
+      "https://i.imgur.com/tuISJt4.jpeg?13",
+      "https://i.imgur.com/PbCvTFz.jpeg?14",
+      "https://i.imgur.com/p6s9yg7.jpeg?15"
     ]
   },
   {
