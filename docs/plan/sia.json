@@ -183,6 +183,7 @@
   {
     "id": 32420,
     "publicado": "2025-09-07",
+    "modificado": "2025-09-13",
     "direccion": "Calle Antonio De Burgos 4",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -195,7 +196,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/NX9F9vd.jpeg?2",
       "https://i.imgur.com/qlucdL5.jpeg?3",
@@ -206,30 +207,35 @@
     ]
   },
   {
-    "id": 32426,
-    "publicado": "2025-09-07",
-    "direccion": "Calle Virgen De Lluc 38",
+    "id": 32422,
+    "publicado": "2025-09-13",
+    "direccion": "Calle Convenio 41",
     "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "barrio": "Concepci\u00f3n",
-    "planta": 4,
+    "distrito": "Puente de Vallecas",
+    "barrio": "San Diego",
+    "planta": 2,
     "orientacion": "Exterior",
-    "precio": 1000,
+    "precio": 950,
     "dormitorios": 2,
     "aseos": 1,
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
-      "https://i.imgur.com/dkzgGSZ.jpeg?2",
-      "https://i.imgur.com/mb1f6oa.jpeg?3",
-      "https://i.imgur.com/7Yfn6CO.jpeg?4",
-      "https://i.imgur.com/7pMfrhS.jpeg?5",
-      "https://i.imgur.com/1vfPDKj.jpeg?6",
-      "https://i.imgur.com/THGQvjf.jpeg?7",
-      "https://i.imgur.com/Tw9fCLo.jpeg?8",
-      "https://i.imgur.com/mUUIeKI.jpeg?9"
+      "https://i.imgur.com/nGh76QH.jpeg?1",
+      "https://i.imgur.com/bC3lxc9.jpeg?2",
+      "https://i.imgur.com/kLWD3Jj.jpeg?3",
+      "https://i.imgur.com/e7Diua4.jpeg?4",
+      "https://i.imgur.com/LI0jyfQ.jpeg?5",
+      "https://i.imgur.com/W4okLhy.jpeg?6",
+      "https://i.imgur.com/R93lQa0.jpeg?7",
+      "https://i.imgur.com/z4jGjom.jpeg?8",
+      "https://i.imgur.com/xz7xT6l.jpeg?9",
+      "https://i.imgur.com/ZYTMoSf.jpeg?10",
+      "https://i.imgur.com/gXuUDp5.jpeg?11",
+      "https://i.imgur.com/RWZRGAp.jpeg?12",
+      "https://i.imgur.com/ljSZenV.jpeg?13"
     ]
   },
   {
@@ -265,7 +271,7 @@
   {
     "id": 32428,
     "publicado": "2025-09-07",
-    "modificado": "2025-09-10",
+    "modificado": "2025-09-13",
     "direccion": "Calle Salitre 9",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -277,7 +283,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/QFJqJlT.jpeg?2",
       "https://i.imgur.com/kRR6f78.jpeg?3",
@@ -314,6 +320,30 @@
       "https://i.imgur.com/SXkoyrQ.jpeg?10",
       "https://i.imgur.com/Fdg9InJ.jpeg?11",
       "https://i.imgur.com/fRDRYEJ.jpeg?12"
+    ]
+  },
+  {
+    "id": 32432,
+    "publicado": "2025-09-13",
+    "direccion": "Calle San Fidel 63",
+    "municipio": "Madrid",
+    "distrito": "Ciudad Lineal",
+    "barrio": "Pueblo Nuevo",
+    "planta": 0,
+    "orientacion": "Exterior",
+    "precio": 750,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/2dNQDDO.jpeg?1",
+      "https://i.imgur.com/hDu7WH9.jpeg?2",
+      "https://i.imgur.com/imKvi7D.jpeg?3",
+      "https://i.imgur.com/4eZHsbN.jpeg?4",
+      "https://i.imgur.com/QJYPtAS.jpeg?5"
     ]
   },
   {
