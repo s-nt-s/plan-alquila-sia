@@ -129,6 +129,7 @@
   {
     "id": 32415,
     "publicado": "2025-09-07",
+    "modificado": "2025-09-19",
     "direccion": "Calle Pico Artilleros 83",
     "municipio": "Madrid",
     "distrito": "Moratalaz",
@@ -141,7 +142,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/kuuW7WA.jpeg?1",
       "https://i.imgur.com/AAz6oB6.jpeg?2",
@@ -181,66 +182,9 @@
     ]
   },
   {
-    "id": 32420,
-    "publicado": "2025-09-07",
-    "modificado": "2025-09-13",
-    "direccion": "Calle Antonio De Burgos 4",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "Palomeras Bajas",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/NX9F9vd.jpeg?2",
-      "https://i.imgur.com/qlucdL5.jpeg?3",
-      "https://i.imgur.com/1VVRFyA.jpeg?4",
-      "https://i.imgur.com/tz8ODF3.jpeg?5",
-      "https://i.imgur.com/vT5DGwk.jpeg?6",
-      "https://i.imgur.com/RRwqyMB.jpeg?7"
-    ]
-  },
-  {
-    "id": 32422,
-    "publicado": "2025-09-13",
-    "direccion": "Calle Convenio 41",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "San Diego",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 950,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/nGh76QH.jpeg?1",
-      "https://i.imgur.com/bC3lxc9.jpeg?2",
-      "https://i.imgur.com/kLWD3Jj.jpeg?3",
-      "https://i.imgur.com/e7Diua4.jpeg?4",
-      "https://i.imgur.com/LI0jyfQ.jpeg?5",
-      "https://i.imgur.com/W4okLhy.jpeg?6",
-      "https://i.imgur.com/R93lQa0.jpeg?7",
-      "https://i.imgur.com/z4jGjom.jpeg?8",
-      "https://i.imgur.com/xz7xT6l.jpeg?9",
-      "https://i.imgur.com/ZYTMoSf.jpeg?10",
-      "https://i.imgur.com/gXuUDp5.jpeg?11",
-      "https://i.imgur.com/RWZRGAp.jpeg?12",
-      "https://i.imgur.com/ljSZenV.jpeg?13"
-    ]
-  },
-  {
     "id": 32423,
     "publicado": "2025-09-16",
+    "modificado": "2025-09-19",
     "direccion": "Calle Isla De Sumatra 24",
     "municipio": "Madrid",
     "distrito": "Fuencarral-El Pardo",
@@ -253,7 +197,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/ZK2vOiT.jpeg?6",
       "https://i.imgur.com/pkM49Oh.jpeg?7",
@@ -323,36 +267,9 @@
     ]
   },
   {
-    "id": 32429,
-    "publicado": "2025-09-07",
-    "modificado": "2025-09-10",
-    "direccion": "Calle Periana 53",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "San Ferm\u00edn",
-    "planta": 3,
-    "orientacion": "Mixto",
-    "precio": 1010,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/hahYMYa.jpeg?3",
-      "https://i.imgur.com/ngzL2Ma.jpeg?5",
-      "https://i.imgur.com/xfZ5jU8.jpeg?6",
-      "https://i.imgur.com/LuCRaSr.jpeg?8",
-      "https://i.imgur.com/ahyf7Cw.jpeg?9",
-      "https://i.imgur.com/SXkoyrQ.jpeg?10",
-      "https://i.imgur.com/Fdg9InJ.jpeg?11",
-      "https://i.imgur.com/fRDRYEJ.jpeg?12"
-    ]
-  },
-  {
     "id": 32432,
     "publicado": "2025-09-13",
+    "modificado": "2025-09-19",
     "direccion": "Calle San Fidel 63",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -365,7 +282,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/2dNQDDO.jpeg?1",
       "https://i.imgur.com/hDu7WH9.jpeg?2",
@@ -377,6 +294,7 @@
   {
     "id": 32433,
     "publicado": "2025-09-10",
+    "modificado": "2025-09-19",
     "direccion": "Calle Esteban Mora 55",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -389,7 +307,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/7AinIpj.jpeg?2",
       "https://i.imgur.com/M2Iu7pd.jpeg?3",
@@ -456,6 +374,34 @@
       "https://i.imgur.com/7jPi01U.jpeg?5",
       "https://i.imgur.com/9vJATeO.jpeg?6",
       "https://i.imgur.com/ajw0lGG.jpeg?7"
+    ]
+  },
+  {
+    "id": 32438,
+    "publicado": "2025-09-19",
+    "direccion": "Calle Bario 15",
+    "municipio": "Madrid",
+    "distrito": "Villaverde",
+    "barrio": "Los Rosales",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 1100,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/7iQBK2j.jpeg?1",
+      "https://i.imgur.com/WzIyPVc.jpeg?2",
+      "https://i.imgur.com/RSA3igF.jpeg?3",
+      "https://i.imgur.com/RpnVO6X.jpeg?4",
+      "https://i.imgur.com/FR4n7ig.jpeg?5",
+      "https://i.imgur.com/cLjkwq0.jpeg?6",
+      "https://i.imgur.com/ZWFoagJ.jpeg?8",
+      "https://i.imgur.com/j2bJcsf.jpeg?9",
+      "https://i.imgur.com/2EsIldP.jpeg?10"
     ]
   }
 ]
