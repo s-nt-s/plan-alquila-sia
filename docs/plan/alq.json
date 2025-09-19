@@ -5517,5 +5517,28 @@
     "porteria": true,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 276199,
+    "publicado": "2025-09-19",
+    "direccion": "Calle Los Y\u00e9benes, 144",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "planta": 9,
+    "precio": 1280,
+    "metros": 61.58,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
+    "imgs": []
   }
 ]

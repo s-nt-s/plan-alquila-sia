@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 19 Sep 2025 13:57:22 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Sep 2025 19:04:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1719,6 +1719,14 @@
 			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276197?2025-09-19</guid>
+		</item>
+		<item>
+			<title>1280€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276199</link>
+			<description>C/ Los Yébenes, 144,&lt;br/&gt;9º con ascensor,&lt;br/&gt;62m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276199</description>
+			<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276199?2025-09-19</guid>
 		</item>
 	</channel>
 </rss>
