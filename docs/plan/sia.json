@@ -182,35 +182,6 @@
     ]
   },
   {
-    "id": 32423,
-    "publicado": "2025-09-16",
-    "modificado": "2025-09-19",
-    "direccion": "Calle Isla De Sumatra 24",
-    "municipio": "Madrid",
-    "distrito": "Fuencarral-El Pardo",
-    "barrio": "Valverde",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 950,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/ZK2vOiT.jpeg?6",
-      "https://i.imgur.com/pkM49Oh.jpeg?7",
-      "https://i.imgur.com/IDMYNVd.jpeg?8",
-      "https://i.imgur.com/c6M23he.jpeg?9",
-      "https://i.imgur.com/pl4MCF7.jpeg?10",
-      "https://i.imgur.com/fAKPnfS.jpeg?11",
-      "https://i.imgur.com/XseBe5q.jpeg?12",
-      "https://i.imgur.com/4EYl3Sk.jpeg?13",
-      "https://i.imgur.com/xSJmOUN.jpeg?14"
-    ]
-  },
-  {
     "id": 32427,
     "publicado": "2025-09-07",
     "direccion": "Calle Antonio De Leyva 72",
@@ -238,32 +209,6 @@
       "https://i.imgur.com/9u2gsQr.jpeg?10",
       "https://i.imgur.com/p2H3nPS.jpeg?11",
       "https://i.imgur.com/biQWsM3.jpeg?12"
-    ]
-  },
-  {
-    "id": 32428,
-    "publicado": "2025-09-07",
-    "modificado": "2025-09-13",
-    "direccion": "Calle Salitre 9",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Embajadores",
-    "planta": 1,
-    "precio": 800,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/QFJqJlT.jpeg?2",
-      "https://i.imgur.com/kRR6f78.jpeg?3",
-      "https://i.imgur.com/ao1FW06.jpeg?4",
-      "https://i.imgur.com/5dsO7le.jpeg?5",
-      "https://i.imgur.com/3OmGny3.jpeg?6",
-      "https://i.imgur.com/F3SGmhL.jpeg?7",
-      "https://i.imgur.com/ISZi9C9.jpeg?8"
     ]
   },
   {
