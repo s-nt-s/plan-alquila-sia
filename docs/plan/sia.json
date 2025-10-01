@@ -160,6 +160,7 @@
   {
     "id": 32419,
     "publicado": "2025-09-07",
+    "modificado": "2025-10-01",
     "direccion": "Calle Hoyuelo 3",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -172,7 +173,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": true,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/eJGV9U4.jpeg?5",
       "https://i.imgur.com/4Mbao5r.jpeg?7",
@@ -217,6 +218,7 @@
   {
     "id": 32427,
     "publicado": "2025-09-07",
+    "modificado": "2025-10-01",
     "direccion": "Calle Antonio De Leyva 72",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -229,7 +231,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/g50dBw6.jpeg?2",
       "https://i.imgur.com/xbkKew8.jpeg?3",
@@ -247,7 +249,7 @@
   {
     "id": 32432,
     "publicado": "2025-09-13",
-    "modificado": "2025-09-25",
+    "modificado": "2025-10-01",
     "direccion": "Calle San Fidel 63",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -260,7 +262,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/2dNQDDO.jpeg?1",
       "https://i.imgur.com/hDu7WH9.jpeg?2",
@@ -333,6 +335,7 @@
   {
     "id": 32435,
     "publicado": "2025-09-10",
+    "modificado": "2025-10-01",
     "direccion": "Calle Pez 25",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -345,7 +348,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Dwi5VLu.jpeg?2",
       "https://i.imgur.com/8W0vCRb.jpeg?3",
@@ -387,6 +390,7 @@
   {
     "id": 32437,
     "publicado": "2025-09-22",
+    "modificado": "2025-10-01",
     "direccion": "Calle Cayetano Pando 13",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -403,14 +407,15 @@
     "imgs": [
       "https://i.imgur.com/tR85pEP.jpeg?1",
       "https://i.imgur.com/LrRA7BA.jpeg?2",
-      "https://i.imgur.com/YhmrPZ9.jpeg?3",
       "https://i.imgur.com/19v8bCE.jpeg?4",
       "https://i.imgur.com/2afRcVO.jpeg?5",
       "https://i.imgur.com/sNzQ3T0.jpeg?6",
       "https://i.imgur.com/LVvYRdO.jpeg?7",
       "https://i.imgur.com/vQVRNeJ.jpeg?8",
       "https://i.imgur.com/QyFsiwv.jpeg?9",
-      "https://i.imgur.com/poV1aAX.jpeg?11"
+      "https://i.imgur.com/poV1aAX.jpeg?11",
+      "https://i.imgur.com/aJJlYM6.jpeg?12",
+      "https://i.imgur.com/9YVmGyK.jpeg?13"
     ]
   },
   {
@@ -440,6 +445,32 @@
       "https://i.imgur.com/ZWFoagJ.jpeg?8",
       "https://i.imgur.com/j2bJcsf.jpeg?9",
       "https://i.imgur.com/2EsIldP.jpeg?10"
+    ]
+  },
+  {
+    "id": 32441,
+    "publicado": "2025-10-01",
+    "direccion": "Calle General Manso 2",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Puerta del \u00c1ngel",
+    "planta": 0,
+    "orientacion": "Interior",
+    "precio": 850,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/TrHMvA8.jpeg?4",
+      "https://i.imgur.com/dtwkFFu.jpeg?9",
+      "https://i.imgur.com/B5Ml8ro.jpeg?10",
+      "https://i.imgur.com/mWvdrEI.jpeg?11",
+      "https://i.imgur.com/MBwZZUl.jpeg?12",
+      "https://i.imgur.com/6sGmqny.jpeg?13",
+      "https://i.imgur.com/7wBDZVH.jpeg?14"
     ]
   },
   {
