@@ -1,39 +1,5 @@
 [
   {
-    "id": 32340,
-    "publicado": "2025-05-07",
-    "direccion": "Calle Amparo 84",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Embajadores",
-    "planta": 1,
-    "orientacion": "Exterior",
-    "precio": 1800,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "F",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/myhnpVW.jpeg?1",
-      "https://i.imgur.com/B7kZdnQ.jpeg?2",
-      "https://i.imgur.com/7E3P8uU.jpeg?3",
-      "https://i.imgur.com/sEjsmVY.jpeg?4",
-      "https://i.imgur.com/m10wsdE.jpeg?5",
-      "https://i.imgur.com/UKRL4Xi.jpeg?6",
-      "https://i.imgur.com/UKSqC9O.jpeg?7",
-      "https://i.imgur.com/RLndTEP.jpeg?8",
-      "https://i.imgur.com/AKPns0e.jpeg?9",
-      "https://i.imgur.com/2AvmLwv.jpeg?10",
-      "https://i.imgur.com/JTJbuPI.jpeg?11",
-      "https://i.imgur.com/l7iRGuG.jpeg?12",
-      "https://i.imgur.com/LZSbxRn.jpeg?13",
-      "https://i.imgur.com/EBAVGoR.jpeg?14",
-      "https://i.imgur.com/QQO75My.jpeg?15"
-    ]
-  },
-  {
     "id": 32369,
     "publicado": "2025-05-28",
     "direccion": "Pasaje Conde De Belchite 4",
@@ -302,31 +268,6 @@
     ]
   },
   {
-    "id": 32435,
-    "publicado": "2025-09-10",
-    "modificado": "2025-10-01",
-    "direccion": "Calle Pez 25",
-    "municipio": "Madrid",
-    "distrito": "Centro",
-    "barrio": "Universidad",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 1670,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/Dwi5VLu.jpeg?2",
-      "https://i.imgur.com/8W0vCRb.jpeg?3",
-      "https://i.imgur.com/7jPi01U.jpeg?5",
-      "https://i.imgur.com/9vJATeO.jpeg?6",
-      "https://i.imgur.com/ajw0lGG.jpeg?7"
-    ]
-  },
-  {
     "id": 32436,
     "publicado": "2025-09-22",
     "direccion": "Calle Puentelarra 6",
@@ -467,6 +408,58 @@
       "https://i.imgur.com/iQNasPi.jpeg?14",
       "https://i.imgur.com/EpQzAkp.jpeg?15",
       "https://i.imgur.com/j3dY3ID.jpeg?16"
+    ]
+  },
+  {
+    "id": 32447,
+    "publicado": "2025-10-04",
+    "direccion": "Calle Reina De Africa 10",
+    "municipio": "Madrid",
+    "distrito": "Puente de Vallecas",
+    "barrio": "Palomeras Bajas",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 898.62,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/14Rch8r.jpeg?1",
+      "https://i.imgur.com/DtErSO2.jpeg?2",
+      "https://i.imgur.com/Y7TioYY.jpeg?3",
+      "https://i.imgur.com/mZ9JnDh.jpeg?4",
+      "https://i.imgur.com/YnvE2qJ.jpeg?5",
+      "https://i.imgur.com/1mH7Z3s.jpeg?6",
+      "https://i.imgur.com/pCjj2iY.jpeg?7"
+    ]
+  },
+  {
+    "id": 32449,
+    "publicado": "2025-10-04",
+    "direccion": "Calle Ciudad Real 32",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Delicias",
+    "planta": 1,
+    "orientacion": "Interior",
+    "precio": 1200,
+    "dormitorios": 3,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/YHA6wR7.jpeg?1",
+      "https://i.imgur.com/yrOTOXD.jpeg?2",
+      "https://i.imgur.com/ocVv7pc.jpeg?3",
+      "https://i.imgur.com/WSczG1C.jpeg?4",
+      "https://i.imgur.com/1IVkaGa.jpeg?5",
+      "https://i.imgur.com/BSvIYaq.jpeg?6",
+      "https://i.imgur.com/79JxVf9.jpeg?7"
     ]
   }
 ]
