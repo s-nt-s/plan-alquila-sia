@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 07 Oct 2025 14:05:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 07 Oct 2025 19:01:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -441,14 +441,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271084?2025-06-16</guid>
 		</item>
 		<item>
-			<title>760€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271177</link>
-			<description>C/ Nicolás Godoy, 18,&lt;br/&gt;Ss sin ascensor,&lt;br/&gt;53m², 3 🛏,&lt;br/&gt;1 🛀, 8 📷.&lt;br/&gt;alq/271177</description>
-			<pubDate>Tue, 18 Feb 2020 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271177?2020-02-18</guid>
-		</item>
-		<item>
 			<title>1550€ Usera</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271212</link>
 			<description>Av. Córdoba, 29,&lt;br/&gt;8º con ascensor,&lt;br/&gt;76m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/271212</description>
@@ -487,6 +479,14 @@
 			<pubDate>Sat, 13 Sep 2025 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271833?2025-09-13</guid>
+		</item>
+		<item>
+			<title>1290€ Hortaleza</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271838</link>
+			<description>C/ Pedroñeras, 10,&lt;br/&gt;10º con ascensor,&lt;br/&gt;82m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271838</description>
+			<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Hortaleza</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271838?2025-10-07</guid>
 		</item>
 		<item>
 			<title>1275€ Chamartín</title>
