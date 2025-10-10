@@ -60,31 +60,6 @@
     ]
   },
   {
-    "id": 32419,
-    "publicado": "2025-09-07",
-    "modificado": "2025-10-01",
-    "direccion": "Calle Hoyuelo 3",
-    "municipio": "Madrid",
-    "distrito": "Retiro",
-    "barrio": "Adelfas",
-    "planta": 6,
-    "orientacion": "Mixto",
-    "precio": 1070,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": true,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/eJGV9U4.jpeg?5",
-      "https://i.imgur.com/4Mbao5r.jpeg?7",
-      "https://i.imgur.com/TmrIJro.jpeg?8",
-      "https://i.imgur.com/SbFcKms.jpeg?9",
-      "https://i.imgur.com/LdCykBj.jpeg?10"
-    ]
-  },
-  {
     "id": 32421,
     "publicado": "2025-09-22",
     "direccion": "Calle Coalicion 16",
@@ -115,89 +90,6 @@
       "https://i.imgur.com/Xf5D51e.jpeg?13",
       "https://i.imgur.com/3yk3qtY.jpeg?14",
       "https://i.imgur.com/2YC1aRE.jpeg?15"
-    ]
-  },
-  {
-    "id": 32427,
-    "publicado": "2025-09-07",
-    "modificado": "2025-10-01",
-    "direccion": "Calle Antonio De Leyva 72",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "barrio": "Opa\u00f1el",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 1350,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/g50dBw6.jpeg?2",
-      "https://i.imgur.com/xbkKew8.jpeg?3",
-      "https://i.imgur.com/2m70G5y.jpeg?4",
-      "https://i.imgur.com/VsS3rcz.jpeg?5",
-      "https://i.imgur.com/SyPUN9C.jpeg?6",
-      "https://i.imgur.com/Ydy5kZz.jpeg?7",
-      "https://i.imgur.com/J81vaSm.jpeg?8",
-      "https://i.imgur.com/65ubrB1.jpeg?9",
-      "https://i.imgur.com/9u2gsQr.jpeg?10",
-      "https://i.imgur.com/p2H3nPS.jpeg?11",
-      "https://i.imgur.com/biQWsM3.jpeg?12"
-    ]
-  },
-  {
-    "id": 32432,
-    "publicado": "2025-09-13",
-    "modificado": "2025-10-01",
-    "direccion": "Calle San Fidel 63",
-    "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "barrio": "Pueblo Nuevo",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/2dNQDDO.jpeg?1",
-      "https://i.imgur.com/hDu7WH9.jpeg?2",
-      "https://i.imgur.com/imKvi7D.jpeg?3",
-      "https://i.imgur.com/4eZHsbN.jpeg?4",
-      "https://i.imgur.com/QJYPtAS.jpeg?5"
-    ]
-  },
-  {
-    "id": 32434,
-    "publicado": "2025-09-07",
-    "modificado": "2025-09-25",
-    "direccion": "Calle Zigia 43",
-    "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "barrio": "Quintana",
-    "planta": 1,
-    "orientacion": "Mixto",
-    "precio": 925,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/q9PVp59.jpeg?1",
-      "https://i.imgur.com/JgcXetS.jpeg?3",
-      "https://i.imgur.com/oAv8iQj.jpeg?4",
-      "https://i.imgur.com/scbQglC.jpeg?5",
-      "https://i.imgur.com/LeNzoaP.jpeg?6",
-      "https://i.imgur.com/N94AkGt.jpeg?7",
-      "https://i.imgur.com/ibnWH4M.jpeg?8"
     ]
   },
   {
@@ -346,6 +238,7 @@
   {
     "id": 32447,
     "publicado": "2025-10-04",
+    "modificado": "2025-10-10",
     "direccion": "Calle Reina De Africa 10",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -358,7 +251,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/14Rch8r.jpeg?1",
       "https://i.imgur.com/DtErSO2.jpeg?2",
@@ -393,6 +286,35 @@
       "https://i.imgur.com/1IVkaGa.jpeg?5",
       "https://i.imgur.com/BSvIYaq.jpeg?6",
       "https://i.imgur.com/79JxVf9.jpeg?7"
+    ]
+  },
+  {
+    "id": 32452,
+    "publicado": "2025-10-10",
+    "direccion": "Calle Madera 36",
+    "municipio": "Madrid",
+    "distrito": "Centro",
+    "barrio": "Universidad",
+    "planta": 0,
+    "orientacion": "Interior",
+    "precio": 900,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/nktprJG.jpeg?1",
+      "https://i.imgur.com/dofCG3n.jpeg?2",
+      "https://i.imgur.com/hsEKbqK.jpeg?3",
+      "https://i.imgur.com/voZfLMu.jpeg?4",
+      "https://i.imgur.com/emWguMz.jpeg?5",
+      "https://i.imgur.com/vU2rpK5.jpeg?6",
+      "https://i.imgur.com/Hp1wAK2.jpeg?7",
+      "https://i.imgur.com/oNvgvRL.jpeg?8",
+      "https://i.imgur.com/hohsWxy.jpeg?9",
+      "https://i.imgur.com/nNYSbVM.jpeg?10"
     ]
   }
 ]
