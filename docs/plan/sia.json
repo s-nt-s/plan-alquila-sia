@@ -267,6 +267,34 @@
     ]
   },
   {
+    "id": 32451,
+    "publicado": "2025-10-16",
+    "direccion": "Calle Villamanin 54",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "barrio": "Lucero",
+    "planta": 5,
+    "orientacion": "Exterior",
+    "precio": 1100,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/fSygZpP.jpeg?10",
+      "https://i.imgur.com/SJvjlfH.jpeg?11",
+      "https://i.imgur.com/khvy0fs.jpeg?12",
+      "https://i.imgur.com/QF2Elj6.jpeg?13",
+      "https://i.imgur.com/NNQgUmz.jpeg?14",
+      "https://i.imgur.com/7c1PO0p.jpeg?15",
+      "https://i.imgur.com/Lq90wFv.jpeg?16",
+      "https://i.imgur.com/ats1JjI.jpeg?17",
+      "https://i.imgur.com/qg80qUf.jpeg?18"
+    ]
+  },
+  {
     "id": 32452,
     "publicado": "2025-10-10",
     "direccion": "Calle Madera 36",
