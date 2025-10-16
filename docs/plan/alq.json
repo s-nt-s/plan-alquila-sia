@@ -3970,6 +3970,7 @@
   {
     "id": 276167,
     "publicado": "2025-09-09",
+    "modificado": "2025-10-16",
     "direccion": "Calle Celanova, 13",
     "municipio": "Madrid",
     "distrito": "Fuencarral-El Pardo",
@@ -3978,6 +3979,7 @@
     "metros": 55,
     "dormitorios": 2,
     "aseos": 2,
+    "cee": "F",
     "mascotas": false,
     "amueblada": false,
     "ascensor": false,
