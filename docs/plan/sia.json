@@ -126,7 +126,7 @@
   {
     "id": 32437,
     "publicado": "2025-09-22",
-    "modificado": "2025-10-01",
+    "modificado": "2025-10-19",
     "direccion": "Calle Cayetano Pando 13",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -139,7 +139,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/tR85pEP.jpeg?1",
       "https://i.imgur.com/LrRA7BA.jpeg?2",
@@ -326,6 +326,7 @@
   {
     "id": 32453,
     "publicado": "2025-10-16",
+    "modificado": "2025-10-19",
     "direccion": "Calle Valdetorres Del Jarama 9",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -338,7 +339,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/E8U80Jz.jpeg?28",
       "https://i.imgur.com/A0bL3mc.jpeg?31",
