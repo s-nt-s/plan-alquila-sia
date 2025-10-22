@@ -238,6 +238,30 @@
     ]
   },
   {
+    "id": 32443,
+    "publicado": "2025-10-22",
+    "direccion": "Calle N\u00fa\u00f1ez De Balboa 114",
+    "municipio": "Madrid",
+    "distrito": "Salamanca",
+    "barrio": "Castellana",
+    "planta": 7,
+    "orientacion": "Exterior",
+    "precio": 1000,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/XfA9kZ8.jpeg?1",
+      "https://i.imgur.com/sxGji3R.jpeg?2",
+      "https://i.imgur.com/ATYBFkd.jpeg?3",
+      "https://i.imgur.com/hwFhAyD.jpeg?6",
+      "https://i.imgur.com/fGGE3s4.jpeg?7"
+    ]
+  },
+  {
     "id": 32446,
     "publicado": "2025-10-10",
     "direccion": "Calle Esperanza 4",
@@ -269,6 +293,7 @@
   {
     "id": 32451,
     "publicado": "2025-10-16",
+    "modificado": "2025-10-22",
     "direccion": "Calle Villamanin 54",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -281,7 +306,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/fSygZpP.jpeg?10",
       "https://i.imgur.com/SJvjlfH.jpeg?11",
@@ -297,6 +322,7 @@
   {
     "id": 32452,
     "publicado": "2025-10-10",
+    "modificado": "2025-10-22",
     "direccion": "Calle Madera 36",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -309,7 +335,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/nktprJG.jpeg?1",
       "https://i.imgur.com/dofCG3n.jpeg?2",
@@ -357,8 +383,34 @@
     ]
   },
   {
+    "id": 32455,
+    "publicado": "2025-10-22",
+    "direccion": "Calle Gladiolo 6",
+    "municipio": "Madrid",
+    "distrito": "Tetuan",
+    "barrio": "Berruguete",
+    "planta": 3,
+    "orientacion": "Exterior",
+    "precio": 900,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "F",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/nv2Ee2q.jpeg?1",
+      "https://i.imgur.com/G9F9icC.jpeg?2",
+      "https://i.imgur.com/nrJ5aWn.jpeg?3",
+      "https://i.imgur.com/IzDiXQD.jpeg?4",
+      "https://i.imgur.com/geCcmLZ.jpeg?5",
+      "https://i.imgur.com/dxprIPA.jpeg?7"
+    ]
+  },
+  {
     "id": 32457,
     "publicado": "2025-10-16",
+    "modificado": "2025-10-22",
     "direccion": "Calle Villacarriedo 22",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -371,7 +423,7 @@
     "cee": "G",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/gc40hfG.jpeg?1",
       "https://i.imgur.com/4Nv16rA.jpeg?2",
