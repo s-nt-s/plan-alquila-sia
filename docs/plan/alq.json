@@ -3925,28 +3925,6 @@
     ]
   },
   {
-    "id": 276271,
-    "publicado": "2025-10-08",
-    "direccion": "Ronda Oviedo, 26",
-    "municipio": "Rivas-Vaciamadrid",
-    "planta": 1,
-    "precio": 1000,
-    "metros": 76.8,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 276272,
     "publicado": "2025-10-08",
     "direccion": "Avda Sierra, 57",
@@ -4495,7 +4473,7 @@
     "calefacion": true,
     "garaje": false,
     "adaptada": false,
-    "piscina": false,
+    "piscina": true,
     "porteria": false,
     "trastero": false,
     "imgs": [
@@ -4550,6 +4528,29 @@
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9uClWC-mFVmIVqwEjafJ7LiZMDszmZlNVopFBS3oQfHjJijoRalX!whBDwXBi6BeRMQPvAieOptsmljc07DzPu88v-d9V79DIdFQulhp4jZGHIsILdSblNjZu2!PP54yh7gHkCoAKBgNuwZVZSk5xeLNAX313aO!PzwYqUGhjXlCXbWFHSzGEfWbikZOty9SmCMmLNUosYwbFGTXYt7KF9dff3tfXnnuwWgFRjG30kKp68bP3PiBE0VUz1aggAVpyBYsw1gFSqGZp4ZopgiTotfNQnFIuGg1E5HTbWNh774rTdW!HHn!4ucnz!5cW5lxHEGfQ8PUgPd0Etepvrn6cHr8wcfbeSjeK5M13e7Sqar8WDx6xL0wJ3WEsMKkQVF8-RIm1KA2ox2UHTm1BlGO5qSDS-3xDtb0HI5OUduQ4YlUaWqMo3KhZ9!IhJuAhr2ZlzSTba5rVfaM1-58-pWZcrPcqBt0enrj1uLv2tqxrm3nbj-RMTKJ-F-3IFb8w9nlmYkL939mL2eAkx0fDh9cqieG4FDqKnMoIsRnkjpn7g8uu01ACrsBV5mR-grA5qXKp!Fyrfrl6!TSyf5SeRZ2dzNmEi0kViXWFVIc2-HoewupVOqc5ykMBVqRBNuhtDzYEsAYkTyJRQCjnAnqFkth28hItnZ3ue5ivWch8A0liaY-E4QnIfXbOZjqg!kOudXHNRu8pjs5QV0WKG3YmHcmYSdxxi3t3dhUrQMd2yRX"
     ]
+  },
+  {
+    "id": 276314,
+    "publicado": "2025-10-21",
+    "direccion": "Calle Enrique Urquijo, 111",
+    "municipio": "Madrid",
+    "distrito": "Vic\u00e1lvaro",
+    "planta": 1,
+    "precio": 1559,
+    "metros": 92.18,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "A",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": false,
+    "calefacion": false,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": true,
+    "imgs": []
   },
   {
     "id": 276317,

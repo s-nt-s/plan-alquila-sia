@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 28 Oct 2025 13:53:38 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Oct 2025 18:57:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1409,14 +1409,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276269?2025-10-28</guid>
 		</item>
 		<item>
-			<title>1000€ Rivas-Vaciamadrid</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276271</link>
-			<description>Rda. Oviedo, 26,&lt;br/&gt;1º con ascensor,&lt;br/&gt;77m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276271</description>
-			<pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276271?2025-10-08</guid>
-		</item>
-		<item>
 			<title>1100€ San Sebastián de los Reyes</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276272</link>
 			<description>Av. Sierra, 57,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;80m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276272</description>
@@ -1615,6 +1607,14 @@
 			<pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276313?2025-10-28</guid>
+		</item>
+		<item>
+			<title>1559€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276314</link>
+			<description>C/ Enrique Urquijo, 111,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;92m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276314</description>
+			<pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276314?2025-10-21</guid>
 		</item>
 		<item>
 			<title>1600€ Alcorcón</title>
