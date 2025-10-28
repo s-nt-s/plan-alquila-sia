@@ -260,6 +260,32 @@
     ]
   },
   {
+    "id": 32450,
+    "publicado": "2025-10-28",
+    "direccion": "Calle Nenufar 24",
+    "municipio": "Madrid",
+    "distrito": "Tetuan",
+    "barrio": "Berruguete",
+    "planta": 2,
+    "orientacion": "Mixto",
+    "precio": 810,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/xgT7bBK.jpeg?1",
+      "https://i.imgur.com/tC3Vegt.jpeg?2",
+      "https://i.imgur.com/jLS8czW.jpeg?3",
+      "https://i.imgur.com/otDiSdl.jpeg?4",
+      "https://i.imgur.com/SrQ2EGw.jpeg?5",
+      "https://i.imgur.com/sNTexX7.jpeg?6",
+      "https://i.imgur.com/7tYVLtD.jpeg?7"
+    ]
+  },
+  {
     "id": 32451,
     "publicado": "2025-10-16",
     "modificado": "2025-10-22",
@@ -312,6 +338,32 @@
       "https://i.imgur.com/IzDiXQD.jpeg?4",
       "https://i.imgur.com/geCcmLZ.jpeg?5",
       "https://i.imgur.com/dxprIPA.jpeg?7"
+    ]
+  },
+  {
+    "id": 32456,
+    "publicado": "2025-10-28",
+    "direccion": "Calle Tomelloso 10",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "barrio": "Almendrales",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 1170,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/scJn5xm.jpeg?1",
+      "https://i.imgur.com/9fqmhLN.jpeg?2",
+      "https://i.imgur.com/SNiKyhs.jpeg?3",
+      "https://i.imgur.com/hqeIMwC.jpeg?4",
+      "https://i.imgur.com/DNVKQne.jpeg?5",
+      "https://i.imgur.com/GmDKD7D.jpeg?6",
+      "https://i.imgur.com/jVMUGQ9.jpeg?7"
     ]
   },
   {
