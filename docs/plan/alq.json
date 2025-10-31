@@ -1156,6 +1156,7 @@
   {
     "id": 272028,
     "publicado": "2025-10-30",
+    "modificado": "2025-10-31",
     "direccion": "Calle Capiscol, 8",
     "municipio": "Madrid",
     "distrito": "Fuencarral-El Pardo",
@@ -1174,7 +1175,9 @@
     "piscina": true,
     "porteria": true,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lpaL6YVWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!iIIeCoIXQb2IiB94ETw5m2zaWNzTsPM-7zy!531Xv0Ex0VC-WG3hDkYciwgtNFqU2Nm7b84!njRHuAeQKgAoGg17NqsqUnKKxetD-urbR3--ezBSh2IH84S6agu7WIwj6rcUjZzuQKQwR0xYqlFiGTcoyK7FvJUvrq99fVdZee5BoQoFzK20UO658TM3fuBEEdWzVShiQZqyDcswWoVyaOapIZopwqTod7NQGhIuWs1E5HQ7WNi!70lT9S9H3r!06cmz39dWph1HMODQMLnJezqJG1TfXH04Nfbgw-08FO-VyZrudOnUVH4szay5F-akjhBWmDQpii9fwoQa1GG0i7Ijp9YgytGcdHCpPd7Fmp7D0SlqmzI8kSpNjXFULvTsGxl3E9CwP!OSZrKtde3qvrH6nY8!M1Nulht1m52e3ri1-Ku-fqxn27k7SGSMTCL-1y2IFX9!dnl6!ML9H9nLGeBE14ejh5caiSE4lLrGHIoI8ZmkwZn7gytuE5DCbsA1ZqS-ArB1qfJpvFyvff4ytXRysFSehb29jJlEC4lViXWFFMd2OPr-QiqVOud5CkOBViXBdigtD7YFMEokT2IRQIEzQd1iKWybGcn23i43XKz3LAS-oSTR1GeC8CSkficHUwMw3yG3B7hmg9f0JieoywKlTRvz7gTsJs64pf0bm6q!T3Qk7g__"
+    ]
   },
   {
     "id": 272262,
@@ -1226,29 +1229,6 @@
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9thCvZhWZCFasRI0niaz42bC7MxkZjZZKRYVtKAHxY-boKAXpb36Rwh6KAheBPUiIn7gRfDkbLJpY3FPw877vPP8nvdd!QbFREP5YrWFOxhxLCK00GhRYmfvvjn!eNIc4R5AqgCgaDTs2ayqSMkpFq8P6atvH!357sFIHYodzBPqqi3sYjGOqN9SNHK6A5HCHDFhqUaJZdygILsW81a-uP7q67vKynMPClUoYG6lhXLPjZ-58QMniqierUIRC9KUbViG0SqUQzNPDdFMESZFv5uF0pBw0WomIqfbwcL-fU-aqn858v6lT0-e!b62MuM4ggGHhslN3tNJ3KD65urDqbEHH27noXgvTdZ0p0unpvJjaXrNvTAndYSwwqRJUXz5EibUoA6jXZQdObUGUY7mpINL7fEu1vQcjk5R25ThiVRpaoyjcqFn38i4m4CG!ZmXNJNtrWtX943V73z8mZlys9yo2-z09MatxV!19WM9287dQSJjZBLxv25BrPj7s8sz4xfu!8hezgAnuj4cPbzUSAzBodQ15lBEiM8kDc7cH1xxm4AUdgOuMSP1FYCtS5VPY2299vnL1NLJwVJ5Fvb2MmYSLSRWJdYVUhzb4ej7C6lU6pznKQwFWpUE26G0PNgWwCiRPIlFAAXOBHWLpbBtZiTbe7vccLHesxD4hpJEU58JwpOQ-p0cTA3AfIfcHuCaDV7Tm5ygLguUNm3MuxOwmzjjlvZvbKr-Ag6xJM4_"
     ]
-  },
-  {
-    "id": 273200,
-    "publicado": "2025-10-14",
-    "modificado": "2025-10-28",
-    "direccion": "Calle Justicia, 23",
-    "municipio": "Cabrera, La",
-    "planta": 1,
-    "precio": 600,
-    "metros": 61,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
   },
   {
     "id": 273306,
@@ -1441,28 +1421,6 @@
     "imgs": []
   },
   {
-    "id": 274485,
-    "publicado": "2025-10-21",
-    "direccion": "Avda Espa\u00f1a, 72",
-    "municipio": "San Sebasti\u00e1n de los Reyes",
-    "planta": 1,
-    "precio": 1050,
-    "metros": 75,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": true,
-    "imgs": []
-  },
-  {
     "id": 274798,
     "publicado": "2025-10-07",
     "modificado": "2025-10-28",
@@ -1510,6 +1468,31 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 275042,
+    "publicado": "2025-10-30",
+    "direccion": "Calle Jos\u00e9 Antonio Coderch, 40",
+    "municipio": "Madrid",
+    "distrito": "Hortaleza",
+    "planta": 3,
+    "precio": 1228.91,
+    "metros": 80.38,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "B",
+    "mascotas": true,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": true,
+    "piscina": true,
+    "porteria": true,
+    "trastero": true,
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Wi2lFFqIVK0HjaTI7bibMzkxmZpOVYlFBC3pQ!LgJCnpR6tU!QtBDUfAiqBcR8QMvgqfObjZNLO5p2Hmfd57f876r36EYayhfqLZwByOORYgWGi1K7OydN-ceTZlDvACQKAAoGg27BlUVKTnF4vUBfeXdw78!CjBSh2IH85i6ags7WIRD6rUUDZ1uX6gwR0xYqlFsGTfIT6!FvJXPr7369r6y8qwAo1UYxdxKC-XMjZe68XwnCqmerUIRC9KUbViGsSqUAzNPDdFMESZFr5uF0pBw0WomQqfbxoLefSZN1L8cef!S58dP!1xdmXEcfp9Dw9SA91QcNai-sfpgevz-x1t5KIWXJm263aVTU!mxdOSte2FO6hBhhUmToujSRUyoQR1Guyg9cmoNohzNSQeX2GNdrOlZHJ6ktimD44nS1BhH5UJPv5EJNwENe1MvSSrbXNeu7hmv3!70KzXlZrlRN-j05PrNxd!1taOZbeduP5ERMrH4Xzc!UvzDmeWZifP3fqYvp4CTXQ8OH1xqxIbgQOoacygiwKfjBmfuD664TUAKuwHXmJH6MsDmpcqn8WKt9uXr9NKJ!lIVLOzOMmYSLcRWxdYVUhzZ4eh7C6lU4pznKQwFWpUE26G0CrDFhzEieRwJH0Y5E9QtlsK2mZJszXa54WK9a8H3DCWxph4ThMcB9To5mOqDeQ653cc1G7wmm5ygLguUNG3Eu5OwkzjjlvZubKLWAWOwJPg_"
+    ]
   },
   {
     "id": 275153,
@@ -2983,7 +2966,7 @@
   {
     "id": 276143,
     "publicado": "2025-09-05",
-    "modificado": "2025-10-28",
+    "modificado": "2025-10-31",
     "direccion": "Calle Salas Barbadillo, 70",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -2992,6 +2975,7 @@
     "metros": 54,
     "dormitorios": 1,
     "aseos": 1,
+    "cee": "E",
     "mascotas": false,
     "amueblada": true,
     "ascensor": false,
@@ -4120,6 +4104,7 @@
   {
     "id": 276281,
     "publicado": "2025-10-10",
+    "modificado": "2025-10-31",
     "direccion": "Calle San Claudio, 112",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -4128,6 +4113,7 @@
     "metros": 60,
     "dormitorios": 3,
     "aseos": 1,
+    "cee": "E",
     "mascotas": false,
     "amueblada": true,
     "ascensor": false,
@@ -4767,6 +4753,7 @@
   {
     "id": 276348,
     "publicado": "2025-10-29",
+    "modificado": "2025-10-31",
     "direccion": "Calle Tom\u00e1s Meabe, 15",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -4785,7 +4772,9 @@
     "piscina": false,
     "porteria": true,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Wi2lFFqIVK0HjaTI7bibMzkxmZpOVYlFBC3pQ!LgJCnpR6tU!QtBDQfAiflxExA-8CJ46u9k0sbinYed93nl-z!uufodirKF8odrCHYw4FiFaaLQosbN33px7NGUO8QJAogCgaDTsGlRVpOQUi9cH9JW3D!!-KMBIHYodzGPqqi3sYBEOqddSNHS6faHCHDFhqUaxZdwgP70W81Y-v!bq27vKyrMCjFZhFHMrLZQzN17qxvOdKKR6tgpFLEhTtmEZxqpQDsw8NUQzRZgUvW4WSkPCRauZCJ1uGwt695k0Uf9y5P1Lnx8!!XN1ZcZx-H0ODVMD3lNx1KD6xuqD6fH7H2!loRRemrTpdpdOTeXH0pEP7oU5qUOEFSZNiqJLFzGhBnUY7aL0yKk1iHI0Jx1cYo91saZncXiS2qYMjidKU2MclQs9!UYm3AQ07E29JKlsc127ume8fvvTr9SUm-VG3aDTk-s3F3!X145mtp27!URGyMTif938SPH3Z5ZnJs7f-5m-nAJOdj04fHCpERuCA6lrzKGIAJ-OG5y5P7jiNgEp7AZcY0bqywCblyqfxou12pev00sn-ktVsLA7y5hJtBBbFVtXSHFkh6PvLaRSiXOepzAUaFUSbIfSKsAWH8aI5HEkfBjlTFC3WArbZkqyNdvlhov1rgXfM5TEmnpMEB4H1OvkYKoP5jnkdh!XbPCabHKCuixQ0rQR707CTuKMW9q7sYlaB3nyJQM_"
+    ]
   },
   {
     "id": 276350,
@@ -4870,6 +4859,51 @@
     "cee": "E",
     "mascotas": false,
     "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 276356,
+    "publicado": "2025-10-31",
+    "direccion": "Calle Antonio L\u00f3pez Aguado, 12",
+    "municipio": "Madrid",
+    "distrito": "Fuencarral-El Pardo",
+    "planta": 3,
+    "precio": 1450,
+    "metros": 81.31,
+    "dormitorios": 3,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": true,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 276358,
+    "publicado": "2025-10-31",
+    "direccion": "Calle Nicol\u00e1s Usera, 118",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "planta": 1,
+    "precio": 830,
+    "metros": 29,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "G",
+    "mascotas": true,
+    "amueblada": false,
     "ascensor": false,
     "calefacion": true,
     "garaje": false,

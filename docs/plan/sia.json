@@ -259,35 +259,6 @@
     ]
   },
   {
-    "id": 32451,
-    "publicado": "2025-10-16",
-    "modificado": "2025-10-22",
-    "direccion": "Calle Villamanin 54",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Lucero",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 1100,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/fSygZpP.jpeg?10",
-      "https://i.imgur.com/SJvjlfH.jpeg?11",
-      "https://i.imgur.com/khvy0fs.jpeg?12",
-      "https://i.imgur.com/QF2Elj6.jpeg?13",
-      "https://i.imgur.com/NNQgUmz.jpeg?14",
-      "https://i.imgur.com/7c1PO0p.jpeg?15",
-      "https://i.imgur.com/Lq90wFv.jpeg?16",
-      "https://i.imgur.com/ats1JjI.jpeg?17",
-      "https://i.imgur.com/qg80qUf.jpeg?18"
-    ]
-  },
-  {
     "id": 32456,
     "publicado": "2025-10-28",
     "direccion": "Calle Tomelloso 10",
@@ -311,41 +282,6 @@
       "https://i.imgur.com/DNVKQne.jpeg?5",
       "https://i.imgur.com/GmDKD7D.jpeg?6",
       "https://i.imgur.com/jVMUGQ9.jpeg?7"
-    ]
-  },
-  {
-    "id": 32457,
-    "publicado": "2025-10-16",
-    "modificado": "2025-10-22",
-    "direccion": "Calle Villacarriedo 22",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "barrio": "Campamento",
-    "planta": 0,
-    "orientacion": "Exterior",
-    "precio": 800,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "G",
-    "ascensor": false,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/gc40hfG.jpeg?1",
-      "https://i.imgur.com/4Nv16rA.jpeg?2",
-      "https://i.imgur.com/6JNHNhr.jpeg?3",
-      "https://i.imgur.com/flFwaBC.jpeg?4",
-      "https://i.imgur.com/4IM54iU.jpeg?5",
-      "https://i.imgur.com/DG70qiH.jpeg?6",
-      "https://i.imgur.com/bIhyqMx.jpeg?7",
-      "https://i.imgur.com/6AH21Dm.jpeg?8",
-      "https://i.imgur.com/IJ9xMkI.jpeg?9",
-      "https://i.imgur.com/tffInQO.jpeg?10",
-      "https://i.imgur.com/H0qQCms.jpeg?11",
-      "https://i.imgur.com/i4CCrPj.jpeg?12",
-      "https://i.imgur.com/O6CzlXw.jpeg?13",
-      "https://i.imgur.com/WTucJLX.jpeg?14",
-      "https://i.imgur.com/mttcQPA.jpeg?15"
     ]
   },
   {
@@ -468,6 +404,7 @@
   {
     "id": 32467,
     "publicado": "2025-10-31",
+    "modificado": "2025-10-31",
     "direccion": "Calle Limon 7",
     "municipio": "Madrid",
     "distrito": "Centro",
@@ -480,7 +417,7 @@
     "cee": "F",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/CmhiMre.jpeg?1",
       "https://i.imgur.com/4XfarBW.jpeg?2",
