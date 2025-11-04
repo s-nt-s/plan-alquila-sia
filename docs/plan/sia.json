@@ -236,6 +236,7 @@
   {
     "id": 32450,
     "publicado": "2025-10-28",
+    "modificado": "2025-11-04",
     "direccion": "Calle Nenufar 24",
     "municipio": "Madrid",
     "distrito": "Tetuan",
@@ -248,7 +249,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/xgT7bBK.jpeg?1",
       "https://i.imgur.com/tC3Vegt.jpeg?2",
@@ -288,6 +289,7 @@
   {
     "id": 32458,
     "publicado": "2025-10-31",
+    "modificado": "2025-11-04",
     "direccion": "Calle Princesa De Eboli 34",
     "municipio": "Madrid",
     "distrito": "Hortaleza",
@@ -300,7 +302,7 @@
     "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/34U5DhO.jpeg?1",
       "https://i.imgur.com/Mz1Ori5.jpeg?2",
@@ -376,6 +378,34 @@
     ]
   },
   {
+    "id": 32466,
+    "publicado": "2025-11-04",
+    "direccion": "Paseo Delicias 36",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Atocha",
+    "planta": 6,
+    "orientacion": "Mixto",
+    "precio": 800,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/78xQJ9d.jpeg?11",
+      "https://i.imgur.com/5zi44oQ.jpeg?12",
+      "https://i.imgur.com/PX136QJ.jpeg?14",
+      "https://i.imgur.com/fU8OWEg.jpeg?15",
+      "https://i.imgur.com/saX33kZ.jpeg?16",
+      "https://i.imgur.com/kXqtZCB.jpeg?17",
+      "https://i.imgur.com/YaEXmoW.jpeg?18",
+      "https://i.imgur.com/3u3AcSu.jpeg?19",
+      "https://i.imgur.com/T7T8HBI.jpeg?20"
+    ]
+  },
+  {
     "id": 32467,
     "publicado": "2025-10-31",
     "modificado": "2025-10-31",
@@ -423,6 +453,34 @@
       "https://i.imgur.com/HawFBOH.jpeg?50",
       "https://i.imgur.com/svp74A9.jpeg?51",
       "https://i.imgur.com/HrLR696.jpeg?52"
+    ]
+  },
+  {
+    "id": 32469,
+    "publicado": "2025-11-04",
+    "direccion": "Calle Alejandro Ferrant 9",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "barrio": "Delicias",
+    "planta": 2,
+    "orientacion": "Mixto",
+    "precio": 1400,
+    "dormitorios": 5,
+    "aseos": 2,
+    "cee": "C",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/srhv2eF.jpeg?1",
+      "https://i.imgur.com/t9muLSS.jpeg?2",
+      "https://i.imgur.com/CEBxlDQ.jpeg?3",
+      "https://i.imgur.com/qYqruBb.jpeg?4",
+      "https://i.imgur.com/DAlwgSK.jpeg?5",
+      "https://i.imgur.com/JyWuz47.jpeg?6",
+      "https://i.imgur.com/EQ4ybYb.jpeg?7",
+      "https://i.imgur.com/rDoTyUD.jpeg?8",
+      "https://i.imgur.com/2GWKP7c.jpeg?9"
     ]
   },
   {
