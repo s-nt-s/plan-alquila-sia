@@ -63,13 +63,14 @@
   {
     "id": 32421,
     "publicado": "2025-09-22",
+    "modificado": "2025-11-04",
     "direccion": "Calle Coalicion 16",
     "municipio": "Madrid",
     "distrito": "Villaverde",
     "barrio": "Los Rosales",
     "planta": 1,
     "orientacion": "Mixto",
-    "precio": 1325,
+    "precio": 1275,
     "dormitorios": 3,
     "aseos": 2,
     "cee": "E",
@@ -375,33 +376,6 @@
     ]
   },
   {
-    "id": 32464,
-    "publicado": "2025-10-28",
-    "modificado": "2025-10-31",
-    "direccion": "Calle Venancio Martin 42",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "barrio": "Numancia",
-    "planta": 5,
-    "orientacion": "Exterior",
-    "precio": 700,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/wU0QLgt.jpeg?1",
-      "https://i.imgur.com/Jmyh195.jpeg?2",
-      "https://i.imgur.com/XnKem62.jpeg?3",
-      "https://i.imgur.com/SIllfij.jpeg?4",
-      "https://i.imgur.com/2K9ZdSv.jpeg?5",
-      "https://i.imgur.com/l8rbMW5.jpeg?6",
-      "https://i.imgur.com/fLu5nQr.jpeg?7"
-    ]
-  },
-  {
     "id": 32467,
     "publicado": "2025-10-31",
     "modificado": "2025-10-31",
@@ -449,6 +423,30 @@
       "https://i.imgur.com/HawFBOH.jpeg?50",
       "https://i.imgur.com/svp74A9.jpeg?51",
       "https://i.imgur.com/HrLR696.jpeg?52"
+    ]
+  },
+  {
+    "id": 32470,
+    "publicado": "2025-11-04",
+    "direccion": "Calle Corindon 10",
+    "municipio": "Madrid",
+    "distrito": "Usera",
+    "barrio": "San Ferm\u00edn",
+    "planta": 2,
+    "orientacion": "Exterior",
+    "precio": 750,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/i6dDTxL.jpeg?1",
+      "https://i.imgur.com/n2emBtK.jpeg?2",
+      "https://i.imgur.com/uaczDRm.jpeg?3",
+      "https://i.imgur.com/MVcs29B.jpeg?4",
+      "https://i.imgur.com/OW2Va2A.jpeg?5"
     ]
   }
 ]
