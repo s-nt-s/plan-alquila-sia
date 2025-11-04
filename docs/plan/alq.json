@@ -4986,5 +4986,28 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 276375,
+    "publicado": "2025-11-04",
+    "direccion": "Calle Calatayud, 6",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "planta": 3,
+    "precio": 1300,
+    "metros": 72.11,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "D",
+    "mascotas": true,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": true,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]
