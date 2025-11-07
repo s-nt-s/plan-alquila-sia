@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 07 Nov 2025 13:51:38 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Nov 2025 18:57:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1711,6 +1711,14 @@
 			<pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276381?2025-11-06</guid>
+		</item>
+		<item>
+			<title>800€ Leganés</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276383</link>
+			<description>C/ Río Duero, 23,&lt;br/&gt;1º con ascensor,&lt;br/&gt;63m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276383</description>
+			<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+			<category>Leganés</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276383?2025-11-07</guid>
 		</item>
 	</channel>
 </rss>

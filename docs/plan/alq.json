@@ -4738,5 +4738,27 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 276383,
+    "publicado": "2025-11-07",
+    "direccion": "Calle R\u00edo Duero, 23",
+    "municipio": "Legan\u00e9s",
+    "planta": 1,
+    "precio": 800,
+    "metros": 63.41,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": true,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]
