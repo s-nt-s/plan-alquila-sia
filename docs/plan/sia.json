@@ -95,35 +95,6 @@
     ]
   },
   {
-    "id": 32438,
-    "publicado": "2025-09-19",
-    "modificado": "2025-10-28",
-    "direccion": "Calle Bario 15",
-    "municipio": "Madrid",
-    "distrito": "Villaverde",
-    "barrio": "Los Rosales",
-    "planta": 3,
-    "orientacion": "Exterior",
-    "precio": 1100,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/7iQBK2j.jpeg?1",
-      "https://i.imgur.com/WzIyPVc.jpeg?2",
-      "https://i.imgur.com/RSA3igF.jpeg?3",
-      "https://i.imgur.com/RpnVO6X.jpeg?4",
-      "https://i.imgur.com/FR4n7ig.jpeg?5",
-      "https://i.imgur.com/cLjkwq0.jpeg?6",
-      "https://i.imgur.com/ZWFoagJ.jpeg?8",
-      "https://i.imgur.com/j2bJcsf.jpeg?9",
-      "https://i.imgur.com/2EsIldP.jpeg?10"
-    ]
-  },
-  {
     "id": 32442,
     "publicado": "2025-09-25",
     "direccion": "Calle General Lacy 11",
@@ -296,6 +267,7 @@
   {
     "id": 32461,
     "publicado": "2025-10-28",
+    "modificado": "2025-11-13",
     "direccion": "Calle Labrador 7",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -308,7 +280,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/d7enZsg.jpeg?2",
       "https://i.imgur.com/TYTWCZz.jpeg?3",
