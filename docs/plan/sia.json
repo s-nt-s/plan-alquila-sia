@@ -95,36 +95,6 @@
     ]
   },
   {
-    "id": 32436,
-    "publicado": "2025-09-22",
-    "direccion": "Calle Puentelarra 6",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "barrio": "Santa Eugenia",
-    "planta": 4,
-    "orientacion": "Exterior",
-    "precio": 1200,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": false,
-    "imgs": [
-      "https://i.imgur.com/Wbpx8uw.jpeg?1",
-      "https://i.imgur.com/Qm97uss.jpeg?2",
-      "https://i.imgur.com/CRFkypD.jpeg?3",
-      "https://i.imgur.com/N4NJL3L.jpeg?4",
-      "https://i.imgur.com/pFEJbNK.jpeg?5",
-      "https://i.imgur.com/umSRgjY.jpeg?6",
-      "https://i.imgur.com/alqlqZM.jpeg?7",
-      "https://i.imgur.com/uYzcwek.jpeg?8",
-      "https://i.imgur.com/lGeM2DQ.jpeg?9",
-      "https://i.imgur.com/2CiAsCa.jpeg?10",
-      "https://i.imgur.com/gdW8ZUv.jpeg?11"
-    ]
-  },
-  {
     "id": 32438,
     "publicado": "2025-09-19",
     "modificado": "2025-10-28",
@@ -289,6 +259,7 @@
   {
     "id": 32460,
     "publicado": "2025-11-07",
+    "modificado": "2025-11-13",
     "direccion": "Calle Butr\u00f3n 27",
     "municipio": "Madrid",
     "distrito": "San Blas",
@@ -301,7 +272,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/Er7SYzv.jpeg?1",
       "https://i.imgur.com/Yev56fd.jpeg?2",
@@ -347,35 +318,6 @@
       "https://i.imgur.com/useGqPE.jpeg?7",
       "https://i.imgur.com/BP1kPqh.jpeg?8",
       "https://i.imgur.com/hUedmU5.jpeg?9"
-    ]
-  },
-  {
-    "id": 32462,
-    "publicado": "2025-10-25",
-    "modificado": "2025-11-07",
-    "direccion": "Calle Franscisco Zea 9",
-    "municipio": "Madrid",
-    "distrito": "Salamanca",
-    "barrio": "Guindalera",
-    "planta": 1,
-    "orientacion": "Mixto",
-    "precio": 1500,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "D",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/Q8GKotn.jpeg?2",
-      "https://i.imgur.com/ZAKCAVR.jpeg?4",
-      "https://i.imgur.com/4kLZ6Bo.jpeg?5",
-      "https://i.imgur.com/3Teby2Q.jpeg?6",
-      "https://i.imgur.com/yhP8fLH.jpeg?8",
-      "https://i.imgur.com/EOayWA7.jpeg?10",
-      "https://i.imgur.com/0pzmCM5.jpeg?11",
-      "https://i.imgur.com/POlymh6.jpeg?12",
-      "https://i.imgur.com/XDOOmbc.jpeg?13"
     ]
   },
   {
@@ -536,6 +478,7 @@
   {
     "id": 32470,
     "publicado": "2025-11-04",
+    "modificado": "2025-11-13",
     "direccion": "Calle Corindon 10",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -548,7 +491,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/i6dDTxL.jpeg?1",
       "https://i.imgur.com/n2emBtK.jpeg?2",
