@@ -265,34 +265,6 @@
     ]
   },
   {
-    "id": 32461,
-    "publicado": "2025-10-28",
-    "modificado": "2025-11-13",
-    "direccion": "Calle Labrador 7",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Acacias",
-    "planta": 2,
-    "orientacion": "Exterior",
-    "precio": 1300,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/d7enZsg.jpeg?2",
-      "https://i.imgur.com/TYTWCZz.jpeg?3",
-      "https://i.imgur.com/kR3PO4s.jpeg?4",
-      "https://i.imgur.com/xZRAXkB.jpeg?5",
-      "https://i.imgur.com/uqFRkxg.jpeg?6",
-      "https://i.imgur.com/useGqPE.jpeg?7",
-      "https://i.imgur.com/BP1kPqh.jpeg?8",
-      "https://i.imgur.com/hUedmU5.jpeg?9"
-    ]
-  },
-  {
     "id": 32463,
     "publicado": "2025-11-07",
     "direccion": "Calle Jativa 2",
@@ -333,6 +305,7 @@
   {
     "id": 32465,
     "publicado": "2025-11-07",
+    "modificado": "2025-11-16",
     "direccion": "Calle Cantueso 28-30",
     "municipio": "Madrid",
     "distrito": "Tetuan",
@@ -345,7 +318,7 @@
     "cee": "G",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/dqGGLRP.jpeg?2",
       "https://i.imgur.com/mSV68p2.jpeg?3",
@@ -448,28 +421,30 @@
     ]
   },
   {
-    "id": 32470,
-    "publicado": "2025-11-04",
-    "modificado": "2025-11-13",
-    "direccion": "Calle Corindon 10",
+    "id": 32476,
+    "publicado": "2025-11-16",
+    "direccion": "Calle Aldea Del Fresno 6",
     "municipio": "Madrid",
-    "distrito": "Usera",
-    "barrio": "San Ferm\u00edn",
-    "planta": 2,
+    "distrito": "Arganzuela",
+    "barrio": "Chopera",
+    "planta": 1,
     "orientacion": "Exterior",
-    "precio": 750,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "E",
+    "precio": 1430,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "D",
     "ascensor": true,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
-      "https://i.imgur.com/i6dDTxL.jpeg?1",
-      "https://i.imgur.com/n2emBtK.jpeg?2",
-      "https://i.imgur.com/uaczDRm.jpeg?3",
-      "https://i.imgur.com/MVcs29B.jpeg?4",
-      "https://i.imgur.com/OW2Va2A.jpeg?5"
+      "https://i.imgur.com/HhY0Ecj.jpeg?1",
+      "https://i.imgur.com/oMI5Tdy.jpeg?2",
+      "https://i.imgur.com/neYRvYM.jpeg?3",
+      "https://i.imgur.com/HgAOjZ2.jpeg?4",
+      "https://i.imgur.com/piSAmhG.jpeg?5",
+      "https://i.imgur.com/Bi16qFz.jpeg?6",
+      "https://i.imgur.com/K7Jbt1U.jpeg?7",
+      "https://i.imgur.com/1QTuAgZ.jpeg?8"
     ]
   }
 ]
