@@ -423,6 +423,7 @@
   {
     "id": 32471,
     "publicado": "2025-11-19",
+    "modificado": "2025-11-19",
     "direccion": "Calle Almendralejo 7",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -435,7 +436,7 @@
     "cee": "F",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/2MPlKQ9.jpeg?1",
       "https://i.imgur.com/EMdAZjj.jpeg?2",
@@ -479,6 +480,32 @@
       "https://i.imgur.com/kIfe4xU.jpeg?15",
       "https://i.imgur.com/JwPaL5l.jpeg?16",
       "https://i.imgur.com/XxTZNBY.jpeg?17"
+    ]
+  },
+  {
+    "id": 32475,
+    "publicado": "2025-11-19",
+    "direccion": "Calle Benadalid 6",
+    "municipio": "Madrid",
+    "distrito": "Puente de Vallecas",
+    "barrio": "Palomeras Sureste",
+    "planta": 4,
+    "orientacion": "Exterior",
+    "precio": 850,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "ascensor": false,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/7ehh23F.jpeg?1",
+      "https://i.imgur.com/YR85pGW.jpeg?2",
+      "https://i.imgur.com/DDVP86p.jpeg?3",
+      "https://i.imgur.com/ZPXGDbA.jpeg?4",
+      "https://i.imgur.com/5kLYTO9.jpeg?5",
+      "https://i.imgur.com/6Ckgtdk.jpeg?6",
+      "https://i.imgur.com/Lj4r9gv.jpeg?7"
     ]
   },
   {
