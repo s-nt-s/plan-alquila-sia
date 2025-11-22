@@ -395,6 +395,7 @@
   {
     "id": 32469,
     "publicado": "2025-11-04",
+    "modificado": "2025-11-22",
     "direccion": "Calle Alejandro Ferrant 9",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -407,7 +408,7 @@
     "cee": "C",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/srhv2eF.jpeg?1",
       "https://i.imgur.com/t9muLSS.jpeg?2",
@@ -449,6 +450,7 @@
   {
     "id": 32473,
     "publicado": "2025-11-19",
+    "modificado": "2025-11-22",
     "direccion": "Calle Caramuel 42",
     "municipio": "Madrid",
     "distrito": "Latina",
@@ -461,7 +463,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/9iVkIla.jpeg?1",
       "https://i.imgur.com/ebWODbb.jpeg?2",
