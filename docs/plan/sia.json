@@ -303,31 +303,6 @@
     ]
   },
   {
-    "id": 32465,
-    "publicado": "2025-11-07",
-    "modificado": "2025-11-16",
-    "direccion": "Calle Cantueso 28-30",
-    "municipio": "Madrid",
-    "distrito": "Tetuan",
-    "barrio": "Valdeacederas",
-    "planta": 1,
-    "orientacion": "Mixto",
-    "precio": 710,
-    "dormitorios": 1,
-    "aseos": 1,
-    "cee": "G",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/dqGGLRP.jpeg?2",
-      "https://i.imgur.com/mSV68p2.jpeg?3",
-      "https://i.imgur.com/WLgCnxz.jpeg?4",
-      "https://i.imgur.com/8MT7PRw.jpeg?6",
-      "https://i.imgur.com/uGtcncO.jpeg?7"
-    ]
-  },
-  {
     "id": 32466,
     "publicado": "2025-11-04",
     "direccion": "Paseo Delicias 36",
@@ -487,6 +462,7 @@
   {
     "id": 32475,
     "publicado": "2025-11-19",
+    "modificado": "2025-11-25",
     "direccion": "Calle Benadalid 6",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -499,7 +475,7 @@
     "cee": "E",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/7ehh23F.jpeg?1",
       "https://i.imgur.com/YR85pGW.jpeg?2",
