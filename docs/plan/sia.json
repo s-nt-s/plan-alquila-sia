@@ -204,6 +204,7 @@
   {
     "id": 32456,
     "publicado": "2025-10-28",
+    "modificado": "2025-11-25",
     "direccion": "Calle Tomelloso 10",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -216,7 +217,7 @@
     "cee": "D",
     "ascensor": false,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/scJn5xm.jpeg?1",
       "https://i.imgur.com/9fqmhLN.jpeg?2",
@@ -305,6 +306,7 @@
   {
     "id": 32466,
     "publicado": "2025-11-04",
+    "modificado": "2025-11-25",
     "direccion": "Paseo Delicias 36",
     "municipio": "Madrid",
     "distrito": "Arganzuela",
@@ -317,7 +319,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/78xQJ9d.jpeg?11",
       "https://i.imgur.com/5zi44oQ.jpeg?12",
@@ -517,6 +519,7 @@
   {
     "id": 32477,
     "publicado": "2025-11-19",
+    "modificado": "2025-11-25",
     "direccion": "Calle Puentelarra 6",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -529,7 +532,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/KxddM1g.jpeg?1",
       "https://i.imgur.com/JnTrnZ8.jpeg?2",
