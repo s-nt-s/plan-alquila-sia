@@ -809,6 +809,7 @@
   {
     "id": 266414,
     "publicado": "2025-11-25",
+    "modificado": "2025-11-25",
     "direccion": "Calle Guzm\u00e1n el Bueno, 41",
     "municipio": "Madrid",
     "distrito": "Chamber\u00ed",
@@ -827,7 +828,9 @@
     "piscina": false,
     "porteria": true,
     "trastero": true,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey2kF9OKLKxWrAStp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CUaKhcCFq4gxHHIkKLjRYltnrnzblH0-YILwCkCgBKRsOeYVVNSk6xeH1IX3n78M!3AowtQ6mDeUJdtYVdLMYR9VqKRk53IFKYIyYs1SixjBvkZ9diwcrn1159fVdbe1aAYgBFzK20UMndeJkbz3eiiOpqACUsSFO2YRXGA6iEZoEaopkiTIpeNwvlEeGS1UxETreDhb37XJqqfzn6!cufHj!9fXVt1nH4Aw4N00PeU0ncoPrG-oOZifsfbvVDKbw0WdOdLp266h!Lc1X3wrzUEcIKkyZF8aWLmFCDOox2UXbk1BpEOZqXDi61x7pY07M4OkltU4bHU6WpMY7KhZ59Y5NuAhr2Z17STLa1rh3sm1i-!fFnZsrNcrNu2OnJ9ZtLv5Y35nLbzt1BImNkEvG!bn6s-Pszq7OT5-!9yF7OAKe6Hhw9vNJIDMGh1HXmUESITycNztwfXHObgBR2A64zI!VlgK1L1Z!Gi4365y8zKycGS1WwsDfPmEm0mFiVWFdIcWxHo-8tpFKpc95PYSTQQBJsR9IqwDYfxonkSSx8KHImqFsshW0zI9me73LDxXrXgu8ZShJNPSYIT0LqdfpgagDmOeT2ANds8pp8coK6LFDatDHvTsFu4oxb2ruxqfoLMhkkYQ__"
+    ]
   },
   {
     "id": 267768,
@@ -1363,6 +1366,29 @@
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPYkwew3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Kt!hKCHguBFUC8i4gdeBE!ObpImFvc07LzPO8!ved-1b1BMNJQvBC3cwYhjEaHFRosSO3fnzblHM-YwLwCkCgCKRsOuYVVVSk6xeH1AX3n78M!3AozVodjBPKGu2sIOFuOIei1FI6fbFynMEROWapRYxg3ys2uxYOXza6--vquuPivAeADjmFtpoZy78TI3nu9EEdVzARSxIE3ZhhWYCKAcmgVqiGaKMCl63SyURoRLVjMROd02Fvbuc2mq!uXo9y99evz099XViuPwBxwaZoa8p5K4QfWNtQezk!c!3OqHUnhpsqbbXTo11T-WKgfdC!NSRwgrTJoUxZcuYkIN6jDaRdmRU2sQ5WheOrjUHutiTc!i6CS1TRkeT5WmxjgqF3r2jU25CWjYm3lJM9nmunawZ7J---PPzJSb5UbdsNOT6zeXftXXj-a2nbv9RMbIJOJ!3fxY8fdnVipT5-!9yF7OAKe7Hhw5tNxIDMGh1DXmUESITycNztwfXHWbgBR2A64xI!VlgM1L1Z!Gi!Xa5y-zyycGS1WwsDvPmEm0mFiVWFdIcWxHo-8tpFKpc95PYSTQQBJsR9IqwBYfJojkSSx8GOdMULdYCttmRrI13-WGi!WuBd8zlCSaekwQnoTU6!TB1ADMc8jtAa7Z4DX55AR1WaC0aWPenYadxBm3tHdjU!UX91gkRA__"
     ]
+  },
+  {
+    "id": 275171,
+    "publicado": "2025-11-25",
+    "direccion": "Calle Goiri, 1",
+    "municipio": "Madrid",
+    "distrito": "Tetu\u00e1n",
+    "planta": 3,
+    "precio": 1200,
+    "metros": 43,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "G",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": true,
+    "imgs": []
   },
   {
     "id": 275290,
@@ -3450,9 +3476,7 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRaEoeBJh9lpoL6YVWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPBcGLoF5ExA-8CJ6cTTZNWtzTsPM-7zy!533XvkMh0VC6WGniNkYciwgt1puU2Nm7b88!njJHuQeQKgAoGA17BlVlKTnF4s1hffXdo78!PBipQaGNeUJdtYVdLMYR9ZuKRk53MFKYIyYs1SixjBsUZNdiwcoX119!e19efe7BaAVGMbfSQqnrxs!c-IETRVTPVqCABWnIFqzAWAVKoVmghmimCJOi181CcUi4ZDUTkdPtYGHvvitN1WaOvH!x85Nnf66tzjiOoM-hYWrAezqJ61TfXHs4Pf7g4-08FO-VyZrudOlUVX4szu1zL8xLHSGsMGlQFF--hAk1qM1oB2VHTq1BlKN56eBSe7yDNT2Ho1PUNmR4IlWaGuOoXOjZNzLhJqDhQOYlzWRb61qV!eO1O59-ZabcLDfqBp2e3ri19Lu2Pte17dwdIjJGJhH!6xbEin84uzIzceH-z-zlDHCy48OxI8v1xBAcSl1lDkWE-ExS58z9wWW3CUhhN-AqM1JfAdi6VPk0Xq5Xv3ydXj7ZXyrPwt5uxkyixcSqxLpCimM7HH1vIZVKnfM8haFAK5JgO5SWB9sCGCOSJ7EIYJQzQd1iKWwbGcn27i7XXaz3LAS-oSTR1GeC8CSkfjsHU30w3yG3-rhmg9d0JyeoywKlDRvzziTsJs64pb0bm6p!5ywkPA__"
-    ]
+    "imgs": []
   },
   {
     "id": 276353,
