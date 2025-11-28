@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 28 Nov 2025 14:05:44 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Nov 2025 18:53:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -15,14 +15,6 @@
 			<pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32370?2025-10-16</guid>
-		</item>
-		<item>
-			<title>1750€ Chamartín</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/sia/32405</link>
-			<description>C/ Eugenio Salazar 17,&lt;br/&gt;3º con ascensor,&lt;br/&gt;3 🛏,&lt;br/&gt;2 🛀, 9 📷.&lt;br/&gt;sia/32405</description>
-			<pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
-			<category>Chamartín</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/sia/32405?2025-07-31</guid>
 		</item>
 		<item>
 			<title>1275€ Villaverde</title>
@@ -1543,6 +1535,22 @@
 			<pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
 			<category>Parla</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276453?2025-11-27</guid>
+		</item>
+		<item>
+			<title>1000€ Fuenlabrada</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276460</link>
+			<description>C/ Lima, 21,&lt;br/&gt;6º con ascensor,&lt;br/&gt;75m², 3 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276460</description>
+			<pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+			<category>Fuenlabrada</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276460?2025-11-28</guid>
+		</item>
+		<item>
+			<title>1100€ Vicálvaro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276462</link>
+			<description>C/ Lago Iseo, 15,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;47m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276462</description>
+			<pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+			<category>Vicálvaro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276462?2025-11-28</guid>
 		</item>
 	</channel>
 </rss>

@@ -35,6 +35,7 @@
   {
     "id": 32405,
     "publicado": "2025-07-31",
+    "modificado": "2025-11-28",
     "direccion": "Calle Eugenio Salazar 17",
     "municipio": "Madrid",
     "distrito": "Chamart\u00edn",
@@ -47,7 +48,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/7viGRbL.jpeg?2",
       "https://i.imgur.com/NYZC47I.jpeg?3",
