@@ -3357,6 +3357,7 @@
   {
     "id": 276357,
     "publicado": "2025-10-31",
+    "modificado": "2025-12-01",
     "direccion": "Calle San Restituto, 12",
     "municipio": "Madrid",
     "distrito": "Moncloa-Aravaca",
@@ -3365,6 +3366,7 @@
     "metros": 35.13,
     "dormitorios": 2,
     "aseos": 1,
+    "cee": "E",
     "mascotas": false,
     "amueblada": false,
     "ascensor": true,
