@@ -4495,31 +4495,6 @@
     "imgs": []
   },
   {
-    "id": 276458,
-    "publicado": "2025-12-02",
-    "modificado": "2025-12-04",
-    "direccion": "Calle Pintor Vel\u00e1zquez, 6",
-    "municipio": "Mejorada del Campo",
-    "planta": 1,
-    "precio": 1200,
-    "metros": 90,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lpoL6YVWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPBcGLoCKIiB94ETw5m2zatLinYed93nl-z!uufodioqF8odrCHYw4FhFaaLQosTN33px7NGmOcA8gVQBQNBr2bFRVpOQUi9eH9JW3D!!-8GCkDsUO5gl11RZ2sRhH1G8pGjndgUhhjpiwVKPEMm5QkF2LeSufX3v17V1l5ZkHhSoUMLfSQrnnxs!c-IETRVTPVKGIBWnKNizDaBXKoZmnhmimCJOi381CaUi4aDUTkdPtYGH!vidN1WaOvH!p0-Onf66uTDuOYMChYXKD91QSN6i-sfpgauz-h1t5KN5LkzXd6dKpqfxYmv3sXpiTOkJYYdKkKL50ERNqUIfRLsqOnFqDKEdz0sGl9lgXa3oWRyepbcrweKo0NcZRudCzb2TcTUDD!sxLmsm21rWr-8bqtz!-yky5Wa7XbXR6cv3m4u!62mzPtnN3kMgYmUT8r1sQK!7-zPL0-Pl7P7OXM8CJrg9HDy81EkNwKHWNORQR4tNJgzP3B1fcJiCF3YBrzEh9GWDrUuXTeLFW-!J1aunEYKk8C3t7GTOJFhKrEusKKY7tcPT9hVQqdc7zFIYCrUqC7VBaHmwLYJRInsQigAJngrrFUtg2M5LtvV1uuFjvWgh8Q0miqc8E4UlI!U4OpgZgvkNuD3DNOq!pTU5QlwVKmzbm3QnYTZxxS!s3NlX!AIgeJQo_"
-    ]
-  },
-  {
     "id": 276460,
     "publicado": "2025-11-28",
     "direccion": "Calle Lima, 21",
@@ -4725,6 +4700,7 @@
   {
     "id": 276475,
     "publicado": "2025-12-02",
+    "modificado": "2025-12-04",
     "direccion": "Calle Estrecho de Corea, 20",
     "municipio": "Madrid",
     "distrito": "Ciudad Lineal",
@@ -4742,7 +4718,9 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lpoL6YVWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPBcGLoF5ExA8EETw5m2zatLinYed93nl-z!uufoNioqF8odrCHYw4FhFaaLQosTN33px7NGmOcA8gVQBQNBr2bFRVpOQUi9eH9JW3D!9-92CkDsUO5gl11RZ2sRhH1G8pGjndgUhhjpiwVKPEMm5QkF2LeSufX3v19V1l5ZkHhSoUMLfSQrnnxs!c-IETRVTPVKGIBWnKNizDaBXKoZmnhmimCJOi381CaUi4aDUTkdPtYGH!vidN1WaOvH!p0-Onf66uTDuOYMChYXKD91QSN6i-sfpgauz-h1t5KN5LkzXd6dKpqfxYmv3tXpiTOkJYYdKkKL50ERNqUIfRLsqOnFqDKEdz0sGl9lgXa3oWRyepbcrweKo0NcZRudCzb2TcTUDD!sxLmsm21rWr-8bqtz!-zEy5Wa7XbXR6cv3m4q!62mzPtnN3kMgYmUT8r1sQK!7-zPL0-Pl7P7KXM8CJrg9HDy81EkNwKHWNORQR4tNJgzP3B1fcJiCF3YBrzEh9GWDrUuXTeLFW-!xlaunEYKk8C3t7GTOJFhKrEusKKY7tcPT9hVQqdc7zFIYCrUqC7VBaHmwLYJRInsQigAJngrrFUtg2M5LtvV1uuFjvWgh8Q0miqc8E4UlI!U4OpgZgvkNuD3DNOq!pTU5QlwVKmzbm3QnYTZxxS!s3NlX!AKqEJRs_"
+    ]
   },
   {
     "id": 276477,
