@@ -50,12 +50,12 @@
   {
     "id": 204511,
     "publicado": "2025-03-12",
-    "modificado": "2025-10-28",
+    "modificado": "2025-12-04",
     "direccion": "Calle \u00c1ngel, 4",
     "municipio": "Madrid",
     "distrito": "Centro",
     "planta": 4,
-    "precio": 1300,
+    "precio": 1100,
     "metros": 36,
     "dormitorios": 1,
     "aseos": 1,
@@ -840,6 +840,31 @@
     "trastero": true,
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUehJh9lpaL6YVWVitWAkaT5PZcTNhdmYyM5usFIsKWtCD4sdNUNCLUq!-EYIeCoIXQb2IiB94ETw5m2zaWNzTsPM-7zy!533XvkEp0VC5ELRwByOORYQWGy1K7NydN-ceTZrDvACQKgAoGQ17NquqUnKKxetD-srbh3--F2CkDqUO5gl11RZ2sRhH1GspGjndgUhhjpiwVKPEMm6Qn12LBSufX3v19V119VkBigEUMbfSQqXnxsvceL4TRVTPBVDCgjRlG1ZgNIBKaBaoIZopwqTod7NQHhIuWc1E5HQ7WNi!70lT9S9H3r!86fHT31dXZxyHP-DQMLnJeyqJG1TfWHswNXb!w608lMJLkzXd6dKpqfxYnp12L8xLHSGsMGlSFF-6iAk1qMNoF2VHTq1BlKN56eBSe6yLNT2Lo5PUNmV4PFWaGuOoXOjZNzLuJqBhf-YlzWRb69rBvrH67Y8!M1Nulht1m52eXL-59Ku-frRn27k7SGSMTCL-182PFX9!ZmVm!Py9H9nLGeBE14Mj08uNxBAcSl1jDkWE-HTS4Mz9wVW3CUhhN-AaM1JfBti6VPk0XqzXPn-ZWj4xWKqChb29jJlEi4lViXWFFMd2OPr-QiqVOud5CkOBBpJgO5RWAbb5MEokT2LhQ5EzQd1iKWybGcn23i43XKx3LfieoSTR1GOC8CSkXicHUwMwzyG3B7hmg9f0JieoywKlTRvz7gTsJs64pf0bm6q!!WwkRw__"
+    ]
+  },
+  {
+    "id": 269978,
+    "publicado": "2025-12-04",
+    "direccion": "Paseo Imperial, 29",
+    "municipio": "Madrid",
+    "distrito": "Arganzuela",
+    "planta": 7,
+    "precio": 1400,
+    "metros": 46.87,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": true,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx1!XpP5opTURRKEoeBJh9lpoL6YVWYhWrAStp8nsuJkwOzOZmU1WikUFLehB8cdNUNCLUq!-EYIeCoIXQb2ISFW8CJ6cTTZNWtzTsPO-b76f73trG1BMNJQvVZu4jRHHIkIL9SYldubeuwtPJs0x7gGkCgCKRsO-QVVFSk6xeHtEX3v!-O8PD0aWoNjGPKGu2sIeFuOI-k1FI6c7FCnMEROWapRYxg0Ksmsxb-XLG2--f6isvvCgUIUC5lZaKHfd-JkbP3CiiOqZKhSxIA3ZghUYrUI5NPPUEM0UYVL0ulkoDQkXrWYicrpdLOzdd6Wp2sqR9y99efr8z!XVaccR9Dk0TA54zyRxnepba4-mxh5-upOH4r02WdPdLp2ayo-l2Q33wpzUEcIKkwZF8ZXLmFCD2ox2UHbk1BpEOZqTDi61JzpY0!M4Ok1tQ4YnU6WpMY7KhZ59I-NuAhoOZl7STLa9rlU9MLZ09!OvzJSb5WbdoNOzm7cXfy-tz3ZtO3eHiYyRScT!ugWx4h!PrUyPX3zwM3s5A5zo-HD86HI9MQSHUteYQxEhPpvUOXN!cMVtAlLYDbjGjNRXAbYvVT6NV-u1r9-mlk!1l8qzsL-bMZNoIbEqsa6Q4tgOR99bSKVS5zxPYSjQqiTYDqXlwY4ARonkSSwCKHAmqFsshW0jI9nZ3eW6i!W-hcA3lCSa-kwQnoTUb-dgqg!mO-RWH9ds8pru5AR1WaC0YWPemYC9xBm3tHdjU!UPmlQlEw__"
     ]
   },
   {
@@ -3464,6 +3489,31 @@
     ]
   },
   {
+    "id": 276370,
+    "publicado": "2025-11-04",
+    "direccion": "Calle El Asombro de Damasco, 15",
+    "municipio": "Madrid",
+    "distrito": "Villaverde",
+    "planta": 4,
+    "precio": 1283,
+    "metros": 81,
+    "dormitorios": 3,
+    "aseos": 2,
+    "cee": "B",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lpoL6YVWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPBUEQQb2IiB94ETw5m2zatLinYed93nl-z!uufodioqF8odrCHYw4FhFaaLQosTN33px7NGmOcA8gVQBQNBr2bFRVpOQUi9eH9JW3D!!-8GCkDsUO5gl11RZ2sRhH1G8pGjndgUhhjpiwVKPEMm5QkF2LeSufX3v17V1l5ZkHhSoUMLfSQrnnxs!c-IETRVTPVKGIBWnKNizDaBXKoZmnhmimCJOi381CaUi4aDUTkdPtYGH!vidN1WaOvH!p8-Onf66uTDuOYMChYXKD91QSN6i-sfpgauz-x1t5KN5LkzXd6dKpqfxYmn3vXpiTOkJYYdKkKL50ERNqUIfRLsqOnFqDKEdz0sGl9lgXa3oWRyepbcrweKo0NcZRudCzb2TcTUDD!sxLmsm21rWr-8bqtz!9yky5Wa7XbXR6cv3m4u!62mzPtnN3kMgYmUT8r1sQK!7hzPL0-Pl7P7OXM8CJrg9HDy81EkNwKHWNORQR4tNJgzP3B1fcJiCF3YBrzEh9GWDrUuXTeLFW-!J1aunEYKk8C3t7GTOJFhKrEusKKY7tcPT9hVQqdc7zFIYCrUqC7VBaHmwLYJRInsQigAJngrrFUtg2M5LtvV1uuFjvWgh8Q0miqc8E4UlI!U4OpgZgvkNuD3DNOq!pTU5QlwVKmzbm3QnYTZxxS!s3NlX!AHXoJQE_"
+    ]
+  },
+  {
     "id": 276374,
     "publicado": "2025-11-04",
     "modificado": "2025-12-01",
@@ -3591,7 +3641,7 @@
     "distrito": "Villa de Vallecas",
     "planta": 2,
     "precio": 1350,
-    "metros": 102,
+    "metros": 85.79,
     "dormitorios": 3,
     "aseos": 2,
     "cee": "B",
@@ -3987,30 +4037,6 @@
     ]
   },
   {
-    "id": 276424,
-    "publicado": "2025-11-19",
-    "modificado": "2025-11-22",
-    "direccion": "Calle Marroquina, 26",
-    "municipio": "Madrid",
-    "distrito": "Moratalaz",
-    "planta": 6,
-    "precio": 1300,
-    "metros": 85,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "D",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 276426,
     "publicado": "2025-11-19",
     "modificado": "2025-12-04",
@@ -4397,7 +4423,7 @@
   {
     "id": 276451,
     "publicado": "2025-11-27",
-    "modificado": "2025-12-01",
+    "modificado": "2025-12-04",
     "direccion": "Calle Casalarreina, 21",
     "municipio": "Madrid",
     "distrito": "Vic\u00e1lvaro",
@@ -4406,6 +4432,7 @@
     "metros": 43.62,
     "dormitorios": 3,
     "aseos": 1,
+    "cee": "E",
     "mascotas": false,
     "amueblada": true,
     "ascensor": false,
@@ -4470,6 +4497,7 @@
   {
     "id": 276458,
     "publicado": "2025-12-02",
+    "modificado": "2025-12-04",
     "direccion": "Calle Pintor Vel\u00e1zquez, 6",
     "municipio": "Mejorada del Campo",
     "planta": 1,
@@ -4487,7 +4515,9 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lpoL6YVWYhWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqVf!CEEPBcGLoCKIiB94ETw5m2zatLinYed93nl-z!uufodioqF8odrCHYw4FhFaaLQosTN33px7NGmOcA8gVQBQNBr2bFRVpOQUi9eH9JW3D!!-8GCkDsUO5gl11RZ2sRhH1G8pGjndgUhhjpiwVKPEMm5QkF2LeSufX3v17V1l5ZkHhSoUMLfSQrnnxs!c-IETRVTPVKGIBWnKNizDaBXKoZmnhmimCJOi381CaUi4aDUTkdPtYGH!vidN1WaOvH!p0-Onf66uTDuOYMChYXKD91QSN6i-sfpgauz-h1t5KN5LkzXd6dKpqfxYmv3sXpiTOkJYYdKkKL50ERNqUIfRLsqOnFqDKEdz0sGl9lgXa3oWRyepbcrweKo0NcZRudCzb2TcTUDD!sxLmsm21rWr-8bqtz!-yky5Wa7XbXR6cv3m4u!62mzPtnN3kMgYmUT8r1sQK!7-zPL0-Pl7P7OXM8CJrg9HDy81EkNwKHWNORQR4tNJgzP3B1fcJiCF3YBrzEh9GWDrUuXTeLFW-!J1aunEYKk8C3t7GTOJFhKrEusKKY7tcPT9hVQqdc7zFIYCrUqC7VBaHmwLYJRInsQigAJngrrFUtg2M5LtvV1uuFjvWgh8Q0miqc8E4UlI!U4OpgZgvkNuD3DNOq!pTU5QlwVKmzbm3QnYTZxxS!s3NlX!AIgeJQo_"
+    ]
   },
   {
     "id": 276460,

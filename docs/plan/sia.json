@@ -342,7 +342,7 @@
   {
     "id": 32477,
     "publicado": "2025-11-19",
-    "modificado": "2025-11-25",
+    "modificado": "2025-12-04",
     "direccion": "Calle Puentelarra 6",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -355,7 +355,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": true,
+    "reservada": false,
     "imgs": [
       "https://i.imgur.com/KxddM1g.jpeg?1",
       "https://i.imgur.com/JnTrnZ8.jpeg?2",
