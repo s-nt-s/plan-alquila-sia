@@ -205,7 +205,7 @@
   {
     "id": 32463,
     "publicado": "2025-11-07",
-    "modificado": "2025-12-04",
+    "modificado": "2025-12-07",
     "direccion": "Calle Jativa 2",
     "municipio": "Madrid",
     "distrito": "Retiro",
@@ -218,7 +218,7 @@
     "cee": "E",
     "ascensor": true,
     "adaptada": false,
-    "reservada": false,
+    "reservada": true,
     "imgs": [
       "https://i.imgur.com/dhqMPwV.jpeg?22",
       "https://i.imgur.com/Mv90QCc.jpeg?23",
@@ -276,35 +276,6 @@
       "https://i.imgur.com/gl1cXCU.jpeg?33",
       "https://i.imgur.com/THlMCnR.jpeg?34",
       "https://i.imgur.com/IcpWKBR.jpeg?35"
-    ]
-  },
-  {
-    "id": 32469,
-    "publicado": "2025-11-04",
-    "modificado": "2025-11-22",
-    "direccion": "Calle Alejandro Ferrant 9",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "barrio": "Delicias",
-    "planta": 2,
-    "orientacion": "Mixto",
-    "precio": 1400,
-    "dormitorios": 5,
-    "aseos": 2,
-    "cee": "C",
-    "ascensor": true,
-    "adaptada": false,
-    "reservada": true,
-    "imgs": [
-      "https://i.imgur.com/srhv2eF.jpeg?1",
-      "https://i.imgur.com/t9muLSS.jpeg?2",
-      "https://i.imgur.com/CEBxlDQ.jpeg?3",
-      "https://i.imgur.com/qYqruBb.jpeg?4",
-      "https://i.imgur.com/DAlwgSK.jpeg?5",
-      "https://i.imgur.com/JyWuz47.jpeg?6",
-      "https://i.imgur.com/EQ4ybYb.jpeg?7",
-      "https://i.imgur.com/rDoTyUD.jpeg?8",
-      "https://i.imgur.com/2GWKP7c.jpeg?9"
     ]
   },
   {
@@ -432,6 +403,34 @@
       "https://i.imgur.com/HHvVGSj.jpeg?12",
       "https://i.imgur.com/zLAhlwS.jpeg?13",
       "https://i.imgur.com/H1PIzL7.jpeg?14"
+    ]
+  },
+  {
+    "id": 32484,
+    "publicado": "2025-12-07",
+    "direccion": "Calle Albericia 20",
+    "municipio": "Madrid",
+    "distrito": "San Blas",
+    "barrio": "Arcos",
+    "planta": 7,
+    "orientacion": "Exterior",
+    "precio": 1100,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "D",
+    "ascensor": true,
+    "adaptada": false,
+    "reservada": false,
+    "imgs": [
+      "https://i.imgur.com/hbwN5Uc.jpeg?1",
+      "https://i.imgur.com/kdB9zlM.jpeg?2",
+      "https://i.imgur.com/sqbE66S.jpeg?3",
+      "https://i.imgur.com/OHq3IwG.jpeg?4",
+      "https://i.imgur.com/l5qwFgZ.jpeg?5",
+      "https://i.imgur.com/R8kpidL.jpeg?6",
+      "https://i.imgur.com/sYZyvFq.jpeg?7",
+      "https://i.imgur.com/J0ZWWYX.jpeg?8",
+      "https://i.imgur.com/WFM6qKt.jpeg?9"
     ]
   }
 ]
